@@ -31,7 +31,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-24 01:10 UTC
+> ⏰ Last updated: 2026-05-24 01:47 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -50,7 +50,7 @@ expired items removed — so you can rely on what you see being current.
 | 8 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-05-23 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
 | 9 | [Phinchanbora/llm-evaluation](https://github.com/Phinchanbora/llm-evaluation) | 0 | Python | 2026-05-23 | 🎯 Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev |
 | 10 | [penpoen/llm-SugarScape](https://github.com/penpoen/llm-SugarScape) | 1 | Python | 2026-05-23 | 🌐 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok |
-| 11 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9807 | Python | 2026-05-23 | AI Observability & Evaluation |
+| 11 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9807 | Python | 2026-05-24 | AI Observability & Evaluation |
 | 12 | [reaatech/rag-eval-pack](https://github.com/reaatech/rag-eval-pack) | 0 | TypeScript | 2026-05-23 | RAG evaluation toolkit — faithfulness, answer relevance, context precision/recall, cost accounting, CI gates. Pairs with |
 | 13 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 286 | TypeScript | 2026-05-24 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 14 | [Mike-E-Log/learn-ai-eval](https://github.com/Mike-E-Log/learn-ai-eval) | 0 | HTML | 2026-05-22 | The Eval Codex — Claude-tutored AI-eval learning engine. Build eval expertise via guided practice. |
