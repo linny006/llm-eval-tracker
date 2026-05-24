@@ -1,39 +1,30 @@
 [
   {
-    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
-    "id": "homemade-software-inc/completion-kit",
-    "language": "Ruby",
-    "name": "homemade-software-inc/completion-kit",
-    "stars": 1,
-    "updated_at": "2026-05-24T00:45:38Z",
-    "url": "https://github.com/homemade-software-inc/completion-kit"
-  },
-  {
-    "description": "An graph-eval framework for LLM's ",
-    "id": "harnexa/nexa-gauge",
-    "language": "Python",
-    "name": "harnexa/nexa-gauge",
-    "stars": 36,
-    "updated_at": "2026-05-24T00:39:44Z",
-    "url": "https://github.com/harnexa/nexa-gauge"
+    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
+    "id": "saddled-panicattack529/idea-evaluation-pipeline",
+    "language": "\u2014",
+    "name": "saddled-panicattack529/idea-evaluation-pipeline",
+    "stars": 0,
+    "updated_at": "2026-05-24T05:50:32Z",
+    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 21534,
-    "updated_at": "2026-05-24T01:42:54Z",
+    "stars": 21540,
+    "updated_at": "2026-05-24T05:57:04Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-05-23T23:40:28Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
+    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
+    "id": "homemade-software-inc/completion-kit",
+    "language": "Ruby",
+    "name": "homemade-software-inc/completion-kit",
+    "stars": 1,
+    "updated_at": "2026-05-24T05:19:58Z",
+    "url": "https://github.com/homemade-software-inc/completion-kit"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -41,7 +32,7 @@
     "language": "\u2014",
     "name": "Kondwani10/Origin-Continuum",
     "stars": 0,
-    "updated_at": "2026-05-23T23:09:35Z",
+    "updated_at": "2026-05-24T05:17:20Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
   },
   {
@@ -50,7 +41,7 @@
     "language": "\u2014",
     "name": "Kamixon131/claude-config",
     "stars": 0,
-    "updated_at": "2026-05-23T23:03:33Z",
+    "updated_at": "2026-05-24T05:10:53Z",
     "url": "https://github.com/Kamixon131/claude-config"
   },
   {
@@ -59,7 +50,7 @@
     "language": "\u2014",
     "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "stars": 0,
-    "updated_at": "2026-05-23T23:01:06Z",
+    "updated_at": "2026-05-24T05:08:28Z",
     "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
   },
   {
@@ -68,7 +59,7 @@
     "language": "PowerShell",
     "name": "bhavya7995/AI_governance",
     "stars": 1,
-    "updated_at": "2026-05-23T22:59:10Z",
+    "updated_at": "2026-05-24T05:06:27Z",
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
@@ -77,7 +68,7 @@
     "language": "Python",
     "name": "Phinchanbora/llm-evaluation",
     "stars": 0,
-    "updated_at": "2026-05-23T22:42:27Z",
+    "updated_at": "2026-05-24T04:49:34Z",
     "url": "https://github.com/Phinchanbora/llm-evaluation"
   },
   {
@@ -86,15 +77,33 @@
     "language": "Python",
     "name": "penpoen/llm-SugarScape",
     "stars": 1,
-    "updated_at": "2026-05-23T22:30:10Z",
+    "updated_at": "2026-05-24T04:36:50Z",
     "url": "https://github.com/penpoen/llm-SugarScape"
+  },
+  {
+    "description": "An graph-eval framework for LLM's ",
+    "id": "harnexa/nexa-gauge",
+    "language": "Python",
+    "name": "harnexa/nexa-gauge",
+    "stars": 36,
+    "updated_at": "2026-05-24T03:14:05Z",
+    "url": "https://github.com/harnexa/nexa-gauge"
+  },
+  {
+    "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
+    "id": "jeremylongshore/j-rig-skill-binary-eval",
+    "language": "TypeScript",
+    "name": "jeremylongshore/j-rig-skill-binary-eval",
+    "stars": 0,
+    "updated_at": "2026-05-24T02:57:56Z",
+    "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 9807,
+    "stars": 9808,
     "updated_at": "2026-05-24T01:11:16Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -169,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-05-21T20:07:02Z",
     "url": "https://github.com/sanya2025/edututor-eval"
-  },
-  {
-    "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
-    "id": "jeremylongshore/j-rig-skill-binary-eval",
-    "language": "TypeScript",
-    "name": "jeremylongshore/j-rig-skill-binary-eval",
-    "stars": 0,
-    "updated_at": "2026-05-23T05:51:32Z",
-    "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
     "description": "Serious hybrid RAG reference \u2014 vector + BM25 + reranker over Qdrant, chunking strategies benchmarked, eval set included,",
