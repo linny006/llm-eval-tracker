@@ -1,12 +1,12 @@
 [
   {
-    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
-    "id": "homemade-software-inc/completion-kit",
-    "language": "Ruby",
-    "name": "homemade-software-inc/completion-kit",
-    "stars": 1,
-    "updated_at": "2026-05-24T20:37:12Z",
-    "url": "https://github.com/homemade-software-inc/completion-kit"
+    "description": "Online evals on live agent traces. Open-source, self-hostable, OpenTelemetry-native eval harness with regression detecti",
+    "id": "matt-rachlin/agent-eval-harness",
+    "language": "Python",
+    "name": "matt-rachlin/agent-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-05-24T20:52:41Z",
+    "url": "https://github.com/matt-rachlin/agent-eval-harness"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9813,
-    "updated_at": "2026-05-24T20:35:43Z",
+    "updated_at": "2026-05-24T20:51:16Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
+    "id": "homemade-software-inc/completion-kit",
+    "language": "Ruby",
+    "name": "homemade-software-inc/completion-kit",
+    "stars": 1,
+    "updated_at": "2026-05-24T20:49:07Z",
+    "url": "https://github.com/homemade-software-inc/completion-kit"
   },
   {
     "description": "An graph-eval framework for LLM's ",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-04-11T09:26:50Z",
     "url": "https://github.com/arthursoares/openclaw-llm-bench"
-  },
-  {
-    "description": "A minimal Claude Code built from scratch \u2014 agent loop, tool calling, web search, permissions, and a black-box LLM eval h",
-    "id": "YuanyangLiNEU/mini-claude",
-    "language": "TypeScript",
-    "name": "YuanyangLiNEU/mini-claude",
-    "stars": 0,
-    "updated_at": "2026-04-11T03:34:58Z",
-    "url": "https://github.com/YuanyangLiNEU/mini-claude"
   }
 ]
