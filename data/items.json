@@ -1,11 +1,20 @@
 [
   {
+    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
+    "id": "homemade-software-inc/completion-kit",
+    "language": "Ruby",
+    "name": "homemade-software-inc/completion-kit",
+    "stars": 1,
+    "updated_at": "2026-05-24T20:37:12Z",
+    "url": "https://github.com/homemade-software-inc/completion-kit"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9813,
-    "updated_at": "2026-05-24T20:34:47Z",
+    "updated_at": "2026-05-24T20:35:43Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -23,17 +32,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21552,
-    "updated_at": "2026-05-24T20:29:30Z",
+    "updated_at": "2026-05-24T20:42:02Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
-    "id": "homemade-software-inc/completion-kit",
-    "language": "Ruby",
-    "name": "homemade-software-inc/completion-kit",
-    "stars": 1,
-    "updated_at": "2026-05-24T19:08:31Z",
-    "url": "https://github.com/homemade-software-inc/completion-kit"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
