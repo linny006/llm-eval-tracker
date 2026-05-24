@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9813,
+    "updated_at": "2026-05-24T20:05:54Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
     "id": "homemade-software-inc/completion-kit",
     "language": "Ruby",
@@ -23,7 +32,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21552,
-    "updated_at": "2026-05-24T19:54:54Z",
+    "updated_at": "2026-05-24T20:09:10Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -81,21 +90,12 @@
     "url": "https://github.com/penpoen/llm-SugarScape"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9813,
-    "updated_at": "2026-05-24T19:53:50Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "An graph-eval framework for LLM's ",
     "id": "harnexa/nexa-gauge",
     "language": "Python",
     "name": "harnexa/nexa-gauge",
     "stars": 36,
-    "updated_at": "2026-05-24T19:49:54Z",
+    "updated_at": "2026-05-24T20:14:34Z",
     "url": "https://github.com/harnexa/nexa-gauge"
   },
   {
