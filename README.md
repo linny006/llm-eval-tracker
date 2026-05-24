@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-24 08:38 UTC
+> ⏰ Last updated: 2026-05-24 10:21 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,30 +42,30 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [penpoen/llm-SugarScape](https://github.com/penpoen/llm-SugarScape) | 1 | Python | 2026-05-24 | 🌐 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok |
-| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21544 | TypeScript | 2026-05-24 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 3 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-05-24 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
-| 4 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-05-24 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 5 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-05-24 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
-| 6 | [Kamixon131/claude-config](https://github.com/Kamixon131/claude-config) | 0 | — | 2026-05-24 | ⚙️ Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici |
-| 7 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-05-24 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
-| 8 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-05-24 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
-| 9 | [Phinchanbora/llm-evaluation](https://github.com/Phinchanbora/llm-evaluation) | 0 | Python | 2026-05-24 | 🎯 Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev |
-| 10 | [harnexa/nexa-gauge](https://github.com/harnexa/nexa-gauge) | 36 | Python | 2026-05-24 | An graph-eval framework for LLM's  |
-| 11 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-05-24 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
-| 12 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9809 | Python | 2026-05-24 | AI Observability & Evaluation |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21543 | TypeScript | 2026-05-24 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 2 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-05-24 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
+| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9809 | Python | 2026-05-24 | AI Observability & Evaluation |
+| 4 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-05-24 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
+| 5 | [Kamixon131/claude-config](https://github.com/Kamixon131/claude-config) | 0 | — | 2026-05-24 | ⚙️ Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici |
+| 6 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-05-24 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
+| 7 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-05-24 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
+| 8 | [Phinchanbora/llm-evaluation](https://github.com/Phinchanbora/llm-evaluation) | 0 | Python | 2026-05-24 | 🎯 Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev |
+| 9 | [penpoen/llm-SugarScape](https://github.com/penpoen/llm-SugarScape) | 1 | Python | 2026-05-24 | 🌐 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok |
+| 10 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-05-24 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
+| 11 | [harnexa/nexa-gauge](https://github.com/harnexa/nexa-gauge) | 36 | Python | 2026-05-24 | An graph-eval framework for LLM's  |
+| 12 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-05-24 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 13 | [reaatech/rag-eval-pack](https://github.com/reaatech/rag-eval-pack) | 0 | TypeScript | 2026-05-23 | RAG evaluation toolkit — faithfulness, answer relevance, context precision/recall, cost accounting, CI gates. Pairs with |
-| 14 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 286 | TypeScript | 2026-05-24 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 15 | [Mike-E-Log/learn-ai-eval](https://github.com/Mike-E-Log/learn-ai-eval) | 0 | HTML | 2026-05-22 | The Eval Codex — Claude-tutored AI-eval learning engine. Build eval expertise via guided practice. |
-| 16 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 10 | Python | 2026-05-22 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
-| 17 | [MyForgeLabs/myforge-vault-1111](https://github.com/MyForgeLabs/myforge-vault-1111) | 0 | HTML | 2026-05-22 | An open-source 8-axis methodology + working tooling for evolving a personal Obsidian-vault into a self-improving knowled |
-| 18 | [chquandogong/mission-spec](https://github.com/chquandogong/mission-spec) | 0 | TypeScript | 2026-05-22 | Mission Spec — AI 에이전트 워크플로를 위한 task contract layer |
-| 19 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5364 | Python | 2026-05-22 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 20 | [sanya2025/edututor-eval](https://github.com/sanya2025/edututor-eval) | 0 | Python | 2026-05-21 | A lightweight evaluation framework for AI tutoring responses, built for education-focused LLM systems |
-| 21 | [reaatech/hybrid-rag-qdrant](https://github.com/reaatech/hybrid-rag-qdrant) | 1 | TypeScript | 2026-05-20 | Serious hybrid RAG reference — vector + BM25 + reranker over Qdrant, chunking strategies benchmarked, eval set included, |
-| 22 | [reaatech/classifier-evals](https://github.com/reaatech/classifier-evals) | 0 | TypeScript | 2026-05-20 | Offline classifier evaluation harness — dataset loader, confusion matrices, LLM-as-judge with cost accounting, regressio |
-| 23 | [Alexanderk30/context-override-resistance](https://github.com/Alexanderk30/context-override-resistance) | 0 | Python | 2026-05-19 | RL-style eval measuring intent/action divergence in frontier agents: model acknowledges a correction, then acts on the s |
-| 24 | [truera/trulens](https://github.com/truera/trulens) | 3338 | Python | 2026-05-23 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 14 | [truera/trulens](https://github.com/truera/trulens) | 3339 | Python | 2026-05-23 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 15 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 286 | TypeScript | 2026-05-24 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 16 | [Mike-E-Log/learn-ai-eval](https://github.com/Mike-E-Log/learn-ai-eval) | 0 | HTML | 2026-05-22 | The Eval Codex — Claude-tutored AI-eval learning engine. Build eval expertise via guided practice. |
+| 17 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 10 | Python | 2026-05-22 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
+| 18 | [MyForgeLabs/myforge-vault-1111](https://github.com/MyForgeLabs/myforge-vault-1111) | 0 | HTML | 2026-05-22 | An open-source 8-axis methodology + working tooling for evolving a personal Obsidian-vault into a self-improving knowled |
+| 19 | [chquandogong/mission-spec](https://github.com/chquandogong/mission-spec) | 0 | TypeScript | 2026-05-22 | Mission Spec — AI 에이전트 워크플로를 위한 task contract layer |
+| 20 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5363 | Python | 2026-05-22 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 21 | [sanya2025/edututor-eval](https://github.com/sanya2025/edututor-eval) | 0 | Python | 2026-05-21 | A lightweight evaluation framework for AI tutoring responses, built for education-focused LLM systems |
+| 22 | [reaatech/hybrid-rag-qdrant](https://github.com/reaatech/hybrid-rag-qdrant) | 1 | TypeScript | 2026-05-20 | Serious hybrid RAG reference — vector + BM25 + reranker over Qdrant, chunking strategies benchmarked, eval set included, |
+| 23 | [reaatech/classifier-evals](https://github.com/reaatech/classifier-evals) | 0 | TypeScript | 2026-05-20 | Offline classifier evaluation harness — dataset loader, confusion matrices, LLM-as-judge with cost accounting, regressio |
+| 24 | [Alexanderk30/context-override-resistance](https://github.com/Alexanderk30/context-override-resistance) | 0 | Python | 2026-05-19 | RL-style eval measuring intent/action divergence in frontier agents: model acknowledges a correction, then acts on the s |
 | 25 | [melody-ling-L/eval-resume](https://github.com/melody-ling-L/eval-resume) | 0 | HTML | 2026-05-19 | 第一个聚焦"简历改写诚实度"的中文 LLM benchmark：20 真实脱敏简历 × 3 模型 × 4 评分维度 |
 | 26 | [melody-ling-L/judgebuddy](https://github.com/melody-ling-L/judgebuddy) | 0 | HTML | 2026-05-19 | Single-file labeling tool for LLM-as-judge calibration. Three-pane comparison + multi-dim scoring. Zero deployment. |
 | 27 | [GiuseppeSp/n8n-customer-interview-synthesizer](https://github.com/GiuseppeSp/n8n-customer-interview-synthesizer) | 0 | — | 2026-05-19 | Multi-agent customer-interview synthesis pipeline in n8n with LLM-as-judge eval, Slack human-in-the-loop approval, and d |
@@ -74,7 +74,7 @@ expired items removed — so you can rely on what you see being current.
 | 30 | [monkeyin92/voice-agent-testops](https://github.com/monkeyin92/voice-agent-testops) | 0 | TypeScript | 2026-05-18 | Regression testing for voice agents: scripted conversations, safety assertions, CI-ready reports. |
 | 31 | [gmitt98/fieldtest](https://github.com/gmitt98/fieldtest) | 0 | Python | 2026-05-16 | LLM evaluation framework — define what correct, well-formed, and safe means before you measure |
 | 32 | [verifywise-ai/plugin-marketplace](https://github.com/verifywise-ai/plugin-marketplace) | 3 | TypeScript | 2026-05-15 | VerifyWise AI Governance Plugin Marketplace |
-| 33 | [AI-QL/tuui](https://github.com/AI-QL/tuui) | 1147 | TypeScript | 2026-05-14 | A desktop MCP client designed as a tool unitary utility integration, accelerating AI adoption through the Model Context  |
+| 33 | [AI-QL/tuui](https://github.com/AI-QL/tuui) | 1146 | TypeScript | 2026-05-14 | A desktop MCP client designed as a tool unitary utility integration, accelerating AI adoption through the Model Context  |
 | 34 | [prompt-foundry/typescript-sdk](https://github.com/prompt-foundry/typescript-sdk) | 6 | TypeScript | 2026-05-13 | The prompt engineering, prompt management, and prompt evaluation tool for TypeScript, JavaScript, and NodeJS. |
 | 35 | [prompt-foundry/python-sdk](https://github.com/prompt-foundry/python-sdk) | 8 | Python | 2026-05-13 | The prompt engineering, prompt management, and prompt evaluation tool for Python |
 | 36 | [mizcausevic-dev/agent-eval-arena](https://github.com/mizcausevic-dev/agent-eval-arena) | 0 | TypeScript | 2026-05-12 | Agent and LLM evaluation harness — golden datasets, multi-scorer execution, regression detection across model versions,  |
