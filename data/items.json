@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
+    "id": "Phinchanbora/llm-evaluation",
+    "language": "Python",
+    "name": "Phinchanbora/llm-evaluation",
+    "stars": 0,
+    "updated_at": "2026-05-25T22:50:47Z",
+    "url": "https://github.com/Phinchanbora/llm-evaluation"
+  },
+  {
     "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
     "id": "penpoen/llm-SugarScape",
     "language": "Python",
@@ -41,7 +50,7 @@
     "language": "HTML",
     "name": "MyForgeLabs/myforge-vault-1111",
     "stars": 0,
-    "updated_at": "2026-05-25T22:00:15Z",
+    "updated_at": "2026-05-25T23:00:13Z",
     "url": "https://github.com/MyForgeLabs/myforge-vault-1111"
   },
   {
@@ -88,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-05-25T19:05:54Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
-    "id": "Phinchanbora/llm-evaluation",
-    "language": "Python",
-    "name": "Phinchanbora/llm-evaluation",
-    "stars": 0,
-    "updated_at": "2026-05-25T18:46:58Z",
-    "url": "https://github.com/Phinchanbora/llm-evaluation"
   },
   {
     "description": "Framework for evaluating the accuracy & reliability of news-credibility agents \u2014 QA'd EN/HE test units + harness",
