@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-25 13:30 UTC
+> ⏰ Last updated: 2026-05-25 13:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,7 +42,7 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21577 | TypeScript | 2026-05-25 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21579 | TypeScript | 2026-05-25 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 2 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-05-25 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 3 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-05-25 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 4 | [isoc-il-labs/agent-reliability-eval](https://github.com/isoc-il-labs/agent-reliability-eval) | 0 | HTML | 2026-05-25 | Framework for evaluating the accuracy & reliability of news-credibility agents — QA'd EN/HE test units + harness |
@@ -52,18 +52,18 @@ expired items removed — so you can rely on what you see being current.
 | 8 | [Phinchanbora/llm-evaluation](https://github.com/Phinchanbora/llm-evaluation) | 0 | Python | 2026-05-25 | 🎯 Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev |
 | 9 | [penpoen/llm-SugarScape](https://github.com/penpoen/llm-SugarScape) | 1 | Python | 2026-05-25 | 🌐 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok |
 | 10 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-05-25 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
-| 11 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9823 | Python | 2026-05-24 | AI Observability & Evaluation |
-| 12 | [matt-rachlin/agent-eval-harness](https://github.com/matt-rachlin/agent-eval-harness) | 0 | Python | 2026-05-24 | Online evals on live agent traces. Open-source, self-hostable, OpenTelemetry-native eval harness with regression detecti |
-| 13 | [harnexa/nexa-gauge](https://github.com/harnexa/nexa-gauge) | 36 | Python | 2026-05-24 | An graph-eval framework for LLM's  |
-| 14 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-05-24 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
-| 15 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 287 | TypeScript | 2026-05-25 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 16 | [reaatech/rag-eval-pack](https://github.com/reaatech/rag-eval-pack) | 0 | TypeScript | 2026-05-23 | RAG evaluation toolkit — faithfulness, answer relevance, context precision/recall, cost accounting, CI gates. Pairs with |
-| 17 | [truera/trulens](https://github.com/truera/trulens) | 3343 | Python | 2026-05-23 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 18 | [Mike-E-Log/learn-ai-eval](https://github.com/Mike-E-Log/learn-ai-eval) | 0 | HTML | 2026-05-22 | The Eval Codex — Claude-tutored AI-eval learning engine. Build eval expertise via guided practice. |
-| 19 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 10 | Python | 2026-05-22 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
-| 20 | [MyForgeLabs/myforge-vault-1111](https://github.com/MyForgeLabs/myforge-vault-1111) | 0 | HTML | 2026-05-22 | An open-source 8-axis methodology + working tooling for evolving a personal Obsidian-vault into a self-improving knowled |
-| 21 | [chquandogong/mission-spec](https://github.com/chquandogong/mission-spec) | 0 | TypeScript | 2026-05-25 | Mission Spec — AI 에이전트 워크플로를 위한 task contract layer |
-| 22 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5364 | Python | 2026-05-25 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 11 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5365 | Python | 2026-05-25 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 12 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9824 | Python | 2026-05-24 | AI Observability & Evaluation |
+| 13 | [matt-rachlin/agent-eval-harness](https://github.com/matt-rachlin/agent-eval-harness) | 0 | Python | 2026-05-24 | Online evals on live agent traces. Open-source, self-hostable, OpenTelemetry-native eval harness with regression detecti |
+| 14 | [harnexa/nexa-gauge](https://github.com/harnexa/nexa-gauge) | 36 | Python | 2026-05-24 | An graph-eval framework for LLM's  |
+| 15 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-05-24 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
+| 16 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 287 | TypeScript | 2026-05-25 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 17 | [reaatech/rag-eval-pack](https://github.com/reaatech/rag-eval-pack) | 0 | TypeScript | 2026-05-23 | RAG evaluation toolkit — faithfulness, answer relevance, context precision/recall, cost accounting, CI gates. Pairs with |
+| 18 | [truera/trulens](https://github.com/truera/trulens) | 3342 | Python | 2026-05-23 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 19 | [Mike-E-Log/learn-ai-eval](https://github.com/Mike-E-Log/learn-ai-eval) | 0 | HTML | 2026-05-22 | The Eval Codex — Claude-tutored AI-eval learning engine. Build eval expertise via guided practice. |
+| 20 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 10 | Python | 2026-05-22 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
+| 21 | [MyForgeLabs/myforge-vault-1111](https://github.com/MyForgeLabs/myforge-vault-1111) | 0 | HTML | 2026-05-22 | An open-source 8-axis methodology + working tooling for evolving a personal Obsidian-vault into a self-improving knowled |
+| 22 | [chquandogong/mission-spec](https://github.com/chquandogong/mission-spec) | 0 | TypeScript | 2026-05-25 | Mission Spec — AI 에이전트 워크플로를 위한 task contract layer |
 | 23 | [sanya2025/edututor-eval](https://github.com/sanya2025/edututor-eval) | 0 | Python | 2026-05-21 | A lightweight evaluation framework for AI tutoring responses, built for education-focused LLM systems |
 | 24 | [reaatech/hybrid-rag-qdrant](https://github.com/reaatech/hybrid-rag-qdrant) | 1 | TypeScript | 2026-05-20 | Serious hybrid RAG reference — vector + BM25 + reranker over Qdrant, chunking strategies benchmarked, eval set included, |
 | 25 | [reaatech/classifier-evals](https://github.com/reaatech/classifier-evals) | 0 | TypeScript | 2026-05-20 | Offline classifier evaluation harness — dataset loader, confusion matrices, LLM-as-judge with cost accounting, regressio |
