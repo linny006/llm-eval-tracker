@@ -1,21 +1,21 @@
 [
   {
-    "description": "An open-source 8-axis methodology + working tooling for evolving a personal Obsidian-vault into a self-improving knowled",
-    "id": "MyForgeLabs/myforge-vault-1111",
-    "language": "HTML",
-    "name": "MyForgeLabs/myforge-vault-1111",
-    "stars": 0,
-    "updated_at": "2026-05-25T17:53:23Z",
-    "url": "https://github.com/MyForgeLabs/myforge-vault-1111"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21585,
-    "updated_at": "2026-05-25T18:06:54Z",
+    "updated_at": "2026-05-25T18:21:29Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "An open-source 8-axis methodology + working tooling for evolving a personal Obsidian-vault into a self-improving knowled",
+    "id": "MyForgeLabs/myforge-vault-1111",
+    "language": "HTML",
+    "name": "MyForgeLabs/myforge-vault-1111",
+    "stars": 0,
+    "updated_at": "2026-05-25T18:15:41Z",
+    "url": "https://github.com/MyForgeLabs/myforge-vault-1111"
   },
   {
     "description": "Framework for evaluating the accuracy & reliability of news-credibility agents \u2014 QA'd EN/HE test units + harness",
