@@ -1,10 +1,19 @@
 [
   {
+    "description": "Framework for evaluating the accuracy & reliability of news-credibility agents \u2014 QA'd EN/HE test units + harness",
+    "id": "isoc-il-labs/agent-reliability-eval",
+    "language": "HTML",
+    "name": "isoc-il-labs/agent-reliability-eval",
+    "stars": 0,
+    "updated_at": "2026-05-25T16:26:02Z",
+    "url": "https://github.com/isoc-il-labs/agent-reliability-eval"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 21583,
+    "stars": 21584,
     "updated_at": "2026-05-25T16:03:24Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -79,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-05-25T13:46:14Z",
     "url": "https://github.com/penpoen/llm-SugarScape"
-  },
-  {
-    "description": "Framework for evaluating the accuracy & reliability of news-credibility agents \u2014 QA'd EN/HE test units + harness",
-    "id": "isoc-il-labs/agent-reliability-eval",
-    "language": "HTML",
-    "name": "isoc-il-labs/agent-reliability-eval",
-    "stars": 0,
-    "updated_at": "2026-05-25T11:04:23Z",
-    "url": "https://github.com/isoc-il-labs/agent-reliability-eval"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
