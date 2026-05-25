@@ -1,21 +1,21 @@
 [
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21584,
-    "updated_at": "2026-05-25T17:44:26Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "An open-source 8-axis methodology + working tooling for evolving a personal Obsidian-vault into a self-improving knowled",
     "id": "MyForgeLabs/myforge-vault-1111",
     "language": "HTML",
     "name": "MyForgeLabs/myforge-vault-1111",
     "stars": 0,
-    "updated_at": "2026-05-25T16:47:18Z",
+    "updated_at": "2026-05-25T17:53:23Z",
     "url": "https://github.com/MyForgeLabs/myforge-vault-1111"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21585,
+    "updated_at": "2026-05-25T17:58:54Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Framework for evaluating the accuracy & reliability of news-credibility agents \u2014 QA'd EN/HE test units + harness",
@@ -31,7 +31,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 9826,
+    "stars": 9827,
     "updated_at": "2026-05-25T16:14:54Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
