@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
+    "id": "Phinchanbora/llm-evaluation",
+    "language": "Python",
+    "name": "Phinchanbora/llm-evaluation",
+    "stars": 0,
+    "updated_at": "2026-05-25T14:01:18Z",
+    "url": "https://github.com/Phinchanbora/llm-evaluation"
+  },
+  {
     "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
     "id": "penpoen/llm-SugarScape",
     "language": "Python",
@@ -72,15 +81,6 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
-    "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
-    "id": "Phinchanbora/llm-evaluation",
-    "language": "Python",
-    "name": "Phinchanbora/llm-evaluation",
-    "stars": 0,
-    "updated_at": "2026-05-25T10:40:58Z",
-    "url": "https://github.com/Phinchanbora/llm-evaluation"
-  },
-  {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
     "id": "homemade-software-inc/completion-kit",
     "language": "Ruby",
@@ -104,7 +104,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9824,
-    "updated_at": "2026-05-24T21:09:39Z",
+    "updated_at": "2026-05-25T14:03:45Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
