@@ -1,12 +1,12 @@
 [
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21585,
-    "updated_at": "2026-05-25T18:21:29Z",
-    "url": "https://github.com/promptfoo/promptfoo"
+    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
+    "id": "penpoen/llm-SugarScape",
+    "language": "Python",
+    "name": "penpoen/llm-SugarScape",
+    "stars": 1,
+    "updated_at": "2026-05-25T18:33:31Z",
+    "url": "https://github.com/penpoen/llm-SugarScape"
   },
   {
     "description": "An open-source 8-axis methodology + working tooling for evolving a personal Obsidian-vault into a self-improving knowled",
@@ -14,8 +14,17 @@
     "language": "HTML",
     "name": "MyForgeLabs/myforge-vault-1111",
     "stars": 0,
-    "updated_at": "2026-05-25T18:15:41Z",
+    "updated_at": "2026-05-25T18:32:10Z",
     "url": "https://github.com/MyForgeLabs/myforge-vault-1111"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21585,
+    "updated_at": "2026-05-25T18:21:29Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Framework for evaluating the accuracy & reliability of news-credibility agents \u2014 QA'd EN/HE test units + harness",
@@ -90,13 +99,13 @@
     "url": "https://github.com/Phinchanbora/llm-evaluation"
   },
   {
-    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
-    "id": "penpoen/llm-SugarScape",
-    "language": "Python",
-    "name": "penpoen/llm-SugarScape",
-    "stars": 1,
-    "updated_at": "2026-05-25T13:46:14Z",
-    "url": "https://github.com/penpoen/llm-SugarScape"
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 288,
+    "updated_at": "2026-05-25T10:28:35Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
@@ -142,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-05-24T02:57:56Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 287,
-    "updated_at": "2026-05-25T10:28:35Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "RAG evaluation toolkit \u2014 faithfulness, answer relevance, context precision/recall, cost accounting, CI gates. Pairs with",
