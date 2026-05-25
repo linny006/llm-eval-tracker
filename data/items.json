@@ -1,11 +1,38 @@
 [
   {
+    "description": "\u2699\ufe0f Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici",
+    "id": "Kamixon131/claude-config",
+    "language": "\u2014",
+    "name": "Kamixon131/claude-config",
+    "stars": 0,
+    "updated_at": "2026-05-25T19:10:53Z",
+    "url": "https://github.com/Kamixon131/claude-config"
+  },
+  {
+    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
+    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "language": "\u2014",
+    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "stars": 0,
+    "updated_at": "2026-05-25T19:08:19Z",
+    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
+  },
+  {
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-05-25T19:05:54Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
     "description": "An open-source 8-axis methodology + working tooling for evolving a personal Obsidian-vault into a self-improving knowled",
     "id": "MyForgeLabs/myforge-vault-1111",
     "language": "HTML",
     "name": "MyForgeLabs/myforge-vault-1111",
     "stars": 0,
-    "updated_at": "2026-05-25T19:00:17Z",
+    "updated_at": "2026-05-25T19:00:40Z",
     "url": "https://github.com/MyForgeLabs/myforge-vault-1111"
   },
   {
@@ -32,7 +59,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21585,
-    "updated_at": "2026-05-25T18:21:29Z",
+    "updated_at": "2026-05-25T19:09:31Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -70,33 +97,6 @@
     "stars": 0,
     "updated_at": "2026-05-25T14:34:10Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
-    "description": "\u2699\ufe0f Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici",
-    "id": "Kamixon131/claude-config",
-    "language": "\u2014",
-    "name": "Kamixon131/claude-config",
-    "stars": 0,
-    "updated_at": "2026-05-25T14:26:20Z",
-    "url": "https://github.com/Kamixon131/claude-config"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-05-25T14:23:55Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
-    "id": "bhavya7995/AI_governance",
-    "language": "PowerShell",
-    "name": "bhavya7995/AI_governance",
-    "stars": 1,
-    "updated_at": "2026-05-25T14:21:20Z",
-    "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
