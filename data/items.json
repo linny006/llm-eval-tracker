@@ -1,11 +1,20 @@
 [
   {
+    "description": "An open-source 8-axis methodology + working tooling for evolving a personal Obsidian-vault into a self-improving knowled",
+    "id": "MyForgeLabs/myforge-vault-1111",
+    "language": "HTML",
+    "name": "MyForgeLabs/myforge-vault-1111",
+    "stars": 0,
+    "updated_at": "2026-05-26T03:30:11Z",
+    "url": "https://github.com/MyForgeLabs/myforge-vault-1111"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 21594,
-    "updated_at": "2026-05-26T03:12:23Z",
+    "stars": 21595,
+    "updated_at": "2026-05-26T03:28:48Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -16,15 +25,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T02:41:57Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "An open-source 8-axis methodology + working tooling for evolving a personal Obsidian-vault into a self-improving knowled",
-    "id": "MyForgeLabs/myforge-vault-1111",
-    "language": "HTML",
-    "name": "MyForgeLabs/myforge-vault-1111",
-    "stars": 0,
-    "updated_at": "2026-05-26T02:30:11Z",
-    "url": "https://github.com/MyForgeLabs/myforge-vault-1111"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
