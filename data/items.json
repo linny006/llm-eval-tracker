@@ -5,8 +5,17 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21619,
-    "updated_at": "2026-05-26T17:07:02Z",
+    "updated_at": "2026-05-26T17:25:43Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 291,
+    "updated_at": "2026-05-26T17:20:51Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9848,
-    "updated_at": "2026-05-26T17:12:24Z",
+    "updated_at": "2026-05-26T17:18:45Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -88,15 +97,6 @@
     "stars": 10,
     "updated_at": "2026-05-26T13:01:56Z",
     "url": "https://github.com/NoesisVision/nasde-toolkit"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 291,
-    "updated_at": "2026-05-26T12:39:54Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Persona-driven dynamic testing for conversational AI products. Focus groups for your agents.",
