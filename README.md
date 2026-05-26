@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-26 13:15 UTC
+> ⏰ Last updated: 2026-05-26 13:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,7 +43,7 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-05-26 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
-| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21612 | TypeScript | 2026-05-26 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21613 | TypeScript | 2026-05-26 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 3 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 10 | Python | 2026-05-26 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
 | 4 | [Kamixon131/claude-config](https://github.com/Kamixon131/claude-config) | 0 | — | 2026-05-26 | ⚙️ Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici |
 | 5 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-05-26 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
@@ -56,7 +56,7 @@ expired items removed — so you can rely on what you see being current.
 | 12 | [MyForgeLabs/myforge-vault-1111](https://github.com/MyForgeLabs/myforge-vault-1111) | 0 | Python | 2026-05-26 | An open-source 8-axis methodology + working tooling for evolving a personal Obsidian-vault into a self-improving knowled |
 | 13 | [isoc-il-labs/agent-reliability-eval](https://github.com/isoc-il-labs/agent-reliability-eval) | 0 | HTML | 2026-05-26 | Framework for evaluating the accuracy & reliability of news-credibility agents — QA'd EN/HE test units + harness |
 | 14 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-05-26 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
-| 15 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9843 | Python | 2026-05-26 | AI Observability & Evaluation |
+| 15 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9844 | Python | 2026-05-26 | AI Observability & Evaluation |
 | 16 | [reaatech/agent-eval-harness](https://github.com/reaatech/agent-eval-harness) | 0 | TypeScript | 2026-05-25 | End-to-end agent evaluation — trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w |
 | 17 | [truera/trulens](https://github.com/truera/trulens) | 3345 | Python | 2026-05-25 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 18 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-05-25 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
