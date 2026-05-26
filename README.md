@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-26 13:30 UTC
+> ⏰ Last updated: 2026-05-26 13:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -56,11 +56,11 @@ expired items removed — so you can rely on what you see being current.
 | 12 | [MyForgeLabs/myforge-vault-1111](https://github.com/MyForgeLabs/myforge-vault-1111) | 0 | Python | 2026-05-26 | An open-source 8-axis methodology + working tooling for evolving a personal Obsidian-vault into a self-improving knowled |
 | 13 | [isoc-il-labs/agent-reliability-eval](https://github.com/isoc-il-labs/agent-reliability-eval) | 0 | HTML | 2026-05-26 | Framework for evaluating the accuracy & reliability of news-credibility agents — QA'd EN/HE test units + harness |
 | 14 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-05-26 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
-| 15 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9844 | Python | 2026-05-26 | AI Observability & Evaluation |
+| 15 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9845 | Python | 2026-05-26 | AI Observability & Evaluation |
 | 16 | [reaatech/agent-eval-harness](https://github.com/reaatech/agent-eval-harness) | 0 | TypeScript | 2026-05-25 | End-to-end agent evaluation — trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w |
 | 17 | [truera/trulens](https://github.com/truera/trulens) | 3345 | Python | 2026-05-25 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 18 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-05-25 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
-| 19 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5379 | Python | 2026-05-25 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 19 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5381 | Python | 2026-05-25 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 20 | [matt-rachlin/agent-eval-harness](https://github.com/matt-rachlin/agent-eval-harness) | 0 | Python | 2026-05-24 | Online evals on live agent traces. Open-source, self-hostable, OpenTelemetry-native eval harness with regression detecti |
 | 21 | [harnexa/nexa-gauge](https://github.com/harnexa/nexa-gauge) | 36 | Python | 2026-05-26 | An graph-eval framework for LLM's  |
 | 22 | [reaatech/rag-eval-pack](https://github.com/reaatech/rag-eval-pack) | 0 | TypeScript | 2026-05-25 | RAG evaluation toolkit — faithfulness, answer relevance, context precision/recall, cost accounting, CI gates. Pairs with |
