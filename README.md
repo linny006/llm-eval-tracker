@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-26 10:00 UTC
+> ⏰ Last updated: 2026-05-26 10:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -55,7 +55,7 @@ expired items removed — so you can rely on what you see being current.
 | 11 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21608 | TypeScript | 2026-05-26 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 12 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9843 | Python | 2026-05-26 | AI Observability & Evaluation |
 | 13 | [reaatech/agent-eval-harness](https://github.com/reaatech/agent-eval-harness) | 0 | TypeScript | 2026-05-25 | End-to-end agent evaluation — trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w |
-| 14 | [truera/trulens](https://github.com/truera/trulens) | 3343 | Python | 2026-05-25 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 14 | [truera/trulens](https://github.com/truera/trulens) | 3344 | Python | 2026-05-25 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 15 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 288 | TypeScript | 2026-05-26 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 16 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-05-25 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
 | 17 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5379 | Python | 2026-05-25 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
