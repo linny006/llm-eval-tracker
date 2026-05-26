@@ -1,5 +1,32 @@
 [
   {
+    "description": "An open-source 8-axis methodology + working tooling for evolving a personal Obsidian-vault into a self-improving knowled",
+    "id": "MyForgeLabs/myforge-vault-1111",
+    "language": "HTML",
+    "name": "MyForgeLabs/myforge-vault-1111",
+    "stars": 0,
+    "updated_at": "2026-05-26T02:00:14Z",
+    "url": "https://github.com/MyForgeLabs/myforge-vault-1111"
+  },
+  {
+    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
+    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "language": "\u2014",
+    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "stars": 0,
+    "updated_at": "2026-05-26T01:59:59Z",
+    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
+  },
+  {
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-05-26T01:58:05Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
     "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
     "id": "Phinchanbora/llm-evaluation",
     "language": "Python",
@@ -7,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T01:40:59Z",
     "url": "https://github.com/Phinchanbora/llm-evaluation"
-  },
-  {
-    "description": "An open-source 8-axis methodology + working tooling for evolving a personal Obsidian-vault into a self-improving knowled",
-    "id": "MyForgeLabs/myforge-vault-1111",
-    "language": "HTML",
-    "name": "MyForgeLabs/myforge-vault-1111",
-    "stars": 0,
-    "updated_at": "2026-05-26T01:30:11Z",
-    "url": "https://github.com/MyForgeLabs/myforge-vault-1111"
   },
   {
     "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
@@ -63,24 +81,6 @@
     "url": "https://github.com/Kamixon131/claude-config"
   },
   {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-05-25T23:11:05Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
-    "id": "bhavya7995/AI_governance",
-    "language": "PowerShell",
-    "name": "bhavya7995/AI_governance",
-    "stars": 1,
-    "updated_at": "2026-05-25T23:08:52Z",
-    "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -121,7 +121,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 9832,
+    "stars": 9833,
     "updated_at": "2026-05-25T16:14:54Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -148,7 +148,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5371,
+    "stars": 5373,
     "updated_at": "2026-05-25T01:46:47Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
