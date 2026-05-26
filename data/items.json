@@ -1,11 +1,20 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9846,
+    "updated_at": "2026-05-26T14:04:14Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21614,
-    "updated_at": "2026-05-26T14:09:16Z",
+    "updated_at": "2026-05-26T14:40:26Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -124,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T05:38:44Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9845,
-    "updated_at": "2026-05-26T14:04:14Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "End-to-end agent evaluation \u2014 trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w",
@@ -356,7 +356,7 @@
     "language": "TypeScript",
     "name": "fastxyz/skill-optimizer",
     "stars": 57,
-    "updated_at": "2026-05-26T14:12:44Z",
+    "updated_at": "2026-05-26T14:19:25Z",
     "url": "https://github.com/fastxyz/skill-optimizer"
   },
   {
