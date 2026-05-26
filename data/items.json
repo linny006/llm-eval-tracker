@@ -1,5 +1,23 @@
 [
   {
+    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
+    "id": "penpoen/llm-SugarScape",
+    "language": "Python",
+    "name": "penpoen/llm-SugarScape",
+    "stars": 1,
+    "updated_at": "2026-05-26T08:14:00Z",
+    "url": "https://github.com/penpoen/llm-SugarScape"
+  },
+  {
+    "description": "An open-source 8-axis methodology + working tooling for evolving a personal Obsidian-vault into a self-improving knowled",
+    "id": "MyForgeLabs/myforge-vault-1111",
+    "language": "Python",
+    "name": "MyForgeLabs/myforge-vault-1111",
+    "stars": 0,
+    "updated_at": "2026-05-26T08:05:42Z",
+    "url": "https://github.com/MyForgeLabs/myforge-vault-1111"
+  },
+  {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
     "id": "saddled-panicattack529/idea-evaluation-pipeline",
     "language": "\u2014",
@@ -70,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T05:31:56Z",
     "url": "https://github.com/Phinchanbora/llm-evaluation"
-  },
-  {
-    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
-    "id": "penpoen/llm-SugarScape",
-    "language": "Python",
-    "name": "penpoen/llm-SugarScape",
-    "stars": 1,
-    "updated_at": "2026-05-26T05:18:25Z",
-    "url": "https://github.com/penpoen/llm-SugarScape"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -439,14 +448,5 @@
     "stars": 47,
     "updated_at": "2026-04-21T21:16:56Z",
     "url": "https://github.com/izam-mohammed/ragrank"
-  },
-  {
-    "description": "A reasoning benchmark runner for comparing LLMs as OpenClaw agents use them. 52 prompts, 3 eval sets, 11 traps, LLM-as-j",
-    "id": "arthursoares/openclaw-llm-bench",
-    "language": "Python",
-    "name": "arthursoares/openclaw-llm-bench",
-    "stars": 2,
-    "updated_at": "2026-04-11T09:26:50Z",
-    "url": "https://github.com/arthursoares/openclaw-llm-bench"
   }
 ]
