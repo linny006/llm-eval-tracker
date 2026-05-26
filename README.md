@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-26 03:30 UTC
+> ⏰ Last updated: 2026-05-26 03:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,8 +42,8 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [MyForgeLabs/myforge-vault-1111](https://github.com/MyForgeLabs/myforge-vault-1111) | 0 | HTML | 2026-05-26 | An open-source 8-axis methodology + working tooling for evolving a personal Obsidian-vault into a self-improving knowled |
-| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21595 | TypeScript | 2026-05-26 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21597 | TypeScript | 2026-05-26 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 2 | [MyForgeLabs/myforge-vault-1111](https://github.com/MyForgeLabs/myforge-vault-1111) | 0 | HTML | 2026-05-26 | An open-source 8-axis methodology + working tooling for evolving a personal Obsidian-vault into a self-improving knowled |
 | 3 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-05-26 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 4 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-05-26 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 5 | [Kamixon131/claude-config](https://github.com/Kamixon131/claude-config) | 0 | — | 2026-05-26 | ⚙️ Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici |
@@ -55,7 +55,7 @@ expired items removed — so you can rely on what you see being current.
 | 11 | [reaatech/agent-eval-harness](https://github.com/reaatech/agent-eval-harness) | 0 | TypeScript | 2026-05-25 | End-to-end agent evaluation — trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w |
 | 12 | [truera/trulens](https://github.com/truera/trulens) | 3342 | Python | 2026-05-25 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 13 | [isoc-il-labs/agent-reliability-eval](https://github.com/isoc-il-labs/agent-reliability-eval) | 0 | HTML | 2026-05-25 | Framework for evaluating the accuracy & reliability of news-credibility agents — QA'd EN/HE test units + harness |
-| 14 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9835 | Python | 2026-05-25 | AI Observability & Evaluation |
+| 14 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9837 | Python | 2026-05-25 | AI Observability & Evaluation |
 | 15 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 288 | TypeScript | 2026-05-25 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 16 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-05-25 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
 | 17 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5374 | Python | 2026-05-25 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
