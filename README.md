@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-26 09:15 UTC
+> ⏰ Last updated: 2026-05-26 09:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -53,7 +53,7 @@ expired items removed — so you can rely on what you see being current.
 | 9 | [isoc-il-labs/agent-reliability-eval](https://github.com/isoc-il-labs/agent-reliability-eval) | 0 | HTML | 2026-05-26 | Framework for evaluating the accuracy & reliability of news-credibility agents — QA'd EN/HE test units + harness |
 | 10 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-05-26 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 11 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21606 | TypeScript | 2026-05-26 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 12 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9841 | Python | 2026-05-26 | AI Observability & Evaluation |
+| 12 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9842 | Python | 2026-05-26 | AI Observability & Evaluation |
 | 13 | [reaatech/agent-eval-harness](https://github.com/reaatech/agent-eval-harness) | 0 | TypeScript | 2026-05-25 | End-to-end agent evaluation — trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w |
 | 14 | [truera/trulens](https://github.com/truera/trulens) | 3343 | Python | 2026-05-25 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 15 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 288 | TypeScript | 2026-05-26 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
