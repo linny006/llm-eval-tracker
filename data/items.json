@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9868,
-    "updated_at": "2026-05-27T23:14:44Z",
+    "updated_at": "2026-05-27T23:29:02Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
+    "id": "Phinchanbora/llm-evaluation",
+    "language": "Python",
+    "name": "Phinchanbora/llm-evaluation",
+    "stars": 0,
+    "updated_at": "2026-05-27T23:28:33Z",
+    "url": "https://github.com/Phinchanbora/llm-evaluation"
+  },
+  {
+    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
+    "id": "penpoen/llm-SugarScape",
+    "language": "Python",
+    "name": "penpoen/llm-SugarScape",
+    "stars": 1,
+    "updated_at": "2026-05-27T23:16:37Z",
+    "url": "https://github.com/penpoen/llm-SugarScape"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -14,7 +32,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21661,
-    "updated_at": "2026-05-27T23:08:48Z",
+    "updated_at": "2026-05-27T23:27:20Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -70,24 +88,6 @@
     "stars": 1,
     "updated_at": "2026-05-27T20:15:32Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
-    "id": "Phinchanbora/llm-evaluation",
-    "language": "Python",
-    "name": "Phinchanbora/llm-evaluation",
-    "stars": 0,
-    "updated_at": "2026-05-27T19:58:47Z",
-    "url": "https://github.com/Phinchanbora/llm-evaluation"
-  },
-  {
-    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
-    "id": "penpoen/llm-SugarScape",
-    "language": "Python",
-    "name": "penpoen/llm-SugarScape",
-    "stars": 1,
-    "updated_at": "2026-05-27T19:45:43Z",
-    "url": "https://github.com/penpoen/llm-SugarScape"
   },
   {
     "description": "Serious hybrid RAG reference \u2014 vector + BM25 + reranker over Qdrant, chunking strategies benchmarked, eval set included,",
