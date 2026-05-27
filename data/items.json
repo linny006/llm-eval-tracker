@@ -1,11 +1,20 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21660,
+    "updated_at": "2026-05-27T17:55:36Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 9866,
-    "updated_at": "2026-05-27T17:43:45Z",
+    "stars": 9867,
+    "updated_at": "2026-05-27T17:59:14Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -16,15 +25,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T17:37:32Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21658,
-    "updated_at": "2026-05-27T17:39:25Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\u2699\ufe0f Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici",
