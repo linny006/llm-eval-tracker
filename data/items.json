@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
+    "id": "Phinchanbora/llm-evaluation",
+    "language": "Python",
+    "name": "Phinchanbora/llm-evaluation",
+    "stars": 0,
+    "updated_at": "2026-05-27T05:16:37Z",
+    "url": "https://github.com/Phinchanbora/llm-evaluation"
+  },
+  {
     "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
     "id": "penpoen/llm-SugarScape",
     "language": "Python",
@@ -13,8 +22,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 21633,
-    "updated_at": "2026-05-27T04:58:17Z",
+    "stars": 21634,
+    "updated_at": "2026-05-27T05:29:40Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -70,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-05-27T02:47:45Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
-    "id": "Phinchanbora/llm-evaluation",
-    "language": "Python",
-    "name": "Phinchanbora/llm-evaluation",
-    "stars": 0,
-    "updated_at": "2026-05-27T02:30:39Z",
-    "url": "https://github.com/Phinchanbora/llm-evaluation"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
