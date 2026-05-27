@@ -1,5 +1,23 @@
 [
   {
+    "description": "Serious hybrid RAG reference \u2014 vector + BM25 + reranker over Qdrant, chunking strategies benchmarked, eval set included,",
+    "id": "reaatech/hybrid-rag-qdrant",
+    "language": "TypeScript",
+    "name": "reaatech/hybrid-rag-qdrant",
+    "stars": 1,
+    "updated_at": "2026-05-27T18:29:05Z",
+    "url": "https://github.com/reaatech/hybrid-rag-qdrant"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 293,
+    "updated_at": "2026-05-27T18:28:18Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -18,21 +36,12 @@
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 293,
-    "updated_at": "2026-05-27T18:05:23Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21660,
-    "updated_at": "2026-05-27T17:55:36Z",
+    "updated_at": "2026-05-27T18:23:10Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -223,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-05-21T20:07:02Z",
     "url": "https://github.com/sanya2025/edututor-eval"
-  },
-  {
-    "description": "Serious hybrid RAG reference \u2014 vector + BM25 + reranker over Qdrant, chunking strategies benchmarked, eval set included,",
-    "id": "reaatech/hybrid-rag-qdrant",
-    "language": "TypeScript",
-    "name": "reaatech/hybrid-rag-qdrant",
-    "stars": 1,
-    "updated_at": "2026-05-20T21:17:52Z",
-    "url": "https://github.com/reaatech/hybrid-rag-qdrant"
   },
   {
     "description": "RL-style eval measuring intent/action divergence in frontier agents: model acknowledges a correction, then acts on the s",
