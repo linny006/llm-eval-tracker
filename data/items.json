@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9866,
+    "updated_at": "2026-05-27T21:25:58Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Use local Large Language Models for production use cases, and perform benchmarking for task-specific performance evaluat",
     "id": "ajmeese7/local-llms",
     "language": "Python",
@@ -14,17 +23,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21661,
-    "updated_at": "2026-05-27T21:11:40Z",
+    "updated_at": "2026-05-27T21:21:21Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9866,
-    "updated_at": "2026-05-27T21:13:05Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
