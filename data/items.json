@@ -1,10 +1,19 @@
 [
   {
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-05-27T23:44:30Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 9868,
+    "stars": 9869,
     "updated_at": "2026-05-27T23:29:02Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -32,7 +41,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21661,
-    "updated_at": "2026-05-27T23:27:20Z",
+    "updated_at": "2026-05-27T23:41:57Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -79,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T20:17:37Z",
     "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
-    "id": "bhavya7995/AI_governance",
-    "language": "PowerShell",
-    "name": "bhavya7995/AI_governance",
-    "stars": 1,
-    "updated_at": "2026-05-27T20:15:32Z",
-    "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
     "description": "Serious hybrid RAG reference \u2014 vector + BM25 + reranker over Qdrant, chunking strategies benchmarked, eval set included,",
