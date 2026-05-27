@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21645,
+    "updated_at": "2026-05-27T11:27:56Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -7,15 +16,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T09:46:04Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21644,
-    "updated_at": "2026-05-27T11:15:07Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\u2699\ufe0f Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici",
@@ -124,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T08:05:42Z",
     "url": "https://github.com/MyForgeLabs/myforge-vault-1111"
-  },
-  {
-    "description": "Framework for evaluating the accuracy & reliability of news-credibility agents \u2014 QA'd EN/HE test units + harness",
-    "id": "isoc-il-labs/agent-reliability-eval",
-    "language": "HTML",
-    "name": "isoc-il-labs/agent-reliability-eval",
-    "stars": 0,
-    "updated_at": "2026-05-26T06:05:30Z",
-    "url": "https://github.com/isoc-il-labs/agent-reliability-eval"
   },
   {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
@@ -448,5 +439,14 @@
     "stars": 47,
     "updated_at": "2026-04-21T21:16:56Z",
     "url": "https://github.com/izam-mohammed/ragrank"
+  },
+  {
+    "description": "A reasoning benchmark runner for comparing LLMs as OpenClaw agents use them. 52 prompts, 3 eval sets, 11 traps, LLM-as-j",
+    "id": "arthursoares/openclaw-llm-bench",
+    "language": "Python",
+    "name": "arthursoares/openclaw-llm-bench",
+    "stars": 2,
+    "updated_at": "2026-04-11T09:26:50Z",
+    "url": "https://github.com/arthursoares/openclaw-llm-bench"
   }
 ]
