@@ -1,11 +1,29 @@
 [
   {
+    "description": "Offline classifier evaluation harness \u2014 dataset loader, confusion matrices, LLM-as-judge with cost accounting, regressio",
+    "id": "reaatech/classifier-evals",
+    "language": "TypeScript",
+    "name": "reaatech/classifier-evals",
+    "stars": 0,
+    "updated_at": "2026-05-27T07:29:57Z",
+    "url": "https://github.com/reaatech/classifier-evals"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9861,
+    "updated_at": "2026-05-27T07:10:39Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 21637,
-    "updated_at": "2026-05-27T07:01:25Z",
+    "stars": 21638,
+    "updated_at": "2026-05-27T07:23:46Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -79,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-05-27T05:03:27Z",
     "url": "https://github.com/penpoen/llm-SugarScape"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9860,
-    "updated_at": "2026-05-27T07:10:39Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
@@ -232,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-05-20T21:17:52Z",
     "url": "https://github.com/reaatech/hybrid-rag-qdrant"
-  },
-  {
-    "description": "Offline classifier evaluation harness \u2014 dataset loader, confusion matrices, LLM-as-judge with cost accounting, regressio",
-    "id": "reaatech/classifier-evals",
-    "language": "TypeScript",
-    "name": "reaatech/classifier-evals",
-    "stars": 0,
-    "updated_at": "2026-05-20T20:00:05Z",
-    "url": "https://github.com/reaatech/classifier-evals"
   },
   {
     "description": "RL-style eval measuring intent/action divergence in frontier agents: model acknowledges a correction, then acts on the s",
