@@ -1,5 +1,50 @@
 [
   {
+    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
+    "id": "Kondwani10/Origin-Continuum",
+    "language": "\u2014",
+    "name": "Kondwani10/Origin-Continuum",
+    "stars": 0,
+    "updated_at": "2026-05-27T20:26:36Z",
+    "url": "https://github.com/Kondwani10/Origin-Continuum"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21661,
+    "updated_at": "2026-05-27T20:24:47Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\u2699\ufe0f Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici",
+    "id": "Kamixon131/claude-config",
+    "language": "\u2014",
+    "name": "Kamixon131/claude-config",
+    "stars": 0,
+    "updated_at": "2026-05-27T20:20:00Z",
+    "url": "https://github.com/Kamixon131/claude-config"
+  },
+  {
+    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
+    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "language": "\u2014",
+    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "stars": 0,
+    "updated_at": "2026-05-27T20:17:37Z",
+    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
+  },
+  {
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-05-27T20:15:32Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
     "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
     "id": "Phinchanbora/llm-evaluation",
     "language": "Python",
@@ -16,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-05-27T19:45:43Z",
     "url": "https://github.com/penpoen/llm-SugarScape"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21660,
-    "updated_at": "2026-05-27T20:13:21Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Serious hybrid RAG reference \u2014 vector + BM25 + reranker over Qdrant, chunking strategies benchmarked, eval set included,",
@@ -50,7 +86,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9866,
-    "updated_at": "2026-05-27T20:12:29Z",
+    "updated_at": "2026-05-27T20:17:43Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -61,42 +97,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T18:11:49Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
-    "id": "Kondwani10/Origin-Continuum",
-    "language": "\u2014",
-    "name": "Kondwani10/Origin-Continuum",
-    "stars": 0,
-    "updated_at": "2026-05-27T17:37:32Z",
-    "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
-    "description": "\u2699\ufe0f Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici",
-    "id": "Kamixon131/claude-config",
-    "language": "\u2014",
-    "name": "Kamixon131/claude-config",
-    "stars": 0,
-    "updated_at": "2026-05-27T17:30:48Z",
-    "url": "https://github.com/Kamixon131/claude-config"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-05-27T17:28:27Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
-    "id": "bhavya7995/AI_governance",
-    "language": "PowerShell",
-    "name": "bhavya7995/AI_governance",
-    "stars": 1,
-    "updated_at": "2026-05-27T17:26:17Z",
-    "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
     "description": "Offline classifier evaluation harness \u2014 dataset loader, confusion matrices, LLM-as-judge with cost accounting, regressio",
