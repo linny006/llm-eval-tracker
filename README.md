@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-27 04:00 UTC
+> ⏰ Last updated: 2026-05-27 04:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -51,7 +51,7 @@ expired items removed — so you can rely on what you see being current.
 | 7 | [Phinchanbora/llm-evaluation](https://github.com/Phinchanbora/llm-evaluation) | 0 | Python | 2026-05-27 | 🎯 Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev |
 | 8 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9856 | Python | 2026-05-27 | AI Observability & Evaluation |
 | 9 | [penpoen/llm-SugarScape](https://github.com/penpoen/llm-SugarScape) | 1 | Python | 2026-05-27 | 🌐 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok |
-| 10 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 292 | TypeScript | 2026-05-26 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 10 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 292 | TypeScript | 2026-05-27 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 11 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 10 | Python | 2026-05-26 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
 | 12 | [rogue-socket/focusgroup](https://github.com/rogue-socket/focusgroup) | 0 | Python | 2026-05-26 | Persona-driven dynamic testing for conversational AI products. Focus groups for your agents. |
 | 13 | [MyForgeLabs/myforge-vault-1111](https://github.com/MyForgeLabs/myforge-vault-1111) | 0 | Python | 2026-05-26 | An open-source 8-axis methodology + working tooling for evolving a personal Obsidian-vault into a self-improving knowled |
