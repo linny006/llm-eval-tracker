@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21652,
+    "updated_at": "2026-05-27T14:24:53Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 9867,
     "updated_at": "2026-05-27T13:52:48Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21651,
-    "updated_at": "2026-05-27T14:00:32Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
