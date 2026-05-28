@@ -1,11 +1,20 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21660,
+    "updated_at": "2026-05-28T00:12:03Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9869,
-    "updated_at": "2026-05-27T23:57:52Z",
+    "updated_at": "2026-05-28T00:11:24Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -61,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-05-27T23:16:37Z",
     "url": "https://github.com/penpoen/llm-SugarScape"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21661,
-    "updated_at": "2026-05-27T23:57:58Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Use local Large Language Models for production use cases, and perform benchmarking for task-specific performance evaluat",
