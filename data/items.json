@@ -1,5 +1,50 @@
 [
   {
+    "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
+    "id": "NoesisVision/nasde-toolkit",
+    "language": "Python",
+    "name": "NoesisVision/nasde-toolkit",
+    "stars": 10,
+    "updated_at": "2026-05-28T15:08:03Z",
+    "url": "https://github.com/NoesisVision/nasde-toolkit"
+  },
+  {
+    "description": "\u2699\ufe0f Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici",
+    "id": "Kamixon131/claude-config",
+    "language": "\u2014",
+    "name": "Kamixon131/claude-config",
+    "stars": 0,
+    "updated_at": "2026-05-28T15:07:49Z",
+    "url": "https://github.com/Kamixon131/claude-config"
+  },
+  {
+    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
+    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "language": "\u2014",
+    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "stars": 0,
+    "updated_at": "2026-05-28T15:05:15Z",
+    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
+  },
+  {
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-05-28T15:03:03Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21679,
+    "updated_at": "2026-05-28T14:48:33Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
     "id": "Phinchanbora/llm-evaluation",
     "language": "Python",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9880,
-    "updated_at": "2026-05-28T14:45:15Z",
+    "updated_at": "2026-05-28T15:13:58Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -32,44 +77,8 @@
     "language": "\u2014",
     "name": "Kondwani10/Origin-Continuum",
     "stars": 0,
-    "updated_at": "2026-05-28T12:34:20Z",
+    "updated_at": "2026-05-28T15:14:44Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
-    "description": "\u2699\ufe0f Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici",
-    "id": "Kamixon131/claude-config",
-    "language": "\u2014",
-    "name": "Kamixon131/claude-config",
-    "stars": 0,
-    "updated_at": "2026-05-28T12:27:54Z",
-    "url": "https://github.com/Kamixon131/claude-config"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21678,
-    "updated_at": "2026-05-28T14:48:33Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-05-28T12:25:28Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
-    "id": "bhavya7995/AI_governance",
-    "language": "PowerShell",
-    "name": "bhavya7995/AI_governance",
-    "stars": 1,
-    "updated_at": "2026-05-28T12:23:18Z",
-    "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
@@ -86,7 +95,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5400,
-    "updated_at": "2026-05-28T04:22:53Z",
+    "updated_at": "2026-05-28T15:04:26Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -122,7 +131,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 294,
-    "updated_at": "2026-05-27T18:28:18Z",
+    "updated_at": "2026-05-28T15:12:04Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -133,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T07:29:57Z",
     "url": "https://github.com/reaatech/classifier-evals"
-  },
-  {
-    "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
-    "id": "NoesisVision/nasde-toolkit",
-    "language": "Python",
-    "name": "NoesisVision/nasde-toolkit",
-    "stars": 10,
-    "updated_at": "2026-05-28T14:55:54Z",
-    "url": "https://github.com/NoesisVision/nasde-toolkit"
   },
   {
     "description": "Persona-driven dynamic testing for conversational AI products. Focus groups for your agents.",
