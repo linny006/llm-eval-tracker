@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21686,
+    "updated_at": "2026-05-28T19:11:13Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9883,
-    "updated_at": "2026-05-28T18:54:02Z",
+    "updated_at": "2026-05-28T19:15:02Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -43,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-05-28T18:48:02Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21686,
-    "updated_at": "2026-05-28T18:58:35Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
@@ -77,7 +77,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 294,
-    "updated_at": "2026-05-28T18:51:35Z",
+    "updated_at": "2026-05-28T19:06:54Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
