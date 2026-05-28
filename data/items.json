@@ -4,8 +4,8 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 9874,
-    "updated_at": "2026-05-28T06:57:41Z",
+    "stars": 9875,
+    "updated_at": "2026-05-28T07:13:58Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -13,8 +13,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 21667,
-    "updated_at": "2026-05-28T06:55:46Z",
+    "stars": 21668,
+    "updated_at": "2026-05-28T07:09:34Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -88,6 +88,15 @@
     "stars": 5398,
     "updated_at": "2026-05-28T04:22:53Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "Benchmark, evaluate, and optimize skills to ensure reliable performance across all LLMs",
+    "id": "fastxyz/skill-optimizer",
+    "language": "TypeScript",
+    "name": "fastxyz/skill-optimizer",
+    "stars": 58,
+    "updated_at": "2026-05-28T01:43:54Z",
+    "url": "https://github.com/fastxyz/skill-optimizer"
   },
   {
     "description": "Use local Large Language Models for production use cases, and perform benchmarking for task-specific performance evaluat",
@@ -340,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-05-12T21:37:48Z",
     "url": "https://github.com/mizcausevic-dev/agent-eval-arena"
-  },
-  {
-    "description": "Benchmark, evaluate, and optimize skills to ensure reliable performance across all LLMs",
-    "id": "fastxyz/skill-optimizer",
-    "language": "TypeScript",
-    "name": "fastxyz/skill-optimizer",
-    "stars": 57,
-    "updated_at": "2026-05-28T01:43:54Z",
-    "url": "https://github.com/fastxyz/skill-optimizer"
   },
   {
     "description": "AI product case study for trust, pricing transparency, and explainable diagnosis in auto repair.",
