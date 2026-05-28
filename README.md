@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-28 09:30 UTC
+> ⏰ Last updated: 2026-05-28 09:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -50,7 +50,7 @@ expired items removed — so you can rely on what you see being current.
 | 6 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21670 | TypeScript | 2026-05-28 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 7 | [Phinchanbora/llm-evaluation](https://github.com/Phinchanbora/llm-evaluation) | 0 | Python | 2026-05-28 | 🎯 Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev |
 | 8 | [penpoen/llm-SugarScape](https://github.com/penpoen/llm-SugarScape) | 1 | Python | 2026-05-28 | 🌐 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok |
-| 9 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9875 | Python | 2026-05-28 | AI Observability & Evaluation |
+| 9 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9876 | Python | 2026-05-28 | AI Observability & Evaluation |
 | 10 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5399 | Python | 2026-05-28 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 11 | [fastxyz/skill-optimizer](https://github.com/fastxyz/skill-optimizer) | 58 | TypeScript | 2026-05-28 | Benchmark, evaluate, and optimize skills to ensure reliable performance across all LLMs |
 | 12 | [ajmeese7/local-llms](https://github.com/ajmeese7/local-llms) | 1 | Python | 2026-05-27 | Use local Large Language Models for production use cases, and perform benchmarking for task-specific performance evaluat |
