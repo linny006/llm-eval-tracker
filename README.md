@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-29 10:00 UTC
+> ⏰ Last updated: 2026-05-29 10:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -53,7 +53,7 @@ expired items removed — so you can rely on what you see being current.
 | 9 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5401 | Python | 2026-05-29 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 10 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-05-29 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 11 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-05-29 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
-| 12 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21702 | TypeScript | 2026-05-29 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 12 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21701 | TypeScript | 2026-05-29 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 13 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 294 | TypeScript | 2026-05-29 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 14 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 10 | Python | 2026-05-28 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
 | 15 | [fastxyz/skill-optimizer](https://github.com/fastxyz/skill-optimizer) | 58 | TypeScript | 2026-05-28 | Benchmark, evaluate, and optimize skills to ensure reliable performance across all LLMs |
