@@ -1,5 +1,14 @@
 [
   {
+    "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
+    "id": "jeremylongshore/j-rig-skill-binary-eval",
+    "language": "TypeScript",
+    "name": "jeremylongshore/j-rig-skill-binary-eval",
+    "stars": 0,
+    "updated_at": "2026-05-29T07:28:55Z",
+    "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -59,17 +68,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9889,
-    "updated_at": "2026-05-29T05:54:59Z",
+    "updated_at": "2026-05-29T07:29:03Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
-    "id": "jeremylongshore/j-rig-skill-binary-eval",
-    "language": "TypeScript",
-    "name": "jeremylongshore/j-rig-skill-binary-eval",
-    "stars": 0,
-    "updated_at": "2026-05-29T05:30:00Z",
-    "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -77,7 +77,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5401,
-    "updated_at": "2026-05-29T07:15:15Z",
+    "updated_at": "2026-05-29T07:24:00Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
