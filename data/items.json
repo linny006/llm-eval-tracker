@@ -1,5 +1,23 @@
 [
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5400,
+    "updated_at": "2026-05-29T02:58:04Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9886,
+    "updated_at": "2026-05-29T02:49:56Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
     "id": "homemade-software-inc/completion-kit",
     "language": "Ruby",
@@ -7,15 +25,6 @@
     "stars": 1,
     "updated_at": "2026-05-29T02:19:08Z",
     "url": "https://github.com/homemade-software-inc/completion-kit"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9885,
-    "updated_at": "2026-05-29T02:39:42Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
@@ -106,15 +115,6 @@
     "stars": 10,
     "updated_at": "2026-05-28T15:08:03Z",
     "url": "https://github.com/NoesisVision/nasde-toolkit"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5400,
-    "updated_at": "2026-05-28T15:04:26Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Benchmark, evaluate, and optimize skills to ensure reliable performance across all LLMs",
