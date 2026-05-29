@@ -76,7 +76,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 9897,
+    "stars": 9898,
     "updated_at": "2026-05-29T08:40:26Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -162,6 +162,15 @@
     "url": "https://github.com/reaatech/classifier-evals"
   },
   {
+    "description": "An graph-eval framework for LLM's ",
+    "id": "harnexa/nexa-gauge",
+    "language": "Python",
+    "name": "harnexa/nexa-gauge",
+    "stars": 37,
+    "updated_at": "2026-05-27T05:50:08Z",
+    "url": "https://github.com/harnexa/nexa-gauge"
+  },
+  {
     "description": "Persona-driven dynamic testing for conversational AI products. Focus groups for your agents.",
     "id": "rogue-socket/focusgroup",
     "language": "Python",
@@ -193,7 +202,7 @@
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3350,
+    "stars": 3351,
     "updated_at": "2026-05-25T22:26:45Z",
     "url": "https://github.com/truera/trulens"
   },
@@ -205,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-05-24T20:52:41Z",
     "url": "https://github.com/matt-rachlin/agent-eval-harness"
-  },
-  {
-    "description": "An graph-eval framework for LLM's ",
-    "id": "harnexa/nexa-gauge",
-    "language": "Python",
-    "name": "harnexa/nexa-gauge",
-    "stars": 36,
-    "updated_at": "2026-05-27T05:50:08Z",
-    "url": "https://github.com/harnexa/nexa-gauge"
   },
   {
     "description": "RAG evaluation toolkit \u2014 faithfulness, answer relevance, context precision/recall, cost accounting, CI gates. Pairs with",
