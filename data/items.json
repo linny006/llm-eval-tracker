@@ -1,10 +1,19 @@
 [
   {
+    "description": "An graph-eval framework for LLM's ",
+    "id": "harnexa/nexa-gauge",
+    "language": "Python",
+    "name": "harnexa/nexa-gauge",
+    "stars": 37,
+    "updated_at": "2026-05-30T19:38:12Z",
+    "url": "https://github.com/harnexa/nexa-gauge"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 21724,
+    "stars": 21725,
     "updated_at": "2026-05-30T18:46:09Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -169,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T07:29:57Z",
     "url": "https://github.com/reaatech/classifier-evals"
-  },
-  {
-    "description": "An graph-eval framework for LLM's ",
-    "id": "harnexa/nexa-gauge",
-    "language": "Python",
-    "name": "harnexa/nexa-gauge",
-    "stars": 37,
-    "updated_at": "2026-05-30T19:24:48Z",
-    "url": "https://github.com/harnexa/nexa-gauge"
   },
   {
     "description": "Persona-driven dynamic testing for conversational AI products. Focus groups for your agents.",
