@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
+    "id": "Phinchanbora/llm-evaluation",
+    "language": "Python",
+    "name": "Phinchanbora/llm-evaluation",
+    "stars": 0,
+    "updated_at": "2026-05-30T13:47:17Z",
+    "url": "https://github.com/Phinchanbora/llm-evaluation"
+  },
+  {
     "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
     "id": "penpoen/llm-SugarScape",
     "language": "Python",
@@ -52,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-05-30T10:30:42Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
-    "id": "Phinchanbora/llm-evaluation",
-    "language": "Python",
-    "name": "Phinchanbora/llm-evaluation",
-    "stars": 0,
-    "updated_at": "2026-05-30T10:13:27Z",
-    "url": "https://github.com/Phinchanbora/llm-evaluation"
   },
   {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
@@ -396,6 +396,15 @@
     "url": "https://github.com/SAY-5/genai-eval"
   },
   {
+    "description": "A/B evaluate any LLM task with and without Ejentum cognitive injection. n8n workflow + TypeScript module.",
+    "id": "ejentum/eval",
+    "language": "Python",
+    "name": "ejentum/eval",
+    "stars": 3,
+    "updated_at": "2026-05-05T23:18:01Z",
+    "url": "https://github.com/ejentum/eval"
+  },
+  {
     "description": "SWE-bench for your codebase \u2014 mine your merged PRs into local, contamination-free coding-agent benchmarks. Adapters: cla",
     "id": "HumphreySun98/repoagentbench",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 47,
     "updated_at": "2026-04-21T21:16:56Z",
     "url": "https://github.com/izam-mohammed/ragrank"
-  },
-  {
-    "description": "A reasoning benchmark runner for comparing LLMs as OpenClaw agents use them. 52 prompts, 3 eval sets, 11 traps, LLM-as-j",
-    "id": "arthursoares/openclaw-llm-bench",
-    "language": "Python",
-    "name": "arthursoares/openclaw-llm-bench",
-    "stars": 2,
-    "updated_at": "2026-04-11T09:26:50Z",
-    "url": "https://github.com/arthursoares/openclaw-llm-bench"
   }
 ]

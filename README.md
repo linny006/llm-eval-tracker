@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-30 13:45 UTC
+> ⏰ Last updated: 2026-05-30 14:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [penpoen/llm-SugarScape](https://github.com/penpoen/llm-SugarScape) | 1 | Python | 2026-05-30 | 🌐 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok |
-| 2 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-05-30 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 3 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-05-30 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
-| 4 | [Kamixon131/claude-config](https://github.com/Kamixon131/claude-config) | 0 | — | 2026-05-30 | ⚙️ Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici |
-| 5 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-05-30 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
-| 6 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-05-30 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
-| 7 | [Phinchanbora/llm-evaluation](https://github.com/Phinchanbora/llm-evaluation) | 0 | Python | 2026-05-30 | 🎯 Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev |
+| 1 | [Phinchanbora/llm-evaluation](https://github.com/Phinchanbora/llm-evaluation) | 0 | Python | 2026-05-30 | 🎯 Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev |
+| 2 | [penpoen/llm-SugarScape](https://github.com/penpoen/llm-SugarScape) | 1 | Python | 2026-05-30 | 🌐 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok |
+| 3 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-05-30 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
+| 4 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-05-30 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
+| 5 | [Kamixon131/claude-config](https://github.com/Kamixon131/claude-config) | 0 | — | 2026-05-30 | ⚙️ Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici |
+| 6 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-05-30 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
+| 7 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-05-30 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
 | 8 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-05-30 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 9 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-05-30 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
 | 10 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21721 | TypeScript | 2026-05-30 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
@@ -86,12 +86,12 @@ expired items removed — so you can rely on what you see being current.
 | 42 | [Ruthwik-Data/finrag-eval](https://github.com/Ruthwik-Data/finrag-eval) | 0 | Python | 2026-05-10 | RAG eval pipeline on Apple's FY 2024 10-K — found confident hallucinations, filed a metric-level bug in DeepEval, and bu |
 | 43 | [Ruthwik-Data/self-improving-prompt-agent](https://github.com/Ruthwik-Data/self-improving-prompt-agent) | 0 | Python | 2026-05-10 | Prompt optimization loop that improves prompts through iterative mutation and LLM-as-judge evaluation. Score went 0.10 → |
 | 44 | [SAY-5/genai-eval](https://github.com/SAY-5/genai-eval) | 0 | Python | 2026-05-07 | Multilingual GenAI evaluation service across 5 task types and 3 languages, with regression-trend dashboard |
-| 45 | [HumphreySun98/repoagentbench](https://github.com/HumphreySun98/repoagentbench) | 31 | Python | 2026-04-30 | SWE-bench for your codebase — mine your merged PRs into local, contamination-free coding-agent benchmarks. Adapters: cla |
-| 46 | [YagneshKhamar/phasio](https://github.com/YagneshKhamar/phasio) | 0 | TypeScript | 2026-04-29 | Jest-style testing for LLM prompts. Version prompts, run evals across OpenAI and Anthropic, catch regressions in CI. |
-| 47 | [lehigh-university-libraries/htr](https://github.com/lehigh-university-libraries/htr) | 2 | Go | 2026-05-28 | Handwritten Text Recognition llm eval tool |
-| 48 | [JSLEEKR/evaltrack](https://github.com/JSLEEKR/evaltrack) | 0 | TypeScript | 2026-04-24 | Local-first regression and trend CLI for promptfoo eval histories — the git log + git diff for LLM eval outputs. |
-| 49 | [izam-mohammed/ragrank](https://github.com/izam-mohammed/ragrank) | 47 | Python | 2026-04-21 | 🎯 Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an |
-| 50 | [arthursoares/openclaw-llm-bench](https://github.com/arthursoares/openclaw-llm-bench) | 2 | Python | 2026-04-11 | A reasoning benchmark runner for comparing LLMs as OpenClaw agents use them. 52 prompts, 3 eval sets, 11 traps, LLM-as-j |
+| 45 | [ejentum/eval](https://github.com/ejentum/eval) | 3 | Python | 2026-05-05 | A/B evaluate any LLM task with and without Ejentum cognitive injection. n8n workflow + TypeScript module. |
+| 46 | [HumphreySun98/repoagentbench](https://github.com/HumphreySun98/repoagentbench) | 31 | Python | 2026-04-30 | SWE-bench for your codebase — mine your merged PRs into local, contamination-free coding-agent benchmarks. Adapters: cla |
+| 47 | [YagneshKhamar/phasio](https://github.com/YagneshKhamar/phasio) | 0 | TypeScript | 2026-04-29 | Jest-style testing for LLM prompts. Version prompts, run evals across OpenAI and Anthropic, catch regressions in CI. |
+| 48 | [lehigh-university-libraries/htr](https://github.com/lehigh-university-libraries/htr) | 2 | Go | 2026-05-28 | Handwritten Text Recognition llm eval tool |
+| 49 | [JSLEEKR/evaltrack](https://github.com/JSLEEKR/evaltrack) | 0 | TypeScript | 2026-04-24 | Local-first regression and trend CLI for promptfoo eval histories — the git log + git diff for LLM eval outputs. |
+| 50 | [izam-mohammed/ragrank](https://github.com/izam-mohammed/ragrank) | 47 | Python | 2026-04-21 | 🎯 Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an |
 <!-- TRACKER_TABLE_END -->
 
 ---
