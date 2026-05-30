@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
+    "id": "penpoen/llm-SugarScape",
+    "language": "Python",
+    "name": "penpoen/llm-SugarScape",
+    "stars": 1,
+    "updated_at": "2026-05-30T03:54:00Z",
+    "url": "https://github.com/penpoen/llm-SugarScape"
+  },
+  {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
     "id": "jeremylongshore/j-rig-skill-binary-eval",
     "language": "TypeScript",
@@ -79,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-05-30T01:32:27Z",
     "url": "https://github.com/Phinchanbora/llm-evaluation"
-  },
-  {
-    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
-    "id": "penpoen/llm-SugarScape",
-    "language": "Python",
-    "name": "penpoen/llm-SugarScape",
-    "stars": 1,
-    "updated_at": "2026-05-30T01:20:59Z",
-    "url": "https://github.com/penpoen/llm-SugarScape"
   },
   {
     "description": "AI Observability & Evaluation",
