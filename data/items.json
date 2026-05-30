@@ -1,11 +1,20 @@
 [
   {
+    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
+    "id": "penpoen/llm-SugarScape",
+    "language": "Python",
+    "name": "penpoen/llm-SugarScape",
+    "stars": 1,
+    "updated_at": "2026-05-30T01:20:59Z",
+    "url": "https://github.com/penpoen/llm-SugarScape"
+  },
+  {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
     "id": "homemade-software-inc/completion-kit",
     "language": "Ruby",
     "name": "homemade-software-inc/completion-kit",
     "stars": 1,
-    "updated_at": "2026-05-30T01:11:34Z",
+    "updated_at": "2026-05-30T01:20:23Z",
     "url": "https://github.com/homemade-software-inc/completion-kit"
   },
   {
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21711,
-    "updated_at": "2026-05-30T01:03:16Z",
+    "updated_at": "2026-05-30T01:26:44Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -70,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T22:11:04Z",
     "url": "https://github.com/Phinchanbora/llm-evaluation"
-  },
-  {
-    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
-    "id": "penpoen/llm-SugarScape",
-    "language": "Python",
-    "name": "penpoen/llm-SugarScape",
-    "stars": 1,
-    "updated_at": "2026-05-29T21:58:45Z",
-    "url": "https://github.com/penpoen/llm-SugarScape"
   },
   {
     "description": "AI Observability & Evaluation",
