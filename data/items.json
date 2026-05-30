@@ -9,6 +9,15 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9922,
+    "updated_at": "2026-05-30T18:07:44Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-05-30T17:37:46Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9921,
-    "updated_at": "2026-05-30T18:07:44Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "A/B evaluate any LLM task with and without Ejentum cognitive injection. n8n workflow + TypeScript module.",
