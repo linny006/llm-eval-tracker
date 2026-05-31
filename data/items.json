@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
+    "id": "penpoen/llm-SugarScape",
+    "language": "Python",
+    "name": "penpoen/llm-SugarScape",
+    "stars": 1,
+    "updated_at": "2026-05-31T17:53:23Z",
+    "url": "https://github.com/penpoen/llm-SugarScape"
+  },
+  {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
     "id": "homemade-software-inc/completion-kit",
     "language": "Ruby",
@@ -72,15 +81,6 @@
     "url": "https://github.com/Phinchanbora/llm-evaluation"
   },
   {
-    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
-    "id": "penpoen/llm-SugarScape",
-    "language": "Python",
-    "name": "penpoen/llm-SugarScape",
-    "stars": 1,
-    "updated_at": "2026-05-31T14:53:49Z",
-    "url": "https://github.com/penpoen/llm-SugarScape"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -135,6 +135,15 @@
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
+    "description": "Benchmark, evaluate, and optimize skills to ensure reliable performance across all LLMs",
+    "id": "fastxyz/skill-optimizer",
+    "language": "TypeScript",
+    "name": "fastxyz/skill-optimizer",
+    "stars": 59,
+    "updated_at": "2026-05-28T17:39:51Z",
+    "url": "https://github.com/fastxyz/skill-optimizer"
+  },
+  {
     "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
     "id": "NoesisVision/nasde-toolkit",
     "language": "Python",
@@ -142,15 +151,6 @@
     "stars": 10,
     "updated_at": "2026-05-28T15:08:03Z",
     "url": "https://github.com/NoesisVision/nasde-toolkit"
-  },
-  {
-    "description": "Benchmark, evaluate, and optimize skills to ensure reliable performance across all LLMs",
-    "id": "fastxyz/skill-optimizer",
-    "language": "TypeScript",
-    "name": "fastxyz/skill-optimizer",
-    "stars": 58,
-    "updated_at": "2026-05-28T17:39:51Z",
-    "url": "https://github.com/fastxyz/skill-optimizer"
   },
   {
     "description": "Use local Large Language Models for production use cases, and perform benchmarking for task-specific performance evaluat",
