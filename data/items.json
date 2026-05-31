@@ -27,6 +27,15 @@
     "url": "https://github.com/Kondwani10/Origin-Continuum"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9928,
+    "updated_at": "2026-05-31T05:20:36Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "\u2699\ufe0f Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici",
     "id": "Kamixon131/claude-config",
     "language": "\u2014",
@@ -79,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-05-31T02:25:33Z",
     "url": "https://github.com/homemade-software-inc/completion-kit"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9927,
-    "updated_at": "2026-05-31T05:20:36Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "An graph-eval framework for LLM's ",
