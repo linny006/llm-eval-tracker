@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21748,
+    "updated_at": "2026-05-31T21:09:09Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
     "id": "jeremylongshore/j-rig-skill-binary-eval",
     "language": "TypeScript",
@@ -16,15 +25,6 @@
     "stars": 0,
     "updated_at": "2026-05-31T19:12:22Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21748,
-    "updated_at": "2026-05-31T20:57:26Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -95,7 +95,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9931,
-    "updated_at": "2026-05-31T05:20:36Z",
+    "updated_at": "2026-05-31T21:09:53Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
