@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
+    "id": "Phinchanbora/llm-evaluation",
+    "language": "Python",
+    "name": "Phinchanbora/llm-evaluation",
+    "stars": 0,
+    "updated_at": "2026-05-31T22:00:23Z",
+    "url": "https://github.com/Phinchanbora/llm-evaluation"
+  },
+  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
@@ -81,15 +90,6 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
-    "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
-    "id": "Phinchanbora/llm-evaluation",
-    "language": "Python",
-    "name": "Phinchanbora/llm-evaluation",
-    "stars": 0,
-    "updated_at": "2026-05-31T18:08:05Z",
-    "url": "https://github.com/Phinchanbora/llm-evaluation"
-  },
-  {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
     "id": "homemade-software-inc/completion-kit",
     "language": "Ruby",
@@ -104,7 +104,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9931,
-    "updated_at": "2026-05-31T21:09:53Z",
+    "updated_at": "2026-05-31T22:12:21Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
