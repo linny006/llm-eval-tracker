@@ -1,11 +1,20 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9924,
+    "updated_at": "2026-05-31T01:32:52Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21728,
-    "updated_at": "2026-05-31T01:19:52Z",
+    "updated_at": "2026-05-31T01:43:57Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -79,15 +88,6 @@
     "stars": 37,
     "updated_at": "2026-05-30T19:47:11Z",
     "url": "https://github.com/harnexa/nexa-gauge"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9923,
-    "updated_at": "2026-05-30T18:07:44Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
