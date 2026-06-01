@@ -1,21 +1,21 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21758,
+    "updated_at": "2026-06-01T06:14:48Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 295,
-    "updated_at": "2026-06-01T05:59:32Z",
+    "updated_at": "2026-06-01T06:10:36Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21757,
-    "updated_at": "2026-06-01T05:57:27Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
@@ -103,7 +103,7 @@
     "id": "ALEX-nlp/OpenSkillEval",
     "language": "Python",
     "name": "ALEX-nlp/OpenSkillEval",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-06-01T04:03:43Z",
     "url": "https://github.com/ALEX-nlp/OpenSkillEval"
   },
@@ -121,7 +121,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 9933,
+    "stars": 9934,
     "updated_at": "2026-05-31T22:12:21Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
