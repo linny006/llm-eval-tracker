@@ -14,7 +14,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21751,
-    "updated_at": "2026-06-01T00:14:36Z",
+    "updated_at": "2026-06-01T00:25:55Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -63,6 +63,15 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9932,
+    "updated_at": "2026-05-31T22:12:21Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
     "id": "Phinchanbora/llm-evaluation",
     "language": "Python",
@@ -97,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-05-31T20:56:09Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9931,
-    "updated_at": "2026-05-31T22:12:21Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "An graph-eval framework for LLM's ",
