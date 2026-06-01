@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
+    "id": "penpoen/llm-SugarScape",
+    "language": "Python",
+    "name": "penpoen/llm-SugarScape",
+    "stars": 1,
+    "updated_at": "2026-06-01T00:38:32Z",
+    "url": "https://github.com/penpoen/llm-SugarScape"
+  },
+  {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
     "id": "homemade-software-inc/completion-kit",
     "language": "Ruby",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21751,
-    "updated_at": "2026-06-01T00:25:55Z",
+    "updated_at": "2026-06-01T00:44:10Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -88,15 +97,6 @@
     "stars": 3352,
     "updated_at": "2026-05-31T21:55:35Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
-    "id": "penpoen/llm-SugarScape",
-    "language": "Python",
-    "name": "penpoen/llm-SugarScape",
-    "stars": 1,
-    "updated_at": "2026-05-31T21:46:44Z",
-    "url": "https://github.com/penpoen/llm-SugarScape"
   },
   {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
