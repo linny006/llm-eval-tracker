@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9944,
+    "updated_at": "2026-06-01T17:41:00Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21779,
-    "updated_at": "2026-06-01T17:29:02Z",
+    "updated_at": "2026-06-01T17:41:18Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -43,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-06-01T16:38:18Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9944,
-    "updated_at": "2026-06-01T16:51:30Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
@@ -130,7 +130,7 @@
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3353,
+    "stars": 3354,
     "updated_at": "2026-05-31T21:55:35Z",
     "url": "https://github.com/truera/trulens"
   },
