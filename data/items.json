@@ -1,11 +1,20 @@
 [
   {
+    "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
+    "id": "Phinchanbora/llm-evaluation",
+    "language": "Python",
+    "name": "Phinchanbora/llm-evaluation",
+    "stars": 0,
+    "updated_at": "2026-06-01T18:24:35Z",
+    "url": "https://github.com/Phinchanbora/llm-evaluation"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9944,
-    "updated_at": "2026-06-01T18:14:46Z",
+    "updated_at": "2026-06-01T18:15:54Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -23,8 +32,17 @@
     "language": "TypeScript",
     "name": "pdxlab/trustmodel-mcp-server",
     "stars": 0,
-    "updated_at": "2026-06-01T17:54:47Z",
+    "updated_at": "2026-06-01T18:23:34Z",
     "url": "https://github.com/pdxlab/trustmodel-mcp-server"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21781,
+    "updated_at": "2026-06-01T17:49:58Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -34,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-06-01T16:50:22Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21779,
-    "updated_at": "2026-06-01T17:49:58Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\u2699\ufe0f Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici",
@@ -72,15 +81,6 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
-    "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
-    "id": "Phinchanbora/llm-evaluation",
-    "language": "Python",
-    "name": "Phinchanbora/llm-evaluation",
-    "stars": 0,
-    "updated_at": "2026-06-01T16:19:53Z",
-    "url": "https://github.com/Phinchanbora/llm-evaluation"
-  },
-  {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
     "id": "homemade-software-inc/completion-kit",
     "language": "Ruby",
@@ -104,7 +104,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 296,
-    "updated_at": "2026-06-01T09:26:47Z",
+    "updated_at": "2026-06-01T18:20:13Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
