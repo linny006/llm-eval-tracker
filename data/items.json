@@ -1,11 +1,29 @@
 [
   {
+    "description": "Agent and LLM evaluation harness \u2014 golden datasets, multi-scorer execution, regression detection across model versions, ",
+    "id": "mizcausevic-dev/agent-eval-arena",
+    "language": "TypeScript",
+    "name": "mizcausevic-dev/agent-eval-arena",
+    "stars": 0,
+    "updated_at": "2026-06-01T03:58:46Z",
+    "url": "https://github.com/mizcausevic-dev/agent-eval-arena"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21754,
+    "updated_at": "2026-06-01T04:00:14Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Regression testing for voice agents: scripted conversations, safety assertions, CI-ready reports.",
     "id": "monkeyin92/voice-agent-testops",
     "language": "TypeScript",
     "name": "monkeyin92/voice-agent-testops",
     "stars": 0,
-    "updated_at": "2026-06-01T03:30:51Z",
+    "updated_at": "2026-06-01T03:51:36Z",
     "url": "https://github.com/monkeyin92/voice-agent-testops"
   },
   {
@@ -16,15 +34,6 @@
     "stars": 1,
     "updated_at": "2026-06-01T03:29:06Z",
     "url": "https://github.com/ALEX-nlp/OpenSkillEval"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21754,
-    "updated_at": "2026-06-01T03:39:34Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
@@ -112,7 +121,7 @@
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3352,
+    "stars": 3353,
     "updated_at": "2026-05-31T21:55:35Z",
     "url": "https://github.com/truera/trulens"
   },
@@ -349,15 +358,6 @@
     "stars": 8,
     "updated_at": "2026-05-13T02:40:18Z",
     "url": "https://github.com/prompt-foundry/python-sdk"
-  },
-  {
-    "description": "Agent and LLM evaluation harness \u2014 golden datasets, multi-scorer execution, regression detection across model versions, ",
-    "id": "mizcausevic-dev/agent-eval-arena",
-    "language": "TypeScript",
-    "name": "mizcausevic-dev/agent-eval-arena",
-    "stars": 0,
-    "updated_at": "2026-05-12T21:37:48Z",
-    "url": "https://github.com/mizcausevic-dev/agent-eval-arena"
   },
   {
     "description": "AI product case study for trust, pricing transparency, and explainable diagnosis in auto repair.",
