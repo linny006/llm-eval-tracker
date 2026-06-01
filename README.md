@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-01 04:00 UTC
+> ⏰ Last updated: 2026-06-01 04:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,9 +43,9 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [mizcausevic-dev/agent-eval-arena](https://github.com/mizcausevic-dev/agent-eval-arena) | 0 | TypeScript | 2026-06-01 | Agent and LLM evaluation harness — golden datasets, multi-scorer execution, regression detection across model versions,  |
-| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21754 | TypeScript | 2026-06-01 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 3 | [monkeyin92/voice-agent-testops](https://github.com/monkeyin92/voice-agent-testops) | 0 | TypeScript | 2026-06-01 | Regression testing for voice agents: scripted conversations, safety assertions, CI-ready reports. |
-| 4 | [ALEX-nlp/OpenSkillEval](https://github.com/ALEX-nlp/OpenSkillEval) | 1 | Python | 2026-06-01 | OpenSkillEval: Automatically Auditing the Open Skill Ecosystem for LLM Agents |
+| 2 | [ALEX-nlp/OpenSkillEval](https://github.com/ALEX-nlp/OpenSkillEval) | 1 | Python | 2026-06-01 | OpenSkillEval: Automatically Auditing the Open Skill Ecosystem for LLM Agents |
+| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21754 | TypeScript | 2026-06-01 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 4 | [monkeyin92/voice-agent-testops](https://github.com/monkeyin92/voice-agent-testops) | 0 | TypeScript | 2026-06-01 | Regression testing for voice agents: scripted conversations, safety assertions, CI-ready reports. |
 | 5 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-06-01 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 6 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-06-01 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 7 | [Kamixon131/claude-config](https://github.com/Kamixon131/claude-config) | 1 | — | 2026-06-01 | ⚙️ Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici |
