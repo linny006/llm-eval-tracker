@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-01 13:45 UTC
+> ⏰ Last updated: 2026-06-01 14:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -55,7 +55,7 @@ expired items removed — so you can rely on what you see being current.
 | 11 | [mizcausevic-dev/agent-eval-arena](https://github.com/mizcausevic-dev/agent-eval-arena) | 0 | TypeScript | 2026-06-01 | Agent and LLM evaluation harness — golden datasets, multi-scorer execution, regression detection across model versions,  |
 | 12 | [ALEX-nlp/OpenSkillEval](https://github.com/ALEX-nlp/OpenSkillEval) | 4 | Python | 2026-06-01 | OpenSkillEval: Automatically Auditing the Open Skill Ecosystem for LLM Agents |
 | 13 | [monkeyin92/voice-agent-testops](https://github.com/monkeyin92/voice-agent-testops) | 0 | TypeScript | 2026-06-01 | Regression testing for voice agents: scripted conversations, safety assertions, CI-ready reports. |
-| 14 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9939 | Python | 2026-05-31 | AI Observability & Evaluation |
+| 14 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9939 | Python | 2026-06-01 | AI Observability & Evaluation |
 | 15 | [truera/trulens](https://github.com/truera/trulens) | 3353 | Python | 2026-05-31 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 16 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-05-31 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 17 | [harnexa/nexa-gauge](https://github.com/harnexa/nexa-gauge) | 37 | Python | 2026-05-30 | An graph-eval framework for LLM's  |
