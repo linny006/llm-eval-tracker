@@ -1,21 +1,21 @@
 [
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21754,
-    "updated_at": "2026-06-01T03:13:28Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "OpenSkillEval: Automatically Auditing the Open Skill Ecosystem for LLM Agents",
     "id": "ALEX-nlp/OpenSkillEval",
     "language": "Python",
     "name": "ALEX-nlp/OpenSkillEval",
     "stars": 0,
-    "updated_at": "2026-06-01T02:44:26Z",
+    "updated_at": "2026-06-01T03:29:06Z",
     "url": "https://github.com/ALEX-nlp/OpenSkillEval"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21754,
+    "updated_at": "2026-06-01T03:22:32Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
