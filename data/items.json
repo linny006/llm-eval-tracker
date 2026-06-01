@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
+    "id": "Phinchanbora/llm-evaluation",
+    "language": "Python",
+    "name": "Phinchanbora/llm-evaluation",
+    "stars": 0,
+    "updated_at": "2026-06-01T00:51:11Z",
+    "url": "https://github.com/Phinchanbora/llm-evaluation"
+  },
+  {
     "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
     "id": "penpoen/llm-SugarScape",
     "language": "Python",
@@ -23,7 +32,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21751,
-    "updated_at": "2026-06-01T00:44:10Z",
+    "updated_at": "2026-06-01T01:00:13Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -79,15 +88,6 @@
     "stars": 9932,
     "updated_at": "2026-05-31T22:12:21Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
-    "id": "Phinchanbora/llm-evaluation",
-    "language": "Python",
-    "name": "Phinchanbora/llm-evaluation",
-    "stars": 0,
-    "updated_at": "2026-05-31T22:00:23Z",
-    "url": "https://github.com/Phinchanbora/llm-evaluation"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
