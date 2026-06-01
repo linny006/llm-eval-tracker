@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9940,
+    "updated_at": "2026-06-01T14:01:26Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
     "id": "saddled-panicattack529/idea-evaluation-pipeline",
     "language": "\u2014",
@@ -67,7 +76,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 21773,
+    "stars": 21774,
     "updated_at": "2026-06-01T07:46:07Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -117,15 +126,6 @@
     "url": "https://github.com/monkeyin92/voice-agent-testops"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9939,
-    "updated_at": "2026-06-01T13:58:46Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
@@ -166,7 +166,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5412,
+    "stars": 5413,
     "updated_at": "2026-05-29T11:00:15Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
