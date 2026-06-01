@@ -1,10 +1,19 @@
 [
   {
+    "description": "Regression testing for voice agents: scripted conversations, safety assertions, CI-ready reports.",
+    "id": "monkeyin92/voice-agent-testops",
+    "language": "TypeScript",
+    "name": "monkeyin92/voice-agent-testops",
+    "stars": 0,
+    "updated_at": "2026-06-01T03:30:51Z",
+    "url": "https://github.com/monkeyin92/voice-agent-testops"
+  },
+  {
     "description": "OpenSkillEval: Automatically Auditing the Open Skill Ecosystem for LLM Agents",
     "id": "ALEX-nlp/OpenSkillEval",
     "language": "Python",
     "name": "ALEX-nlp/OpenSkillEval",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-06-01T03:29:06Z",
     "url": "https://github.com/ALEX-nlp/OpenSkillEval"
   },
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21754,
-    "updated_at": "2026-06-01T03:22:32Z",
+    "updated_at": "2026-06-01T03:39:34Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -295,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-05-19T08:25:12Z",
     "url": "https://github.com/GiuseppeSp/n8n-customer-interview-synthesizer"
-  },
-  {
-    "description": "Regression testing for voice agents: scripted conversations, safety assertions, CI-ready reports.",
-    "id": "monkeyin92/voice-agent-testops",
-    "language": "TypeScript",
-    "name": "monkeyin92/voice-agent-testops",
-    "stars": 0,
-    "updated_at": "2026-05-18T03:11:22Z",
-    "url": "https://github.com/monkeyin92/voice-agent-testops"
   },
   {
     "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
