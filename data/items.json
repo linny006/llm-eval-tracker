@@ -9,6 +9,15 @@
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5416,
+    "updated_at": "2026-06-02T12:50:29Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -187,15 +196,6 @@
     "stars": 3,
     "updated_at": "2026-05-30T17:19:30Z",
     "url": "https://github.com/ejentum/eval"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5415,
-    "updated_at": "2026-06-02T12:50:29Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Benchmark, evaluate, and optimize skills to ensure reliable performance across all LLMs",
