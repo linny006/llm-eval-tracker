@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
+    "id": "penpoen/llm-SugarScape",
+    "language": "Python",
+    "name": "penpoen/llm-SugarScape",
+    "stars": 1,
+    "updated_at": "2026-06-02T19:04:22Z",
+    "url": "https://github.com/penpoen/llm-SugarScape"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -61,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-02T15:10:11Z",
     "url": "https://github.com/Phinchanbora/llm-evaluation"
-  },
-  {
-    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
-    "id": "penpoen/llm-SugarScape",
-    "language": "Python",
-    "name": "penpoen/llm-SugarScape",
-    "stars": 1,
-    "updated_at": "2026-06-02T14:54:37Z",
-    "url": "https://github.com/penpoen/llm-SugarScape"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
