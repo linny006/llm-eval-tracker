@@ -1,5 +1,32 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9968,
+    "updated_at": "2026-06-02T23:30:08Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "End-to-end agent evaluation \u2014 trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w",
+    "id": "reaatech/agent-eval-harness",
+    "language": "TypeScript",
+    "name": "reaatech/agent-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-06-02T23:28:35Z",
+    "url": "https://github.com/reaatech/agent-eval-harness"
+  },
+  {
+    "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
+    "id": "Phinchanbora/llm-evaluation",
+    "language": "Python",
+    "name": "Phinchanbora/llm-evaluation",
+    "stars": 0,
+    "updated_at": "2026-06-02T23:23:05Z",
+    "url": "https://github.com/Phinchanbora/llm-evaluation"
+  },
+  {
     "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
     "id": "penpoen/llm-SugarScape",
     "language": "Python",
@@ -9,21 +36,12 @@
     "url": "https://github.com/penpoen/llm-SugarScape"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9968,
-    "updated_at": "2026-06-02T23:12:03Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21812,
-    "updated_at": "2026-06-02T22:55:25Z",
+    "updated_at": "2026-06-02T23:22:22Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -79,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-06-02T19:39:37Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
-    "id": "Phinchanbora/llm-evaluation",
-    "language": "Python",
-    "name": "Phinchanbora/llm-evaluation",
-    "stars": 0,
-    "updated_at": "2026-06-02T19:18:21Z",
-    "url": "https://github.com/Phinchanbora/llm-evaluation"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -259,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T08:05:42Z",
     "url": "https://github.com/MyForgeLabs/myforge-vault-1111"
-  },
-  {
-    "description": "End-to-end agent evaluation \u2014 trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w",
-    "id": "reaatech/agent-eval-harness",
-    "language": "TypeScript",
-    "name": "reaatech/agent-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-06-02T23:14:04Z",
-    "url": "https://github.com/reaatech/agent-eval-harness"
   },
   {
     "description": "Online evals on live agent traces. Open-source, self-hostable, OpenTelemetry-native eval harness with regression detecti",
