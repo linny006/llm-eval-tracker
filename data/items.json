@@ -18,6 +18,15 @@
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9959,
+    "updated_at": "2026-06-02T08:40:06Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -70,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-06-02T07:49:22Z",
     "url": "https://github.com/penpoen/llm-SugarScape"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9957,
-    "updated_at": "2026-06-02T08:40:06Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "An graph-eval framework for LLM's ",
