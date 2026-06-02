@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
+    "id": "Phinchanbora/llm-evaluation",
+    "language": "Python",
+    "name": "Phinchanbora/llm-evaluation",
+    "stars": 0,
+    "updated_at": "2026-06-02T19:18:21Z",
+    "url": "https://github.com/Phinchanbora/llm-evaluation"
+  },
+  {
     "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
     "id": "penpoen/llm-SugarScape",
     "language": "Python",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9968,
-    "updated_at": "2026-06-02T18:59:31Z",
+    "updated_at": "2026-06-02T19:26:14Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -61,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-06-02T15:29:11Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
-    "id": "Phinchanbora/llm-evaluation",
-    "language": "Python",
-    "name": "Phinchanbora/llm-evaluation",
-    "stars": 0,
-    "updated_at": "2026-06-02T15:10:11Z",
-    "url": "https://github.com/Phinchanbora/llm-evaluation"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -140,7 +140,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 297,
-    "updated_at": "2026-06-02T14:08:18Z",
+    "updated_at": "2026-06-02T19:15:39Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
