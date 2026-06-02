@@ -1,11 +1,29 @@
 [
   {
+    "description": "The CI regression gate and governance-evidence layer for LLM systems \u2014 zero-dependency, vendor-neutral, offline.",
+    "id": "thestio/thest-eval",
+    "language": "Python",
+    "name": "thestio/thest-eval",
+    "stars": 0,
+    "updated_at": "2026-06-02T04:58:34Z",
+    "url": "https://github.com/thestio/thest-eval"
+  },
+  {
+    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
+    "id": "penpoen/llm-SugarScape",
+    "language": "Python",
+    "name": "penpoen/llm-SugarScape",
+    "stars": 1,
+    "updated_at": "2026-06-02T04:52:27Z",
+    "url": "https://github.com/penpoen/llm-SugarScape"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21791,
-    "updated_at": "2026-06-02T04:43:39Z",
+    "updated_at": "2026-06-02T04:56:58Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -32,7 +50,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9950,
-    "updated_at": "2026-06-02T01:40:34Z",
+    "updated_at": "2026-06-02T04:54:06Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -70,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-02T01:15:47Z",
     "url": "https://github.com/Phinchanbora/llm-evaluation"
-  },
-  {
-    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
-    "id": "penpoen/llm-SugarScape",
-    "language": "Python",
-    "name": "penpoen/llm-SugarScape",
-    "stars": 1,
-    "updated_at": "2026-06-02T01:01:54Z",
-    "url": "https://github.com/penpoen/llm-SugarScape"
   },
   {
     "description": "TrustModel MCP Server \u2014 trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-04-29T13:36:33Z",
     "url": "https://github.com/YagneshKhamar/phasio"
-  },
-  {
-    "description": "Handwritten Text Recognition llm eval tool",
-    "id": "lehigh-university-libraries/htr",
-    "language": "Go",
-    "name": "lehigh-university-libraries/htr",
-    "stars": 2,
-    "updated_at": "2026-06-01T18:34:46Z",
-    "url": "https://github.com/lehigh-university-libraries/htr"
   }
 ]
