@@ -1,5 +1,23 @@
 [
   {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3355,
+    "updated_at": "2026-06-02T14:04:07Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9961,
+    "updated_at": "2026-06-02T13:51:42Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -81,15 +99,6 @@
     "url": "https://github.com/penpoen/llm-SugarScape"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9962,
-    "updated_at": "2026-06-02T13:51:42Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "An graph-eval framework for LLM's ",
     "id": "harnexa/nexa-gauge",
     "language": "Python",
@@ -131,7 +140,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 297,
-    "updated_at": "2026-06-01T19:47:44Z",
+    "updated_at": "2026-06-02T14:08:18Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -169,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-06-01T03:51:36Z",
     "url": "https://github.com/monkeyin92/voice-agent-testops"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3355,
-    "updated_at": "2026-05-31T21:55:35Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
