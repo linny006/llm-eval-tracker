@@ -72,6 +72,15 @@
     "url": "https://github.com/Phinchanbora/llm-evaluation"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21813,
+    "updated_at": "2026-06-02T23:22:22Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
     "id": "penpoen/llm-SugarScape",
     "language": "Python",
@@ -79,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-06-02T23:11:06Z",
     "url": "https://github.com/penpoen/llm-SugarScape"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21812,
-    "updated_at": "2026-06-02T23:22:22Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
