@@ -4,9 +4,18 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 21837,
-    "updated_at": "2026-06-03T14:49:56Z",
+    "stars": 21839,
+    "updated_at": "2026-06-03T15:08:51Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
+    "id": "penpoen/llm-SugarScape",
+    "language": "Python",
+    "name": "penpoen/llm-SugarScape",
+    "stars": 1,
+    "updated_at": "2026-06-03T14:52:38Z",
+    "url": "https://github.com/penpoen/llm-SugarScape"
   },
   {
     "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
@@ -77,7 +86,7 @@
     "language": "Python",
     "name": "Phinchanbora/llm-evaluation",
     "stars": 0,
-    "updated_at": "2026-06-03T10:36:56Z",
+    "updated_at": "2026-06-03T15:08:12Z",
     "url": "https://github.com/Phinchanbora/llm-evaluation"
   },
   {
@@ -88,15 +97,6 @@
     "stars": 5417,
     "updated_at": "2026-06-03T14:33:29Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
-    "id": "penpoen/llm-SugarScape",
-    "language": "Python",
-    "name": "penpoen/llm-SugarScape",
-    "stars": 1,
-    "updated_at": "2026-06-03T14:52:38Z",
-    "url": "https://github.com/penpoen/llm-SugarScape"
   },
   {
     "description": "AI Observability & Evaluation",
