@@ -1,11 +1,20 @@
 [
   {
+    "description": "A small, production-minded evaluation and observability harness for LLM/RAG features. Runs offline or live, gates CI on ",
+    "id": "Juanllenato/llm-eval-harness",
+    "language": "Python",
+    "name": "Juanllenato/llm-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-06-03T23:29:37Z",
+    "url": "https://github.com/Juanllenato/llm-eval-harness"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9971,
-    "updated_at": "2026-06-03T23:07:55Z",
+    "updated_at": "2026-06-03T23:26:48Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-07T22:22:18Z",
     "url": "https://github.com/SAY-5/genai-eval"
-  },
-  {
-    "description": "SWE-bench for your codebase \u2014 mine your merged PRs into local, contamination-free coding-agent benchmarks. Adapters: cla",
-    "id": "HumphreySun98/repoagentbench",
-    "language": "Python",
-    "name": "HumphreySun98/repoagentbench",
-    "stars": 31,
-    "updated_at": "2026-04-30T06:27:42Z",
-    "url": "https://github.com/HumphreySun98/repoagentbench"
   }
 ]
