@@ -1,5 +1,14 @@
 [
   {
+    "description": "LLM evaluation harness that gates quality in CI: golden datasets, regression detection, grounding and faithfulness check",
+    "id": "Victor-David-Medina/llm-eval-harness",
+    "language": "Python",
+    "name": "Victor-David-Medina/llm-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-06-03T17:16:47Z",
+    "url": "https://github.com/Victor-David-Medina/llm-eval-harness"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21843,
-    "updated_at": "2026-06-03T17:12:40Z",
+    "updated_at": "2026-06-03T17:22:38Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 31,
     "updated_at": "2026-04-30T06:27:42Z",
     "url": "https://github.com/HumphreySun98/repoagentbench"
-  },
-  {
-    "description": "Jest-style testing for LLM prompts. Version prompts, run evals across OpenAI and Anthropic, catch regressions in CI.",
-    "id": "YagneshKhamar/phasio",
-    "language": "TypeScript",
-    "name": "YagneshKhamar/phasio",
-    "stars": 0,
-    "updated_at": "2026-04-29T13:36:33Z",
-    "url": "https://github.com/YagneshKhamar/phasio"
   }
 ]
