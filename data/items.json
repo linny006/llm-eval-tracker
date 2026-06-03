@@ -1,11 +1,20 @@
 [
   {
+    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
+    "id": "penpoen/llm-SugarScape",
+    "language": "Python",
+    "name": "penpoen/llm-SugarScape",
+    "stars": 1,
+    "updated_at": "2026-06-03T19:27:20Z",
+    "url": "https://github.com/penpoen/llm-SugarScape"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 297,
-    "updated_at": "2026-06-03T19:12:46Z",
+    "updated_at": "2026-06-03T19:20:23Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9969,
-    "updated_at": "2026-06-03T19:00:44Z",
+    "updated_at": "2026-06-03T19:26:21Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -23,7 +32,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21847,
-    "updated_at": "2026-06-03T19:02:15Z",
+    "updated_at": "2026-06-03T19:25:12Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -97,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T15:08:12Z",
     "url": "https://github.com/Phinchanbora/llm-evaluation"
-  },
-  {
-    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
-    "id": "penpoen/llm-SugarScape",
-    "language": "Python",
-    "name": "penpoen/llm-SugarScape",
-    "stars": 1,
-    "updated_at": "2026-06-03T14:52:38Z",
-    "url": "https://github.com/penpoen/llm-SugarScape"
   },
   {
     "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
