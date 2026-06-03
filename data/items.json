@@ -1,11 +1,20 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 297,
+    "updated_at": "2026-06-03T19:12:46Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9969,
-    "updated_at": "2026-06-03T18:49:42Z",
+    "updated_at": "2026-06-03T19:00:44Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21847,
-    "updated_at": "2026-06-03T18:40:22Z",
+    "updated_at": "2026-06-03T19:02:15Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -178,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-06-01T21:51:22Z",
     "url": "https://github.com/karlmehta/trustmodel-mcp"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 297,
-    "updated_at": "2026-06-03T18:46:14Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
