@@ -1,11 +1,20 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 297,
+    "updated_at": "2026-06-03T21:14:09Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9971,
-    "updated_at": "2026-06-03T21:00:18Z",
+    "updated_at": "2026-06-03T21:06:18Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -70,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-06-03T19:27:20Z",
     "url": "https://github.com/penpoen/llm-SugarScape"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 297,
-    "updated_at": "2026-06-03T19:50:18Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
