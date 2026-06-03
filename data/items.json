@@ -1,11 +1,20 @@
 [
   {
+    "description": "RAG evaluation toolkit \u2014 faithfulness, answer relevance, context precision/recall, cost accounting, CI gates. Pairs with",
+    "id": "reaatech/rag-eval-pack",
+    "language": "TypeScript",
+    "name": "reaatech/rag-eval-pack",
+    "stars": 0,
+    "updated_at": "2026-06-03T13:56:14Z",
+    "url": "https://github.com/reaatech/rag-eval-pack"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21836,
-    "updated_at": "2026-06-03T13:45:02Z",
+    "updated_at": "2026-06-03T13:53:03Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -86,7 +95,7 @@
     "language": "Python",
     "name": "NoesisVision/nasde-toolkit",
     "stars": 10,
-    "updated_at": "2026-06-03T13:45:25Z",
+    "updated_at": "2026-06-03T13:54:12Z",
     "url": "https://github.com/NoesisVision/nasde-toolkit"
   },
   {
@@ -277,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-05-24T20:52:41Z",
     "url": "https://github.com/matt-rachlin/agent-eval-harness"
-  },
-  {
-    "description": "RAG evaluation toolkit \u2014 faithfulness, answer relevance, context precision/recall, cost accounting, CI gates. Pairs with",
-    "id": "reaatech/rag-eval-pack",
-    "language": "TypeScript",
-    "name": "reaatech/rag-eval-pack",
-    "stars": 0,
-    "updated_at": "2026-06-02T18:54:02Z",
-    "url": "https://github.com/reaatech/rag-eval-pack"
   },
   {
     "description": "Mission Spec \u2014 AI \uc5d0\uc774\uc804\ud2b8 \uc6cc\ud06c\ud50c\ub85c\ub97c \uc704\ud55c task contract layer",
