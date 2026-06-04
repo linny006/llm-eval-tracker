@@ -1,5 +1,14 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 297,
+    "updated_at": "2026-06-04T10:11:20Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -139,7 +148,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 21868,
+    "stars": 21869,
     "updated_at": "2026-06-04T00:19:37Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -160,15 +169,6 @@
     "stars": 3358,
     "updated_at": "2026-06-03T21:32:49Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 297,
-    "updated_at": "2026-06-03T21:19:52Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "LLM evaluation harness that gates quality in CI: golden datasets, regression detection, grounding and faithfulness check",
