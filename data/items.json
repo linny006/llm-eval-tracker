@@ -1,5 +1,23 @@
 [
   {
+    "description": "RAG evaluation toolkit \u2014 faithfulness, answer relevance, context precision/recall, cost accounting, CI gates. Pairs with",
+    "id": "reaatech/rag-eval-pack",
+    "language": "TypeScript",
+    "name": "reaatech/rag-eval-pack",
+    "stars": 0,
+    "updated_at": "2026-06-04T01:58:00Z",
+    "url": "https://github.com/reaatech/rag-eval-pack"
+  },
+  {
+    "description": "End-to-end agent evaluation \u2014 trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w",
+    "id": "reaatech/agent-eval-harness",
+    "language": "TypeScript",
+    "name": "reaatech/agent-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-06-04T01:57:42Z",
+    "url": "https://github.com/reaatech/agent-eval-harness"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -133,24 +151,6 @@
     "stars": 10,
     "updated_at": "2026-06-03T16:04:45Z",
     "url": "https://github.com/NoesisVision/nasde-toolkit"
-  },
-  {
-    "description": "RAG evaluation toolkit \u2014 faithfulness, answer relevance, context precision/recall, cost accounting, CI gates. Pairs with",
-    "id": "reaatech/rag-eval-pack",
-    "language": "TypeScript",
-    "name": "reaatech/rag-eval-pack",
-    "stars": 0,
-    "updated_at": "2026-06-03T13:56:14Z",
-    "url": "https://github.com/reaatech/rag-eval-pack"
-  },
-  {
-    "description": "End-to-end agent evaluation \u2014 trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w",
-    "id": "reaatech/agent-eval-harness",
-    "language": "TypeScript",
-    "name": "reaatech/agent-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-06-02T23:35:50Z",
-    "url": "https://github.com/reaatech/agent-eval-harness"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
