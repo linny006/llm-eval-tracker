@@ -1,5 +1,23 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21880,
+    "updated_at": "2026-06-04T14:58:07Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
+    "id": "Kondwani10/Origin-Continuum",
+    "language": "\u2014",
+    "name": "Kondwani10/Origin-Continuum",
+    "stars": 0,
+    "updated_at": "2026-06-04T14:50:21Z",
+    "url": "https://github.com/Kondwani10/Origin-Continuum"
+  },
+  {
     "description": "\u2699\ufe0f Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici",
     "id": "Kamixon131/claude-config",
     "language": "\u2014",
@@ -34,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-06-04T14:14:32Z",
     "url": "https://github.com/Phinchanbora/llm-evaluation"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21878,
-    "updated_at": "2026-06-04T14:12:00Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -88,15 +97,6 @@
     "stars": 5418,
     "updated_at": "2026-06-04T13:49:25Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
-    "id": "Kondwani10/Origin-Continuum",
-    "language": "\u2014",
-    "name": "Kondwani10/Origin-Continuum",
-    "stars": 0,
-    "updated_at": "2026-06-04T09:58:44Z",
-    "url": "https://github.com/Kondwani10/Origin-Continuum"
   },
   {
     "description": "\u7b2c\u4e00\u4e2a\u805a\u7126\"\u7b80\u5386\u6539\u5199\u8bda\u5b9e\u5ea6\"\u7684\u4e2d\u6587 LLM benchmark\uff1a20 \u771f\u5b9e\u8131\u654f\u7b80\u5386 \u00d7 3 \u6a21\u578b \u00d7 4 \u8bc4\u5206\u7ef4\u5ea6",
