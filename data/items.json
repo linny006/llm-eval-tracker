@@ -1,12 +1,12 @@
 [
   {
-    "description": "RAG evaluation toolkit \u2014 faithfulness, answer relevance, context precision/recall, cost accounting, CI gates. Pairs with",
-    "id": "reaatech/rag-eval-pack",
+    "description": "Offline classifier evaluation harness \u2014 dataset loader, confusion matrices, LLM-as-judge with cost accounting, regressio",
+    "id": "reaatech/classifier-evals",
     "language": "TypeScript",
-    "name": "reaatech/rag-eval-pack",
+    "name": "reaatech/classifier-evals",
     "stars": 0,
-    "updated_at": "2026-06-04T02:08:32Z",
-    "url": "https://github.com/reaatech/rag-eval-pack"
+    "updated_at": "2026-06-04T02:54:58Z",
+    "url": "https://github.com/reaatech/classifier-evals"
   },
   {
     "description": "Serious hybrid RAG reference \u2014 vector + BM25 + reranker over Qdrant, chunking strategies benchmarked, eval set included,",
@@ -14,17 +14,17 @@
     "language": "TypeScript",
     "name": "reaatech/hybrid-rag-qdrant",
     "stars": 1,
-    "updated_at": "2026-06-04T02:18:16Z",
+    "updated_at": "2026-06-04T02:59:10Z",
     "url": "https://github.com/reaatech/hybrid-rag-qdrant"
   },
   {
-    "description": "Offline classifier evaluation harness \u2014 dataset loader, confusion matrices, LLM-as-judge with cost accounting, regressio",
-    "id": "reaatech/classifier-evals",
+    "description": "RAG evaluation toolkit \u2014 faithfulness, answer relevance, context precision/recall, cost accounting, CI gates. Pairs with",
+    "id": "reaatech/rag-eval-pack",
     "language": "TypeScript",
-    "name": "reaatech/classifier-evals",
+    "name": "reaatech/rag-eval-pack",
     "stars": 0,
-    "updated_at": "2026-06-04T02:23:50Z",
-    "url": "https://github.com/reaatech/classifier-evals"
+    "updated_at": "2026-06-04T02:08:32Z",
+    "url": "https://github.com/reaatech/rag-eval-pack"
   },
   {
     "description": "End-to-end agent evaluation \u2014 trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w",
@@ -63,6 +63,15 @@
     "url": "https://github.com/Kondwani10/Origin-Continuum"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9972,
+    "updated_at": "2026-06-04T00:34:12Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "\u2699\ufe0f Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici",
     "id": "Kamixon131/claude-config",
     "language": "\u2014",
@@ -70,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-06-04T00:33:37Z",
     "url": "https://github.com/Kamixon131/claude-config"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9971,
-    "updated_at": "2026-06-04T00:34:12Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
