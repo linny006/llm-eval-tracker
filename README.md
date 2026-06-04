@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-04 12:15 UTC
+> ⏰ Last updated: 2026-06-04 12:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -44,7 +44,7 @@ expired items removed — so you can rely on what you see being current.
 |---|------|---|------|---------|-------------|
 | 1 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-06-04 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 2 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 297 | TypeScript | 2026-06-04 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 3 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5417 | Python | 2026-06-04 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 3 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5418 | Python | 2026-06-04 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 4 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-06-04 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 5 | [Kamixon131/claude-config](https://github.com/Kamixon131/claude-config) | 1 | — | 2026-06-04 | ⚙️ Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici |
 | 6 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-06-04 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
