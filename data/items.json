@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
+    "id": "penpoen/llm-SugarScape",
+    "language": "Python",
+    "name": "penpoen/llm-SugarScape",
+    "stars": 1,
+    "updated_at": "2026-06-04T04:16:15Z",
+    "url": "https://github.com/penpoen/llm-SugarScape"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -113,17 +122,8 @@
     "language": "Python",
     "name": "Phinchanbora/llm-evaluation",
     "stars": 0,
-    "updated_at": "2026-06-04T00:07:55Z",
+    "updated_at": "2026-06-04T04:30:15Z",
     "url": "https://github.com/Phinchanbora/llm-evaluation"
-  },
-  {
-    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
-    "id": "penpoen/llm-SugarScape",
-    "language": "Python",
-    "name": "penpoen/llm-SugarScape",
-    "stars": 1,
-    "updated_at": "2026-06-03T23:54:26Z",
-    "url": "https://github.com/penpoen/llm-SugarScape"
   },
   {
     "description": "A small, production-minded evaluation and observability harness for LLM/RAG features. Runs offline or live, gates CI on ",
