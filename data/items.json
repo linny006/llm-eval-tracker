@@ -1,5 +1,32 @@
 [
   {
+    "description": "\u2699\ufe0f Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici",
+    "id": "Kamixon131/claude-config",
+    "language": "\u2014",
+    "name": "Kamixon131/claude-config",
+    "stars": 1,
+    "updated_at": "2026-06-04T04:54:07Z",
+    "url": "https://github.com/Kamixon131/claude-config"
+  },
+  {
+    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
+    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "language": "\u2014",
+    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "stars": 0,
+    "updated_at": "2026-06-04T04:51:29Z",
+    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
+  },
+  {
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-06-04T04:49:01Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
     "description": "Offline classifier evaluation harness \u2014 dataset loader, confusion matrices, LLM-as-judge with cost accounting, regressio",
     "id": "reaatech/classifier-evals",
     "language": "TypeScript",
@@ -88,33 +115,6 @@
     "stars": 9975,
     "updated_at": "2026-06-04T00:34:12Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "\u2699\ufe0f Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici",
-    "id": "Kamixon131/claude-config",
-    "language": "\u2014",
-    "name": "Kamixon131/claude-config",
-    "stars": 1,
-    "updated_at": "2026-06-04T00:33:37Z",
-    "url": "https://github.com/Kamixon131/claude-config"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-06-04T00:30:57Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
-    "id": "bhavya7995/AI_governance",
-    "language": "PowerShell",
-    "name": "bhavya7995/AI_governance",
-    "stars": 1,
-    "updated_at": "2026-06-04T00:28:32Z",
-    "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
