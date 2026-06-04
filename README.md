@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-04 11:30 UTC
+> ⏰ Last updated: 2026-06-04 11:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -58,7 +58,7 @@ expired items removed — so you can rely on what you see being current.
 | 14 | [reaatech/hybrid-rag-qdrant](https://github.com/reaatech/hybrid-rag-qdrant) | 1 | TypeScript | 2026-06-04 | Serious hybrid RAG reference — vector + BM25 + reranker over Qdrant, chunking strategies benchmarked, eval set included, |
 | 15 | [reaatech/rag-eval-pack](https://github.com/reaatech/rag-eval-pack) | 0 | TypeScript | 2026-06-04 | RAG evaluation toolkit — faithfulness, answer relevance, context precision/recall, cost accounting, CI gates. Pairs with |
 | 16 | [reaatech/agent-eval-harness](https://github.com/reaatech/agent-eval-harness) | 0 | TypeScript | 2026-06-04 | End-to-end agent evaluation — trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w |
-| 17 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21869 | TypeScript | 2026-06-04 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 17 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21870 | TypeScript | 2026-06-04 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 18 | [Juanllenato/llm-eval-harness](https://github.com/Juanllenato/llm-eval-harness) | 0 | Python | 2026-06-03 | A small, production-minded evaluation and observability harness for LLM/RAG features. Runs offline or live, gates CI on  |
 | 19 | [truera/trulens](https://github.com/truera/trulens) | 3358 | Python | 2026-06-03 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 20 | [Victor-David-Medina/llm-eval-harness](https://github.com/Victor-David-Medina/llm-eval-harness) | 0 | Python | 2026-06-03 | LLM evaluation harness that gates quality in CI: golden datasets, regression detection, grounding and faithfulness check |
