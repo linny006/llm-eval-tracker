@@ -1,10 +1,19 @@
 [
   {
+    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
+    "id": "penpoen/llm-SugarScape",
+    "language": "Python",
+    "name": "penpoen/llm-SugarScape",
+    "stars": 1,
+    "updated_at": "2026-06-04T13:57:47Z",
+    "url": "https://github.com/penpoen/llm-SugarScape"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 21874,
+    "stars": 21875,
     "updated_at": "2026-06-04T13:20:56Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5418,
-    "updated_at": "2026-06-04T09:59:03Z",
+    "updated_at": "2026-06-04T13:49:25Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -81,20 +90,11 @@
     "url": "https://github.com/Phinchanbora/llm-evaluation"
   },
   {
-    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
-    "id": "penpoen/llm-SugarScape",
-    "language": "Python",
-    "name": "penpoen/llm-SugarScape",
-    "stars": 1,
-    "updated_at": "2026-06-04T09:07:17Z",
-    "url": "https://github.com/penpoen/llm-SugarScape"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 9979,
+    "stars": 9980,
     "updated_at": "2026-06-04T07:47:51Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
