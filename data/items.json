@@ -1,5 +1,14 @@
 [
   {
+    "description": "Serious hybrid RAG reference \u2014 vector + BM25 + reranker over Qdrant, chunking strategies benchmarked, eval set included,",
+    "id": "reaatech/hybrid-rag-qdrant",
+    "language": "TypeScript",
+    "name": "reaatech/hybrid-rag-qdrant",
+    "stars": 1,
+    "updated_at": "2026-06-04T03:14:14Z",
+    "url": "https://github.com/reaatech/hybrid-rag-qdrant"
+  },
+  {
     "description": "Offline classifier evaluation harness \u2014 dataset loader, confusion matrices, LLM-as-judge with cost accounting, regressio",
     "id": "reaatech/classifier-evals",
     "language": "TypeScript",
@@ -7,15 +16,6 @@
     "stars": 0,
     "updated_at": "2026-06-04T02:54:58Z",
     "url": "https://github.com/reaatech/classifier-evals"
-  },
-  {
-    "description": "Serious hybrid RAG reference \u2014 vector + BM25 + reranker over Qdrant, chunking strategies benchmarked, eval set included,",
-    "id": "reaatech/hybrid-rag-qdrant",
-    "language": "TypeScript",
-    "name": "reaatech/hybrid-rag-qdrant",
-    "stars": 1,
-    "updated_at": "2026-06-04T02:59:10Z",
-    "url": "https://github.com/reaatech/hybrid-rag-qdrant"
   },
   {
     "description": "RAG evaluation toolkit \u2014 faithfulness, answer relevance, context precision/recall, cost accounting, CI gates. Pairs with",
@@ -67,7 +67,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 9972,
+    "stars": 9973,
     "updated_at": "2026-06-04T00:34:12Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
