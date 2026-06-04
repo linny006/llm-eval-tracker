@@ -5,8 +5,26 @@
     "language": "TypeScript",
     "name": "reaatech/rag-eval-pack",
     "stars": 0,
-    "updated_at": "2026-06-04T01:58:00Z",
+    "updated_at": "2026-06-04T02:08:32Z",
     "url": "https://github.com/reaatech/rag-eval-pack"
+  },
+  {
+    "description": "Serious hybrid RAG reference \u2014 vector + BM25 + reranker over Qdrant, chunking strategies benchmarked, eval set included,",
+    "id": "reaatech/hybrid-rag-qdrant",
+    "language": "TypeScript",
+    "name": "reaatech/hybrid-rag-qdrant",
+    "stars": 1,
+    "updated_at": "2026-06-04T02:08:04Z",
+    "url": "https://github.com/reaatech/hybrid-rag-qdrant"
+  },
+  {
+    "description": "Offline classifier evaluation harness \u2014 dataset loader, confusion matrices, LLM-as-judge with cost accounting, regressio",
+    "id": "reaatech/classifier-evals",
+    "language": "TypeScript",
+    "name": "reaatech/classifier-evals",
+    "stars": 0,
+    "updated_at": "2026-06-04T02:07:59Z",
+    "url": "https://github.com/reaatech/classifier-evals"
   },
   {
     "description": "End-to-end agent evaluation \u2014 trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w",
@@ -14,7 +32,7 @@
     "language": "TypeScript",
     "name": "reaatech/agent-eval-harness",
     "stars": 0,
-    "updated_at": "2026-06-04T01:57:42Z",
+    "updated_at": "2026-06-04T02:07:47Z",
     "url": "https://github.com/reaatech/agent-eval-harness"
   },
   {
@@ -259,24 +277,6 @@
     "stars": 1,
     "updated_at": "2026-05-27T21:11:06Z",
     "url": "https://github.com/ajmeese7/local-llms"
-  },
-  {
-    "description": "Serious hybrid RAG reference \u2014 vector + BM25 + reranker over Qdrant, chunking strategies benchmarked, eval set included,",
-    "id": "reaatech/hybrid-rag-qdrant",
-    "language": "TypeScript",
-    "name": "reaatech/hybrid-rag-qdrant",
-    "stars": 1,
-    "updated_at": "2026-05-27T18:29:05Z",
-    "url": "https://github.com/reaatech/hybrid-rag-qdrant"
-  },
-  {
-    "description": "Offline classifier evaluation harness \u2014 dataset loader, confusion matrices, LLM-as-judge with cost accounting, regressio",
-    "id": "reaatech/classifier-evals",
-    "language": "TypeScript",
-    "name": "reaatech/classifier-evals",
-    "stars": 0,
-    "updated_at": "2026-06-04T01:33:30Z",
-    "url": "https://github.com/reaatech/classifier-evals"
   },
   {
     "description": "Persona-driven dynamic testing for conversational AI products. Focus groups for your agents.",
