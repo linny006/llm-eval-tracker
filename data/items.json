@@ -14,7 +14,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 298,
-    "updated_at": "2026-06-04T19:45:48Z",
+    "updated_at": "2026-06-04T20:47:24Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -25,6 +25,15 @@
     "stars": 0,
     "updated_at": "2026-06-04T19:31:08Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9984,
+    "updated_at": "2026-06-04T19:27:10Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\u2699\ufe0f Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici",
@@ -61,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-04T18:58:58Z",
     "url": "https://github.com/Phinchanbora/llm-evaluation"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9983,
-    "updated_at": "2026-06-04T19:27:10Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
