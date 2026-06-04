@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9975,
+    "updated_at": "2026-06-04T07:47:51Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "\u7b2c\u4e00\u4e2a\u805a\u7126\"\u7b80\u5386\u6539\u5199\u8bda\u5b9e\u5ea6\"\u7684\u4e2d\u6587 LLM benchmark\uff1a20 \u771f\u5b9e\u8131\u654f\u7b80\u5386 \u00d7 3 \u6a21\u578b \u00d7 4 \u8bc4\u5206\u7ef4\u5ea6",
     "id": "melody-ling-L/eval-resume",
     "language": "HTML",
@@ -95,7 +104,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5417,
-    "updated_at": "2026-06-04T07:39:00Z",
+    "updated_at": "2026-06-04T07:45:32Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -126,20 +135,11 @@
     "url": "https://github.com/reaatech/agent-eval-harness"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9975,
-    "updated_at": "2026-06-04T07:42:17Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 21860,
+    "stars": 21861,
     "updated_at": "2026-06-04T00:19:37Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
