@@ -1,5 +1,23 @@
 [
   {
+    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
+    "id": "penpoen/llm-SugarScape",
+    "language": "Python",
+    "name": "penpoen/llm-SugarScape",
+    "stars": 1,
+    "updated_at": "2026-06-03T23:54:26Z",
+    "url": "https://github.com/penpoen/llm-SugarScape"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21849,
+    "updated_at": "2026-06-03T23:44:57Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "A small, production-minded evaluation and observability harness for LLM/RAG features. Runs offline or live, gates CI on ",
     "id": "Juanllenato/llm-eval-harness",
     "language": "Python",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9971,
-    "updated_at": "2026-06-03T23:37:48Z",
+    "updated_at": "2026-06-03T23:59:21Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -72,15 +90,6 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21848,
-    "updated_at": "2026-06-03T23:44:57Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
     "id": "Phinchanbora/llm-evaluation",
     "language": "Python",
@@ -88,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T19:41:18Z",
     "url": "https://github.com/Phinchanbora/llm-evaluation"
-  },
-  {
-    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
-    "id": "penpoen/llm-SugarScape",
-    "language": "Python",
-    "name": "penpoen/llm-SugarScape",
-    "stars": 1,
-    "updated_at": "2026-06-03T19:27:20Z",
-    "url": "https://github.com/penpoen/llm-SugarScape"
   },
   {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
@@ -140,7 +140,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5417,
-    "updated_at": "2026-06-03T16:03:39Z",
+    "updated_at": "2026-06-03T23:51:56Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
