@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21916,
+    "updated_at": "2026-06-05T13:18:48Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
     "id": "saddled-panicattack529/idea-evaluation-pipeline",
     "language": "\u2014",
@@ -77,7 +86,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9990,
-    "updated_at": "2026-06-05T07:55:21Z",
+    "updated_at": "2026-06-05T13:40:04Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -86,17 +95,8 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5418,
-    "updated_at": "2026-06-05T13:10:34Z",
+    "updated_at": "2026-06-05T13:42:28Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21915,
-    "updated_at": "2026-06-05T13:18:48Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
@@ -104,7 +104,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 299,
-    "updated_at": "2026-06-05T09:41:36Z",
+    "updated_at": "2026-06-05T13:42:38Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
