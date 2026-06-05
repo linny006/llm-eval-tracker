@@ -1,5 +1,23 @@
 [
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5418,
+    "updated_at": "2026-06-05T06:15:01Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9988,
+    "updated_at": "2026-06-05T06:08:28Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
     "id": "saddled-panicattack529/idea-evaluation-pipeline",
     "language": "\u2014",
@@ -79,24 +97,6 @@
     "stars": 299,
     "updated_at": "2026-06-05T02:36:14Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9988,
-    "updated_at": "2026-06-04T19:27:10Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5418,
-    "updated_at": "2026-06-05T05:28:48Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "\u7b2c\u4e00\u4e2a\u805a\u7126\"\u7b80\u5386\u6539\u5199\u8bda\u5b9e\u5ea6\"\u7684\u4e2d\u6587 LLM benchmark\uff1a20 \u771f\u5b9e\u8131\u654f\u7b80\u5386 \u00d7 3 \u6a21\u578b \u00d7 4 \u8bc4\u5206\u7ef4\u5ea6",
