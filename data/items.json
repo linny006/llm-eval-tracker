@@ -1,5 +1,23 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21924,
+    "updated_at": "2026-06-05T16:59:46Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
+    "id": "Kondwani10/Origin-Continuum",
+    "language": "\u2014",
+    "name": "Kondwani10/Origin-Continuum",
+    "stars": 0,
+    "updated_at": "2026-06-05T16:48:26Z",
+    "url": "https://github.com/Kondwani10/Origin-Continuum"
+  },
+  {
     "description": "\u2699\ufe0f Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici",
     "id": "Kamixon131/claude-config",
     "language": "\u2014",
@@ -32,7 +50,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9991,
-    "updated_at": "2026-06-05T16:36:29Z",
+    "updated_at": "2026-06-05T16:57:44Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -54,15 +72,6 @@
     "url": "https://github.com/penpoen/llm-SugarScape"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21923,
-    "updated_at": "2026-06-05T16:45:02Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "tjoe ToolTraceEval\uff1a\u672c\u5730\u79bb\u7ebf AI Agent eval toolkit\uff1b\u4e0d\u662f SaaS\u3001dashboard\u3001runtime trace collector \u6216 SDK",
     "id": "thewonderofyou777z-dot/tjoe-tooltraceeval",
     "language": "Python",
@@ -79,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T13:01:09Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
-    "id": "Kondwani10/Origin-Continuum",
-    "language": "\u2014",
-    "name": "Kondwani10/Origin-Continuum",
-    "stars": 0,
-    "updated_at": "2026-06-05T12:23:58Z",
-    "url": "https://github.com/Kondwani10/Origin-Continuum"
   },
   {
     "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
