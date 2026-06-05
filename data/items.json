@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9998,
+    "updated_at": "2026-06-05T22:42:37Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -16,15 +25,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T21:56:47Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9997,
-    "updated_at": "2026-06-05T22:42:37Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -202,7 +202,7 @@
     "id": "harnexa/nexa-gauge",
     "language": "Python",
     "name": "harnexa/nexa-gauge",
-    "stars": 37,
+    "stars": 38,
     "updated_at": "2026-06-02T06:51:38Z",
     "url": "https://github.com/harnexa/nexa-gauge"
   },

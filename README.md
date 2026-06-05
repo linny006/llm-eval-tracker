@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-05 22:45 UTC
+> ⏰ Last updated: 2026-06-05 23:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21931 | TypeScript | 2026-06-05 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 2 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-06-05 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9997 | Python | 2026-06-05 | AI Observability & Evaluation |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9998 | Python | 2026-06-05 | AI Observability & Evaluation |
+| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21931 | TypeScript | 2026-06-05 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 3 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-06-05 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 4 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-06-05 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 5 | [Kamixon131/claude-config](https://github.com/Kamixon131/claude-config) | 1 | — | 2026-06-05 | ⚙️ Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici |
 | 6 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-06-05 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
@@ -64,7 +64,7 @@ expired items removed — so you can rely on what you see being current.
 | 20 | [Juanllenato/llm-eval-harness](https://github.com/Juanllenato/llm-eval-harness) | 0 | Python | 2026-06-03 | A small, production-minded evaluation and observability harness for LLM/RAG features. Runs offline or live, gates CI on  |
 | 21 | [truera/trulens](https://github.com/truera/trulens) | 3358 | Python | 2026-06-04 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 22 | [Victor-David-Medina/llm-eval-harness](https://github.com/Victor-David-Medina/llm-eval-harness) | 0 | Python | 2026-06-03 | LLM evaluation harness that gates quality in CI: golden datasets, regression detection, grounding and faithfulness check |
-| 23 | [harnexa/nexa-gauge](https://github.com/harnexa/nexa-gauge) | 37 | Python | 2026-06-02 | An graph-eval framework for LLM's  |
+| 23 | [harnexa/nexa-gauge](https://github.com/harnexa/nexa-gauge) | 38 | Python | 2026-06-02 | An graph-eval framework for LLM's  |
 | 24 | [thestio/thest-eval](https://github.com/thestio/thest-eval) | 0 | Python | 2026-06-02 | The CI regression gate and governance-evidence layer for LLM systems — zero-dependency, vendor-neutral, offline. |
 | 25 | [pdxlab/trustmodel-mcp-server](https://github.com/pdxlab/trustmodel-mcp-server) | 0 | TypeScript | 2026-06-01 | TrustModel MCP Server — trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t |
 | 26 | [karlmehta/trustmodel-mcp](https://github.com/karlmehta/trustmodel-mcp) | 0 | TypeScript | 2026-06-01 | TrustModel MCP Server — trust evaluation, red-team & governance for AI agents via the Model Context Protocol. Public can |
