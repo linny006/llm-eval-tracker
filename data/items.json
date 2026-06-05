@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
+    "id": "Kondwani10/Origin-Continuum",
+    "language": "\u2014",
+    "name": "Kondwani10/Origin-Continuum",
+    "stars": 0,
+    "updated_at": "2026-06-05T05:15:45Z",
+    "url": "https://github.com/Kondwani10/Origin-Continuum"
+  },
+  {
     "description": "\u2699\ufe0f Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici",
     "id": "Kamixon131/claude-config",
     "language": "\u2014",
@@ -63,15 +72,6 @@
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
-    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
-    "id": "Kondwani10/Origin-Continuum",
-    "language": "\u2014",
-    "name": "Kondwani10/Origin-Continuum",
-    "stars": 0,
-    "updated_at": "2026-06-05T02:19:07Z",
-    "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -85,7 +85,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 9987,
+    "stars": 9988,
     "updated_at": "2026-06-04T19:27:10Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -95,7 +95,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5418,
-    "updated_at": "2026-06-04T17:58:16Z",
+    "updated_at": "2026-06-05T05:28:48Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
