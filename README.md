@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-05 19:45 UTC
+> ⏰ Last updated: 2026-06-05 20:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,7 +42,7 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9994 | Python | 2026-06-05 | AI Observability & Evaluation |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9996 | Python | 2026-06-05 | AI Observability & Evaluation |
 | 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21928 | TypeScript | 2026-06-05 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 3 | [thewonderofyou777z-dot/tjoe-tooltraceeval](https://github.com/thewonderofyou777z-dot/tjoe-tooltraceeval) | 0 | Python | 2026-06-05 | tjoe ToolTraceEval：本地离线 AI Agent eval toolkit；不是 SaaS、dashboard、runtime trace collector 或 SDK |
 | 4 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-06-05 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
