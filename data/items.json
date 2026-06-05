@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "thewonderofyou777z-dot/tjoe-tooltraceeval",
     "stars": 0,
-    "updated_at": "2026-06-05T14:40:05Z",
+    "updated_at": "2026-06-05T15:00:21Z",
     "url": "https://github.com/thewonderofyou777z-dot/tjoe-tooltraceeval"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9991,
+    "updated_at": "2026-06-05T14:58:42Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -16,15 +25,6 @@
     "stars": 21921,
     "updated_at": "2026-06-05T14:23:15Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9991,
-    "updated_at": "2026-06-05T14:21:09Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
