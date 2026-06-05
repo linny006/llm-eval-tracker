@@ -1,11 +1,20 @@
 [
   {
+    "description": "tjoe ToolTraceEval\uff1a\u672c\u5730\u79bb\u7ebf AI Agent eval toolkit\uff1b\u4e0d\u662f SaaS\u3001dashboard\u3001runtime trace collector \u6216 SDK",
+    "id": "thewonderofyou777z-dot/tjoe-tooltraceeval",
+    "language": "Python",
+    "name": "thewonderofyou777z-dot/tjoe-tooltraceeval",
+    "stars": 0,
+    "updated_at": "2026-06-05T17:59:30Z",
+    "url": "https://github.com/thewonderofyou777z-dot/tjoe-tooltraceeval"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21926,
-    "updated_at": "2026-06-05T17:44:53Z",
+    "updated_at": "2026-06-05T17:57:46Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -81,21 +90,12 @@
     "url": "https://github.com/penpoen/llm-SugarScape"
   },
   {
-    "description": "tjoe ToolTraceEval\uff1a\u672c\u5730\u79bb\u7ebf AI Agent eval toolkit\uff1b\u4e0d\u662f SaaS\u3001dashboard\u3001runtime trace collector \u6216 SDK",
-    "id": "thewonderofyou777z-dot/tjoe-tooltraceeval",
-    "language": "Python",
-    "name": "thewonderofyou777z-dot/tjoe-tooltraceeval",
-    "stars": 0,
-    "updated_at": "2026-06-05T15:00:48Z",
-    "url": "https://github.com/thewonderofyou777z-dot/tjoe-tooltraceeval"
-  },
-  {
     "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
     "id": "NoesisVision/nasde-toolkit",
     "language": "Python",
     "name": "NoesisVision/nasde-toolkit",
     "stars": 10,
-    "updated_at": "2026-06-05T12:59:31Z",
+    "updated_at": "2026-06-05T17:59:44Z",
     "url": "https://github.com/NoesisVision/nasde-toolkit"
   },
   {
@@ -283,7 +283,7 @@
     "id": "fastxyz/skill-optimizer",
     "language": "TypeScript",
     "name": "fastxyz/skill-optimizer",
-    "stars": 61,
+    "stars": 62,
     "updated_at": "2026-05-28T17:39:51Z",
     "url": "https://github.com/fastxyz/skill-optimizer"
   },
