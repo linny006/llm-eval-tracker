@@ -1,5 +1,14 @@
 [
   {
+    "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
+    "id": "NoesisVision/nasde-toolkit",
+    "language": "Python",
+    "name": "NoesisVision/nasde-toolkit",
+    "stars": 10,
+    "updated_at": "2026-06-05T08:17:41Z",
+    "url": "https://github.com/NoesisVision/nasde-toolkit"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -67,7 +76,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 21902,
+    "stars": 21903,
     "updated_at": "2026-06-05T05:04:15Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -178,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T17:16:47Z",
     "url": "https://github.com/Victor-David-Medina/llm-eval-harness"
-  },
-  {
-    "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
-    "id": "NoesisVision/nasde-toolkit",
-    "language": "Python",
-    "name": "NoesisVision/nasde-toolkit",
-    "stars": 10,
-    "updated_at": "2026-06-05T08:11:02Z",
-    "url": "https://github.com/NoesisVision/nasde-toolkit"
   },
   {
     "description": "An graph-eval framework for LLM's ",
