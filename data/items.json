@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21927,
+    "updated_at": "2026-06-05T18:07:18Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "tjoe ToolTraceEval\uff1a\u672c\u5730\u79bb\u7ebf AI Agent eval toolkit\uff1b\u4e0d\u662f SaaS\u3001dashboard\u3001runtime trace collector \u6216 SDK",
     "id": "thewonderofyou777z-dot/tjoe-tooltraceeval",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T17:59:30Z",
     "url": "https://github.com/thewonderofyou777z-dot/tjoe-tooltraceeval"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21926,
-    "updated_at": "2026-06-05T18:07:18Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
