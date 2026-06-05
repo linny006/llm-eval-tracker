@@ -1,10 +1,19 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9993,
+    "updated_at": "2026-06-05T19:01:44Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 21927,
+    "stars": 21928,
     "updated_at": "2026-06-05T18:07:18Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -16,15 +25,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T17:59:30Z",
     "url": "https://github.com/thewonderofyou777z-dot/tjoe-tooltraceeval"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9992,
-    "updated_at": "2026-06-05T18:53:58Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
@@ -72,6 +72,15 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 300,
+    "updated_at": "2026-06-05T16:16:48Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
     "id": "Phinchanbora/llm-evaluation",
     "language": "Python",
@@ -106,15 +115,6 @@
     "stars": 5418,
     "updated_at": "2026-06-05T14:08:50Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 299,
-    "updated_at": "2026-06-05T16:16:48Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "\u7b2c\u4e00\u4e2a\u805a\u7126\"\u7b80\u5386\u6539\u5199\u8bda\u5b9e\u5ea6\"\u7684\u4e2d\u6587 LLM benchmark\uff1a20 \u771f\u5b9e\u8131\u654f\u7b80\u5386 \u00d7 3 \u6a21\u578b \u00d7 4 \u8bc4\u5206\u7ef4\u5ea6",
