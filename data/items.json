@@ -1,5 +1,14 @@
 [
   {
+    "description": "\u2699\ufe0f Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici",
+    "id": "Kamixon131/claude-config",
+    "language": "\u2014",
+    "name": "Kamixon131/claude-config",
+    "stars": 1,
+    "updated_at": "2026-06-05T16:40:46Z",
+    "url": "https://github.com/Kamixon131/claude-config"
+  },
+  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -50,7 +59,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21923,
-    "updated_at": "2026-06-05T15:13:51Z",
+    "updated_at": "2026-06-05T16:45:02Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -79,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T12:23:58Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
-    "description": "\u2699\ufe0f Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici",
-    "id": "Kamixon131/claude-config",
-    "language": "\u2014",
-    "name": "Kamixon131/claude-config",
-    "stars": 1,
-    "updated_at": "2026-06-05T12:16:00Z",
-    "url": "https://github.com/Kamixon131/claude-config"
   },
   {
     "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
