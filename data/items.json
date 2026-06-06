@@ -81,6 +81,15 @@
     "url": "https://github.com/penpoen/llm-SugarScape"
   },
   {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3359,
+    "updated_at": "2026-06-05T23:25:19Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "tjoe ToolTraceEval\uff1a\u672c\u5730\u79bb\u7ebf AI Agent eval toolkit\uff1b\u4e0d\u662f SaaS\u3001dashboard\u3001runtime trace collector \u6216 SDK",
     "id": "thewonderofyou777z-dot/tjoe-tooltraceeval",
     "language": "Python",
@@ -178,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T23:29:37Z",
     "url": "https://github.com/Juanllenato/llm-eval-harness"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3358,
-    "updated_at": "2026-06-05T23:25:19Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "LLM evaluation harness that gates quality in CI: golden datasets, regression detection, grounding and faithfulness check",
