@@ -1,5 +1,32 @@
 [
   {
+    "description": "\u2699\ufe0f Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici",
+    "id": "Kamixon131/claude-config",
+    "language": "\u2014",
+    "name": "Kamixon131/claude-config",
+    "stars": 1,
+    "updated_at": "2026-06-06T01:15:05Z",
+    "url": "https://github.com/Kamixon131/claude-config"
+  },
+  {
+    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
+    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "language": "\u2014",
+    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "stars": 0,
+    "updated_at": "2026-06-06T01:12:45Z",
+    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
+  },
+  {
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-06-06T01:10:36Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
     "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
     "id": "Phinchanbora/llm-evaluation",
     "language": "Python",
@@ -31,7 +58,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 9998,
+    "stars": 9999,
     "updated_at": "2026-06-06T00:03:38Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -52,33 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T21:19:11Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
-    "description": "\u2699\ufe0f Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici",
-    "id": "Kamixon131/claude-config",
-    "language": "\u2014",
-    "name": "Kamixon131/claude-config",
-    "stars": 1,
-    "updated_at": "2026-06-05T21:12:22Z",
-    "url": "https://github.com/Kamixon131/claude-config"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-06-05T21:09:51Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
-    "id": "bhavya7995/AI_governance",
-    "language": "PowerShell",
-    "name": "bhavya7995/AI_governance",
-    "stars": 1,
-    "updated_at": "2026-06-05T21:07:36Z",
-    "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
     "description": "tjoe ToolTraceEval\uff1a\u672c\u5730\u79bb\u7ebf AI Agent eval toolkit\uff1b\u4e0d\u662f SaaS\u3001dashboard\u3001runtime trace collector \u6216 SDK",
