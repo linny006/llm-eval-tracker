@@ -59,7 +59,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21968,
-    "updated_at": "2026-06-07T08:41:28Z",
+    "updated_at": "2026-06-07T09:11:52Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -70,6 +70,15 @@
     "stars": 0,
     "updated_at": "2026-06-07T05:28:17Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 301,
+    "updated_at": "2026-06-06T23:31:24Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -97,15 +106,6 @@
     "stars": 3361,
     "updated_at": "2026-06-05T23:25:19Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 300,
-    "updated_at": "2026-06-06T23:31:24Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
