@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-07 14:45 UTC
+> ⏰ Last updated: 2026-06-07 15:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,8 +42,8 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [reaatech/hybrid-rag-qdrant](https://github.com/reaatech/hybrid-rag-qdrant) | 1 | TypeScript | 2026-06-07 | Serious hybrid RAG reference — vector + BM25 + reranker over Qdrant, chunking strategies benchmarked, eval set included, |
-| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21972 | TypeScript | 2026-06-07 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21972 | TypeScript | 2026-06-07 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 2 | [reaatech/hybrid-rag-qdrant](https://github.com/reaatech/hybrid-rag-qdrant) | 1 | TypeScript | 2026-06-07 | Serious hybrid RAG reference — vector + BM25 + reranker over Qdrant, chunking strategies benchmarked, eval set included, |
 | 3 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-06-07 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 4 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-06-07 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 5 | [Kamixon131/claude-config](https://github.com/Kamixon131/claude-config) | 1 | — | 2026-06-07 | ⚙️ Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici |
