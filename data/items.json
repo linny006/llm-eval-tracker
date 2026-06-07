@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
+    "id": "penpoen/llm-SugarScape",
+    "language": "Python",
+    "name": "penpoen/llm-SugarScape",
+    "stars": 1,
+    "updated_at": "2026-06-07T19:26:42Z",
+    "url": "https://github.com/penpoen/llm-SugarScape"
+  },
+  {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
     "id": "saddled-panicattack529/idea-evaluation-pipeline",
     "language": "\u2014",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21981,
-    "updated_at": "2026-06-07T19:15:21Z",
+    "updated_at": "2026-06-07T19:24:52Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -61,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-07T15:26:15Z",
     "url": "https://github.com/Phinchanbora/llm-evaluation"
-  },
-  {
-    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
-    "id": "penpoen/llm-SugarScape",
-    "language": "Python",
-    "name": "penpoen/llm-SugarScape",
-    "stars": 1,
-    "updated_at": "2026-06-07T15:12:54Z",
-    "url": "https://github.com/penpoen/llm-SugarScape"
   },
   {
     "description": "Serious hybrid RAG reference \u2014 vector + BM25 + reranker over Qdrant, chunking strategies benchmarked, eval set included,",
