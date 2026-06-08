@@ -4,9 +4,27 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22018,
-    "updated_at": "2026-06-08T18:10:32Z",
+    "stars": 22019,
+    "updated_at": "2026-06-08T18:23:17Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Continuity Keys: tests for \u201csame someone\u201d returns. Behavioral identity consistency under pressure. Origin (Alyssa Solen)",
+    "id": "alyssadata/continuity-keys",
+    "language": "\u2014",
+    "name": "alyssadata/continuity-keys",
+    "stars": 1,
+    "updated_at": "2026-06-08T18:22:55Z",
+    "url": "https://github.com/alyssadata/continuity-keys"
+  },
+  {
+    "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
+    "id": "NoesisVision/nasde-toolkit",
+    "language": "Python",
+    "name": "NoesisVision/nasde-toolkit",
+    "stars": 10,
+    "updated_at": "2026-06-08T18:21:10Z",
+    "url": "https://github.com/NoesisVision/nasde-toolkit"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
@@ -14,8 +32,17 @@
     "language": "Ruby",
     "name": "homemade-software-inc/completion-kit",
     "stars": 1,
-    "updated_at": "2026-06-08T17:55:39Z",
+    "updated_at": "2026-06-08T18:15:29Z",
     "url": "https://github.com/homemade-software-inc/completion-kit"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10039,
+    "updated_at": "2026-06-08T18:05:04Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
@@ -63,15 +90,6 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
-    "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
-    "id": "NoesisVision/nasde-toolkit",
-    "language": "Python",
-    "name": "NoesisVision/nasde-toolkit",
-    "stars": 10,
-    "updated_at": "2026-06-08T17:23:28Z",
-    "url": "https://github.com/NoesisVision/nasde-toolkit"
-  },
-  {
     "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
     "id": "Phinchanbora/llm-evaluation",
     "language": "Python",
@@ -88,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-06-08T16:18:11Z",
     "url": "https://github.com/penpoen/llm-SugarScape"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10038,
-    "updated_at": "2026-06-08T18:05:04Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-10T02:39:12Z",
     "url": "https://github.com/Ruthwik-Data/self-improving-prompt-agent"
-  },
-  {
-    "description": "Multilingual GenAI evaluation service across 5 task types and 3 languages, with regression-trend dashboard",
-    "id": "SAY-5/genai-eval",
-    "language": "Python",
-    "name": "SAY-5/genai-eval",
-    "stars": 0,
-    "updated_at": "2026-05-07T22:22:18Z",
-    "url": "https://github.com/SAY-5/genai-eval"
   }
 ]
