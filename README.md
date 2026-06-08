@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-08 20:00 UTC
+> ⏰ Last updated: 2026-06-08 20:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Kamixon131/claude-config](https://github.com/Kamixon131/claude-config) | 1 | — | 2026-06-08 | ⚙️ Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici |
-| 2 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-06-08 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
-| 3 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-06-08 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
-| 4 | [Phinchanbora/llm-evaluation](https://github.com/Phinchanbora/llm-evaluation) | 0 | Python | 2026-06-08 | 🎯 Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev |
-| 5 | [penpoen/llm-SugarScape](https://github.com/penpoen/llm-SugarScape) | 1 | Python | 2026-06-08 | 🌐 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok |
-| 6 | [alyssadata/continuity-keys](https://github.com/alyssadata/continuity-keys) | 1 | — | 2026-06-08 | Continuity Keys: tests for “same someone” returns. Behavioral identity consistency under pressure. Origin (Alyssa Solen) |
-| 7 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-06-08 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
-| 8 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22019 | TypeScript | 2026-06-08 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 9 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 10 | Python | 2026-06-08 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
-| 10 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10039 | Python | 2026-06-08 | AI Observability & Evaluation |
-| 11 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-06-08 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 12 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-06-08 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
+| 1 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-06-08 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
+| 2 | [Kamixon131/claude-config](https://github.com/Kamixon131/claude-config) | 1 | — | 2026-06-08 | ⚙️ Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici |
+| 3 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-06-08 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
+| 4 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-06-08 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
+| 5 | [Phinchanbora/llm-evaluation](https://github.com/Phinchanbora/llm-evaluation) | 0 | Python | 2026-06-08 | 🎯 Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev |
+| 6 | [penpoen/llm-SugarScape](https://github.com/penpoen/llm-SugarScape) | 1 | Python | 2026-06-08 | 🌐 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok |
+| 7 | [alyssadata/continuity-keys](https://github.com/alyssadata/continuity-keys) | 1 | — | 2026-06-08 | Continuity Keys: tests for “same someone” returns. Behavioral identity consistency under pressure. Origin (Alyssa Solen) |
+| 8 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-06-08 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
+| 9 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22019 | TypeScript | 2026-06-08 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 10 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 10 | Python | 2026-06-08 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
+| 11 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10039 | Python | 2026-06-08 | AI Observability & Evaluation |
+| 12 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-06-08 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 13 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5422 | Python | 2026-06-08 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 14 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-06-08 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 15 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 302 | TypeScript | 2026-06-08 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
@@ -73,7 +73,7 @@ expired items removed — so you can rely on what you see being current.
 | 29 | [ALEX-nlp/OpenSkillEval](https://github.com/ALEX-nlp/OpenSkillEval) | 11 | Python | 2026-06-01 | OpenSkillEval: Automatically Auditing the Open Skill Ecosystem for LLM Agents |
 | 30 | [monkeyin92/voice-agent-testops](https://github.com/monkeyin92/voice-agent-testops) | 0 | TypeScript | 2026-06-01 | Regression testing for voice agents: scripted conversations, safety assertions, CI-ready reports. |
 | 31 | [ejentum/eval](https://github.com/ejentum/eval) | 3 | Python | 2026-05-30 | A/B evaluate any LLM task with and without Ejentum cognitive injection. n8n workflow + TypeScript module. |
-| 32 | [fastxyz/skill-optimizer](https://github.com/fastxyz/skill-optimizer) | 64 | TypeScript | 2026-05-28 | Benchmark, evaluate, and optimize skills to ensure reliable performance across all LLMs |
+| 32 | [fastxyz/skill-optimizer](https://github.com/fastxyz/skill-optimizer) | 65 | TypeScript | 2026-05-28 | Benchmark, evaluate, and optimize skills to ensure reliable performance across all LLMs |
 | 33 | [ajmeese7/local-llms](https://github.com/ajmeese7/local-llms) | 1 | Python | 2026-05-27 | Use local Large Language Models for production use cases, and perform benchmarking for task-specific performance evaluat |
 | 34 | [rogue-socket/focusgroup](https://github.com/rogue-socket/focusgroup) | 0 | Python | 2026-05-27 | Persona-driven dynamic testing for conversational AI products. Focus groups for your agents. |
 | 35 | [MyForgeLabs/myforge-vault-1111](https://github.com/MyForgeLabs/myforge-vault-1111) | 0 | Python | 2026-05-26 | An open-source 8-axis methodology + working tooling for evolving a personal Obsidian-vault into a self-improving knowled |
