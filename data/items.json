@@ -1,11 +1,20 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10038,
+    "updated_at": "2026-06-08T15:38:22Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
     "id": "NoesisVision/nasde-toolkit",
     "language": "Python",
     "name": "NoesisVision/nasde-toolkit",
     "stars": 10,
-    "updated_at": "2026-06-08T15:09:01Z",
+    "updated_at": "2026-06-08T15:31:55Z",
     "url": "https://github.com/NoesisVision/nasde-toolkit"
   },
   {
@@ -76,7 +85,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22014,
+    "stars": 22015,
     "updated_at": "2026-06-08T10:42:05Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -85,7 +94,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5422,
+    "stars": 5421,
     "updated_at": "2026-06-08T04:04:08Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
@@ -99,21 +108,12 @@
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10038,
-    "updated_at": "2026-06-07T00:11:28Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 302,
-    "updated_at": "2026-06-08T15:01:20Z",
+    "updated_at": "2026-06-08T15:40:10Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
