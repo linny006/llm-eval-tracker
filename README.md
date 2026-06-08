@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-08 00:45 UTC
+> ⏰ Last updated: 2026-06-08 01:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -55,7 +55,7 @@ expired items removed — so you can rely on what you see being current.
 | 11 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 302 | TypeScript | 2026-06-07 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 12 | [thewonderofyou777z-dot/tjoe-reviewkit](https://github.com/thewonderofyou777z-dot/tjoe-reviewkit) | 0 | Python | 2026-06-06 | TjoeReviewKit：tjoe 的本地离线工作流复盘检查工具；不运行任务、不联网、不接管工具调用、不采集生产日志 |
 | 13 | [truera/trulens](https://github.com/truera/trulens) | 3363 | Python | 2026-06-05 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 14 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5420 | Python | 2026-06-05 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 14 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5420 | Python | 2026-06-08 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 15 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 10 | Python | 2026-06-05 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
 | 16 | [melody-ling-L/eval-resume](https://github.com/melody-ling-L/eval-resume) | 0 | HTML | 2026-06-04 | 第一个聚焦"简历改写诚实度"的中文 LLM benchmark：20 真实脱敏简历 × 3 模型 × 4 评分维度 |
 | 17 | [reaatech/classifier-evals](https://github.com/reaatech/classifier-evals) | 0 | TypeScript | 2026-06-04 | Offline classifier evaluation harness — dataset loader, confusion matrices, LLM-as-judge with cost accounting, regressio |
@@ -84,7 +84,7 @@ expired items removed — so you can rely on what you see being current.
 | 40 | [GiuseppeSp/n8n-customer-interview-synthesizer](https://github.com/GiuseppeSp/n8n-customer-interview-synthesizer) | 0 | — | 2026-05-19 | Multi-agent customer-interview synthesis pipeline in n8n with LLM-as-judge eval, Slack human-in-the-loop approval, and d |
 | 41 | [gmitt98/fieldtest](https://github.com/gmitt98/fieldtest) | 0 | Python | 2026-05-16 | LLM evaluation framework — define what correct, well-formed, and safe means before you measure |
 | 42 | [verifywise-ai/plugin-marketplace](https://github.com/verifywise-ai/plugin-marketplace) | 3 | TypeScript | 2026-05-15 | VerifyWise AI Governance Plugin Marketplace |
-| 43 | [AI-QL/tuui](https://github.com/AI-QL/tuui) | 1147 | TypeScript | 2026-05-14 | A desktop MCP client designed as a tool unitary utility integration, accelerating AI adoption through the Model Context  |
+| 43 | [AI-QL/tuui](https://github.com/AI-QL/tuui) | 1148 | TypeScript | 2026-05-14 | A desktop MCP client designed as a tool unitary utility integration, accelerating AI adoption through the Model Context  |
 | 44 | [prompt-foundry/typescript-sdk](https://github.com/prompt-foundry/typescript-sdk) | 6 | TypeScript | 2026-05-13 | The prompt engineering, prompt management, and prompt evaluation tool for TypeScript, JavaScript, and NodeJS. |
 | 45 | [prompt-foundry/python-sdk](https://github.com/prompt-foundry/python-sdk) | 8 | Python | 2026-05-13 | The prompt engineering, prompt management, and prompt evaluation tool for Python |
 | 46 | [Ruthwik-Data/mechanictrust](https://github.com/Ruthwik-Data/mechanictrust) | 0 | — | 2026-05-11 | AI product case study for trust, pricing transparency, and explainable diagnosis in auto repair. |
