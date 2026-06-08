@@ -81,15 +81,6 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "Serious hybrid RAG reference \u2014 vector + BM25 + reranker over Qdrant, chunking strategies benchmarked, eval set included,",
-    "id": "reaatech/hybrid-rag",
-    "language": "TypeScript",
-    "name": "reaatech/hybrid-rag",
-    "stars": 1,
-    "updated_at": "2026-06-08T00:13:33Z",
-    "url": "https://github.com/reaatech/hybrid-rag"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -448,5 +439,14 @@
     "stars": 0,
     "updated_at": "2026-05-10T02:39:12Z",
     "url": "https://github.com/Ruthwik-Data/self-improving-prompt-agent"
+  },
+  {
+    "description": "Multilingual GenAI evaluation service across 5 task types and 3 languages, with regression-trend dashboard",
+    "id": "SAY-5/genai-eval",
+    "language": "Python",
+    "name": "SAY-5/genai-eval",
+    "stars": 0,
+    "updated_at": "2026-05-07T22:22:18Z",
+    "url": "https://github.com/SAY-5/genai-eval"
   }
 ]
