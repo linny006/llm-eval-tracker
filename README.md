@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-08 09:45 UTC
+> ⏰ Last updated: 2026-06-08 09:55 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -49,10 +49,10 @@ expired items removed — so you can rely on what you see being current.
 | 5 | [Kamixon131/claude-config](https://github.com/Kamixon131/claude-config) | 1 | — | 2026-06-08 | ⚙️ Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici |
 | 6 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-06-08 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
 | 7 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-06-08 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
-| 8 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21998 | TypeScript | 2026-06-08 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 8 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22000 | TypeScript | 2026-06-08 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 9 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5421 | Python | 2026-06-08 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 10 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-06-08 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
-| 11 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10030 | Python | 2026-06-07 | AI Observability & Evaluation |
+| 11 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10032 | Python | 2026-06-07 | AI Observability & Evaluation |
 | 12 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 302 | TypeScript | 2026-06-08 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 13 | [thewonderofyou777z-dot/tjoe-reviewkit](https://github.com/thewonderofyou777z-dot/tjoe-reviewkit) | 0 | Python | 2026-06-06 | TjoeReviewKit：tjoe 的本地离线工作流复盘检查工具；不运行任务、不联网、不接管工具调用、不采集生产日志 |
 | 14 | [truera/trulens](https://github.com/truera/trulens) | 3363 | Python | 2026-06-05 | Evaluation and Tracking for LLM Experiments and AI Agents |
