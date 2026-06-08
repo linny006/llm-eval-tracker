@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-08 01:45 UTC
+> ⏰ Last updated: 2026-06-08 02:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21992 | TypeScript | 2026-06-08 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 2 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-06-07 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 3 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-06-07 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
-| 4 | [Kamixon131/claude-config](https://github.com/Kamixon131/claude-config) | 1 | — | 2026-06-07 | ⚙️ Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici |
-| 5 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-06-07 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
-| 6 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-06-07 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
-| 7 | [Phinchanbora/llm-evaluation](https://github.com/Phinchanbora/llm-evaluation) | 0 | Python | 2026-06-07 | 🎯 Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev |
-| 8 | [penpoen/llm-SugarScape](https://github.com/penpoen/llm-SugarScape) | 1 | Python | 2026-06-07 | 🌐 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok |
-| 9 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-06-07 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
-| 10 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10020 | Python | 2026-06-07 | AI Observability & Evaluation |
-| 11 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 302 | TypeScript | 2026-06-08 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 12 | [thewonderofyou777z-dot/tjoe-reviewkit](https://github.com/thewonderofyou777z-dot/tjoe-reviewkit) | 0 | Python | 2026-06-06 | TjoeReviewKit：tjoe 的本地离线工作流复盘检查工具；不运行任务、不联网、不接管工具调用、不采集生产日志 |
-| 13 | [truera/trulens](https://github.com/truera/trulens) | 3363 | Python | 2026-06-05 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 14 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5420 | Python | 2026-06-08 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 1 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5420 | Python | 2026-06-08 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 2 | [penpoen/llm-SugarScape](https://github.com/penpoen/llm-SugarScape) | 1 | Python | 2026-06-08 | 🌐 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok |
+| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21992 | TypeScript | 2026-06-08 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 4 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-06-07 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
+| 5 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-06-07 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
+| 6 | [Kamixon131/claude-config](https://github.com/Kamixon131/claude-config) | 1 | — | 2026-06-07 | ⚙️ Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici |
+| 7 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-06-07 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
+| 8 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-06-07 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
+| 9 | [Phinchanbora/llm-evaluation](https://github.com/Phinchanbora/llm-evaluation) | 0 | Python | 2026-06-07 | 🎯 Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev |
+| 10 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-06-08 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
+| 11 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10020 | Python | 2026-06-07 | AI Observability & Evaluation |
+| 12 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 302 | TypeScript | 2026-06-08 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 13 | [thewonderofyou777z-dot/tjoe-reviewkit](https://github.com/thewonderofyou777z-dot/tjoe-reviewkit) | 0 | Python | 2026-06-06 | TjoeReviewKit：tjoe 的本地离线工作流复盘检查工具；不运行任务、不联网、不接管工具调用、不采集生产日志 |
+| 14 | [truera/trulens](https://github.com/truera/trulens) | 3363 | Python | 2026-06-05 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 15 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 10 | Python | 2026-06-05 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
 | 16 | [melody-ling-L/eval-resume](https://github.com/melody-ling-L/eval-resume) | 0 | HTML | 2026-06-04 | 第一个聚焦"简历改写诚实度"的中文 LLM benchmark：20 真实脱敏简历 × 3 模型 × 4 评分维度 |
 | 17 | [reaatech/classifier-evals](https://github.com/reaatech/classifier-evals) | 0 | TypeScript | 2026-06-04 | Offline classifier evaluation harness — dataset loader, confusion matrices, LLM-as-judge with cost accounting, regressio |
