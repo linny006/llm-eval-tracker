@@ -1,5 +1,41 @@
 [
   {
+    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
+    "id": "Kondwani10/Origin-Continuum",
+    "language": "\u2014",
+    "name": "Kondwani10/Origin-Continuum",
+    "stars": 0,
+    "updated_at": "2026-06-08T02:29:48Z",
+    "url": "https://github.com/Kondwani10/Origin-Continuum"
+  },
+  {
+    "description": "\u2699\ufe0f Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici",
+    "id": "Kamixon131/claude-config",
+    "language": "\u2014",
+    "name": "Kamixon131/claude-config",
+    "stars": 1,
+    "updated_at": "2026-06-08T02:23:37Z",
+    "url": "https://github.com/Kamixon131/claude-config"
+  },
+  {
+    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
+    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "language": "\u2014",
+    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "stars": 0,
+    "updated_at": "2026-06-08T02:21:08Z",
+    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
+  },
+  {
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-06-08T02:19:07Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
     "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
     "id": "Phinchanbora/llm-evaluation",
     "language": "Python",
@@ -52,42 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-07T23:26:10Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
-    "id": "Kondwani10/Origin-Continuum",
-    "language": "\u2014",
-    "name": "Kondwani10/Origin-Continuum",
-    "stars": 0,
-    "updated_at": "2026-06-07T22:54:52Z",
-    "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
-    "description": "\u2699\ufe0f Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici",
-    "id": "Kamixon131/claude-config",
-    "language": "\u2014",
-    "name": "Kamixon131/claude-config",
-    "stars": 1,
-    "updated_at": "2026-06-07T22:48:37Z",
-    "url": "https://github.com/Kamixon131/claude-config"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-06-07T22:46:20Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
-    "id": "bhavya7995/AI_governance",
-    "language": "PowerShell",
-    "name": "bhavya7995/AI_governance",
-    "stars": 1,
-    "updated_at": "2026-06-07T22:44:26Z",
-    "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
     "description": "AI Observability & Evaluation",
