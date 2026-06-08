@@ -1,11 +1,20 @@
 [
   {
+    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
+    "id": "penpoen/llm-SugarScape",
+    "language": "Python",
+    "name": "penpoen/llm-SugarScape",
+    "stars": 1,
+    "updated_at": "2026-06-08T16:18:11Z",
+    "url": "https://github.com/penpoen/llm-SugarScape"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10038,
-    "updated_at": "2026-06-08T15:38:22Z",
+    "updated_at": "2026-06-08T16:20:03Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "NoesisVision/nasde-toolkit",
     "stars": 10,
-    "updated_at": "2026-06-08T15:51:19Z",
+    "updated_at": "2026-06-08T16:17:59Z",
     "url": "https://github.com/NoesisVision/nasde-toolkit"
   },
   {
@@ -72,15 +81,6 @@
     "url": "https://github.com/Phinchanbora/llm-evaluation"
   },
   {
-    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
-    "id": "penpoen/llm-SugarScape",
-    "language": "Python",
-    "name": "penpoen/llm-SugarScape",
-    "stars": 1,
-    "updated_at": "2026-06-08T12:20:59Z",
-    "url": "https://github.com/penpoen/llm-SugarScape"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -130,7 +130,7 @@
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3363,
+    "stars": 3364,
     "updated_at": "2026-06-05T23:25:19Z",
     "url": "https://github.com/truera/trulens"
   },
@@ -247,7 +247,7 @@
     "id": "ALEX-nlp/OpenSkillEval",
     "language": "Python",
     "name": "ALEX-nlp/OpenSkillEval",
-    "stars": 10,
+    "stars": 11,
     "updated_at": "2026-06-01T04:03:43Z",
     "url": "https://github.com/ALEX-nlp/OpenSkillEval"
   },
