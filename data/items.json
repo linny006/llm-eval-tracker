@@ -1,11 +1,20 @@
 [
   {
+    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
+    "id": "saddled-panicattack529/idea-evaluation-pipeline",
+    "language": "\u2014",
+    "name": "saddled-panicattack529/idea-evaluation-pipeline",
+    "stars": 0,
+    "updated_at": "2026-06-09T18:31:04Z",
+    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10063,
-    "updated_at": "2026-06-09T18:29:33Z",
+    "updated_at": "2026-06-09T18:35:38Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -68,7 +77,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22050,
-    "updated_at": "2026-06-09T16:51:25Z",
+    "updated_at": "2026-06-09T18:44:53Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -88,15 +97,6 @@
     "stars": 302,
     "updated_at": "2026-06-09T16:09:51Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-06-09T14:40:33Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
     "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
