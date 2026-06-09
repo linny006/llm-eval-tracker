@@ -1,5 +1,14 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 302,
+    "updated_at": "2026-06-09T08:28:18Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -95,7 +104,7 @@
     "language": "Python",
     "name": "NoesisVision/nasde-toolkit",
     "stars": 10,
-    "updated_at": "2026-06-09T08:10:21Z",
+    "updated_at": "2026-06-09T08:29:57Z",
     "url": "https://github.com/NoesisVision/nasde-toolkit"
   },
   {
@@ -106,15 +115,6 @@
     "stars": 10050,
     "updated_at": "2026-06-09T02:55:53Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 302,
-    "updated_at": "2026-06-09T02:49:58Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
