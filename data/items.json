@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10061,
+    "updated_at": "2026-06-09T15:09:25Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
     "id": "saddled-panicattack529/idea-evaluation-pipeline",
     "language": "\u2014",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22044,
-    "updated_at": "2026-06-09T15:15:29Z",
+    "updated_at": "2026-06-09T15:19:47Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-06-09T14:01:13Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10060,
-    "updated_at": "2026-06-09T15:09:25Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\u2699\ufe0f Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici",
