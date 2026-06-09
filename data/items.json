@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-06-09T09:29:18Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
     "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
     "id": "Phinchanbora/llm-evaluation",
     "language": "Python",
@@ -50,7 +59,7 @@
     "language": "\u2014",
     "name": "Kondwani10/Origin-Continuum",
     "stars": 0,
-    "updated_at": "2026-06-09T06:44:38Z",
+    "updated_at": "2026-06-09T09:43:39Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
   },
   {
@@ -59,7 +68,7 @@
     "language": "\u2014",
     "name": "Kamixon131/claude-config",
     "stars": 1,
-    "updated_at": "2026-06-09T06:38:02Z",
+    "updated_at": "2026-06-09T09:34:28Z",
     "url": "https://github.com/Kamixon131/claude-config"
   },
   {
@@ -68,17 +77,8 @@
     "language": "\u2014",
     "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "stars": 0,
-    "updated_at": "2026-06-09T06:35:41Z",
+    "updated_at": "2026-06-09T09:31:33Z",
     "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
-    "id": "bhavya7995/AI_governance",
-    "language": "PowerShell",
-    "name": "bhavya7995/AI_governance",
-    "stars": 1,
-    "updated_at": "2026-06-09T09:29:18Z",
-    "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
     "description": "End-to-end agent evaluation \u2014 trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w",
@@ -94,7 +94,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22032,
+    "stars": 22034,
     "updated_at": "2026-06-09T06:03:23Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -104,7 +104,7 @@
     "language": "Python",
     "name": "NoesisVision/nasde-toolkit",
     "stars": 10,
-    "updated_at": "2026-06-09T09:20:06Z",
+    "updated_at": "2026-06-09T09:40:16Z",
     "url": "https://github.com/NoesisVision/nasde-toolkit"
   },
   {
