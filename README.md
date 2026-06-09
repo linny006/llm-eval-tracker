@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-09 13:00 UTC
+> ⏰ Last updated: 2026-06-09 13:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -53,8 +53,8 @@ expired items removed — so you can rely on what you see being current.
 | 9 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 302 | TypeScript | 2026-06-09 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 10 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5422 | Python | 2026-06-09 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 11 | [reaatech/agent-eval-harness](https://github.com/reaatech/agent-eval-harness) | 0 | TypeScript | 2026-06-09 | End-to-end agent evaluation — trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w |
-| 12 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22040 | TypeScript | 2026-06-09 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 13 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10057 | Python | 2026-06-09 | AI Observability & Evaluation |
+| 12 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22042 | TypeScript | 2026-06-09 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 13 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10058 | Python | 2026-06-09 | AI Observability & Evaluation |
 | 14 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-06-09 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
 | 15 | [alyssadata/continuity-keys](https://github.com/alyssadata/continuity-keys) | 1 | — | 2026-06-08 | Continuity Keys: tests for “same someone” returns. Behavioral identity consistency under pressure. Origin (Alyssa Solen) |
 | 16 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-06-08 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
