@@ -1,11 +1,20 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 302,
+    "updated_at": "2026-06-09T16:09:51Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10063,
-    "updated_at": "2026-06-09T15:54:05Z",
+    "updated_at": "2026-06-09T16:20:21Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -13,8 +22,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22045,
-    "updated_at": "2026-06-09T15:49:46Z",
+    "stars": 22046,
+    "updated_at": "2026-06-09T16:20:18Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -88,15 +97,6 @@
     "stars": 10,
     "updated_at": "2026-06-09T12:47:27Z",
     "url": "https://github.com/NoesisVision/nasde-toolkit"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 302,
-    "updated_at": "2026-06-09T16:09:51Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
