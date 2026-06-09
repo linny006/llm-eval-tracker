@@ -1,5 +1,50 @@
 [
   {
+    "description": "\u2699\ufe0f Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici",
+    "id": "Kamixon131/claude-config",
+    "language": "\u2014",
+    "name": "Kamixon131/claude-config",
+    "stars": 1,
+    "updated_at": "2026-06-09T17:29:33Z",
+    "url": "https://github.com/Kamixon131/claude-config"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10063,
+    "updated_at": "2026-06-09T17:30:21Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
+    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "language": "\u2014",
+    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "stars": 0,
+    "updated_at": "2026-06-09T17:25:21Z",
+    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
+  },
+  {
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-06-09T17:21:39Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
+    "description": "A lightweight harness to test agent behaviour (tool-call correctness, injection refusal, cost ceilings) before deploymen",
+    "id": "akanjilal-dev/agent-eval-harness",
+    "language": "\u2014",
+    "name": "akanjilal-dev/agent-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-06-09T17:18:12Z",
+    "url": "https://github.com/akanjilal-dev/agent-eval-harness"
+  },
+  {
     "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
     "id": "Phinchanbora/llm-evaluation",
     "language": "Python",
@@ -13,7 +58,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22047,
+    "stars": 22048,
     "updated_at": "2026-06-09T16:51:25Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -36,15 +81,6 @@
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10063,
-    "updated_at": "2026-06-09T17:13:22Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
     "id": "saddled-panicattack529/idea-evaluation-pipeline",
     "language": "\u2014",
@@ -61,33 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-09T14:01:13Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
-    "description": "\u2699\ufe0f Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici",
-    "id": "Kamixon131/claude-config",
-    "language": "\u2014",
-    "name": "Kamixon131/claude-config",
-    "stars": 1,
-    "updated_at": "2026-06-09T13:54:13Z",
-    "url": "https://github.com/Kamixon131/claude-config"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-06-09T13:51:27Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
-    "id": "bhavya7995/AI_governance",
-    "language": "PowerShell",
-    "name": "bhavya7995/AI_governance",
-    "stars": 1,
-    "updated_at": "2026-06-09T13:48:56Z",
-    "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
     "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-10T02:40:54Z",
     "url": "https://github.com/Ruthwik-Data/finrag-eval"
-  },
-  {
-    "description": "Prompt optimization loop that improves prompts through iterative mutation and LLM-as-judge evaluation. Score went 0.10 \u2192",
-    "id": "Ruthwik-Data/self-improving-prompt-agent",
-    "language": "Python",
-    "name": "Ruthwik-Data/self-improving-prompt-agent",
-    "stars": 0,
-    "updated_at": "2026-05-10T02:39:12Z",
-    "url": "https://github.com/Ruthwik-Data/self-improving-prompt-agent"
   }
 ]
