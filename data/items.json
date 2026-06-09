@@ -1,11 +1,29 @@
 [
   {
+    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
+    "id": "saddled-panicattack529/idea-evaluation-pipeline",
+    "language": "\u2014",
+    "name": "saddled-panicattack529/idea-evaluation-pipeline",
+    "stars": 0,
+    "updated_at": "2026-06-09T22:38:58Z",
+    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10065,
+    "updated_at": "2026-06-09T22:37:43Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22056,
-    "updated_at": "2026-06-09T22:17:37Z",
+    "stars": 22058,
+    "updated_at": "2026-06-09T22:44:10Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -45,15 +63,6 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10064,
-    "updated_at": "2026-06-09T21:44:51Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
     "id": "Phinchanbora/llm-evaluation",
     "language": "Python",
@@ -79,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-06-09T21:13:23Z",
     "url": "https://github.com/penpoen/llm-SugarScape"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-06-09T18:31:04Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
     "description": "A lightweight harness to test agent behaviour (tool-call correctness, injection refusal, cost ceilings) before deploymen",
