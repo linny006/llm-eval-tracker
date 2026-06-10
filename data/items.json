@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-06-10T16:39:48Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
     "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
     "id": "Phinchanbora/llm-evaluation",
     "language": "Python",
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10086,
-    "updated_at": "2026-06-10T16:10:45Z",
+    "updated_at": "2026-06-10T16:34:25Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -41,7 +50,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22081,
-    "updated_at": "2026-06-10T16:29:45Z",
+    "updated_at": "2026-06-10T16:33:37Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -104,17 +113,8 @@
     "language": "\u2014",
     "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "stars": 0,
-    "updated_at": "2026-06-10T11:18:26Z",
+    "updated_at": "2026-06-10T16:44:07Z",
     "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
-    "id": "bhavya7995/AI_governance",
-    "language": "PowerShell",
-    "name": "bhavya7995/AI_governance",
-    "stars": 1,
-    "updated_at": "2026-06-10T11:16:21Z",
-    "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -175,7 +175,7 @@
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3368,
+    "stars": 3369,
     "updated_at": "2026-06-05T23:25:19Z",
     "url": "https://github.com/truera/trulens"
   },
