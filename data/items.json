@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
+    "id": "Phinchanbora/llm-evaluation",
+    "language": "Python",
+    "name": "Phinchanbora/llm-evaluation",
+    "stars": 0,
+    "updated_at": "2026-06-10T16:06:08Z",
+    "url": "https://github.com/Phinchanbora/llm-evaluation"
+  },
+  {
     "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
     "id": "NoesisVision/nasde-toolkit",
     "language": "Python",
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10086,
-    "updated_at": "2026-06-10T15:58:21Z",
+    "updated_at": "2026-06-10T16:10:45Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -32,17 +41,17 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22081,
-    "updated_at": "2026-06-10T15:55:39Z",
+    "updated_at": "2026-06-10T16:05:41Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "A lightweight harness to test agent behaviour (tool-call correctness, injection refusal, cost ceilings) before deploymen",
-    "id": "akanjilal-dev/agent-eval-harness",
+    "id": "akanjilal-work/agent-eval-harness",
     "language": "Python",
-    "name": "akanjilal-dev/agent-eval-harness",
+    "name": "akanjilal-work/agent-eval-harness",
     "stars": 0,
     "updated_at": "2026-06-10T14:29:09Z",
-    "url": "https://github.com/akanjilal-dev/agent-eval-harness"
+    "url": "https://github.com/akanjilal-work/agent-eval-harness"
   },
   {
     "description": "TrustModel MCP Server \u2014 trust evaluation, red-team & governance for AI agents via the Model Context Protocol. Public can",
@@ -106,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-06-10T11:16:21Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
-    "id": "Phinchanbora/llm-evaluation",
-    "language": "Python",
-    "name": "Phinchanbora/llm-evaluation",
-    "stars": 0,
-    "updated_at": "2026-06-10T10:58:33Z",
-    "url": "https://github.com/Phinchanbora/llm-evaluation"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -203,7 +203,7 @@
     "language": "TypeScript",
     "name": "reaatech/rag-eval-pack",
     "stars": 0,
-    "updated_at": "2026-06-08T14:21:34Z",
+    "updated_at": "2026-06-10T16:05:59Z",
     "url": "https://github.com/reaatech/rag-eval-pack"
   },
   {
