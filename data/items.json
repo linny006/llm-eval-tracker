@@ -1,12 +1,12 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10081,
-    "updated_at": "2026-06-10T14:13:34Z",
-    "url": "https://github.com/Arize-ai/phoenix"
+    "description": "A lightweight harness to test agent behaviour (tool-call correctness, injection refusal, cost ceilings) before deploymen",
+    "id": "akanjilal-dev/agent-eval-harness",
+    "language": "\u2014",
+    "name": "akanjilal-dev/agent-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-06-10T14:29:09Z",
+    "url": "https://github.com/akanjilal-dev/agent-eval-harness"
   },
   {
     "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
@@ -14,7 +14,7 @@
     "language": "Python",
     "name": "NoesisVision/nasde-toolkit",
     "stars": 10,
-    "updated_at": "2026-06-10T14:12:21Z",
+    "updated_at": "2026-06-10T14:24:54Z",
     "url": "https://github.com/NoesisVision/nasde-toolkit"
   },
   {
@@ -23,8 +23,17 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22081,
-    "updated_at": "2026-06-10T14:13:53Z",
+    "updated_at": "2026-06-10T14:18:22Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10081,
+    "updated_at": "2026-06-10T14:13:34Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "TrustModel MCP Server \u2014 trust evaluation, red-team & governance for AI agents via the Model Context Protocol. Public can",
@@ -124,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-06-10T04:05:05Z",
     "url": "https://github.com/homemade-software-inc/completion-kit"
-  },
-  {
-    "description": "A lightweight harness to test agent behaviour (tool-call correctness, injection refusal, cost ceilings) before deploymen",
-    "id": "akanjilal-dev/agent-eval-harness",
-    "language": "\u2014",
-    "name": "akanjilal-dev/agent-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-06-09T17:18:12Z",
-    "url": "https://github.com/akanjilal-dev/agent-eval-harness"
   },
   {
     "description": "End-to-end agent evaluation \u2014 trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w",
