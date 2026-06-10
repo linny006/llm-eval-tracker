@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10088,
+    "updated_at": "2026-06-10T17:26:12Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -36,21 +45,12 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10087,
-    "updated_at": "2026-06-10T16:34:25Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22083,
-    "updated_at": "2026-06-10T16:33:37Z",
+    "updated_at": "2026-06-10T17:30:07Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
