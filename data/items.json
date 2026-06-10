@@ -2,7 +2,7 @@
   {
     "description": "A lightweight harness to test agent behaviour (tool-call correctness, injection refusal, cost ceilings) before deploymen",
     "id": "akanjilal-dev/agent-eval-harness",
-    "language": "\u2014",
+    "language": "Python",
     "name": "akanjilal-dev/agent-eval-harness",
     "stars": 0,
     "updated_at": "2026-06-10T14:29:09Z",
@@ -14,7 +14,7 @@
     "language": "Python",
     "name": "NoesisVision/nasde-toolkit",
     "stars": 10,
-    "updated_at": "2026-06-10T14:24:54Z",
+    "updated_at": "2026-06-10T14:43:41Z",
     "url": "https://github.com/NoesisVision/nasde-toolkit"
   },
   {
@@ -22,8 +22,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22081,
-    "updated_at": "2026-06-10T14:18:22Z",
+    "stars": 22082,
+    "updated_at": "2026-06-10T14:43:53Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -31,7 +31,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10081,
+    "stars": 10082,
     "updated_at": "2026-06-10T14:13:34Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
