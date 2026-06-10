@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-10 11:45 UTC
+> ⏰ Last updated: 2026-06-10 12:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -53,7 +53,7 @@ expired items removed — so you can rely on what you see being current.
 | 9 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 10 | Python | 2026-06-10 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
 | 10 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-06-10 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 11 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5425 | Python | 2026-06-10 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 12 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10079 | Python | 2026-06-10 | AI Observability & Evaluation |
+| 12 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10078 | Python | 2026-06-10 | AI Observability & Evaluation |
 | 13 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-06-10 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
 | 14 | [akanjilal-dev/agent-eval-harness](https://github.com/akanjilal-dev/agent-eval-harness) | 0 | — | 2026-06-09 | A lightweight harness to test agent behaviour (tool-call correctness, injection refusal, cost ceilings) before deploymen |
 | 15 | [reaatech/agent-eval-harness](https://github.com/reaatech/agent-eval-harness) | 0 | TypeScript | 2026-06-09 | End-to-end agent evaluation — trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w |
