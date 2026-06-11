@@ -1,5 +1,23 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10099,
+    "updated_at": "2026-06-11T13:26:04Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "\u2699\ufe0f Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici",
+    "id": "Kamixon131/claude-config",
+    "language": "\u2014",
+    "name": "Kamixon131/claude-config",
+    "stars": 1,
+    "updated_at": "2026-06-11T13:19:02Z",
+    "url": "https://github.com/Kamixon131/claude-config"
+  },
+  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -68,17 +86,8 @@
     "language": "\u2014",
     "name": "Kondwani10/Origin-Continuum",
     "stars": 0,
-    "updated_at": "2026-06-11T06:46:28Z",
+    "updated_at": "2026-06-11T13:29:28Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
-    "description": "\u2699\ufe0f Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici",
-    "id": "Kamixon131/claude-config",
-    "language": "\u2014",
-    "name": "Kamixon131/claude-config",
-    "stars": 1,
-    "updated_at": "2026-06-11T06:36:20Z",
-    "url": "https://github.com/Kamixon131/claude-config"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
@@ -88,15 +97,6 @@
     "stars": 303,
     "updated_at": "2026-06-11T06:04:09Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10098,
-    "updated_at": "2026-06-11T05:00:10Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
