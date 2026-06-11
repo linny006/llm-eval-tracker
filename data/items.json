@@ -1,11 +1,29 @@
 [
   {
+    "description": "Agent and LLM evaluation harness \u2014 golden datasets, multi-scorer execution, regression detection across model versions, ",
+    "id": "mizcausevic-dev/agent-eval-arena",
+    "language": "TypeScript",
+    "name": "mizcausevic-dev/agent-eval-arena",
+    "stars": 0,
+    "updated_at": "2026-06-11T19:24:29Z",
+    "url": "https://github.com/mizcausevic-dev/agent-eval-arena"
+  },
+  {
+    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
+    "id": "penpoen/llm-SugarScape",
+    "language": "Python",
+    "name": "penpoen/llm-SugarScape",
+    "stars": 1,
+    "updated_at": "2026-06-11T19:20:29Z",
+    "url": "https://github.com/penpoen/llm-SugarScape"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10100,
-    "updated_at": "2026-06-11T19:09:45Z",
+    "updated_at": "2026-06-11T19:28:31Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -13,7 +31,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22118,
+    "stars": 22119,
     "updated_at": "2026-06-11T18:20:41Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -79,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T12:44:54Z",
     "url": "https://github.com/Phinchanbora/llm-evaluation"
-  },
-  {
-    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
-    "id": "penpoen/llm-SugarScape",
-    "language": "Python",
-    "name": "penpoen/llm-SugarScape",
-    "stars": 1,
-    "updated_at": "2026-06-11T12:25:32Z",
-    "url": "https://github.com/penpoen/llm-SugarScape"
   },
   {
     "description": "A/B evaluate any LLM task with and without Ejentum cognitive injection. n8n workflow + TypeScript module.",
@@ -259,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-06-01T22:20:01Z",
     "url": "https://github.com/pdxlab/trustmodel-mcp-server"
-  },
-  {
-    "description": "Agent and LLM evaluation harness \u2014 golden datasets, multi-scorer execution, regression detection across model versions, ",
-    "id": "mizcausevic-dev/agent-eval-arena",
-    "language": "TypeScript",
-    "name": "mizcausevic-dev/agent-eval-arena",
-    "stars": 0,
-    "updated_at": "2026-06-01T04:11:44Z",
-    "url": "https://github.com/mizcausevic-dev/agent-eval-arena"
   },
   {
     "description": "OpenSkillEval: Automatically Auditing the Open Skill Ecosystem for LLM Agents",
