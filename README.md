@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-11 18:15 UTC
+> ⏰ Last updated: 2026-06-11 18:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,8 +43,8 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10100 | Python | 2026-06-11 | AI Observability & Evaluation |
-| 2 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-06-11 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
-| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22117 | TypeScript | 2026-06-11 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22118 | TypeScript | 2026-06-11 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 3 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-06-11 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 4 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-06-11 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 5 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-06-11 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 6 | [Kamixon131/claude-config](https://github.com/Kamixon131/claude-config) | 1 | — | 2026-06-11 | ⚙️ Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici |
@@ -86,7 +86,7 @@ expired items removed — so you can rely on what you see being current.
 | 42 | [GiuseppeSp/n8n-customer-interview-synthesizer](https://github.com/GiuseppeSp/n8n-customer-interview-synthesizer) | 0 | — | 2026-05-19 | Multi-agent customer-interview synthesis pipeline in n8n with LLM-as-judge eval, Slack human-in-the-loop approval, and d |
 | 43 | [gmitt98/fieldtest](https://github.com/gmitt98/fieldtest) | 0 | Python | 2026-05-16 | LLM evaluation framework — define what correct, well-formed, and safe means before you measure |
 | 44 | [verifywise-ai/plugin-marketplace](https://github.com/verifywise-ai/plugin-marketplace) | 3 | TypeScript | 2026-05-15 | VerifyWise AI Governance Plugin Marketplace |
-| 45 | [AI-QL/tuui](https://github.com/AI-QL/tuui) | 1147 | TypeScript | 2026-05-14 | A desktop MCP client designed as a tool unitary utility integration, accelerating AI adoption through the Model Context  |
+| 45 | [AI-QL/tuui](https://github.com/AI-QL/tuui) | 1148 | TypeScript | 2026-05-14 | A desktop MCP client designed as a tool unitary utility integration, accelerating AI adoption through the Model Context  |
 | 46 | [prompt-foundry/typescript-sdk](https://github.com/prompt-foundry/typescript-sdk) | 6 | TypeScript | 2026-05-13 | The prompt engineering, prompt management, and prompt evaluation tool for TypeScript, JavaScript, and NodeJS. |
 | 47 | [prompt-foundry/python-sdk](https://github.com/prompt-foundry/python-sdk) | 8 | Python | 2026-05-13 | The prompt engineering, prompt management, and prompt evaluation tool for Python |
 | 48 | [Ruthwik-Data/mechanictrust](https://github.com/Ruthwik-Data/mechanictrust) | 0 | — | 2026-05-11 | AI product case study for trust, pricing transparency, and explainable diagnosis in auto repair. |
