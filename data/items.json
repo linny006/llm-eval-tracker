@@ -1,11 +1,20 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10100,
+    "updated_at": "2026-06-11T21:56:49Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22122,
-    "updated_at": "2026-06-11T21:40:48Z",
+    "updated_at": "2026-06-11T21:46:59Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T20:25:08Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10100,
-    "updated_at": "2026-06-11T21:44:50Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\u2699\ufe0f Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici",
@@ -122,7 +122,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 303,
-    "updated_at": "2026-06-11T20:26:41Z",
+    "updated_at": "2026-06-11T21:59:54Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
