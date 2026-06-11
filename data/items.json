@@ -1,5 +1,14 @@
 [
   {
+    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
+    "id": "saddled-panicattack529/idea-evaluation-pipeline",
+    "language": "\u2014",
+    "name": "saddled-panicattack529/idea-evaluation-pipeline",
+    "stars": 0,
+    "updated_at": "2026-06-11T07:38:37Z",
+    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -13,7 +22,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22097,
+    "stars": 22098,
     "updated_at": "2026-06-11T06:43:04Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -76,7 +85,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10092,
+    "stars": 10093,
     "updated_at": "2026-06-11T05:00:10Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -88,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T01:06:35Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-06-11T00:56:26Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
@@ -140,7 +140,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5425,
-    "updated_at": "2026-06-11T07:21:34Z",
+    "updated_at": "2026-06-11T07:32:30Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -175,7 +175,7 @@
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3370,
+    "stars": 3371,
     "updated_at": "2026-06-05T23:25:19Z",
     "url": "https://github.com/truera/trulens"
   },
