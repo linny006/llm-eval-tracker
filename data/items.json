@@ -1,5 +1,23 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22109,
+    "updated_at": "2026-06-11T13:36:24Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
+    "id": "Kondwani10/Origin-Continuum",
+    "language": "\u2014",
+    "name": "Kondwani10/Origin-Continuum",
+    "stars": 0,
+    "updated_at": "2026-06-11T13:29:28Z",
+    "url": "https://github.com/Kondwani10/Origin-Continuum"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -63,15 +81,6 @@
     "url": "https://github.com/ejentum/eval"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22107,
-    "updated_at": "2026-06-11T11:09:38Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
     "id": "saddled-panicattack529/idea-evaluation-pipeline",
     "language": "\u2014",
@@ -79,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T07:38:37Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
-    "id": "Kondwani10/Origin-Continuum",
-    "language": "\u2014",
-    "name": "Kondwani10/Origin-Continuum",
-    "stars": 0,
-    "updated_at": "2026-06-11T13:29:28Z",
-    "url": "https://github.com/Kondwani10/Origin-Continuum"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
