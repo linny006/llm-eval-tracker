@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
+    "id": "penpoen/llm-SugarScape",
+    "language": "Python",
+    "name": "penpoen/llm-SugarScape",
+    "stars": 1,
+    "updated_at": "2026-06-11T12:25:32Z",
+    "url": "https://github.com/penpoen/llm-SugarScape"
+  },
+  {
     "description": "A/B evaluate any LLM task with and without Ejentum cognitive injection. n8n workflow + TypeScript module.",
     "id": "ejentum/eval",
     "language": "Python",
@@ -13,7 +22,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22106,
+    "stars": 22107,
     "updated_at": "2026-06-11T11:09:38Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -79,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T06:02:11Z",
     "url": "https://github.com/Phinchanbora/llm-evaluation"
-  },
-  {
-    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
-    "id": "penpoen/llm-SugarScape",
-    "language": "Python",
-    "name": "penpoen/llm-SugarScape",
-    "stars": 1,
-    "updated_at": "2026-06-11T05:41:38Z",
-    "url": "https://github.com/penpoen/llm-SugarScape"
   },
   {
     "description": "AI Observability & Evaluation",
