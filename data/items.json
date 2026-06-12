@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22154,
+    "updated_at": "2026-06-12T23:32:26Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -50,7 +59,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10116,
-    "updated_at": "2026-06-12T23:28:25Z",
+    "updated_at": "2026-06-12T23:38:19Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -79,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-12T21:16:39Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22153,
-    "updated_at": "2026-06-12T23:12:37Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
