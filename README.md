@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-12 10:15 UTC
+> ⏰ Last updated: 2026-06-12 10:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -50,8 +50,8 @@ expired items removed — so you can rely on what you see being current.
 | 6 | [penpoen/llm-SugarScape](https://github.com/penpoen/llm-SugarScape) | 1 | Python | 2026-06-12 | 🌐 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok |
 | 7 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 303 | TypeScript | 2026-06-12 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 8 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-06-12 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 9 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10108 | Python | 2026-06-12 | AI Observability & Evaluation |
-| 10 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22139 | TypeScript | 2026-06-12 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 9 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10109 | Python | 2026-06-12 | AI Observability & Evaluation |
+| 10 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22140 | TypeScript | 2026-06-12 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 11 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-06-12 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 12 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5426 | Python | 2026-06-12 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 13 | [mizcausevic-dev/agent-eval-arena](https://github.com/mizcausevic-dev/agent-eval-arena) | 0 | TypeScript | 2026-06-11 | Agent and LLM evaluation harness — golden datasets, multi-scorer execution, regression detection across model versions,  |
