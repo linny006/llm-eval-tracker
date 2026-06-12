@@ -1,11 +1,29 @@
 [
   {
+    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
+    "id": "penpoen/llm-SugarScape",
+    "language": "Python",
+    "name": "penpoen/llm-SugarScape",
+    "stars": 1,
+    "updated_at": "2026-06-12T06:27:31Z",
+    "url": "https://github.com/penpoen/llm-SugarScape"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10107,
+    "updated_at": "2026-06-12T06:21:57Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22128,
-    "updated_at": "2026-06-12T06:03:47Z",
+    "stars": 22130,
+    "updated_at": "2026-06-12T06:18:46Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -16,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-06-12T05:20:12Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10106,
-    "updated_at": "2026-06-12T06:14:15Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
@@ -79,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-12T02:54:17Z",
     "url": "https://github.com/Phinchanbora/llm-evaluation"
-  },
-  {
-    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
-    "id": "penpoen/llm-SugarScape",
-    "language": "Python",
-    "name": "penpoen/llm-SugarScape",
-    "stars": 1,
-    "updated_at": "2026-06-12T02:41:51Z",
-    "url": "https://github.com/penpoen/llm-SugarScape"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -193,7 +193,7 @@
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3373,
+    "stars": 3374,
     "updated_at": "2026-06-05T23:25:19Z",
     "url": "https://github.com/truera/trulens"
   },
