@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-12 18:45 UTC
+> ⏰ Last updated: 2026-06-12 19:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -63,7 +63,7 @@ expired items removed — so you can rely on what you see being current.
 | 19 | [karlmehta/trustmodel-mcp](https://github.com/karlmehta/trustmodel-mcp) | 0 | TypeScript | 2026-06-10 | TrustModel MCP Server — trust evaluation, red-team & governance for AI agents via the Model Context Protocol. Public can |
 | 20 | [reaatech/agent-eval-harness](https://github.com/reaatech/agent-eval-harness) | 0 | TypeScript | 2026-06-09 | End-to-end agent evaluation — trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w |
 | 21 | [alyssadata/continuity-keys](https://github.com/alyssadata/continuity-keys) | 1 | — | 2026-06-08 | Continuity Keys: tests for “same someone” returns. Behavioral identity consistency under pressure. Origin (Alyssa Solen) |
-| 22 | [truera/trulens](https://github.com/truera/trulens) | 3375 | Python | 2026-06-05 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 22 | [truera/trulens](https://github.com/truera/trulens) | 3376 | Python | 2026-06-05 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 23 | [melody-ling-L/eval-resume](https://github.com/melody-ling-L/eval-resume) | 0 | HTML | 2026-06-04 | 第一个聚焦"简历改写诚实度"的中文 LLM benchmark：20 真实脱敏简历 × 3 模型 × 4 评分维度 |
 | 24 | [reaatech/classifier-evals](https://github.com/reaatech/classifier-evals) | 0 | TypeScript | 2026-06-10 | Offline classifier evaluation harness — dataset loader, confusion matrices, LLM-as-judge with cost accounting, regressio |
 | 25 | [reaatech/rag-eval-pack](https://github.com/reaatech/rag-eval-pack) | 0 | TypeScript | 2026-06-10 | RAG evaluation toolkit — faithfulness, answer relevance, context precision/recall, cost accounting, CI gates. Pairs with |
