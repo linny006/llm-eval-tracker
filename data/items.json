@@ -1,5 +1,14 @@
 [
   {
+    "description": "TjoeReviewKit\uff1atjoe \u7684\u672c\u5730\u79bb\u7ebf\u5de5\u4f5c\u6d41\u590d\u76d8\u68c0\u67e5\u5de5\u5177\uff1b\u4e0d\u8fd0\u884c\u4efb\u52a1\u3001\u4e0d\u8054\u7f51\u3001\u4e0d\u63a5\u7ba1\u5de5\u5177\u8c03\u7528\u3001\u4e0d\u91c7\u96c6\u751f\u4ea7\u65e5\u5fd7",
+    "id": "thewonderofyou777z-dot/tjoe-reviewkit",
+    "language": "Python",
+    "name": "thewonderofyou777z-dot/tjoe-reviewkit",
+    "stars": 0,
+    "updated_at": "2026-06-12T11:09:41Z",
+    "url": "https://github.com/thewonderofyou777z-dot/tjoe-reviewkit"
+  },
+  {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
     "id": "saddled-panicattack529/idea-evaluation-pipeline",
     "language": "\u2014",
@@ -85,7 +94,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22140,
+    "stars": 22141,
     "updated_at": "2026-06-12T06:18:46Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -178,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-06-08T19:12:31Z",
     "url": "https://github.com/alyssadata/continuity-keys"
-  },
-  {
-    "description": "TjoeReviewKit\uff1atjoe \u7684\u672c\u5730\u79bb\u7ebf\u5de5\u4f5c\u6d41\u590d\u76d8\u68c0\u67e5\u5de5\u5177\uff1b\u4e0d\u8fd0\u884c\u4efb\u52a1\u3001\u4e0d\u8054\u7f51\u3001\u4e0d\u63a5\u7ba1\u5de5\u5177\u8c03\u7528\u3001\u4e0d\u91c7\u96c6\u751f\u4ea7\u65e5\u5fd7",
-    "id": "thewonderofyou777z-dot/tjoe-reviewkit",
-    "language": "Python",
-    "name": "thewonderofyou777z-dot/tjoe-reviewkit",
-    "stars": 0,
-    "updated_at": "2026-06-06T09:00:35Z",
-    "url": "https://github.com/thewonderofyou777z-dot/tjoe-reviewkit"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
