@@ -1,5 +1,23 @@
 [
   {
+    "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
+    "id": "jeremylongshore/j-rig-skill-binary-eval",
+    "language": "TypeScript",
+    "name": "jeremylongshore/j-rig-skill-binary-eval",
+    "stars": 0,
+    "updated_at": "2026-06-12T13:26:29Z",
+    "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
+  },
+  {
+    "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
+    "id": "Phinchanbora/llm-evaluation",
+    "language": "Python",
+    "name": "Phinchanbora/llm-evaluation",
+    "stars": 0,
+    "updated_at": "2026-06-12T13:18:42Z",
+    "url": "https://github.com/Phinchanbora/llm-evaluation"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -81,15 +99,6 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
-    "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
-    "id": "Phinchanbora/llm-evaluation",
-    "language": "Python",
-    "name": "Phinchanbora/llm-evaluation",
-    "stars": 0,
-    "updated_at": "2026-06-12T09:29:00Z",
-    "url": "https://github.com/Phinchanbora/llm-evaluation"
-  },
-  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -106,15 +115,6 @@
     "stars": 22145,
     "updated_at": "2026-06-12T06:18:46Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
-    "id": "jeremylongshore/j-rig-skill-binary-eval",
-    "language": "TypeScript",
-    "name": "jeremylongshore/j-rig-skill-binary-eval",
-    "stars": 0,
-    "updated_at": "2026-06-12T05:20:12Z",
-    "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
     "description": "Agent and LLM evaluation harness \u2014 golden datasets, multi-scorer execution, regression detection across model versions, ",
