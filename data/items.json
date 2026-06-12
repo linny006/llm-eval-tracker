@@ -1,12 +1,30 @@
 [
   {
+    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
+    "id": "homemade-software-inc/completion-kit",
+    "language": "Ruby",
+    "name": "homemade-software-inc/completion-kit",
+    "stars": 1,
+    "updated_at": "2026-06-12T23:12:24Z",
+    "url": "https://github.com/homemade-software-inc/completion-kit"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10116,
-    "updated_at": "2026-06-12T22:57:11Z",
+    "updated_at": "2026-06-12T23:08:33Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
+    "id": "Phinchanbora/llm-evaluation",
+    "language": "Python",
+    "name": "Phinchanbora/llm-evaluation",
+    "stars": 0,
+    "updated_at": "2026-06-12T23:01:01Z",
+    "url": "https://github.com/Phinchanbora/llm-evaluation"
   },
   {
     "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
@@ -59,7 +77,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22153,
-    "updated_at": "2026-06-12T20:34:01Z",
+    "updated_at": "2026-06-12T23:12:37Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -70,24 +88,6 @@
     "stars": 1,
     "updated_at": "2026-06-12T20:32:29Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
-    "id": "homemade-software-inc/completion-kit",
-    "language": "Ruby",
-    "name": "homemade-software-inc/completion-kit",
-    "stars": 1,
-    "updated_at": "2026-06-12T20:16:18Z",
-    "url": "https://github.com/homemade-software-inc/completion-kit"
-  },
-  {
-    "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
-    "id": "Phinchanbora/llm-evaluation",
-    "language": "Python",
-    "name": "Phinchanbora/llm-evaluation",
-    "stars": 0,
-    "updated_at": "2026-06-12T20:14:26Z",
-    "url": "https://github.com/Phinchanbora/llm-evaluation"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
