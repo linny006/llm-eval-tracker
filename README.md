@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-13 15:30 UTC
+> ⏰ Last updated: 2026-06-13 15:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -51,7 +51,7 @@ expired items removed — so you can rely on what you see being current.
 | 7 | [Phinchanbora/llm-evaluation](https://github.com/Phinchanbora/llm-evaluation) | 0 | Python | 2026-06-13 | 🎯 Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev |
 | 8 | [penpoen/llm-SugarScape](https://github.com/penpoen/llm-SugarScape) | 1 | Python | 2026-06-13 | 🌐 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok |
 | 9 | [thewonderofyou777z-dot/tjoe-reviewkit](https://github.com/thewonderofyou777z-dot/tjoe-reviewkit) | 0 | Python | 2026-06-13 | TjoeReviewKit：tjoe 的本地离线工作流复盘检查工具；不运行任务、不联网、不接管工具调用、不采集生产日志 |
-| 10 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10120 | Python | 2026-06-13 | AI Observability & Evaluation |
+| 10 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10121 | Python | 2026-06-13 | AI Observability & Evaluation |
 | 11 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-06-13 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 12 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5428 | Python | 2026-06-13 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 13 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-06-13 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
