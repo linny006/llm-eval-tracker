@@ -108,6 +108,15 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
+    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
+    "id": "multivon-ai/multivon-eval",
+    "language": "Python",
+    "name": "multivon-ai/multivon-eval",
+    "stars": 7,
+    "updated_at": "2026-06-12T22:43:42Z",
+    "url": "https://github.com/multivon-ai/multivon-eval"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-10T21:47:21Z",
     "url": "https://github.com/SAY-5/eval-observability"
-  },
-  {
-    "description": "RAG eval pipeline on Apple's FY 2024 10-K \u2014 found confident hallucinations, filed a metric-level bug in DeepEval, and bu",
-    "id": "Ruthwik-Data/finrag-eval",
-    "language": "Python",
-    "name": "Ruthwik-Data/finrag-eval",
-    "stars": 0,
-    "updated_at": "2026-05-10T02:40:54Z",
-    "url": "https://github.com/Ruthwik-Data/finrag-eval"
   }
 ]
