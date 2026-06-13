@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
+    "id": "Kondwani10/Origin-Continuum",
+    "language": "\u2014",
+    "name": "Kondwani10/Origin-Continuum",
+    "stars": 0,
+    "updated_at": "2026-06-13T06:17:02Z",
+    "url": "https://github.com/Kondwani10/Origin-Continuum"
+  },
+  {
     "description": "\u2699\ufe0f Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici",
     "id": "Kamixon131/claude-config",
     "language": "\u2014",
@@ -49,7 +58,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22156,
+    "stars": 22158,
     "updated_at": "2026-06-13T04:26:07Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -70,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-13T03:31:39Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
-    "id": "Kondwani10/Origin-Continuum",
-    "language": "\u2014",
-    "name": "Kondwani10/Origin-Continuum",
-    "stars": 0,
-    "updated_at": "2026-06-13T03:00:09Z",
-    "url": "https://github.com/Kondwani10/Origin-Continuum"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -106,6 +106,15 @@
     "stars": 10117,
     "updated_at": "2026-06-13T05:08:57Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3377,
+    "updated_at": "2026-06-12T22:55:32Z",
+    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
@@ -196,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-06-08T19:12:31Z",
     "url": "https://github.com/alyssadata/continuity-keys"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3376,
-    "updated_at": "2026-06-12T22:55:32Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "\u7b2c\u4e00\u4e2a\u805a\u7126\"\u7b80\u5386\u6539\u5199\u8bda\u5b9e\u5ea6\"\u7684\u4e2d\u6587 LLM benchmark\uff1a20 \u771f\u5b9e\u8131\u654f\u7b80\u5386 \u00d7 3 \u6a21\u578b \u00d7 4 \u8bc4\u5206\u7ef4\u5ea6",
