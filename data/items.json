@@ -59,7 +59,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10124,
-    "updated_at": "2026-06-13T16:41:47Z",
+    "updated_at": "2026-06-13T19:10:16Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -333,15 +333,6 @@
     "url": "https://github.com/MyForgeLabs/myforge-vault-1111"
   },
   {
-    "description": "Online evals on live agent traces. Open-source, self-hostable, OpenTelemetry-native eval harness with regression detecti",
-    "id": "matt-rachlin/agent-eval-harness",
-    "language": "Python",
-    "name": "matt-rachlin/agent-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-05-24T20:52:41Z",
-    "url": "https://github.com/matt-rachlin/agent-eval-harness"
-  },
-  {
     "description": "Mission Spec \u2014 AI \uc5d0\uc774\uc804\ud2b8 \uc6cc\ud06c\ud50c\ub85c\ub97c \uc704\ud55c task contract layer",
     "id": "chquandogong/mission-spec",
     "language": "TypeScript",
@@ -448,5 +439,14 @@
     "stars": 0,
     "updated_at": "2026-05-10T21:47:21Z",
     "url": "https://github.com/SAY-5/eval-observability"
+  },
+  {
+    "description": "RAG eval pipeline on Apple's FY 2024 10-K \u2014 found confident hallucinations, filed a metric-level bug in DeepEval, and bu",
+    "id": "Ruthwik-Data/finrag-eval",
+    "language": "Python",
+    "name": "Ruthwik-Data/finrag-eval",
+    "stars": 0,
+    "updated_at": "2026-05-10T02:40:54Z",
+    "url": "https://github.com/Ruthwik-Data/finrag-eval"
   }
 ]
