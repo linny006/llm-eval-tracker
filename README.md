@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-14 09:15 UTC
+> ⏰ Last updated: 2026-06-14 09:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -54,7 +54,7 @@ expired items removed — so you can rely on what you see being current.
 | 10 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10129 | Python | 2026-06-14 | AI Observability & Evaluation |
 | 11 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-06-14 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 12 | [tushariitr-19/assay](https://github.com/tushariitr-19/assay) | 0 | — | 2026-06-14 | Framework-agnostic evaluation harness for Go — test your MCP servers and AI agents with scored, CI-ready checks. |
-| 13 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22176 | TypeScript | 2026-06-13 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 13 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22177 | TypeScript | 2026-06-13 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 14 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5429 | Python | 2026-06-13 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 15 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-06-13 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
 | 16 | [truera/trulens](https://github.com/truera/trulens) | 3379 | Python | 2026-06-12 | Evaluation and Tracking for LLM Experiments and AI Agents |
