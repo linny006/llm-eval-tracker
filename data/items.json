@@ -1,11 +1,29 @@
 [
   {
+    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
+    "id": "penpoen/llm-SugarScape",
+    "language": "Python",
+    "name": "penpoen/llm-SugarScape",
+    "stars": 1,
+    "updated_at": "2026-06-14T22:09:37Z",
+    "url": "https://github.com/penpoen/llm-SugarScape"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22194,
+    "updated_at": "2026-06-14T22:02:52Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Framework-agnostic evaluation harness for Go \u2014 test your MCP servers and AI agents with scored, CI-ready checks.",
     "id": "tushariitr-19/assay",
     "language": "Go",
     "name": "tushariitr-19/assay",
     "stars": 0,
-    "updated_at": "2026-06-14T21:01:59Z",
+    "updated_at": "2026-06-14T22:01:02Z",
     "url": "https://github.com/tushariitr-19/assay"
   },
   {
@@ -61,24 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-14T19:29:55Z",
     "url": "https://github.com/Phinchanbora/llm-evaluation"
-  },
-  {
-    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
-    "id": "penpoen/llm-SugarScape",
-    "language": "Python",
-    "name": "penpoen/llm-SugarScape",
-    "stars": 1,
-    "updated_at": "2026-06-14T19:16:38Z",
-    "url": "https://github.com/penpoen/llm-SugarScape"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22193,
-    "updated_at": "2026-06-14T18:03:16Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "TjoeReviewKit\uff1atjoe \u7684\u672c\u5730\u79bb\u7ebf\u5de5\u4f5c\u6d41\u590d\u76d8\u68c0\u67e5\u5de5\u5177\uff1b\u4e0d\u8fd0\u884c\u4efb\u52a1\u3001\u4e0d\u8054\u7f51\u3001\u4e0d\u63a5\u7ba1\u5de5\u5177\u8c03\u7528\u3001\u4e0d\u91c7\u96c6\u751f\u4ea7\u65e5\u5fd7",
