@@ -1,5 +1,23 @@
 [
   {
+    "description": "TjoeReviewKit\uff1atjoe \u7684\u672c\u5730\u79bb\u7ebf\u5de5\u4f5c\u6d41\u590d\u76d8\u68c0\u67e5\u5de5\u5177\uff1b\u4e0d\u8fd0\u884c\u4efb\u52a1\u3001\u4e0d\u8054\u7f51\u3001\u4e0d\u63a5\u7ba1\u5de5\u5177\u8c03\u7528\u3001\u4e0d\u91c7\u96c6\u751f\u4ea7\u65e5\u5fd7",
+    "id": "thewonderofyou777z-dot/tjoe-reviewkit",
+    "language": "Python",
+    "name": "thewonderofyou777z-dot/tjoe-reviewkit",
+    "stars": 0,
+    "updated_at": "2026-06-14T13:07:50Z",
+    "url": "https://github.com/thewonderofyou777z-dot/tjoe-reviewkit"
+  },
+  {
+    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
+    "id": "Kondwani10/Origin-Continuum",
+    "language": "\u2014",
+    "name": "Kondwani10/Origin-Continuum",
+    "stars": 0,
+    "updated_at": "2026-06-14T13:00:57Z",
+    "url": "https://github.com/Kondwani10/Origin-Continuum"
+  },
+  {
     "description": "\u2699\ufe0f Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici",
     "id": "Kamixon131/claude-config",
     "language": "\u2014",
@@ -25,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-06-14T12:49:58Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "TjoeReviewKit\uff1atjoe \u7684\u672c\u5730\u79bb\u7ebf\u5de5\u4f5c\u6d41\u590d\u76d8\u68c0\u67e5\u5de5\u5177\uff1b\u4e0d\u8fd0\u884c\u4efb\u52a1\u3001\u4e0d\u8054\u7f51\u3001\u4e0d\u63a5\u7ba1\u5de5\u5177\u8c03\u7528\u3001\u4e0d\u91c7\u96c6\u751f\u4ea7\u65e5\u5fd7",
-    "id": "thewonderofyou777z-dot/tjoe-reviewkit",
-    "language": "Python",
-    "name": "thewonderofyou777z-dot/tjoe-reviewkit",
-    "stars": 0,
-    "updated_at": "2026-06-14T12:38:39Z",
-    "url": "https://github.com/thewonderofyou777z-dot/tjoe-reviewkit"
   },
   {
     "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
@@ -68,7 +77,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22184,
-    "updated_at": "2026-06-14T09:49:33Z",
+    "updated_at": "2026-06-14T13:09:01Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -79,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-14T09:44:39Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
-    "id": "Kondwani10/Origin-Continuum",
-    "language": "\u2014",
-    "name": "Kondwani10/Origin-Continuum",
-    "stars": 0,
-    "updated_at": "2026-06-14T09:10:22Z",
-    "url": "https://github.com/Kondwani10/Origin-Continuum"
   },
   {
     "description": "Eval harness template for LLM systems: golden regression, LLM-as-judge, invariants",
