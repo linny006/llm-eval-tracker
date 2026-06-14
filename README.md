@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-14 07:30 UTC
+> ⏰ Last updated: 2026-06-14 07:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -58,40 +58,40 @@ expired items removed — so you can rely on what you see being current.
 | 14 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-06-13 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
 | 15 | [truera/trulens](https://github.com/truera/trulens) | 3378 | Python | 2026-06-12 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 16 | [multivon-ai/multivon-eval](https://github.com/multivon-ai/multivon-eval) | 7 | Python | 2026-06-12 | Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI |
-| 17 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 304 | TypeScript | 2026-06-12 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 17 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 305 | TypeScript | 2026-06-12 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 18 | [mizcausevic-dev/agent-eval-arena](https://github.com/mizcausevic-dev/agent-eval-arena) | 0 | TypeScript | 2026-06-11 | Agent and LLM evaluation harness — golden datasets, multi-scorer execution, regression detection across model versions,  |
 | 19 | [ejentum/eval](https://github.com/ejentum/eval) | 3 | Python | 2026-06-11 | A/B evaluate any LLM task with and without Ejentum cognitive injection. n8n workflow + TypeScript module. |
 | 20 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 10 | Python | 2026-06-10 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
 | 21 | [akanjilal-work/agent-eval-harness](https://github.com/akanjilal-work/agent-eval-harness) | 0 | Python | 2026-06-10 | A lightweight harness to test agent behaviour (tool-call correctness, injection refusal, cost ceilings) before deploymen |
 | 22 | [karlmehta/trustmodel-mcp](https://github.com/karlmehta/trustmodel-mcp) | 0 | TypeScript | 2026-06-10 | TrustModel MCP Server — trust evaluation, red-team & governance for AI agents via the Model Context Protocol. Public can |
-| 23 | [reaatech/agent-eval-harness](https://github.com/reaatech/agent-eval-harness) | 0 | TypeScript | 2026-06-09 | End-to-end agent evaluation — trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w |
-| 24 | [alyssadata/continuity-keys](https://github.com/alyssadata/continuity-keys) | 1 | — | 2026-06-08 | Continuity Keys: tests for “same someone” returns. Behavioral identity consistency under pressure. Origin (Alyssa Solen) |
-| 25 | [melody-ling-L/eval-resume](https://github.com/melody-ling-L/eval-resume) | 0 | HTML | 2026-06-04 | 第一个聚焦"简历改写诚实度"的中文 LLM benchmark：20 真实脱敏简历 × 3 模型 × 4 评分维度 |
-| 26 | [reaatech/classifier-evals](https://github.com/reaatech/classifier-evals) | 0 | TypeScript | 2026-06-10 | Offline classifier evaluation harness — dataset loader, confusion matrices, LLM-as-judge with cost accounting, regressio |
-| 27 | [reaatech/rag-eval-pack](https://github.com/reaatech/rag-eval-pack) | 0 | TypeScript | 2026-06-10 | RAG evaluation toolkit — faithfulness, answer relevance, context precision/recall, cost accounting, CI gates. Pairs with |
-| 28 | [Juanllenato/llm-eval-harness](https://github.com/Juanllenato/llm-eval-harness) | 0 | Python | 2026-06-03 | A small, production-minded evaluation and observability harness for LLM/RAG features. Runs offline or live, gates CI on  |
-| 29 | [Victor-David-Medina/llm-eval-harness](https://github.com/Victor-David-Medina/llm-eval-harness) | 0 | Python | 2026-06-03 | LLM evaluation harness that gates quality in CI: golden datasets, regression detection, grounding and faithfulness check |
-| 30 | [harnexa/nexa-gauge](https://github.com/harnexa/nexa-gauge) | 38 | Python | 2026-06-08 | An graph-eval framework for LLM's  |
-| 31 | [thestio/thest-eval](https://github.com/thestio/thest-eval) | 0 | Python | 2026-06-02 | The CI regression gate and governance-evidence layer for LLM systems — zero-dependency, vendor-neutral, offline. |
-| 32 | [pdxlab/trustmodel-mcp-server](https://github.com/pdxlab/trustmodel-mcp-server) | 0 | TypeScript | 2026-06-01 | TrustModel MCP Server — trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t |
-| 33 | [ALEX-nlp/OpenSkillEval](https://github.com/ALEX-nlp/OpenSkillEval) | 12 | Python | 2026-06-01 | OpenSkillEval: Automatically Auditing the Open Skill Ecosystem for LLM Agents |
-| 34 | [monkeyin92/voice-agent-testops](https://github.com/monkeyin92/voice-agent-testops) | 0 | TypeScript | 2026-06-01 | Regression testing for voice agents: scripted conversations, safety assertions, CI-ready reports. |
-| 35 | [fastxyz/skill-optimizer](https://github.com/fastxyz/skill-optimizer) | 65 | TypeScript | 2026-05-28 | Benchmark, evaluate, and optimize skills to ensure reliable performance across all LLMs |
-| 36 | [ajmeese7/local-llms](https://github.com/ajmeese7/local-llms) | 1 | Python | 2026-05-27 | Use local Large Language Models for production use cases, and perform benchmarking for task-specific performance evaluat |
-| 37 | [rogue-socket/focusgroup](https://github.com/rogue-socket/focusgroup) | 0 | Python | 2026-05-27 | Persona-driven dynamic testing for conversational AI products. Focus groups for your agents. |
-| 38 | [MyForgeLabs/myforge-vault-1111](https://github.com/MyForgeLabs/myforge-vault-1111) | 0 | Python | 2026-05-26 | An open-source 8-axis methodology + working tooling for evolving a personal Obsidian-vault into a self-improving knowled |
-| 39 | [chquandogong/mission-spec](https://github.com/chquandogong/mission-spec) | 0 | TypeScript | 2026-06-13 | Mission Spec — AI 에이전트 워크플로를 위한 task contract layer |
-| 40 | [sanya2025/edututor-eval](https://github.com/sanya2025/edututor-eval) | 0 | Python | 2026-05-21 | A lightweight evaluation framework for AI tutoring responses, built for education-focused LLM systems |
-| 41 | [Alexanderk30/context-override-resistance](https://github.com/Alexanderk30/context-override-resistance) | 0 | Python | 2026-05-19 | RL-style eval measuring intent/action divergence in frontier agents: model acknowledges a correction, then acts on the s |
-| 42 | [melody-ling-L/judgebuddy](https://github.com/melody-ling-L/judgebuddy) | 0 | HTML | 2026-05-19 | Single-file labeling tool for LLM-as-judge calibration. Three-pane comparison + multi-dim scoring. Zero deployment. |
-| 43 | [GiuseppeSp/n8n-customer-interview-synthesizer](https://github.com/GiuseppeSp/n8n-customer-interview-synthesizer) | 0 | — | 2026-05-19 | Multi-agent customer-interview synthesis pipeline in n8n with LLM-as-judge eval, Slack human-in-the-loop approval, and d |
-| 44 | [gmitt98/fieldtest](https://github.com/gmitt98/fieldtest) | 0 | Python | 2026-05-16 | LLM evaluation framework — define what correct, well-formed, and safe means before you measure |
-| 45 | [verifywise-ai/plugin-marketplace](https://github.com/verifywise-ai/plugin-marketplace) | 3 | TypeScript | 2026-05-15 | VerifyWise AI Governance Plugin Marketplace |
-| 46 | [AI-QL/tuui](https://github.com/AI-QL/tuui) | 1148 | TypeScript | 2026-05-14 | A desktop MCP client designed as a tool unitary utility integration, accelerating AI adoption through the Model Context  |
-| 47 | [prompt-foundry/typescript-sdk](https://github.com/prompt-foundry/typescript-sdk) | 6 | TypeScript | 2026-05-13 | The prompt engineering, prompt management, and prompt evaluation tool for TypeScript, JavaScript, and NodeJS. |
-| 48 | [prompt-foundry/python-sdk](https://github.com/prompt-foundry/python-sdk) | 8 | Python | 2026-05-13 | The prompt engineering, prompt management, and prompt evaluation tool for Python |
-| 49 | [Ruthwik-Data/mechanictrust](https://github.com/Ruthwik-Data/mechanictrust) | 0 | — | 2026-05-11 | AI product case study for trust, pricing transparency, and explainable diagnosis in auto repair. |
-| 50 | [SAY-5/eval-observability](https://github.com/SAY-5/eval-observability) | 0 | Python | 2026-05-10 | Python LLM eval framework with full OTel tracing, structured logs, and daily Welch's-t-test regression detection persist |
+| 23 | [mpuodziukas-labs/eval-harness-template](https://github.com/mpuodziukas-labs/eval-harness-template) | 0 | Python | 2026-06-10 | Production-ready evaluation harness for non-deterministic LLM systems — golden regression, LLM-as-judge, property-based  |
+| 24 | [reaatech/agent-eval-harness](https://github.com/reaatech/agent-eval-harness) | 0 | TypeScript | 2026-06-09 | End-to-end agent evaluation — trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w |
+| 25 | [alyssadata/continuity-keys](https://github.com/alyssadata/continuity-keys) | 1 | — | 2026-06-08 | Continuity Keys: tests for “same someone” returns. Behavioral identity consistency under pressure. Origin (Alyssa Solen) |
+| 26 | [melody-ling-L/eval-resume](https://github.com/melody-ling-L/eval-resume) | 0 | HTML | 2026-06-04 | 第一个聚焦"简历改写诚实度"的中文 LLM benchmark：20 真实脱敏简历 × 3 模型 × 4 评分维度 |
+| 27 | [reaatech/classifier-evals](https://github.com/reaatech/classifier-evals) | 0 | TypeScript | 2026-06-10 | Offline classifier evaluation harness — dataset loader, confusion matrices, LLM-as-judge with cost accounting, regressio |
+| 28 | [reaatech/rag-eval-pack](https://github.com/reaatech/rag-eval-pack) | 0 | TypeScript | 2026-06-10 | RAG evaluation toolkit — faithfulness, answer relevance, context precision/recall, cost accounting, CI gates. Pairs with |
+| 29 | [Juanllenato/llm-eval-harness](https://github.com/Juanllenato/llm-eval-harness) | 0 | Python | 2026-06-03 | A small, production-minded evaluation and observability harness for LLM/RAG features. Runs offline or live, gates CI on  |
+| 30 | [Victor-David-Medina/llm-eval-harness](https://github.com/Victor-David-Medina/llm-eval-harness) | 0 | Python | 2026-06-03 | LLM evaluation harness that gates quality in CI: golden datasets, regression detection, grounding and faithfulness check |
+| 31 | [harnexa/nexa-gauge](https://github.com/harnexa/nexa-gauge) | 38 | Python | 2026-06-08 | An graph-eval framework for LLM's  |
+| 32 | [thestio/thest-eval](https://github.com/thestio/thest-eval) | 0 | Python | 2026-06-02 | The CI regression gate and governance-evidence layer for LLM systems — zero-dependency, vendor-neutral, offline. |
+| 33 | [pdxlab/trustmodel-mcp-server](https://github.com/pdxlab/trustmodel-mcp-server) | 0 | TypeScript | 2026-06-01 | TrustModel MCP Server — trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t |
+| 34 | [ALEX-nlp/OpenSkillEval](https://github.com/ALEX-nlp/OpenSkillEval) | 12 | Python | 2026-06-01 | OpenSkillEval: Automatically Auditing the Open Skill Ecosystem for LLM Agents |
+| 35 | [monkeyin92/voice-agent-testops](https://github.com/monkeyin92/voice-agent-testops) | 0 | TypeScript | 2026-06-01 | Regression testing for voice agents: scripted conversations, safety assertions, CI-ready reports. |
+| 36 | [fastxyz/skill-optimizer](https://github.com/fastxyz/skill-optimizer) | 65 | TypeScript | 2026-05-28 | Benchmark, evaluate, and optimize skills to ensure reliable performance across all LLMs |
+| 37 | [ajmeese7/local-llms](https://github.com/ajmeese7/local-llms) | 1 | Python | 2026-05-27 | Use local Large Language Models for production use cases, and perform benchmarking for task-specific performance evaluat |
+| 38 | [rogue-socket/focusgroup](https://github.com/rogue-socket/focusgroup) | 0 | Python | 2026-05-27 | Persona-driven dynamic testing for conversational AI products. Focus groups for your agents. |
+| 39 | [MyForgeLabs/myforge-vault-1111](https://github.com/MyForgeLabs/myforge-vault-1111) | 0 | Python | 2026-05-26 | An open-source 8-axis methodology + working tooling for evolving a personal Obsidian-vault into a self-improving knowled |
+| 40 | [chquandogong/mission-spec](https://github.com/chquandogong/mission-spec) | 0 | TypeScript | 2026-06-13 | Mission Spec — AI 에이전트 워크플로를 위한 task contract layer |
+| 41 | [sanya2025/edututor-eval](https://github.com/sanya2025/edututor-eval) | 0 | Python | 2026-05-21 | A lightweight evaluation framework for AI tutoring responses, built for education-focused LLM systems |
+| 42 | [Alexanderk30/context-override-resistance](https://github.com/Alexanderk30/context-override-resistance) | 0 | Python | 2026-05-19 | RL-style eval measuring intent/action divergence in frontier agents: model acknowledges a correction, then acts on the s |
+| 43 | [melody-ling-L/judgebuddy](https://github.com/melody-ling-L/judgebuddy) | 0 | HTML | 2026-05-19 | Single-file labeling tool for LLM-as-judge calibration. Three-pane comparison + multi-dim scoring. Zero deployment. |
+| 44 | [GiuseppeSp/n8n-customer-interview-synthesizer](https://github.com/GiuseppeSp/n8n-customer-interview-synthesizer) | 0 | — | 2026-05-19 | Multi-agent customer-interview synthesis pipeline in n8n with LLM-as-judge eval, Slack human-in-the-loop approval, and d |
+| 45 | [gmitt98/fieldtest](https://github.com/gmitt98/fieldtest) | 0 | Python | 2026-05-16 | LLM evaluation framework — define what correct, well-formed, and safe means before you measure |
+| 46 | [verifywise-ai/plugin-marketplace](https://github.com/verifywise-ai/plugin-marketplace) | 3 | TypeScript | 2026-05-15 | VerifyWise AI Governance Plugin Marketplace |
+| 47 | [AI-QL/tuui](https://github.com/AI-QL/tuui) | 1148 | TypeScript | 2026-05-14 | A desktop MCP client designed as a tool unitary utility integration, accelerating AI adoption through the Model Context  |
+| 48 | [prompt-foundry/typescript-sdk](https://github.com/prompt-foundry/typescript-sdk) | 6 | TypeScript | 2026-05-13 | The prompt engineering, prompt management, and prompt evaluation tool for TypeScript, JavaScript, and NodeJS. |
+| 49 | [prompt-foundry/python-sdk](https://github.com/prompt-foundry/python-sdk) | 8 | Python | 2026-05-13 | The prompt engineering, prompt management, and prompt evaluation tool for Python |
+| 50 | [Ruthwik-Data/mechanictrust](https://github.com/Ruthwik-Data/mechanictrust) | 0 | — | 2026-05-11 | AI product case study for trust, pricing transparency, and explainable diagnosis in auto repair. |
 <!-- TRACKER_TABLE_END -->
 
 ---
