@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
+    "id": "penpoen/llm-SugarScape",
+    "language": "Python",
+    "name": "penpoen/llm-SugarScape",
+    "stars": 1,
+    "updated_at": "2026-06-14T15:12:19Z",
+    "url": "https://github.com/penpoen/llm-SugarScape"
+  },
+  {
     "description": "Framework-agnostic evaluation harness for Go \u2014 test your MCP servers and AI agents with scored, CI-ready checks.",
     "id": "tushariitr-19/assay",
     "language": "Go",
@@ -79,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-14T12:32:18Z",
     "url": "https://github.com/Phinchanbora/llm-evaluation"
-  },
-  {
-    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
-    "id": "penpoen/llm-SugarScape",
-    "language": "Python",
-    "name": "penpoen/llm-SugarScape",
-    "stars": 1,
-    "updated_at": "2026-06-14T12:19:23Z",
-    "url": "https://github.com/penpoen/llm-SugarScape"
   },
   {
     "description": "Measure MLX quantization quality loss \u2014 KL divergence, perplexity, top-token agreement for KV cache and weights",
