@@ -1,5 +1,14 @@
 [
   {
+    "description": "Framework-agnostic evaluation harness for Go \u2014 test your MCP servers and AI agents with scored, CI-ready checks.",
+    "id": "tushariitr-19/assay",
+    "language": "\u2014",
+    "name": "tushariitr-19/assay",
+    "stars": 0,
+    "updated_at": "2026-06-14T04:26:19Z",
+    "url": "https://github.com/tushariitr-19/assay"
+  },
+  {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
     "id": "jeremylongshore/j-rig-skill-binary-eval",
     "language": "TypeScript",
@@ -76,7 +85,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10126,
+    "stars": 10127,
     "updated_at": "2026-06-14T01:46:57Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-10T21:47:21Z",
     "url": "https://github.com/SAY-5/eval-observability"
-  },
-  {
-    "description": "RAG eval pipeline on Apple's FY 2024 10-K \u2014 found confident hallucinations, filed a metric-level bug in DeepEval, and bu",
-    "id": "Ruthwik-Data/finrag-eval",
-    "language": "Python",
-    "name": "Ruthwik-Data/finrag-eval",
-    "stars": 0,
-    "updated_at": "2026-05-10T02:40:54Z",
-    "url": "https://github.com/Ruthwik-Data/finrag-eval"
   }
 ]
