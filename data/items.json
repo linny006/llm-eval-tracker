@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
+    "id": "Phinchanbora/llm-evaluation",
+    "language": "Python",
+    "name": "Phinchanbora/llm-evaluation",
+    "stars": 0,
+    "updated_at": "2026-06-14T05:54:24Z",
+    "url": "https://github.com/Phinchanbora/llm-evaluation"
+  },
+  {
     "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
     "id": "penpoen/llm-SugarScape",
     "language": "Python",
@@ -72,20 +81,11 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
-    "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
-    "id": "Phinchanbora/llm-evaluation",
-    "language": "Python",
-    "name": "Phinchanbora/llm-evaluation",
-    "stars": 0,
-    "updated_at": "2026-06-14T02:15:30Z",
-    "url": "https://github.com/Phinchanbora/llm-evaluation"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10126,
+    "stars": 10127,
     "updated_at": "2026-06-14T01:46:57Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -94,7 +94,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22173,
+    "stars": 22174,
     "updated_at": "2026-06-13T15:03:25Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
