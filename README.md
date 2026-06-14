@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-14 19:00 UTC
+> ⏰ Last updated: 2026-06-14 19:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -52,9 +52,9 @@ expired items removed — so you can rely on what you see being current.
 | 8 | [Phinchanbora/llm-evaluation](https://github.com/Phinchanbora/llm-evaluation) | 0 | Python | 2026-06-14 | 🎯 Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev |
 | 9 | [penpoen/llm-SugarScape](https://github.com/penpoen/llm-SugarScape) | 1 | Python | 2026-06-14 | 🌐 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok |
 | 10 | [tushariitr-19/assay](https://github.com/tushariitr-19/assay) | 0 | Go | 2026-06-14 | Framework-agnostic evaluation harness for Go — test your MCP servers and AI agents with scored, CI-ready checks. |
-| 11 | [IonDen/mlx-quant-fidelity](https://github.com/IonDen/mlx-quant-fidelity) | 0 | Python | 2026-06-14 | Measure MLX quantization quality loss — KL divergence, perplexity, top-token agreement for KV cache and weights |
-| 12 | [mpuodziukas-labs/eval-harness-template](https://github.com/mpuodziukas-labs/eval-harness-template) | 0 | Python | 2026-06-14 | Eval harness template for LLM systems: golden regression, LLM-as-judge, invariants |
-| 13 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10130 | Python | 2026-06-14 | AI Observability & Evaluation |
+| 11 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10131 | Python | 2026-06-14 | AI Observability & Evaluation |
+| 12 | [IonDen/mlx-quant-fidelity](https://github.com/IonDen/mlx-quant-fidelity) | 0 | Python | 2026-06-14 | Measure MLX quantization quality loss — KL divergence, perplexity, top-token agreement for KV cache and weights |
+| 13 | [mpuodziukas-labs/eval-harness-template](https://github.com/mpuodziukas-labs/eval-harness-template) | 0 | Python | 2026-06-14 | Eval harness template for LLM systems: golden regression, LLM-as-judge, invariants |
 | 14 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-06-14 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 15 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5429 | Python | 2026-06-13 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 16 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-06-13 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |

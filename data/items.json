@@ -90,6 +90,15 @@
     "url": "https://github.com/tushariitr-19/assay"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10131,
+    "updated_at": "2026-06-14T13:00:00Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Measure MLX quantization quality loss \u2014 KL divergence, perplexity, top-token agreement for KV cache and weights",
     "id": "IonDen/mlx-quant-fidelity",
     "language": "Python",
@@ -106,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-14T07:51:51Z",
     "url": "https://github.com/mpuodziukas-labs/eval-harness-template"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10130,
-    "updated_at": "2026-06-14T13:00:00Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
