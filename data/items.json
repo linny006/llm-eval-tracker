@@ -1,5 +1,14 @@
 [
   {
+    "description": "Measure MLX quantization quality loss \u2014 KL divergence, perplexity, top-token agreement for KV cache and weights",
+    "id": "IonDen/mlx-quant-fidelity",
+    "language": "Python",
+    "name": "IonDen/mlx-quant-fidelity",
+    "stars": 0,
+    "updated_at": "2026-06-14T10:56:20Z",
+    "url": "https://github.com/IonDen/mlx-quant-fidelity"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 8,
     "updated_at": "2026-05-13T02:40:18Z",
     "url": "https://github.com/prompt-foundry/python-sdk"
-  },
-  {
-    "description": "AI product case study for trust, pricing transparency, and explainable diagnosis in auto repair.",
-    "id": "Ruthwik-Data/mechanictrust",
-    "language": "\u2014",
-    "name": "Ruthwik-Data/mechanictrust",
-    "stars": 0,
-    "updated_at": "2026-05-11T02:01:50Z",
-    "url": "https://github.com/Ruthwik-Data/mechanictrust"
   }
 ]
