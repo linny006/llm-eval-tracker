@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22225,
+    "updated_at": "2026-06-15T14:22:15Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Open-source LLM evaluation framework \u2014 drop-in SDK + CI plugin. LLM-as-judge, regression detection, free + self-hostable",
     "id": "anejakartik/evalstack",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 0,
     "updated_at": "2026-06-15T14:09:09Z",
     "url": "https://github.com/anejakartik/evalstack"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22224,
-    "updated_at": "2026-06-15T14:14:50Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
@@ -148,7 +148,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10148,
+    "stars": 10149,
     "updated_at": "2026-06-14T20:56:21Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -284,7 +284,7 @@
     "language": "TypeScript",
     "name": "reaatech/rag-eval-pack",
     "stars": 0,
-    "updated_at": "2026-06-15T14:10:46Z",
+    "updated_at": "2026-06-15T14:24:30Z",
     "url": "https://github.com/reaatech/rag-eval-pack"
   },
   {
