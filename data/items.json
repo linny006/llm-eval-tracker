@@ -1,11 +1,29 @@
 [
   {
+    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
+    "id": "multivon-ai/multivon-eval",
+    "language": "Python",
+    "name": "multivon-ai/multivon-eval",
+    "stars": 7,
+    "updated_at": "2026-06-15T19:57:11Z",
+    "url": "https://github.com/multivon-ai/multivon-eval"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22236,
+    "updated_at": "2026-06-15T20:00:22Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10151,
-    "updated_at": "2026-06-15T19:38:53Z",
+    "updated_at": "2026-06-15T19:48:18Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -43,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-06-15T18:31:45Z",
     "url": "https://github.com/Kamixon131/claude-config"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22236,
-    "updated_at": "2026-06-15T19:28:19Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
@@ -187,15 +196,6 @@
     "stars": 3381,
     "updated_at": "2026-06-12T22:55:32Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
-    "id": "multivon-ai/multivon-eval",
-    "language": "Python",
-    "name": "multivon-ai/multivon-eval",
-    "stars": 7,
-    "updated_at": "2026-06-12T22:43:42Z",
-    "url": "https://github.com/multivon-ai/multivon-eval"
   },
   {
     "description": "Agent and LLM evaluation harness \u2014 golden datasets, multi-scorer execution, regression detection across model versions, ",
