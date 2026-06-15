@@ -1,12 +1,12 @@
 [
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22234,
-    "updated_at": "2026-06-15T17:39:58Z",
-    "url": "https://github.com/promptfoo/promptfoo"
+    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
+    "id": "penpoen/llm-SugarScape",
+    "language": "Python",
+    "name": "penpoen/llm-SugarScape",
+    "stars": 1,
+    "updated_at": "2026-06-15T17:55:59Z",
+    "url": "https://github.com/penpoen/llm-SugarScape"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10150,
-    "updated_at": "2026-06-15T17:19:55Z",
+    "updated_at": "2026-06-15T17:57:40Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22234,
+    "updated_at": "2026-06-15T17:48:03Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
@@ -88,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-15T15:12:55Z",
     "url": "https://github.com/Phinchanbora/llm-evaluation"
-  },
-  {
-    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
-    "id": "penpoen/llm-SugarScape",
-    "language": "Python",
-    "name": "penpoen/llm-SugarScape",
-    "stars": 1,
-    "updated_at": "2026-06-15T14:59:48Z",
-    "url": "https://github.com/penpoen/llm-SugarScape"
   },
   {
     "description": "Open-source LLM evaluation framework \u2014 drop-in SDK + CI plugin. LLM-as-judge, regression detection, free + self-hostable",
