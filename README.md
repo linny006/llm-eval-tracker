@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-15 16:30 UTC
+> ⏰ Last updated: 2026-06-15 16:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -61,7 +61,7 @@ expired items removed — so you can rely on what you see being current.
 | 17 | [ahwurm/localshift](https://github.com/ahwurm/localshift) | 3 | Python | 2026-06-15 | Migrate headless Claude/AI workloads to local LLMs with a derived, per-workload quality eval — cron job in, zero-margina |
 | 18 | [IonDen/mlx-quant-fidelity](https://github.com/IonDen/mlx-quant-fidelity) | 0 | Python | 2026-06-14 | Measure MLX quantization quality loss — KL divergence, perplexity, top-token agreement for KV cache and weights |
 | 19 | [mpuodziukas-labs/eval-harness-template](https://github.com/mpuodziukas-labs/eval-harness-template) | 0 | Python | 2026-06-14 | Eval harness template for LLM systems: golden regression, LLM-as-judge, invariants |
-| 20 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-06-13 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
+| 20 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-06-15 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
 | 21 | [truera/trulens](https://github.com/truera/trulens) | 3381 | Python | 2026-06-12 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 22 | [multivon-ai/multivon-eval](https://github.com/multivon-ai/multivon-eval) | 7 | Python | 2026-06-12 | Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI |
 | 23 | [mizcausevic-dev/agent-eval-arena](https://github.com/mizcausevic-dev/agent-eval-arena) | 0 | TypeScript | 2026-06-11 | Agent and LLM evaluation harness — golden datasets, multi-scorer execution, regression detection across model versions,  |
