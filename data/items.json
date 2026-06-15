@@ -1,5 +1,14 @@
 [
   {
+    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
+    "id": "saddled-panicattack529/idea-evaluation-pipeline",
+    "language": "\u2014",
+    "name": "saddled-panicattack529/idea-evaluation-pipeline",
+    "stars": 0,
+    "updated_at": "2026-06-15T12:24:11Z",
+    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -63,15 +72,6 @@
     "url": "https://github.com/penpoen/llm-SugarScape"
   },
   {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-06-15T09:33:48Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
     "description": "TjoeReviewKit\uff1atjoe \u7684\u672c\u5730\u79bb\u7ebf\u5de5\u4f5c\u6d41\u590d\u76d8\u68c0\u67e5\u5de5\u5177\uff1b\u4e0d\u8fd0\u884c\u4efb\u52a1\u3001\u4e0d\u8054\u7f51\u3001\u4e0d\u63a5\u7ba1\u5de5\u5177\u8c03\u7528\u3001\u4e0d\u91c7\u96c6\u751f\u4ea7\u65e5\u5fd7",
     "id": "thewonderofyou777z-dot/tjoe-reviewkit",
     "language": "Python",
@@ -126,11 +126,20 @@
     "url": "https://github.com/ALEX-nlp/OpenSkillEval"
   },
   {
+    "description": "Migrate headless Claude/AI workloads to local LLMs with a derived, per-workload quality eval \u2014 cron job in, zero-margina",
+    "id": "ahwurm/localshift",
+    "language": "Python",
+    "name": "ahwurm/localshift",
+    "stars": 3,
+    "updated_at": "2026-06-15T01:02:11Z",
+    "url": "https://github.com/ahwurm/localshift"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10144,
+    "stars": 10145,
     "updated_at": "2026-06-14T20:56:21Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-05-13T02:40:28Z",
     "url": "https://github.com/prompt-foundry/typescript-sdk"
-  },
-  {
-    "description": "The prompt engineering, prompt management, and prompt evaluation tool for Python",
-    "id": "prompt-foundry/python-sdk",
-    "language": "Python",
-    "name": "prompt-foundry/python-sdk",
-    "stars": 8,
-    "updated_at": "2026-05-13T02:40:18Z",
-    "url": "https://github.com/prompt-foundry/python-sdk"
   }
 ]
