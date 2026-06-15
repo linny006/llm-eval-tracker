@@ -1,5 +1,14 @@
 [
   {
+    "description": "Framework-agnostic evaluation harness for Go \u2014 test your MCP servers and AI agents with scored, CI-ready checks.",
+    "id": "tushariitr-19/assay",
+    "language": "Go",
+    "name": "tushariitr-19/assay",
+    "stars": 0,
+    "updated_at": "2026-06-15T02:46:38Z",
+    "url": "https://github.com/tushariitr-19/assay"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -34,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-06-15T02:18:55Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "Framework-agnostic evaluation harness for Go \u2014 test your MCP servers and AI agents with scored, CI-ready checks.",
-    "id": "tushariitr-19/assay",
-    "language": "Go",
-    "name": "tushariitr-19/assay",
-    "stars": 0,
-    "updated_at": "2026-06-15T02:17:08Z",
-    "url": "https://github.com/tushariitr-19/assay"
   },
   {
     "description": "OpenSkillEval: Automatically Auditing the Open Skill Ecosystem for LLM Agents",
@@ -103,7 +103,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10132,
+    "stars": 10133,
     "updated_at": "2026-06-14T20:56:21Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
