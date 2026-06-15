@@ -4,7 +4,7 @@
     "id": "tushariitr-19/assay",
     "language": "Go",
     "name": "tushariitr-19/assay",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-06-15T03:13:06Z",
     "url": "https://github.com/tushariitr-19/assay"
   },
@@ -25,6 +25,15 @@
     "stars": 0,
     "updated_at": "2026-06-15T03:02:22Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22201,
+    "updated_at": "2026-06-15T02:34:51Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -88,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-15T02:02:12Z",
     "url": "https://github.com/Phinchanbora/llm-evaluation"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22199,
-    "updated_at": "2026-06-15T02:34:51Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
