@@ -1,11 +1,20 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 305,
+    "updated_at": "2026-06-15T07:58:05Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22207,
-    "updated_at": "2026-06-15T07:40:27Z",
+    "stars": 22209,
+    "updated_at": "2026-06-15T07:53:08Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -169,15 +178,6 @@
     "stars": 7,
     "updated_at": "2026-06-12T22:43:42Z",
     "url": "https://github.com/multivon-ai/multivon-eval"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 305,
-    "updated_at": "2026-06-15T01:14:31Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Agent and LLM evaluation harness \u2014 golden datasets, multi-scorer execution, regression detection across model versions, ",
