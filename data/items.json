@@ -139,7 +139,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10145,
+    "stars": 10146,
     "updated_at": "2026-06-14T20:56:21Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -360,15 +360,6 @@
     "url": "https://github.com/rogue-socket/focusgroup"
   },
   {
-    "description": "An open-source 8-axis methodology + working tooling for evolving a personal Obsidian-vault into a self-improving knowled",
-    "id": "MyForgeLabs/myforge-vault-1111",
-    "language": "Python",
-    "name": "MyForgeLabs/myforge-vault-1111",
-    "stars": 0,
-    "updated_at": "2026-05-26T08:05:42Z",
-    "url": "https://github.com/MyForgeLabs/myforge-vault-1111"
-  },
-  {
     "description": "Mission Spec \u2014 AI \uc5d0\uc774\uc804\ud2b8 \uc6cc\ud06c\ud50c\ub85c\ub97c \uc704\ud55c task contract layer",
     "id": "chquandogong/mission-spec",
     "language": "TypeScript",
@@ -448,5 +439,14 @@
     "stars": 6,
     "updated_at": "2026-05-13T02:40:28Z",
     "url": "https://github.com/prompt-foundry/typescript-sdk"
+  },
+  {
+    "description": "The prompt engineering, prompt management, and prompt evaluation tool for Python",
+    "id": "prompt-foundry/python-sdk",
+    "language": "Python",
+    "name": "prompt-foundry/python-sdk",
+    "stars": 8,
+    "updated_at": "2026-05-13T02:40:18Z",
+    "url": "https://github.com/prompt-foundry/python-sdk"
   }
 ]
