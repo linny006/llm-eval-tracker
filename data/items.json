@@ -5,8 +5,26 @@
     "language": "Go",
     "name": "tushariitr-19/assay",
     "stars": 0,
-    "updated_at": "2026-06-15T02:46:38Z",
+    "updated_at": "2026-06-15T03:13:06Z",
     "url": "https://github.com/tushariitr-19/assay"
+  },
+  {
+    "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
+    "id": "jeremylongshore/j-rig-skill-binary-eval",
+    "language": "TypeScript",
+    "name": "jeremylongshore/j-rig-skill-binary-eval",
+    "stars": 0,
+    "updated_at": "2026-06-15T03:11:28Z",
+    "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
+  },
+  {
+    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
+    "id": "saddled-panicattack529/idea-evaluation-pipeline",
+    "language": "\u2014",
+    "name": "saddled-panicattack529/idea-evaluation-pipeline",
+    "stars": 0,
+    "updated_at": "2026-06-15T03:02:22Z",
+    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -90,15 +108,6 @@
     "url": "https://github.com/penpoen/llm-SugarScape"
   },
   {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-06-14T23:23:32Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -133,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-14T07:51:51Z",
     "url": "https://github.com/mpuodziukas-labs/eval-harness-template"
-  },
-  {
-    "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
-    "id": "jeremylongshore/j-rig-skill-binary-eval",
-    "language": "TypeScript",
-    "name": "jeremylongshore/j-rig-skill-binary-eval",
-    "stars": 0,
-    "updated_at": "2026-06-15T02:31:57Z",
-    "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
