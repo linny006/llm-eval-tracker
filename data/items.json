@@ -1,5 +1,23 @@
 [
   {
+    "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
+    "id": "jeremylongshore/j-rig-skill-binary-eval",
+    "language": "TypeScript",
+    "name": "jeremylongshore/j-rig-skill-binary-eval",
+    "stars": 0,
+    "updated_at": "2026-06-15T18:29:07Z",
+    "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
+  },
+  {
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-06-15T18:27:06Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
     "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
     "id": "Phinchanbora/llm-evaluation",
     "language": "Python",
@@ -32,17 +50,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22234,
-    "updated_at": "2026-06-15T18:06:09Z",
+    "updated_at": "2026-06-15T18:16:59Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
-    "id": "jeremylongshore/j-rig-skill-binary-eval",
-    "language": "TypeScript",
-    "name": "jeremylongshore/j-rig-skill-binary-eval",
-    "stars": 0,
-    "updated_at": "2026-06-15T17:18:00Z",
-    "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
@@ -86,17 +95,8 @@
     "language": "\u2014",
     "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "stars": 0,
-    "updated_at": "2026-06-15T15:33:29Z",
+    "updated_at": "2026-06-15T18:29:20Z",
     "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
-    "id": "bhavya7995/AI_governance",
-    "language": "PowerShell",
-    "name": "bhavya7995/AI_governance",
-    "stars": 1,
-    "updated_at": "2026-06-15T15:31:19Z",
-    "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
     "description": "Open-source LLM evaluation framework \u2014 drop-in SDK + CI plugin. LLM-as-judge, regression detection, free + self-hostable",
