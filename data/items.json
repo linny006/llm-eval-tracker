@@ -1,5 +1,41 @@
 [
   {
+    "description": "OpenSkillEval: Automatically Auditing the Open Skill Ecosystem for LLM Agents",
+    "id": "ALEX-nlp/OpenSkillEval",
+    "language": "Python",
+    "name": "ALEX-nlp/OpenSkillEval",
+    "stars": 12,
+    "updated_at": "2026-06-15T02:14:09Z",
+    "url": "https://github.com/ALEX-nlp/OpenSkillEval"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5429,
+    "updated_at": "2026-06-15T02:13:15Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
+    "id": "Phinchanbora/llm-evaluation",
+    "language": "Python",
+    "name": "Phinchanbora/llm-evaluation",
+    "stars": 0,
+    "updated_at": "2026-06-15T02:02:12Z",
+    "url": "https://github.com/Phinchanbora/llm-evaluation"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22199,
+    "updated_at": "2026-06-15T01:58:41Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
     "id": "penpoen/llm-SugarScape",
     "language": "Python",
@@ -63,24 +99,6 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
-    "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
-    "id": "Phinchanbora/llm-evaluation",
-    "language": "Python",
-    "name": "Phinchanbora/llm-evaluation",
-    "stars": 0,
-    "updated_at": "2026-06-14T22:22:12Z",
-    "url": "https://github.com/Phinchanbora/llm-evaluation"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22198,
-    "updated_at": "2026-06-15T01:58:41Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -124,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-14T05:05:54Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5429,
-    "updated_at": "2026-06-13T01:57:12Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
@@ -304,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-06-01T22:20:01Z",
     "url": "https://github.com/pdxlab/trustmodel-mcp-server"
-  },
-  {
-    "description": "OpenSkillEval: Automatically Auditing the Open Skill Ecosystem for LLM Agents",
-    "id": "ALEX-nlp/OpenSkillEval",
-    "language": "Python",
-    "name": "ALEX-nlp/OpenSkillEval",
-    "stars": 12,
-    "updated_at": "2026-06-01T04:03:43Z",
-    "url": "https://github.com/ALEX-nlp/OpenSkillEval"
   },
   {
     "description": "Regression testing for voice agents: scripted conversations, safety assertions, CI-ready reports.",
