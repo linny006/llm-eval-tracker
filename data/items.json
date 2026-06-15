@@ -1,11 +1,20 @@
 [
   {
+    "description": "Open-source LLM evaluation framework \u2014 drop-in SDK + CI plugin. LLM-as-judge, regression detection, free + self-hostable",
+    "id": "anejakartik/evalstack",
+    "language": "Python",
+    "name": "anejakartik/evalstack",
+    "stars": 0,
+    "updated_at": "2026-06-15T14:09:09Z",
+    "url": "https://github.com/anejakartik/evalstack"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22224,
-    "updated_at": "2026-06-15T13:35:51Z",
+    "updated_at": "2026-06-15T14:14:50Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -86,7 +95,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 306,
-    "updated_at": "2026-06-15T11:50:27Z",
+    "updated_at": "2026-06-15T14:14:16Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -275,7 +284,7 @@
     "language": "TypeScript",
     "name": "reaatech/rag-eval-pack",
     "stars": 0,
-    "updated_at": "2026-06-10T16:05:59Z",
+    "updated_at": "2026-06-15T14:10:46Z",
     "url": "https://github.com/reaatech/rag-eval-pack"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-05-13T02:40:28Z",
     "url": "https://github.com/prompt-foundry/typescript-sdk"
-  },
-  {
-    "description": "The prompt engineering, prompt management, and prompt evaluation tool for Python",
-    "id": "prompt-foundry/python-sdk",
-    "language": "Python",
-    "name": "prompt-foundry/python-sdk",
-    "stars": 8,
-    "updated_at": "2026-05-13T02:40:18Z",
-    "url": "https://github.com/prompt-foundry/python-sdk"
   }
 ]
