@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-15 02:30 UTC
+> ⏰ Last updated: 2026-06-15 02:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -57,7 +57,7 @@ expired items removed — so you can rely on what you see being current.
 | 13 | [thewonderofyou777z-dot/tjoe-reviewkit](https://github.com/thewonderofyou777z-dot/tjoe-reviewkit) | 0 | Python | 2026-06-14 | TjoeReviewKit：tjoe 的本地离线工作流复盘检查工具；不运行任务、不联网、不接管工具调用、不采集生产日志 |
 | 14 | [IonDen/mlx-quant-fidelity](https://github.com/IonDen/mlx-quant-fidelity) | 0 | Python | 2026-06-14 | Measure MLX quantization quality loss — KL divergence, perplexity, top-token agreement for KV cache and weights |
 | 15 | [mpuodziukas-labs/eval-harness-template](https://github.com/mpuodziukas-labs/eval-harness-template) | 0 | Python | 2026-06-14 | Eval harness template for LLM systems: golden regression, LLM-as-judge, invariants |
-| 16 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-06-14 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
+| 16 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-06-15 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 17 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-06-13 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
 | 18 | [truera/trulens](https://github.com/truera/trulens) | 3380 | Python | 2026-06-12 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 19 | [multivon-ai/multivon-eval](https://github.com/multivon-ai/multivon-eval) | 7 | Python | 2026-06-12 | Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI |
