@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-16 12:00 UTC
+> ⏰ Last updated: 2026-06-16 12:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -53,12 +53,12 @@ expired items removed — so you can rely on what you see being current.
 | 9 | [truera/trulens](https://github.com/truera/trulens) | 3384 | Python | 2026-06-16 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 10 | [jedobe/skill-evaluator](https://github.com/jedobe/skill-evaluator) | 0 | Python | 2026-06-16 | Score any Claude Code skill against a research-backed rubric derived from the top 9 most-starred skill repos on GitHub |
 | 11 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10163 | Python | 2026-06-16 | AI Observability & Evaluation |
-| 12 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22262 | TypeScript | 2026-06-16 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 12 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22263 | TypeScript | 2026-06-16 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 13 | [multivon-ai/multivon-eval](https://github.com/multivon-ai/multivon-eval) | 7 | Python | 2026-06-16 | Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI |
 | 14 | [IonDen/mlx-quant-fidelity](https://github.com/IonDen/mlx-quant-fidelity) | 0 | Python | 2026-06-15 | Measure MLX quantization quality loss — KL divergence, perplexity, top-token agreement for KV cache and weights |
 | 15 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-06-15 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 16 | [anejakartik/evalstack](https://github.com/anejakartik/evalstack) | 0 | Python | 2026-06-15 | Open-source LLM evaluation framework — drop-in SDK + CI plugin. LLM-as-judge, regression detection, free + self-hostable |
-| 17 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5434 | Python | 2026-06-15 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 17 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5433 | Python | 2026-06-15 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 18 | [thewonderofyou777z-dot/tjoe-reviewkit](https://github.com/thewonderofyou777z-dot/tjoe-reviewkit) | 0 | Python | 2026-06-15 | TjoeReviewKit：tjoe 的本地离线工作流复盘检查工具；不运行任务、不联网、不接管工具调用、不采集生产日志 |
 | 19 | [tushariitr-19/assay](https://github.com/tushariitr-19/assay) | 2 | Go | 2026-06-15 | Framework-agnostic evaluation harness for Go — test your MCP servers and AI agents with scored, CI-ready checks. |
 | 20 | [ALEX-nlp/OpenSkillEval](https://github.com/ALEX-nlp/OpenSkillEval) | 11 | Python | 2026-06-15 | OpenSkillEval: Automatically Auditing the Open Skill Ecosystem for LLM Agents |
