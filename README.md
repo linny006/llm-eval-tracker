@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-16 00:01 UTC
+> ⏰ Last updated: 2026-06-16 00:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -58,7 +58,7 @@ expired items removed — so you can rely on what you see being current.
 | 14 | [anejakartik/evalstack](https://github.com/anejakartik/evalstack) | 0 | Python | 2026-06-15 | Open-source LLM evaluation framework — drop-in SDK + CI plugin. LLM-as-judge, regression detection, free + self-hostable |
 | 15 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5430 | Python | 2026-06-15 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 16 | [thewonderofyou777z-dot/tjoe-reviewkit](https://github.com/thewonderofyou777z-dot/tjoe-reviewkit) | 0 | Python | 2026-06-15 | TjoeReviewKit：tjoe 的本地离线工作流复盘检查工具；不运行任务、不联网、不接管工具调用、不采集生产日志 |
-| 17 | [tushariitr-19/assay](https://github.com/tushariitr-19/assay) | 1 | Go | 2026-06-15 | Framework-agnostic evaluation harness for Go — test your MCP servers and AI agents with scored, CI-ready checks. |
+| 17 | [tushariitr-19/assay](https://github.com/tushariitr-19/assay) | 2 | Go | 2026-06-15 | Framework-agnostic evaluation harness for Go — test your MCP servers and AI agents with scored, CI-ready checks. |
 | 18 | [ALEX-nlp/OpenSkillEval](https://github.com/ALEX-nlp/OpenSkillEval) | 11 | Python | 2026-06-15 | OpenSkillEval: Automatically Auditing the Open Skill Ecosystem for LLM Agents |
 | 19 | [ahwurm/localshift](https://github.com/ahwurm/localshift) | 3 | Python | 2026-06-15 | Migrate headless Claude/AI workloads to local LLMs with a derived, per-workload quality eval — cron job in, zero-margina |
 | 20 | [mpuodziukas-labs/eval-harness-template](https://github.com/mpuodziukas-labs/eval-harness-template) | 0 | Python | 2026-06-14 | Eval harness template for LLM systems: golden regression, LLM-as-judge, invariants |
