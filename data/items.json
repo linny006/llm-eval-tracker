@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22279,
+    "updated_at": "2026-06-16T20:13:40Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Open-source LLM evaluation framework \u2014 drop-in SDK + CI plugin. LLM-as-judge, regression detection, free + self-hostable",
     "id": "anejakartik/evalstack",
     "language": "Python",
@@ -9,21 +18,12 @@
     "url": "https://github.com/anejakartik/evalstack"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22278,
-    "updated_at": "2026-06-16T19:56:25Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10167,
-    "updated_at": "2026-06-16T19:58:51Z",
+    "stars": 10166,
+    "updated_at": "2026-06-16T20:12:31Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
