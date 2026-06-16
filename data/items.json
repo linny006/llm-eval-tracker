@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22240,
+    "updated_at": "2026-06-16T01:56:10Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Score any Claude Code skill against a research-backed rubric derived from the top 9 most-starred skill repos on GitHub",
     "id": "jedobe/skill-evaluator",
     "language": "Python",
@@ -77,7 +86,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10155,
-    "updated_at": "2026-06-16T00:40:45Z",
+    "updated_at": "2026-06-16T01:54:52Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -88,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-06-16T00:34:43Z",
     "url": "https://github.com/penpoen/llm-SugarScape"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22240,
-    "updated_at": "2026-06-16T00:15:22Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
