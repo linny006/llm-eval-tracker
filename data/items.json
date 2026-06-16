@@ -1,5 +1,14 @@
 [
   {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3384,
+    "updated_at": "2026-06-16T09:18:54Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "Score any Claude Code skill against a research-backed rubric derived from the top 9 most-starred skill repos on GitHub",
     "id": "jedobe/skill-evaluator",
     "language": "Python",
@@ -72,20 +81,11 @@
     "url": "https://github.com/penpoen/llm-SugarScape"
   },
   {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3383,
-    "updated_at": "2026-06-16T05:19:35Z",
-    "url": "https://github.com/truera/trulens"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10161,
+    "stars": 10162,
     "updated_at": "2026-06-16T04:24:22Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
