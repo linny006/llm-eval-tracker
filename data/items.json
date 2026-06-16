@@ -1,5 +1,32 @@
 [
   {
+    "description": "Score any Claude Code skill against a research-backed rubric derived from the top 9 most-starred skill repos on GitHub",
+    "id": "jedobe/skill-evaluator",
+    "language": "Python",
+    "name": "jedobe/skill-evaluator",
+    "stars": 0,
+    "updated_at": "2026-06-16T07:23:38Z",
+    "url": "https://github.com/jedobe/skill-evaluator"
+  },
+  {
+    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
+    "id": "Kondwani10/Origin-Continuum",
+    "language": "\u2014",
+    "name": "Kondwani10/Origin-Continuum",
+    "stars": 0,
+    "updated_at": "2026-06-16T07:23:21Z",
+    "url": "https://github.com/Kondwani10/Origin-Continuum"
+  },
+  {
+    "description": "\u2699\ufe0f Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici",
+    "id": "Kamixon131/claude-config",
+    "language": "\u2014",
+    "name": "Kamixon131/claude-config",
+    "stars": 1,
+    "updated_at": "2026-06-16T07:17:08Z",
+    "url": "https://github.com/Kamixon131/claude-config"
+  },
+  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -16,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-06-16T07:12:49Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "Score any Claude Code skill against a research-backed rubric derived from the top 9 most-starred skill repos on GitHub",
-    "id": "jedobe/skill-evaluator",
-    "language": "Python",
-    "name": "jedobe/skill-evaluator",
-    "stars": 0,
-    "updated_at": "2026-06-16T07:05:34Z",
-    "url": "https://github.com/jedobe/skill-evaluator"
   },
   {
     "description": "\ud83c\udfaf Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev",
@@ -63,29 +81,11 @@
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
-    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
-    "id": "Kondwani10/Origin-Continuum",
-    "language": "\u2014",
-    "name": "Kondwani10/Origin-Continuum",
-    "stars": 0,
-    "updated_at": "2026-06-16T04:40:21Z",
-    "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
-    "description": "\u2699\ufe0f Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici",
-    "id": "Kamixon131/claude-config",
-    "language": "\u2014",
-    "name": "Kamixon131/claude-config",
-    "stars": 1,
-    "updated_at": "2026-06-16T04:34:17Z",
-    "url": "https://github.com/Kamixon131/claude-config"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10158,
+    "stars": 10159,
     "updated_at": "2026-06-16T04:24:22Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
