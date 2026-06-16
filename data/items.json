@@ -1,5 +1,23 @@
 [
   {
+    "description": "Score any Claude Code skill against a research-backed rubric derived from the top 9 most-starred skill repos on GitHub",
+    "id": "jedobe/skill-evaluator",
+    "language": "Python",
+    "name": "jedobe/skill-evaluator",
+    "stars": 0,
+    "updated_at": "2026-06-16T00:45:14Z",
+    "url": "https://github.com/jedobe/skill-evaluator"
+  },
+  {
+    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
+    "id": "penpoen/llm-SugarScape",
+    "language": "Python",
+    "name": "penpoen/llm-SugarScape",
+    "stars": 1,
+    "updated_at": "2026-06-16T00:34:43Z",
+    "url": "https://github.com/penpoen/llm-SugarScape"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -63,21 +81,12 @@
     "url": "https://github.com/Phinchanbora/llm-evaluation"
   },
   {
-    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
-    "id": "penpoen/llm-SugarScape",
-    "language": "Python",
-    "name": "penpoen/llm-SugarScape",
-    "stars": 1,
-    "updated_at": "2026-06-15T21:49:46Z",
-    "url": "https://github.com/penpoen/llm-SugarScape"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10153,
-    "updated_at": "2026-06-16T00:25:22Z",
+    "updated_at": "2026-06-16T00:40:45Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1148,
     "updated_at": "2026-05-14T09:02:28Z",
     "url": "https://github.com/AI-QL/tuui"
-  },
-  {
-    "description": "The prompt engineering, prompt management, and prompt evaluation tool for TypeScript, JavaScript, and NodeJS.",
-    "id": "prompt-foundry/typescript-sdk",
-    "language": "TypeScript",
-    "name": "prompt-foundry/typescript-sdk",
-    "stars": 6,
-    "updated_at": "2026-05-13T02:40:28Z",
-    "url": "https://github.com/prompt-foundry/typescript-sdk"
   }
 ]
