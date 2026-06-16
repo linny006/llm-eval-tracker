@@ -4,7 +4,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22241,
+    "stars": 22242,
     "updated_at": "2026-06-16T02:26:13Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -16,6 +16,15 @@
     "stars": 0,
     "updated_at": "2026-06-16T02:07:51Z",
     "url": "https://github.com/jedobe/skill-evaluator"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10156,
+    "updated_at": "2026-06-16T01:54:52Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
@@ -79,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T00:46:29Z",
     "url": "https://github.com/Phinchanbora/llm-evaluation"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10155,
-    "updated_at": "2026-06-16T01:54:52Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
