@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5435,
+    "updated_at": "2026-06-17T13:25:21Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -7,15 +16,6 @@
     "stars": 310,
     "updated_at": "2026-06-17T10:00:43Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5435,
-    "updated_at": "2026-06-17T13:15:17Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "TjoeReviewKit\uff1atjoe \u7684\u672c\u5730\u79bb\u7ebf\u5de5\u4f5c\u6d41\u590d\u76d8\u68c0\u67e5\u5de5\u5177\uff1b\u4e0d\u8fd0\u884c\u4efb\u52a1\u3001\u4e0d\u8054\u7f51\u3001\u4e0d\u63a5\u7ba1\u5de5\u5177\u8c03\u7528\u3001\u4e0d\u91c7\u96c6\u751f\u4ea7\u65e5\u5fd7",
@@ -58,7 +58,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22308,
+    "stars": 22309,
     "updated_at": "2026-06-17T03:37:01Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
