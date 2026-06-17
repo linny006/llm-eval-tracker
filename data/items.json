@@ -4,8 +4,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22320,
-    "updated_at": "2026-06-17T19:59:52Z",
+    "stars": 22321,
+    "updated_at": "2026-06-17T20:04:52Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -32,7 +32,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 310,
-    "updated_at": "2026-06-17T19:57:10Z",
+    "updated_at": "2026-06-17T20:14:57Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -175,7 +175,7 @@
     "id": "IonDen/mlx-quant-fidelity",
     "language": "Python",
     "name": "IonDen/mlx-quant-fidelity",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-06-15T18:58:13Z",
     "url": "https://github.com/IonDen/mlx-quant-fidelity"
   },

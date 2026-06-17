@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-17 20:00 UTC
+> ⏰ Last updated: 2026-06-17 20:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,7 +42,7 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22320 | TypeScript | 2026-06-17 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22321 | TypeScript | 2026-06-17 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10177 | Python | 2026-06-17 | AI Observability & Evaluation |
 | 3 | [gititya/Quality-Agency-support](https://github.com/gititya/Quality-Agency-support) | 0 | Python | 2026-06-17 | Five local QA judges that review B2B and B2C customer-support replies, catch the risky parts, and explain what to fix.  |
 | 4 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 310 | TypeScript | 2026-06-17 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
@@ -61,7 +61,7 @@ expired items removed — so you can rely on what you see being current.
 | 17 | [Phinchanbora/llm-evaluation](https://github.com/Phinchanbora/llm-evaluation) | 0 | Python | 2026-06-16 | 🎯 Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev |
 | 18 | [penpoen/llm-SugarScape](https://github.com/penpoen/llm-SugarScape) | 1 | Python | 2026-06-16 | 🌐 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok |
 | 19 | [multivon-ai/multivon-eval](https://github.com/multivon-ai/multivon-eval) | 7 | Python | 2026-06-16 | Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI |
-| 20 | [IonDen/mlx-quant-fidelity](https://github.com/IonDen/mlx-quant-fidelity) | 0 | Python | 2026-06-15 | Measure MLX quantization quality loss — KL divergence, perplexity, top-token agreement for KV cache and weights |
+| 20 | [IonDen/mlx-quant-fidelity](https://github.com/IonDen/mlx-quant-fidelity) | 1 | Python | 2026-06-15 | Measure MLX quantization quality loss — KL divergence, perplexity, top-token agreement for KV cache and weights |
 | 21 | [ALEX-nlp/OpenSkillEval](https://github.com/ALEX-nlp/OpenSkillEval) | 11 | Python | 2026-06-15 | OpenSkillEval: Automatically Auditing the Open Skill Ecosystem for LLM Agents |
 | 22 | [ahwurm/localshift](https://github.com/ahwurm/localshift) | 3 | Python | 2026-06-15 | Migrate headless Claude/AI workloads to local LLMs with a derived, per-workload quality eval — cron job in, zero-margina |
 | 23 | [mpuodziukas-labs/eval-harness-template](https://github.com/mpuodziukas-labs/eval-harness-template) | 0 | Python | 2026-06-14 | Eval harness template for LLM systems: golden regression, LLM-as-judge, invariants |
