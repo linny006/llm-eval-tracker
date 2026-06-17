@@ -1,5 +1,14 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 310,
+    "updated_at": "2026-06-17T14:08:51Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 5435,
     "updated_at": "2026-06-17T13:34:40Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 310,
-    "updated_at": "2026-06-17T13:54:56Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "TjoeReviewKit\uff1atjoe \u7684\u672c\u5730\u79bb\u7ebf\u5de5\u4f5c\u6d41\u590d\u76d8\u68c0\u67e5\u5de5\u5177\uff1b\u4e0d\u8fd0\u884c\u4efb\u52a1\u3001\u4e0d\u8054\u7f51\u3001\u4e0d\u63a5\u7ba1\u5de5\u5177\u8c03\u7528\u3001\u4e0d\u91c7\u96c6\u751f\u4ea7\u65e5\u5fd7",
