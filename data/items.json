@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10177,
-    "updated_at": "2026-06-17T19:28:34Z",
+    "updated_at": "2026-06-17T19:41:11Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -14,7 +14,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22318,
-    "updated_at": "2026-06-17T19:09:37Z",
+    "updated_at": "2026-06-17T19:42:07Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -70,6 +70,15 @@
     "stars": 0,
     "updated_at": "2026-06-17T18:34:46Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3385,
+    "updated_at": "2026-06-17T01:08:49Z",
+    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Score any Claude Code skill against a research-backed rubric derived from the top 9 most-starred skill repos on GitHub",
@@ -151,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-06-16T12:56:32Z",
     "url": "https://github.com/penpoen/llm-SugarScape"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3384,
-    "updated_at": "2026-06-17T01:08:49Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
