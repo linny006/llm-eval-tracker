@@ -5,17 +5,8 @@
     "language": "Go",
     "name": "tushariitr-19/assay",
     "stars": 2,
-    "updated_at": "2026-06-17T03:43:37Z",
+    "updated_at": "2026-06-17T03:57:20Z",
     "url": "https://github.com/tushariitr-19/assay"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22292,
-    "updated_at": "2026-06-17T03:37:01Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
@@ -23,8 +14,17 @@
     "language": "TypeScript",
     "name": "jeremylongshore/j-rig-skill-binary-eval",
     "stars": 0,
-    "updated_at": "2026-06-17T03:45:07Z",
+    "updated_at": "2026-06-17T03:55:07Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22293,
+    "updated_at": "2026-06-17T03:37:01Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AI Observability & Evaluation",
