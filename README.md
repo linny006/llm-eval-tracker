@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-17 21:00 UTC
+> ⏰ Last updated: 2026-06-17 21:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,7 +42,7 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22321 | TypeScript | 2026-06-17 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22322 | TypeScript | 2026-06-17 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10178 | Python | 2026-06-17 | AI Observability & Evaluation |
 | 3 | [gititya/Quality-Agency-support](https://github.com/gititya/Quality-Agency-support) | 0 | Python | 2026-06-17 | Five local QA judges that review B2B and B2C customer-support replies, catch the risky parts, and explain what to fix.  |
 | 4 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 310 | TypeScript | 2026-06-17 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
