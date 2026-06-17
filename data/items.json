@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10177,
-    "updated_at": "2026-06-17T19:10:29Z",
+    "updated_at": "2026-06-17T19:28:34Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -18,12 +18,21 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
+    "description": "Five local QA judges that review B2B and B2C customer-support replies, catch the risky parts, and explain what to fix. ",
+    "id": "gititya/Quality-Agency-support",
+    "language": "Python",
+    "name": "gititya/Quality-Agency-support",
+    "stars": 0,
+    "updated_at": "2026-06-17T18:29:01Z",
+    "url": "https://github.com/gititya/Quality-Agency-support"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 310,
-    "updated_at": "2026-06-17T17:11:51Z",
+    "updated_at": "2026-06-17T19:25:30Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-05-15T01:56:37Z",
     "url": "https://github.com/verifywise-ai/plugin-marketplace"
-  },
-  {
-    "description": "A desktop MCP client designed as a tool unitary utility integration, accelerating AI adoption through the Model Context ",
-    "id": "AI-QL/tuui",
-    "language": "TypeScript",
-    "name": "AI-QL/tuui",
-    "stars": 1148,
-    "updated_at": "2026-05-14T09:02:28Z",
-    "url": "https://github.com/AI-QL/tuui"
   }
 ]
