@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10182,
+    "updated_at": "2026-06-18T05:50:12Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "TrustModel MCP Server \u2014 trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t",
     "id": "pdxlab/trustmodel-mcp-server",
     "language": "TypeScript",
@@ -9,20 +18,11 @@
     "url": "https://github.com/pdxlab/trustmodel-mcp-server"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10181,
-    "updated_at": "2026-06-18T05:43:24Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22330,
+    "stars": 22332,
     "updated_at": "2026-06-18T04:15:13Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -59,7 +59,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 310,
-    "updated_at": "2026-06-18T05:09:59Z",
+    "updated_at": "2026-06-18T06:00:23Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
