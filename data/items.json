@@ -1,5 +1,14 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 310,
+    "updated_at": "2026-06-18T11:36:20Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "TjoeReviewKit\uff1atjoe \u7684\u672c\u5730\u79bb\u7ebf\u5de5\u4f5c\u6d41\u590d\u76d8\u68c0\u67e5\u5de5\u5177\uff1b\u4e0d\u8fd0\u884c\u4efb\u52a1\u3001\u4e0d\u8054\u7f51\u3001\u4e0d\u63a5\u7ba1\u5de5\u5177\u8c03\u7528\u3001\u4e0d\u91c7\u96c6\u751f\u4ea7\u65e5\u5fd7",
     "id": "thewonderofyou777z-dot/tjoe-reviewkit",
     "language": "Python",
@@ -16,15 +25,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T08:30:32Z",
     "url": "https://github.com/anejakartik/evalstack"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 310,
-    "updated_at": "2026-06-18T08:57:44Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "AI Observability & Evaluation",
