@@ -1,5 +1,23 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10190,
+    "updated_at": "2026-06-18T21:40:53Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Measure MLX quantization quality loss \u2014 KL divergence, perplexity, top-token agreement for KV cache and weights",
+    "id": "IonDen/mlx-quant-fidelity",
+    "language": "Python",
+    "name": "IonDen/mlx-quant-fidelity",
+    "stars": 1,
+    "updated_at": "2026-06-18T21:33:13Z",
+    "url": "https://github.com/IonDen/mlx-quant-fidelity"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -16,15 +34,6 @@
     "stars": 22355,
     "updated_at": "2026-06-18T19:24:58Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10190,
-    "updated_at": "2026-06-18T21:28:10Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
@@ -151,15 +160,6 @@
     "stars": 7,
     "updated_at": "2026-06-16T01:40:41Z",
     "url": "https://github.com/multivon-ai/multivon-eval"
-  },
-  {
-    "description": "Measure MLX quantization quality loss \u2014 KL divergence, perplexity, top-token agreement for KV cache and weights",
-    "id": "IonDen/mlx-quant-fidelity",
-    "language": "Python",
-    "name": "IonDen/mlx-quant-fidelity",
-    "stars": 1,
-    "updated_at": "2026-06-18T21:25:13Z",
-    "url": "https://github.com/IonDen/mlx-quant-fidelity"
   },
   {
     "description": "OpenSkillEval: Automatically Auditing the Open Skill Ecosystem for LLM Agents",
