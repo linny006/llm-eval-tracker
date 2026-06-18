@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-18 13:15 UTC
+> ⏰ Last updated: 2026-06-18 13:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -48,7 +48,7 @@ expired items removed — so you can rely on what you see being current.
 | 4 | [anejakartik/evalstack](https://github.com/anejakartik/evalstack) | 0 | TypeScript | 2026-06-18 | Open-source LLM evaluation framework — drop-in SDK + CI plugin. LLM-as-judge, regression detection, free + self-hostable |
 | 5 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10186 | Python | 2026-06-18 | AI Observability & Evaluation |
 | 6 | [pdxlab/trustmodel-mcp-server](https://github.com/pdxlab/trustmodel-mcp-server) | 0 | TypeScript | 2026-06-18 | TrustModel MCP Server — trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t |
-| 7 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5436 | Python | 2026-06-18 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 7 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5437 | Python | 2026-06-18 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 8 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-06-18 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 9 | [gititya/Quality-Agency-support](https://github.com/gititya/Quality-Agency-support) | 0 | Python | 2026-06-17 | Five local QA judges that review B2B and B2C customer-support replies, catch the risky parts, and explain what to fix.  |
 | 10 | [tushariitr-19/assay](https://github.com/tushariitr-19/assay) | 2 | Go | 2026-06-17 | Framework-agnostic evaluation harness for Go — test your MCP servers and AI agents with scored, CI-ready checks. |
