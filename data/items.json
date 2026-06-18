@@ -1,5 +1,14 @@
 [
   {
+    "description": "TjoeReviewKit\uff1atjoe \u7684\u672c\u5730\u79bb\u7ebf\u5de5\u4f5c\u6d41\u590d\u76d8\u68c0\u67e5\u5de5\u5177\uff1b\u4e0d\u8fd0\u884c\u4efb\u52a1\u3001\u4e0d\u8054\u7f51\u3001\u4e0d\u63a5\u7ba1\u5de5\u5177\u8c03\u7528\u3001\u4e0d\u91c7\u96c6\u751f\u4ea7\u65e5\u5fd7",
+    "id": "thewonderofyou777z-dot/tjoe-reviewkit",
+    "language": "Python",
+    "name": "thewonderofyou777z-dot/tjoe-reviewkit",
+    "stars": 0,
+    "updated_at": "2026-06-18T09:44:25Z",
+    "url": "https://github.com/thewonderofyou777z-dot/tjoe-reviewkit"
+  },
+  {
     "description": "Open-source LLM evaluation framework \u2014 drop-in SDK + CI plugin. LLM-as-judge, regression detection, free + self-hostable",
     "id": "anejakartik/evalstack",
     "language": "TypeScript",
@@ -40,7 +49,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22345,
+    "stars": 22346,
     "updated_at": "2026-06-18T04:15:13Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -70,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T18:29:01Z",
     "url": "https://github.com/gititya/Quality-Agency-support"
-  },
-  {
-    "description": "TjoeReviewKit\uff1atjoe \u7684\u672c\u5730\u79bb\u7ebf\u5de5\u4f5c\u6d41\u590d\u76d8\u68c0\u67e5\u5de5\u5177\uff1b\u4e0d\u8fd0\u884c\u4efb\u52a1\u3001\u4e0d\u8054\u7f51\u3001\u4e0d\u63a5\u7ba1\u5de5\u5177\u8c03\u7528\u3001\u4e0d\u91c7\u96c6\u751f\u4ea7\u65e5\u5fd7",
-    "id": "thewonderofyou777z-dot/tjoe-reviewkit",
-    "language": "Python",
-    "name": "thewonderofyou777z-dot/tjoe-reviewkit",
-    "stars": 0,
-    "updated_at": "2026-06-17T07:47:17Z",
-    "url": "https://github.com/thewonderofyou777z-dot/tjoe-reviewkit"
   },
   {
     "description": "Framework-agnostic evaluation harness for Go \u2014 test your MCP servers and AI agents with scored, CI-ready checks.",
