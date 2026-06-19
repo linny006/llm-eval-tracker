@@ -1,5 +1,14 @@
 [
   {
+    "description": "Open-source LLM evaluation framework \u2014 drop-in SDK + CI plugin. LLM-as-judge, regression detection, free + self-hostable",
+    "id": "anejakartik/evalstack",
+    "language": "TypeScript",
+    "name": "anejakartik/evalstack",
+    "stars": 0,
+    "updated_at": "2026-06-19T18:44:10Z",
+    "url": "https://github.com/anejakartik/evalstack"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -9,20 +18,11 @@
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
-    "description": "Open-source LLM evaluation framework \u2014 drop-in SDK + CI plugin. LLM-as-judge, regression detection, free + self-hostable",
-    "id": "anejakartik/evalstack",
-    "language": "TypeScript",
-    "name": "anejakartik/evalstack",
-    "stars": 0,
-    "updated_at": "2026-06-19T17:55:32Z",
-    "url": "https://github.com/anejakartik/evalstack"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22381,
+    "stars": 22382,
     "updated_at": "2026-06-19T17:00:08Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
