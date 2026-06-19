@@ -1,5 +1,14 @@
 [
   {
+    "description": "Open-source LLM evaluation framework \u2014 drop-in SDK + CI plugin. LLM-as-judge, regression detection, free + self-hostable",
+    "id": "anejakartik/evalstack",
+    "language": "TypeScript",
+    "name": "anejakartik/evalstack",
+    "stars": 0,
+    "updated_at": "2026-06-19T14:32:46Z",
+    "url": "https://github.com/anejakartik/evalstack"
+  },
+  {
     "description": "TrustModel MCP Server \u2014 trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t",
     "id": "pdxlab/trustmodel-mcp-server",
     "language": "TypeScript",
@@ -79,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T09:47:33Z",
     "url": "https://github.com/thewonderofyou777z-dot/tjoe-reviewkit"
-  },
-  {
-    "description": "Open-source LLM evaluation framework \u2014 drop-in SDK + CI plugin. LLM-as-judge, regression detection, free + self-hostable",
-    "id": "anejakartik/evalstack",
-    "language": "TypeScript",
-    "name": "anejakartik/evalstack",
-    "stars": 0,
-    "updated_at": "2026-06-18T08:30:32Z",
-    "url": "https://github.com/anejakartik/evalstack"
   },
   {
     "description": "Five local QA judges that review B2B and B2C customer-support replies, catch the risky parts, and explain what to fix. ",
