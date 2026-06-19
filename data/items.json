@@ -1,10 +1,19 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 310,
+    "updated_at": "2026-06-19T06:44:38Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22363,
+    "stars": 22364,
     "updated_at": "2026-06-19T03:48:04Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -25,15 +34,6 @@
     "stars": 5438,
     "updated_at": "2026-06-19T02:53:52Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 310,
-    "updated_at": "2026-06-19T02:31:14Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "AI Observability & Evaluation",
