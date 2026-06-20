@@ -1,5 +1,14 @@
 [
   {
+    "description": "Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou",
+    "id": "lokesh75-kank/agenteval",
+    "language": "TypeScript",
+    "name": "lokesh75-kank/agenteval",
+    "stars": 0,
+    "updated_at": "2026-06-20T21:43:02Z",
+    "url": "https://github.com/lokesh75-kank/agenteval"
+  },
+  {
     "description": "Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai",
     "id": "ozlar34/job-match-radar",
     "language": "Python",
@@ -77,7 +86,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 310,
-    "updated_at": "2026-06-20T20:42:23Z",
+    "updated_at": "2026-06-20T21:39:06Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-19T20:52:54Z",
     "url": "https://github.com/Alexanderk30/context-override-resistance"
-  },
-  {
-    "description": "Multi-agent customer-interview synthesis pipeline in n8n with LLM-as-judge eval, Slack human-in-the-loop approval, and d",
-    "id": "GiuseppeSp/n8n-customer-interview-synthesizer",
-    "language": "\u2014",
-    "name": "GiuseppeSp/n8n-customer-interview-synthesizer",
-    "stars": 0,
-    "updated_at": "2026-05-19T08:25:12Z",
-    "url": "https://github.com/GiuseppeSp/n8n-customer-interview-synthesizer"
   }
 ]
