@@ -1,5 +1,14 @@
 [
   {
+    "description": "Zero-dependency detector and classifier for LLM refusals, deflections, and capability disclaimers \u2014 CLI + library with s",
+    "id": "Ayubjon/refusal-radar",
+    "language": "JavaScript",
+    "name": "Ayubjon/refusal-radar",
+    "stars": 0,
+    "updated_at": "2026-06-20T15:14:56Z",
+    "url": "https://github.com/Ayubjon/refusal-radar"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 1148,
     "updated_at": "2026-05-14T09:02:28Z",
     "url": "https://github.com/AI-QL/tuui"
-  },
-  {
-    "description": "The prompt engineering, prompt management, and prompt evaluation tool for TypeScript, JavaScript, and NodeJS.",
-    "id": "prompt-foundry/typescript-sdk",
-    "language": "TypeScript",
-    "name": "prompt-foundry/typescript-sdk",
-    "stars": 6,
-    "updated_at": "2026-05-13T02:40:28Z",
-    "url": "https://github.com/prompt-foundry/typescript-sdk"
   }
 ]
