@@ -1,5 +1,23 @@
 [
   {
+    "description": "Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai",
+    "id": "ozlar34/job-match-radar",
+    "language": "Python",
+    "name": "ozlar34/job-match-radar",
+    "stars": 0,
+    "updated_at": "2026-06-20T17:55:38Z",
+    "url": "https://github.com/ozlar34/job-match-radar"
+  },
+  {
+    "description": "RAG agentique sur des documents de concession t\u00e9l\u00e9com publique (DSP/RIP), pens\u00e9 eval-first et contr\u00f4l\u00e9 en CI.",
+    "id": "TheAnacondA57/BidAgent",
+    "language": "\u2014",
+    "name": "TheAnacondA57/BidAgent",
+    "stars": 0,
+    "updated_at": "2026-06-20T17:46:34Z",
+    "url": "https://github.com/TheAnacondA57/BidAgent"
+  },
+  {
     "description": "Zero-dependency detector and classifier for LLM refusals, deflections, and capability disclaimers \u2014 CLI + library with s",
     "id": "Ayubjon/refusal-radar",
     "language": "JavaScript",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-16T03:43:33Z",
     "url": "https://github.com/gmitt98/fieldtest"
-  },
-  {
-    "description": "VerifyWise AI Governance Plugin Marketplace",
-    "id": "verifywise-ai/plugin-marketplace",
-    "language": "TypeScript",
-    "name": "verifywise-ai/plugin-marketplace",
-    "stars": 3,
-    "updated_at": "2026-05-15T01:56:37Z",
-    "url": "https://github.com/verifywise-ai/plugin-marketplace"
-  },
-  {
-    "description": "A desktop MCP client designed as a tool unitary utility integration, accelerating AI adoption through the Model Context ",
-    "id": "AI-QL/tuui",
-    "language": "TypeScript",
-    "name": "AI-QL/tuui",
-    "stars": 1148,
-    "updated_at": "2026-05-14T09:02:28Z",
-    "url": "https://github.com/AI-QL/tuui"
   }
 ]
