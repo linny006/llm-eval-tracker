@@ -1,5 +1,14 @@
 [
   {
+    "description": "A forkable example of the human-in-the-loop model-improvement loop: AI generates, humans judge via the Terac MCP, you im",
+    "id": "TeracAI/svg-arena",
+    "language": "TypeScript",
+    "name": "TeracAI/svg-arena",
+    "stars": 0,
+    "updated_at": "2026-06-20T23:02:59Z",
+    "url": "https://github.com/TeracAI/svg-arena"
+  },
+  {
     "description": "Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou",
     "id": "lokesh75-kank/agenteval",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-21T20:07:02Z",
     "url": "https://github.com/sanya2025/edututor-eval"
-  },
-  {
-    "description": "RL-style eval measuring intent/action divergence in frontier agents: model acknowledges a correction, then acts on the s",
-    "id": "Alexanderk30/context-override-resistance",
-    "language": "Python",
-    "name": "Alexanderk30/context-override-resistance",
-    "stars": 0,
-    "updated_at": "2026-05-19T20:52:54Z",
-    "url": "https://github.com/Alexanderk30/context-override-resistance"
   }
 ]
