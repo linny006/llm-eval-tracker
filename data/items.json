@@ -1,5 +1,14 @@
 [
   {
+    "description": "Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai",
+    "id": "ozlar34/job-match-radar",
+    "language": "Python",
+    "name": "ozlar34/job-match-radar",
+    "stars": 0,
+    "updated_at": "2026-06-20T18:33:49Z",
+    "url": "https://github.com/ozlar34/job-match-radar"
+  },
+  {
     "description": "An LLM-as-judge harness that scores AI-generated campaign phone scripts against a weighted quality rubric with a real Ha",
     "id": "kilocommits/campaign-eval-harness",
     "language": "Python",
@@ -18,13 +27,13 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai",
-    "id": "ozlar34/job-match-radar",
-    "language": "Python",
-    "name": "ozlar34/job-match-radar",
-    "stars": 0,
-    "updated_at": "2026-06-20T17:55:38Z",
-    "url": "https://github.com/ozlar34/job-match-radar"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22403,
+    "updated_at": "2026-06-20T18:01:55Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "RAG agentique sur des documents de concession t\u00e9l\u00e9com publique (DSP/RIP), pens\u00e9 eval-first et contr\u00f4l\u00e9 en CI.",
@@ -43,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T15:14:56Z",
     "url": "https://github.com/Ayubjon/refusal-radar"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22402,
-    "updated_at": "2026-06-20T18:01:55Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Single-file labeling tool for LLM-as-judge calibration. Three-pane comparison + multi-dim scoring. Zero deployment.",
@@ -77,7 +77,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 310,
-    "updated_at": "2026-06-20T14:28:19Z",
+    "updated_at": "2026-06-20T18:45:15Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {

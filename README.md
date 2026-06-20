@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-20 18:30 UTC
+> ⏰ Last updated: 2026-06-20 18:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [kilocommits/campaign-eval-harness](https://github.com/kilocommits/campaign-eval-harness) | 0 | Python | 2026-06-20 | An LLM-as-judge harness that scores AI-generated campaign phone scripts against a weighted quality rubric with a real Ha |
-| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10213 | Python | 2026-06-20 | AI Observability & Evaluation |
-| 3 | [ozlar34/job-match-radar](https://github.com/ozlar34/job-match-radar) | 0 | Python | 2026-06-20 | Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai |
-| 4 | [TheAnacondA57/BidAgent](https://github.com/TheAnacondA57/BidAgent) | 0 | — | 2026-06-20 | RAG agentique sur des documents de concession télécom publique (DSP/RIP), pensé eval-first et contrôlé en CI. |
-| 5 | [Ayubjon/refusal-radar](https://github.com/Ayubjon/refusal-radar) | 0 | JavaScript | 2026-06-20 | Zero-dependency detector and classifier for LLM refusals, deflections, and capability disclaimers — CLI + library with s |
-| 6 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22402 | TypeScript | 2026-06-20 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 1 | [ozlar34/job-match-radar](https://github.com/ozlar34/job-match-radar) | 0 | Python | 2026-06-20 | Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai |
+| 2 | [kilocommits/campaign-eval-harness](https://github.com/kilocommits/campaign-eval-harness) | 0 | Python | 2026-06-20 | An LLM-as-judge harness that scores AI-generated campaign phone scripts against a weighted quality rubric with a real Ha |
+| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10213 | Python | 2026-06-20 | AI Observability & Evaluation |
+| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22403 | TypeScript | 2026-06-20 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 5 | [TheAnacondA57/BidAgent](https://github.com/TheAnacondA57/BidAgent) | 0 | — | 2026-06-20 | RAG agentique sur des documents de concession télécom publique (DSP/RIP), pensé eval-first et contrôlé en CI. |
+| 6 | [Ayubjon/refusal-radar](https://github.com/Ayubjon/refusal-radar) | 0 | JavaScript | 2026-06-20 | Zero-dependency detector and classifier for LLM refusals, deflections, and capability disclaimers — CLI + library with s |
 | 7 | [melody-ling-L/judgebuddy](https://github.com/melody-ling-L/judgebuddy) | 0 | HTML | 2026-06-20 | Single-file labeling tool for LLM-as-judge calibration. Three-pane comparison + multi-dim scoring. Zero deployment. |
 | 8 | [ramenprotokol/hallucination-hunter](https://github.com/ramenprotokol/hallucination-hunter) | 0 | Python | 2026-06-20 | Detect & score LLM hallucinations by groundedness — labeled data, precision/recall/F1, runs offline with no API key. Plu |
 | 9 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 310 | TypeScript | 2026-06-20 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
