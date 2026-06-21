@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22408,
+    "updated_at": "2026-06-21T00:23:03Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "A forkable example of the human-in-the-loop model-improvement loop: AI generates, humans judge via the Terac MCP, you im",
     "id": "TeracAI/svg-arena",
     "language": "TypeScript",
@@ -43,15 +52,6 @@
     "stars": 10216,
     "updated_at": "2026-06-20T18:26:28Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22406,
-    "updated_at": "2026-06-21T00:11:38Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "RAG agentique sur des documents de concession t\u00e9l\u00e9com publique (DSP/RIP), pens\u00e9 eval-first et contr\u00f4l\u00e9 en CI.",
