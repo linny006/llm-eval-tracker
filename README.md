@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-21 01:45 UTC
+> ⏰ Last updated: 2026-06-21 02:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,7 +42,7 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22410 | TypeScript | 2026-06-21 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22411 | TypeScript | 2026-06-21 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 2 | [TeracAI/svg-arena](https://github.com/TeracAI/svg-arena) | 0 | TypeScript | 2026-06-20 | A forkable example of the human-in-the-loop model-improvement loop: AI generates, humans judge via the Terac MCP, you im |
 | 3 | [lokesh75-kank/agenteval](https://github.com/lokesh75-kank/agenteval) | 0 | TypeScript | 2026-06-20 | Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou |
 | 4 | [ozlar34/job-match-radar](https://github.com/ozlar34/job-match-radar) | 0 | Python | 2026-06-20 | Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai |
