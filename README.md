@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-21 13:00 UTC
+> ⏰ Last updated: 2026-06-21 13:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -52,7 +52,7 @@ expired items removed — so you can rely on what you see being current.
 | 8 | [TeracAI/svg-arena](https://github.com/TeracAI/svg-arena) | 0 | TypeScript | 2026-06-20 | A forkable example of the human-in-the-loop model-improvement loop: AI generates, humans judge via the Terac MCP, you im |
 | 9 | [ozlar34/job-match-radar](https://github.com/ozlar34/job-match-radar) | 0 | Python | 2026-06-20 | Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai |
 | 10 | [kilocommits/campaign-eval-harness](https://github.com/kilocommits/campaign-eval-harness) | 0 | Python | 2026-06-20 | An LLM-as-judge harness that scores AI-generated campaign phone scripts against a weighted quality rubric with a real Ha |
-| 11 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10219 | Python | 2026-06-20 | AI Observability & Evaluation |
+| 11 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10220 | Python | 2026-06-20 | AI Observability & Evaluation |
 | 12 | [TheAnacondA57/BidAgent](https://github.com/TheAnacondA57/BidAgent) | 0 | — | 2026-06-20 | RAG agentique sur des documents de concession télécom publique (DSP/RIP), pensé eval-first et contrôlé en CI. |
 | 13 | [Ayubjon/refusal-radar](https://github.com/Ayubjon/refusal-radar) | 0 | JavaScript | 2026-06-20 | Zero-dependency detector and classifier for LLM refusals, deflections, and capability disclaimers — CLI + library with s |
 | 14 | [melody-ling-L/judgebuddy](https://github.com/melody-ling-L/judgebuddy) | 0 | HTML | 2026-06-20 | Single-file labeling tool for LLM-as-judge calibration. Three-pane comparison + multi-dim scoring. Zero deployment. |
