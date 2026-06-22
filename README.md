@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-22 00:30 UTC
+> ⏰ Last updated: 2026-06-22 00:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -91,7 +91,7 @@ expired items removed — so you can rely on what you see being current.
 | 47 | [fastxyz/skill-optimizer](https://github.com/fastxyz/skill-optimizer) | 66 | TypeScript | 2026-05-28 | Benchmark, evaluate, and optimize skills to ensure reliable performance across all LLMs |
 | 48 | [ajmeese7/local-llms](https://github.com/ajmeese7/local-llms) | 1 | Python | 2026-05-27 | Use local Large Language Models for production use cases, and perform benchmarking for task-specific performance evaluat |
 | 49 | [rogue-socket/focusgroup](https://github.com/rogue-socket/focusgroup) | 0 | Python | 2026-05-27 | Persona-driven dynamic testing for conversational AI products. Focus groups for your agents. |
-| 50 | [chquandogong/mission-spec](https://github.com/chquandogong/mission-spec) | 0 | TypeScript | 2026-06-13 | Mission Spec — AI 에이전트 워크플로를 위한 task contract layer |
+| 50 | [chquandogong/mission-spec](https://github.com/chquandogong/mission-spec) | 0 | TypeScript | 2026-06-22 | Mission Spec — AI 에이전트 워크플로를 위한 task contract layer |
 <!-- TRACKER_TABLE_END -->
 
 ---
