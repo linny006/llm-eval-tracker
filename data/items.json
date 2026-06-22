@@ -1,5 +1,14 @@
 [
   {
+    "description": "Migrate headless Claude/AI workloads to local LLMs with a derived, per-workload quality eval \u2014 cron job in, zero-margina",
+    "id": "ahwurm/localshift",
+    "language": "Python",
+    "name": "ahwurm/localshift",
+    "stars": 3,
+    "updated_at": "2026-06-22T19:07:29Z",
+    "url": "https://github.com/ahwurm/localshift"
+  },
+  {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
     "id": "saddled-panicattack529/idea-evaluation-pipeline",
     "language": "\u2014",
@@ -259,15 +268,6 @@
     "stars": 11,
     "updated_at": "2026-06-15T02:14:09Z",
     "url": "https://github.com/ALEX-nlp/OpenSkillEval"
-  },
-  {
-    "description": "Migrate headless Claude/AI workloads to local LLMs with a derived, per-workload quality eval \u2014 cron job in, zero-margina",
-    "id": "ahwurm/localshift",
-    "language": "Python",
-    "name": "ahwurm/localshift",
-    "stars": 3,
-    "updated_at": "2026-06-15T01:02:11Z",
-    "url": "https://github.com/ahwurm/localshift"
   },
   {
     "description": "Eval harness template for LLM systems: golden regression, LLM-as-judge, invariants",
