@@ -1,5 +1,14 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 310,
+    "updated_at": "2026-06-22T04:43:03Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -50,7 +59,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22443,
-    "updated_at": "2026-06-22T01:49:34Z",
+    "updated_at": "2026-06-22T04:31:46Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -94,7 +103,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10224,
+    "stars": 10225,
     "updated_at": "2026-06-21T17:03:46Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -169,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T06:01:13Z",
     "url": "https://github.com/ramenprotokol/hallucination-hunter"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 310,
-    "updated_at": "2026-06-22T04:05:11Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "TrustModel MCP Server \u2014 trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t",
