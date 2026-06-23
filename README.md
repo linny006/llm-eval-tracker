@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-23 21:00 UTC
+> ⏰ Last updated: 2026-06-23 21:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -50,7 +50,7 @@ expired items removed — so you can rely on what you see being current.
 | 6 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-06-23 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
 | 7 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10252 | Python | 2026-06-23 | AI Observability & Evaluation |
 | 8 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22510 | TypeScript | 2026-06-23 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 9 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5455 | Python | 2026-06-23 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 9 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5456 | Python | 2026-06-23 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 10 | [ahwurm/localshift](https://github.com/ahwurm/localshift) | 3 | Python | 2026-06-22 | Migrate headless Claude/AI workloads to local LLMs with a derived, per-workload quality eval — cron job in, zero-margina |
 | 11 | [TheAnacondA57/BidAgent](https://github.com/TheAnacondA57/BidAgent) | 0 | Python | 2026-06-22 | RAG agentique sur des documents de concession télécom publique (DSP/RIP), pensé eval-first et contrôlé en CI. |
 | 12 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 10 | Python | 2026-06-23 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
