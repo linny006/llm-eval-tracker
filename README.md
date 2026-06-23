@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-23 11:45 UTC
+> ⏰ Last updated: 2026-06-23 12:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,7 +43,7 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10245 | Python | 2026-06-23 | AI Observability & Evaluation |
-| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22494 | TypeScript | 2026-06-23 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22495 | TypeScript | 2026-06-23 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 3 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-06-23 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 4 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-06-23 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 5 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-06-23 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
@@ -54,7 +54,7 @@ expired items removed — so you can rely on what you see being current.
 | 10 | [TheAnacondA57/BidAgent](https://github.com/TheAnacondA57/BidAgent) | 0 | Python | 2026-06-22 | RAG agentique sur des documents de concession télécom publique (DSP/RIP), pensé eval-first et contrôlé en CI. |
 | 11 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 10 | Python | 2026-06-23 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
 | 12 | [anejakartik/evalstack](https://github.com/anejakartik/evalstack) | 0 | TypeScript | 2026-06-22 | Open-source LLM evaluation framework — drop-in SDK + CI plugin. LLM-as-judge, regression detection, free + self-hostable |
-| 13 | [truera/trulens](https://github.com/truera/trulens) | 3395 | Python | 2026-06-21 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 13 | [truera/trulens](https://github.com/truera/trulens) | 3396 | Python | 2026-06-21 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 14 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-06-22 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 15 | [jmpei/nl2sql-agents](https://github.com/jmpei/nl2sql-agents) | 0 | Python | 2026-06-21 | NL→SQL multi-agent pipeline (LangGraph + Claude) with deterministic SQL-injection guardrails and golden-set eval. |
 | 16 | [lokesh75-kank/agenteval](https://github.com/lokesh75-kank/agenteval) | 0 | TypeScript | 2026-06-21 | Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou |
