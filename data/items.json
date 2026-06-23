@@ -1,5 +1,14 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 311,
+    "updated_at": "2026-06-23T06:26:51Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -54,15 +63,6 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 311,
-    "updated_at": "2026-06-23T02:58:32Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
     "description": "Migrate headless Claude/AI workloads to local LLMs with a derived, per-workload quality eval \u2014 cron job in, zero-margina",
     "id": "ahwurm/localshift",
     "language": "Python",
@@ -95,7 +95,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5447,
-    "updated_at": "2026-06-22T09:55:12Z",
+    "updated_at": "2026-06-23T06:26:35Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
