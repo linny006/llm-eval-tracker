@@ -4,9 +4,18 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10238,
-    "updated_at": "2026-06-23T01:41:05Z",
+    "stars": 10239,
+    "updated_at": "2026-06-23T01:57:49Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 310,
+    "updated_at": "2026-06-23T01:58:38Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -52,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-06-22T23:21:06Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 310,
-    "updated_at": "2026-06-22T23:18:33Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Migrate headless Claude/AI workloads to local LLMs with a derived, per-workload quality eval \u2014 cron job in, zero-margina",
