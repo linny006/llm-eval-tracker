@@ -1,5 +1,14 @@
 [
   {
+    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
+    "id": "multivon-ai/multivon-eval",
+    "language": "Python",
+    "name": "multivon-ai/multivon-eval",
+    "stars": 8,
+    "updated_at": "2026-06-24T19:43:40Z",
+    "url": "https://github.com/multivon-ai/multivon-eval"
+  },
+  {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
     "id": "saddled-panicattack529/idea-evaluation-pipeline",
     "language": "\u2014",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10264,
-    "updated_at": "2026-06-24T19:26:40Z",
+    "updated_at": "2026-06-24T19:44:42Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -59,7 +68,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22555,
-    "updated_at": "2026-06-24T19:22:43Z",
+    "updated_at": "2026-06-24T19:40:38Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -295,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T00:42:37Z",
     "url": "https://github.com/jedobe/skill-evaluator"
-  },
-  {
-    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
-    "id": "multivon-ai/multivon-eval",
-    "language": "Python",
-    "name": "multivon-ai/multivon-eval",
-    "stars": 8,
-    "updated_at": "2026-06-16T01:40:41Z",
-    "url": "https://github.com/multivon-ai/multivon-eval"
   },
   {
     "description": "OpenSkillEval: Automatically Auditing the Open Skill Ecosystem for LLM Agents",
