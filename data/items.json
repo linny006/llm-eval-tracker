@@ -5,7 +5,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22520,
-    "updated_at": "2026-06-24T02:09:56Z",
+    "updated_at": "2026-06-24T02:30:07Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -45,6 +45,15 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 310,
+    "updated_at": "2026-06-24T02:28:26Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "RAG agentique sur des documents de concession t\u00e9l\u00e9com publique (DSP/RIP), pens\u00e9 eval-first et contr\u00f4l\u00e9 en CI.",
     "id": "TheAnacondA57/BidAgent",
     "language": "Python",
@@ -61,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-06-23T21:12:21Z",
     "url": "https://github.com/IonDen/mlx-quant-fidelity"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 311,
-    "updated_at": "2026-06-23T23:10:34Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "AI Observability & Evaluation",
