@@ -1,5 +1,14 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 312,
+    "updated_at": "2026-06-24T16:27:27Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10264,
-    "updated_at": "2026-06-24T16:08:17Z",
+    "updated_at": "2026-06-24T16:29:56Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -115,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-24T03:52:11Z",
     "url": "https://github.com/melody-ling-L/eval-resume"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 312,
-    "updated_at": "2026-06-24T16:11:48Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "RAG agentique sur des documents de concession t\u00e9l\u00e9com publique (DSP/RIP), pens\u00e9 eval-first et contr\u00f4l\u00e9 en CI.",
