@@ -1,5 +1,23 @@
 [
   {
+    "description": "Agent eval harness \u2014 measure task success, tool-call accuracy, step efficiency, and cost for tool-using LLM agents (Clau",
+    "id": "tkarim45/agent-eval-harness",
+    "language": "Python",
+    "name": "tkarim45/agent-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-06-24T07:31:20Z",
+    "url": "https://github.com/tkarim45/agent-eval-harness"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22531,
+    "updated_at": "2026-06-24T07:27:48Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -14,17 +32,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10257,
-    "updated_at": "2026-06-24T07:28:12Z",
+    "updated_at": "2026-06-24T07:39:32Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22530,
-    "updated_at": "2026-06-24T07:27:48Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T19:10:36Z",
     "url": "https://github.com/rogue-socket/focusgroup"
-  },
-  {
-    "description": "Mission Spec \u2014 AI \uc5d0\uc774\uc804\ud2b8 \uc6cc\ud06c\ud50c\ub85c\ub97c \uc704\ud55c task contract layer",
-    "id": "chquandogong/mission-spec",
-    "language": "TypeScript",
-    "name": "chquandogong/mission-spec",
-    "stars": 0,
-    "updated_at": "2026-06-22T00:34:40Z",
-    "url": "https://github.com/chquandogong/mission-spec"
   }
 ]
