@@ -1,5 +1,14 @@
 [
   {
+    "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with an independent gate that checks ever",
+    "id": "valbaudo/awf",
+    "language": "Go",
+    "name": "valbaudo/awf",
+    "stars": 1,
+    "updated_at": "2026-06-24T11:02:33Z",
+    "url": "https://github.com/valbaudo/awf"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -34,15 +43,6 @@
     "stars": 5460,
     "updated_at": "2026-06-24T10:17:56Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with an independent gate that checks ever",
-    "id": "valbaudo/awf",
-    "language": "Go",
-    "name": "valbaudo/awf",
-    "stars": 1,
-    "updated_at": "2026-06-24T09:31:24Z",
-    "url": "https://github.com/valbaudo/awf"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
