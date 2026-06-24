@@ -1,11 +1,20 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 312,
+    "updated_at": "2026-06-24T17:12:15Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22552,
-    "updated_at": "2026-06-24T16:45:33Z",
+    "stars": 22553,
+    "updated_at": "2026-06-24T17:14:09Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -16,15 +25,6 @@
     "stars": 0,
     "updated_at": "2026-06-24T16:30:31Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 312,
-    "updated_at": "2026-06-24T16:27:27Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -41,7 +41,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10264,
-    "updated_at": "2026-06-24T16:53:48Z",
+    "updated_at": "2026-06-24T17:12:34Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
