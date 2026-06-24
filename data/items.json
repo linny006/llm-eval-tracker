@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10264,
-    "updated_at": "2026-06-24T18:24:31Z",
+    "updated_at": "2026-06-24T18:35:45Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -23,7 +23,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22555,
-    "updated_at": "2026-06-24T18:26:20Z",
+    "updated_at": "2026-06-24T18:40:56Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -81,6 +81,15 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5461,
+    "updated_at": "2026-06-24T14:52:55Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
     "description": "Tool-using ReAct + RAG agent (enterprise assistant) with a built-in evaluation harness scoring accuracy, tool selection,",
     "id": "RaphaelFakhri/reagent",
     "language": "Python",
@@ -97,15 +106,6 @@
     "stars": 10,
     "updated_at": "2026-06-24T15:54:38Z",
     "url": "https://github.com/NoesisVision/nasde-toolkit"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5460,
-    "updated_at": "2026-06-24T14:52:55Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Agent eval harness \u2014 measure task success, tool-call accuracy, step efficiency, and cost for tool-using LLM agents (Clau",

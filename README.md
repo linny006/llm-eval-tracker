@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-24 18:30 UTC
+> ⏰ Last updated: 2026-06-24 18:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -51,9 +51,9 @@ expired items removed — so you can rely on what you see being current.
 | 7 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-06-24 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 8 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-06-24 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
 | 9 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-06-24 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
-| 10 | [RaphaelFakhri/reagent](https://github.com/RaphaelFakhri/reagent) | 0 | Python | 2026-06-24 | Tool-using ReAct + RAG agent (enterprise assistant) with a built-in evaluation harness scoring accuracy, tool selection, |
-| 11 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 10 | Python | 2026-06-24 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
-| 12 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5460 | Python | 2026-06-24 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 10 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5461 | Python | 2026-06-24 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 11 | [RaphaelFakhri/reagent](https://github.com/RaphaelFakhri/reagent) | 0 | Python | 2026-06-24 | Tool-using ReAct + RAG agent (enterprise assistant) with a built-in evaluation harness scoring accuracy, tool selection, |
+| 12 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 10 | Python | 2026-06-24 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
 | 13 | [tkarim45/agent-eval-harness](https://github.com/tkarim45/agent-eval-harness) | 0 | Python | 2026-06-24 | Agent eval harness — measure task success, tool-call accuracy, step efficiency, and cost for tool-using LLM agents (Clau |
 | 14 | [melody-ling-L/eval-resume](https://github.com/melody-ling-L/eval-resume) | 0 | HTML | 2026-06-24 | 中文 LLM 简历改写诚实度 benchmark：20 脱敏简历 × 3 模型 × 4 维度 · promptfoo + LLM-as-judge · 含在线报告 |
 | 15 | [TheAnacondA57/BidAgent](https://github.com/TheAnacondA57/BidAgent) | 0 | Python | 2026-06-23 | RAG agentique sur des documents de concession télécom publique (DSP/RIP), pensé eval-first et contrôlé en CI. |
