@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-25 14:30 UTC
+> ⏰ Last updated: 2026-06-25 14:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -55,7 +55,7 @@ expired items removed — so you can rely on what you see being current.
 | 11 | [multivon-ai/multivon-eval](https://github.com/multivon-ai/multivon-eval) | 8 | Python | 2026-06-24 | Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI |
 | 12 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-06-24 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with an independent gate that checks ever |
 | 13 | [RaphaelFakhri/reagent](https://github.com/RaphaelFakhri/reagent) | 0 | Python | 2026-06-24 | Tool-using ReAct + RAG agent (enterprise assistant) with a built-in evaluation harness scoring accuracy, tool selection, |
-| 14 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 10 | Python | 2026-06-24 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
+| 14 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 10 | Python | 2026-06-25 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
 | 15 | [tkarim45/agent-eval-harness](https://github.com/tkarim45/agent-eval-harness) | 0 | Python | 2026-06-24 | Agent eval harness — measure task success, tool-call accuracy, step efficiency, and cost for tool-using LLM agents (Clau |
 | 16 | [melody-ling-L/eval-resume](https://github.com/melody-ling-L/eval-resume) | 0 | HTML | 2026-06-24 | 中文 LLM 简历改写诚实度 benchmark：20 脱敏简历 × 3 模型 × 4 维度 · promptfoo + LLM-as-judge · 含在线报告 |
 | 17 | [TheAnacondA57/BidAgent](https://github.com/TheAnacondA57/BidAgent) | 0 | Python | 2026-06-23 | RAG agentique sur des documents de concession télécom publique (DSP/RIP), pensé eval-first et contrôlé en CI. |
