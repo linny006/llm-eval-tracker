@@ -1,5 +1,14 @@
 [
   {
+    "description": "A Claude skill for building golden sets to test AI systems \u2014 matching, RAG, LLM-as-judge \u2014 without false greens.",
+    "id": "G59-Toneli/dataset-eval-skill",
+    "language": "JavaScript",
+    "name": "G59-Toneli/dataset-eval-skill",
+    "stars": 0,
+    "updated_at": "2026-06-25T19:03:51Z",
+    "url": "https://github.com/G59-Toneli/dataset-eval-skill"
+  },
+  {
     "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with an independent gate that checks ever",
     "id": "valbaudo/awf",
     "language": "Go",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-02T04:58:34Z",
     "url": "https://github.com/thestio/thest-eval"
-  },
-  {
-    "description": "Regression testing for voice agents: scripted conversations, safety assertions, CI-ready reports.",
-    "id": "monkeyin92/voice-agent-testops",
-    "language": "TypeScript",
-    "name": "monkeyin92/voice-agent-testops",
-    "stars": 0,
-    "updated_at": "2026-06-01T03:51:36Z",
-    "url": "https://github.com/monkeyin92/voice-agent-testops"
   }
 ]
