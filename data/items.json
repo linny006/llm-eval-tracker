@@ -5,7 +5,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 312,
-    "updated_at": "2026-06-25T06:22:04Z",
+    "updated_at": "2026-06-25T06:52:57Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -31,7 +31,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5462,
+    "stars": 5463,
     "updated_at": "2026-06-25T05:16:19Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
@@ -72,6 +72,15 @@
     "url": "https://github.com/homemade-software-inc/completion-kit"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10265,
+    "updated_at": "2026-06-25T04:23:17Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
     "id": "jeremylongshore/j-rig-skill-binary-eval",
     "language": "TypeScript",
@@ -79,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-25T03:53:29Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10264,
-    "updated_at": "2026-06-25T04:23:17Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
