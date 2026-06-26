@@ -1,5 +1,23 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10284,
+    "updated_at": "2026-06-26T04:14:37Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
+    "id": "jeremylongshore/j-rig-skill-binary-eval",
+    "language": "TypeScript",
+    "name": "jeremylongshore/j-rig-skill-binary-eval",
+    "stars": 0,
+    "updated_at": "2026-06-26T04:07:42Z",
+    "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -9,13 +27,13 @@
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10283,
-    "updated_at": "2026-06-26T03:57:08Z",
-    "url": "https://github.com/Arize-ai/phoenix"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22608,
+    "updated_at": "2026-06-26T04:11:30Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
@@ -52,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-06-26T02:02:20Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22606,
-    "updated_at": "2026-06-26T03:36:09Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "A Claude skill for building golden sets to test AI systems \u2014 matching, RAG, LLM-as-judge \u2014 without false greens.",
@@ -124,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-06-25T04:29:12Z",
     "url": "https://github.com/homemade-software-inc/completion-kit"
-  },
-  {
-    "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
-    "id": "jeremylongshore/j-rig-skill-binary-eval",
-    "language": "TypeScript",
-    "name": "jeremylongshore/j-rig-skill-binary-eval",
-    "stars": 0,
-    "updated_at": "2026-06-26T03:37:09Z",
-    "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
     "description": "Tool-using ReAct + RAG agent (enterprise assistant) with a built-in evaluation harness scoring accuracy, tool selection,",
