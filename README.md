@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-26 03:15 UTC
+> ⏰ Last updated: 2026-06-26 03:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10281 | Python | 2026-06-26 | AI Observability & Evaluation |
-| 2 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5465 | Python | 2026-06-26 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 1 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5465 | Python | 2026-06-26 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10282 | Python | 2026-06-26 | AI Observability & Evaluation |
 | 3 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-06-26 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 4 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-06-26 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 5 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-06-26 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
 | 6 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-06-26 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
-| 7 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22605 | TypeScript | 2026-06-26 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 7 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22606 | TypeScript | 2026-06-26 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 8 | [G59-Toneli/dataset-eval-skill](https://github.com/G59-Toneli/dataset-eval-skill) | 0 | JavaScript | 2026-06-25 | A Claude skill for building golden sets to test AI systems — matching, RAG, LLM-as-judge — without false greens. |
 | 9 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-06-25 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with an independent gate that checks ever |
 | 10 | [multivon-ai/multivon-eval](https://github.com/multivon-ai/multivon-eval) | 8 | Python | 2026-06-25 | Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI |
@@ -81,7 +81,7 @@ expired items removed — so you can rely on what you see being current.
 | 37 | [ALEX-nlp/OpenSkillEval](https://github.com/ALEX-nlp/OpenSkillEval) | 12 | Python | 2026-06-15 | OpenSkillEval: Automatically Auditing the Open Skill Ecosystem for LLM Agents |
 | 38 | [mpuodziukas-labs/eval-harness-template](https://github.com/mpuodziukas-labs/eval-harness-template) | 0 | Python | 2026-06-14 | Eval harness template for LLM systems: golden regression, LLM-as-judge, invariants |
 | 39 | [mizcausevic-dev/agent-eval-arena](https://github.com/mizcausevic-dev/agent-eval-arena) | 0 | TypeScript | 2026-06-22 | Agent and LLM evaluation harness — golden datasets, multi-scorer execution, regression detection across model versions,  |
-| 40 | [ejentum/eval](https://github.com/ejentum/eval) | 3 | Python | 2026-06-11 | A/B evaluate any LLM task with and without Ejentum cognitive injection. n8n workflow + TypeScript module. |
+| 40 | [ejentum/eval](https://github.com/ejentum/eval) | 4 | Python | 2026-06-11 | A/B evaluate any LLM task with and without Ejentum cognitive injection. n8n workflow + TypeScript module. |
 | 41 | [akanjilal-work/agent-eval-harness](https://github.com/akanjilal-work/agent-eval-harness) | 0 | Python | 2026-06-10 | A lightweight harness to test agent behaviour (tool-call correctness, injection refusal, cost ceilings) before deploymen |
 | 42 | [karlmehta/trustmodel-mcp](https://github.com/karlmehta/trustmodel-mcp) | 0 | TypeScript | 2026-06-10 | TrustModel MCP Server — trust evaluation, red-team & governance for AI agents via the Model Context Protocol. Public can |
 | 43 | [reaatech/agent-eval-harness](https://github.com/reaatech/agent-eval-harness) | 0 | TypeScript | 2026-06-22 | End-to-end agent evaluation — trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w |

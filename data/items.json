@@ -1,21 +1,21 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10281,
-    "updated_at": "2026-06-26T03:14:44Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5465,
-    "updated_at": "2026-06-26T02:54:16Z",
+    "updated_at": "2026-06-26T03:27:00Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10282,
+    "updated_at": "2026-06-26T03:23:42Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
@@ -58,7 +58,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22605,
+    "stars": 22606,
     "updated_at": "2026-06-26T01:21:37Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -355,7 +355,7 @@
     "id": "ejentum/eval",
     "language": "Python",
     "name": "ejentum/eval",
-    "stars": 3,
+    "stars": 4,
     "updated_at": "2026-06-11T11:20:58Z",
     "url": "https://github.com/ejentum/eval"
   },
