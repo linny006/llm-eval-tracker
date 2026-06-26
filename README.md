@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-26 13:15 UTC
+> ⏰ Last updated: 2026-06-26 13:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -52,7 +52,7 @@ expired items removed — so you can rely on what you see being current.
 | 8 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5467 | Python | 2026-06-26 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 9 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 313 | TypeScript | 2026-06-26 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 10 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-06-26 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with an independent gate that checks ever |
-| 11 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10286 | Python | 2026-06-26 | AI Observability & Evaluation |
+| 11 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10287 | Python | 2026-06-26 | AI Observability & Evaluation |
 | 12 | [tkarim45/multi-agent-eval](https://github.com/tkarim45/multi-agent-eval) | 0 | Python | 2026-06-26 | Does multi-agent beat single-agent? Benchmarks a planner→workers→critic system vs single-agent on quality/cost/latency — |
 | 13 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-06-26 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 14 | [G59-Toneli/dataset-eval-skill](https://github.com/G59-Toneli/dataset-eval-skill) | 0 | JavaScript | 2026-06-25 | A Claude skill for building golden sets to test AI systems — matching, RAG, LLM-as-judge — without false greens. |
