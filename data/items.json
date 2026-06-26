@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22605,
+    "updated_at": "2026-06-26T01:21:37Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
     "id": "saddled-panicattack529/idea-evaluation-pipeline",
     "language": "\u2014",
@@ -34,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-06-25T23:14:23Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22603,
-    "updated_at": "2026-06-25T23:25:34Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "A Claude skill for building golden sets to test AI systems \u2014 matching, RAG, LLM-as-judge \u2014 without false greens.",
@@ -104,7 +104,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10280,
-    "updated_at": "2026-06-25T15:57:58Z",
+    "updated_at": "2026-06-26T01:27:36Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -113,7 +113,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 313,
-    "updated_at": "2026-06-25T22:52:04Z",
+    "updated_at": "2026-06-26T01:30:09Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
