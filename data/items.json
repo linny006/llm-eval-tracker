@@ -1,12 +1,12 @@
 [
   {
-    "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with an independent gate that checks ever",
-    "id": "valbaudo/awf",
-    "language": "Go",
-    "name": "valbaudo/awf",
-    "stars": 1,
-    "updated_at": "2026-06-26T09:28:26Z",
-    "url": "https://github.com/valbaudo/awf"
+    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
+    "id": "saddled-panicattack529/idea-evaluation-pipeline",
+    "language": "\u2014",
+    "name": "saddled-panicattack529/idea-evaluation-pipeline",
+    "stars": 0,
+    "updated_at": "2026-06-26T09:42:30Z",
+    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
@@ -14,8 +14,17 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 313,
-    "updated_at": "2026-06-26T09:21:42Z",
+    "updated_at": "2026-06-26T09:40:42Z",
     "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
+    "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with an independent gate that checks ever",
+    "id": "valbaudo/awf",
+    "language": "Go",
+    "name": "valbaudo/awf",
+    "stars": 1,
+    "updated_at": "2026-06-26T09:28:26Z",
+    "url": "https://github.com/valbaudo/awf"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -68,7 +77,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22622,
-    "updated_at": "2026-06-26T09:13:51Z",
+    "updated_at": "2026-06-26T09:35:48Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -79,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-26T05:38:02Z",
     "url": "https://github.com/tkarim45/multi-agent-eval"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-06-26T04:56:23Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
