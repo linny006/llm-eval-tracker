@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-26 21:30 UTC
+> ⏰ Last updated: 2026-06-26 21:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -49,7 +49,7 @@ expired items removed — so you can rely on what you see being current.
 | 5 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-06-26 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 6 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-06-26 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with an independent gate that checks ever |
 | 7 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-06-26 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 8 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10290 | Python | 2026-06-26 | AI Observability & Evaluation |
+| 8 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10291 | Python | 2026-06-26 | AI Observability & Evaluation |
 | 9 | [reaatech/agent-eval-harness](https://github.com/reaatech/agent-eval-harness) | 0 | TypeScript | 2026-06-26 | End-to-end agent evaluation — trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w |
 | 10 | [multivon-ai/multivon-eval](https://github.com/multivon-ai/multivon-eval) | 8 | Python | 2026-06-26 | Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI |
 | 11 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5470 | Python | 2026-06-26 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
