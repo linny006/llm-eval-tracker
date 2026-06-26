@@ -1,11 +1,20 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10287,
+    "updated_at": "2026-06-26T14:21:43Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22625,
-    "updated_at": "2026-06-26T14:06:24Z",
+    "updated_at": "2026-06-26T14:27:29Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -88,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-06-26T09:28:26Z",
     "url": "https://github.com/valbaudo/awf"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10287,
-    "updated_at": "2026-06-26T13:58:19Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Does multi-agent beat single-agent? Benchmarks a planner\u2192workers\u2192critic system vs single-agent on quality/cost/latency \u2014",
