@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-26 07:30 UTC
+> ⏰ Last updated: 2026-06-26 07:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,7 +43,7 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5466 | Python | 2026-06-26 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22619 | TypeScript | 2026-06-26 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22621 | TypeScript | 2026-06-26 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10285 | Python | 2026-06-26 | AI Observability & Evaluation |
 | 4 | [tkarim45/multi-agent-eval](https://github.com/tkarim45/multi-agent-eval) | 0 | Python | 2026-06-26 | Does multi-agent beat single-agent? Benchmarks a planner→workers→critic system vs single-agent on quality/cost/latency — |
 | 5 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-06-26 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
