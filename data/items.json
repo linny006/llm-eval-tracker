@@ -9,6 +9,15 @@
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22610,
+    "updated_at": "2026-06-26T04:54:48Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -63,15 +72,6 @@
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22608,
-    "updated_at": "2026-06-26T04:54:48Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "A Claude skill for building golden sets to test AI systems \u2014 matching, RAG, LLM-as-judge \u2014 without false greens.",
     "id": "G59-Toneli/dataset-eval-skill",
     "language": "JavaScript",
@@ -122,7 +122,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 313,
-    "updated_at": "2026-06-26T01:35:35Z",
+    "updated_at": "2026-06-26T05:14:06Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
