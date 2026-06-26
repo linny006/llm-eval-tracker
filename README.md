@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-26 18:30 UTC
+> ⏰ Last updated: 2026-06-26 18:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -49,7 +49,7 @@ expired items removed — so you can rely on what you see being current.
 | 5 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-06-26 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 6 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-06-26 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
 | 7 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-06-26 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
-| 8 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10289 | Python | 2026-06-26 | AI Observability & Evaluation |
+| 8 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10290 | Python | 2026-06-26 | AI Observability & Evaluation |
 | 9 | [reaatech/agent-eval-harness](https://github.com/reaatech/agent-eval-harness) | 0 | TypeScript | 2026-06-26 | End-to-end agent evaluation — trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w |
 | 10 | [multivon-ai/multivon-eval](https://github.com/multivon-ai/multivon-eval) | 8 | Python | 2026-06-26 | Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI |
 | 11 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5470 | Python | 2026-06-26 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
@@ -58,7 +58,7 @@ expired items removed — so you can rely on what you see being current.
 | 14 | [G59-Toneli/dataset-eval-skill](https://github.com/G59-Toneli/dataset-eval-skill) | 0 | JavaScript | 2026-06-25 | A Claude skill for building golden sets to test AI systems — matching, RAG, LLM-as-judge — without false greens. |
 | 15 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 10 | Python | 2026-06-25 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
 | 16 | [thewonderofyou777z-dot/tjoe-reviewkit](https://github.com/thewonderofyou777z-dot/tjoe-reviewkit) | 0 | Python | 2026-06-25 | TjoeReviewKit：tjoe 的本地离线工作流复盘检查工具；不运行任务、不联网、不接管工具调用、不采集生产日志 |
-| 17 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-06-25 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
+| 17 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-06-26 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
 | 18 | [RaphaelFakhri/reagent](https://github.com/RaphaelFakhri/reagent) | 0 | Python | 2026-06-24 | Tool-using ReAct + RAG agent (enterprise assistant) with a built-in evaluation harness scoring accuracy, tool selection, |
 | 19 | [tkarim45/agent-eval-harness](https://github.com/tkarim45/agent-eval-harness) | 0 | Python | 2026-06-24 | Agent eval harness — measure task success, tool-call accuracy, step efficiency, and cost for tool-using LLM agents (Clau |
 | 20 | [melody-ling-L/eval-resume](https://github.com/melody-ling-L/eval-resume) | 0 | HTML | 2026-06-24 | 中文 LLM 简历改写诚实度 benchmark：20 脱敏简历 × 3 模型 × 4 维度 · promptfoo + LLM-as-judge · 含在线报告 |
