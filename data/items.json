@@ -1,5 +1,14 @@
 [
   {
+    "description": "RAG agentique sur des documents de concession t\u00e9l\u00e9com publique (DSP/RIP), pens\u00e9 eval-first et contr\u00f4l\u00e9 en CI.",
+    "id": "TheAnacondA57/BidAgent",
+    "language": "Python",
+    "name": "TheAnacondA57/BidAgent",
+    "stars": 0,
+    "updated_at": "2026-06-28T18:08:04Z",
+    "url": "https://github.com/TheAnacondA57/BidAgent"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -7,15 +16,6 @@
     "stars": 0,
     "updated_at": "2026-06-28T17:52:29Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
-    "description": "RAG agentique sur des documents de concession t\u00e9l\u00e9com publique (DSP/RIP), pens\u00e9 eval-first et contr\u00f4l\u00e9 en CI.",
-    "id": "TheAnacondA57/BidAgent",
-    "language": "Python",
-    "name": "TheAnacondA57/BidAgent",
-    "stars": 0,
-    "updated_at": "2026-06-28T17:51:37Z",
-    "url": "https://github.com/TheAnacondA57/BidAgent"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
@@ -40,7 +40,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10306,
+    "stars": 10307,
     "updated_at": "2026-06-28T15:54:10Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -131,7 +131,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 313,
-    "updated_at": "2026-06-28T17:32:33Z",
+    "updated_at": "2026-06-28T18:09:18Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
