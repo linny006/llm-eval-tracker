@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-29 08:30 UTC
+> ⏰ Last updated: 2026-06-29 08:34 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -53,7 +53,7 @@ expired items removed — so you can rely on what you see being current.
 | 9 | [chquandogong/mission-spec](https://github.com/chquandogong/mission-spec) | 0 | TypeScript | 2026-06-29 | Mission Spec — AI 에이전트 워크플로를 위한 task contract layer |
 | 10 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5474 | Python | 2026-06-29 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 11 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-06-28 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
-| 12 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10316 | Python | 2026-06-28 | AI Observability & Evaluation |
+| 12 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10317 | Python | 2026-06-28 | AI Observability & Evaluation |
 | 13 | [IonDen/mlx-quant-fidelity](https://github.com/IonDen/mlx-quant-fidelity) | 1 | Python | 2026-06-28 | Measure MLX quantization quality loss — KL divergence, perplexity, top-token agreement for KV cache and weights |
 | 14 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-06-26 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
 | 15 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-06-29 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
