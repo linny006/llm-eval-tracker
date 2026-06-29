@@ -1,5 +1,23 @@
 [
   {
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-06-29T10:29:25Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
+    "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
+    "id": "valbaudo/awf",
+    "language": "Go",
+    "name": "valbaudo/awf",
+    "stars": 1,
+    "updated_at": "2026-06-29T10:17:43Z",
+    "url": "https://github.com/valbaudo/awf"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -54,15 +72,6 @@
     "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
   },
   {
-    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
-    "id": "bhavya7995/AI_governance",
-    "language": "PowerShell",
-    "name": "bhavya7995/AI_governance",
-    "stars": 1,
-    "updated_at": "2026-06-29T07:35:42Z",
-    "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -77,7 +86,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 313,
-    "updated_at": "2026-06-29T09:59:31Z",
+    "updated_at": "2026-06-29T10:23:52Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -124,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-06-26T23:08:29Z",
     "url": "https://github.com/homemade-software-inc/completion-kit"
-  },
-  {
-    "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
-    "id": "valbaudo/awf",
-    "language": "Go",
-    "name": "valbaudo/awf",
-    "stars": 1,
-    "updated_at": "2026-06-29T07:30:13Z",
-    "url": "https://github.com/valbaudo/awf"
   },
   {
     "description": "End-to-end agent evaluation \u2014 trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w",
