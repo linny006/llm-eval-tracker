@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-29 10:00 UTC
+> ⏰ Last updated: 2026-06-29 10:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5474 | Python | 2026-06-29 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 1 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5475 | Python | 2026-06-29 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 2 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-06-29 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 3 | [TheAnacondA57/BidAgent](https://github.com/TheAnacondA57/BidAgent) | 0 | Python | 2026-06-29 | RAG agentique sur des documents de concession télécom publique (DSP/RIP), pensé eval-first et contrôlé en CI. |
 | 4 | [tkarim45/multi-agent-eval](https://github.com/tkarim45/multi-agent-eval) | 0 | Python | 2026-06-29 | Does multi-agent beat single-agent? Benchmarks a planner→workers→critic system vs single-agent on quality/cost/latency — |
 | 5 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-06-29 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 6 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-06-29 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
 | 7 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-06-29 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
-| 8 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22715 | TypeScript | 2026-06-29 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 8 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22716 | TypeScript | 2026-06-29 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 9 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 313 | TypeScript | 2026-06-29 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 10 | [chquandogong/mission-spec](https://github.com/chquandogong/mission-spec) | 0 | TypeScript | 2026-06-29 | Mission Spec — AI 에이전트 워크플로를 위한 task contract layer |
 | 11 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-06-28 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
