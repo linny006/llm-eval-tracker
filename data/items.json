@@ -1,5 +1,14 @@
 [
   {
+    "description": "End-to-end agent evaluation \u2014 trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w",
+    "id": "reaatech/agent-eval-harness",
+    "language": "TypeScript",
+    "name": "reaatech/agent-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-06-29T16:12:53Z",
+    "url": "https://github.com/reaatech/agent-eval-harness"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -49,7 +58,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22729,
+    "stars": 22730,
     "updated_at": "2026-06-29T12:51:29Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -133,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-06-26T23:08:29Z",
     "url": "https://github.com/homemade-software-inc/completion-kit"
-  },
-  {
-    "description": "End-to-end agent evaluation \u2014 trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w",
-    "id": "reaatech/agent-eval-harness",
-    "language": "TypeScript",
-    "name": "reaatech/agent-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-06-26T12:51:16Z",
-    "url": "https://github.com/reaatech/agent-eval-harness"
   },
   {
     "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
