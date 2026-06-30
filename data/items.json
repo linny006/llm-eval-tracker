@@ -13,9 +13,18 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10345,
+    "stars": 10346,
     "updated_at": "2026-06-30T21:17:58Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22786,
+    "updated_at": "2026-06-30T21:10:26Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "An LLM-as-judge harness that scores AI-generated campaign phone scripts against a weighted quality rubric with a real Ha",
@@ -43,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-06-30T20:33:34Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22785,
-    "updated_at": "2026-06-30T21:10:26Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
