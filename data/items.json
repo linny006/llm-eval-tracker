@@ -1,1 +1,452 @@
-[]
+[
+  {
+    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
+    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "language": "\u2014",
+    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "stars": 0,
+    "updated_at": "2026-06-30T08:32:06Z",
+    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
+  },
+  {
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-06-30T08:30:25Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22757,
+    "updated_at": "2026-06-30T07:49:50Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 314,
+    "updated_at": "2026-06-30T07:51:30Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10338,
+    "updated_at": "2026-06-30T07:14:16Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5479,
+    "updated_at": "2026-06-30T06:48:10Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
+    "id": "saddled-panicattack529/idea-evaluation-pipeline",
+    "language": "\u2014",
+    "name": "saddled-panicattack529/idea-evaluation-pipeline",
+    "stars": 0,
+    "updated_at": "2026-06-30T06:03:50Z",
+    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
+  },
+  {
+    "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
+    "id": "jeremylongshore/j-rig-skill-binary-eval",
+    "language": "TypeScript",
+    "name": "jeremylongshore/j-rig-skill-binary-eval",
+    "stars": 0,
+    "updated_at": "2026-06-30T05:40:09Z",
+    "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
+  },
+  {
+    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
+    "id": "Kondwani10/Origin-Continuum",
+    "language": "\u2014",
+    "name": "Kondwani10/Origin-Continuum",
+    "stars": 0,
+    "updated_at": "2026-06-30T08:38:48Z",
+    "url": "https://github.com/Kondwani10/Origin-Continuum"
+  },
+  {
+    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
+    "id": "homemade-software-inc/completion-kit",
+    "language": "Ruby",
+    "name": "homemade-software-inc/completion-kit",
+    "stars": 1,
+    "updated_at": "2026-06-30T03:46:22Z",
+    "url": "https://github.com/homemade-software-inc/completion-kit"
+  },
+  {
+    "description": "End-to-end agent evaluation \u2014 trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w",
+    "id": "reaatech/agent-eval-harness",
+    "language": "TypeScript",
+    "name": "reaatech/agent-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-06-29T16:12:53Z",
+    "url": "https://github.com/reaatech/agent-eval-harness"
+  },
+  {
+    "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
+    "id": "valbaudo/awf",
+    "language": "Go",
+    "name": "valbaudo/awf",
+    "stars": 1,
+    "updated_at": "2026-06-29T10:17:43Z",
+    "url": "https://github.com/valbaudo/awf"
+  },
+  {
+    "description": "RAG agentique sur des documents de concession t\u00e9l\u00e9com publique (DSP/RIP), pens\u00e9 eval-first et contr\u00f4l\u00e9 en CI.",
+    "id": "TheAnacondA57/BidAgent",
+    "language": "Python",
+    "name": "TheAnacondA57/BidAgent",
+    "stars": 0,
+    "updated_at": "2026-06-29T08:04:27Z",
+    "url": "https://github.com/TheAnacondA57/BidAgent"
+  },
+  {
+    "description": "Does multi-agent beat single-agent? Benchmarks a planner\u2192workers\u2192critic system vs single-agent on quality/cost/latency \u2014",
+    "id": "tkarim45/multi-agent-eval",
+    "language": "Python",
+    "name": "tkarim45/multi-agent-eval",
+    "stars": 0,
+    "updated_at": "2026-06-29T07:46:13Z",
+    "url": "https://github.com/tkarim45/multi-agent-eval"
+  },
+  {
+    "description": "Mission Spec \u2014 AI \uc5d0\uc774\uc804\ud2b8 \uc6cc\ud06c\ud50c\ub85c\ub97c \uc704\ud55c task contract layer",
+    "id": "chquandogong/mission-spec",
+    "language": "TypeScript",
+    "name": "chquandogong/mission-spec",
+    "stars": 0,
+    "updated_at": "2026-06-29T03:33:40Z",
+    "url": "https://github.com/chquandogong/mission-spec"
+  },
+  {
+    "description": "Measure MLX quantization quality loss \u2014 KL divergence, perplexity, top-token agreement for KV cache and weights",
+    "id": "IonDen/mlx-quant-fidelity",
+    "language": "Python",
+    "name": "IonDen/mlx-quant-fidelity",
+    "stars": 1,
+    "updated_at": "2026-06-28T09:43:35Z",
+    "url": "https://github.com/IonDen/mlx-quant-fidelity"
+  },
+  {
+    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
+    "id": "multivon-ai/multivon-eval",
+    "language": "Python",
+    "name": "multivon-ai/multivon-eval",
+    "stars": 8,
+    "updated_at": "2026-06-26T10:38:57Z",
+    "url": "https://github.com/multivon-ai/multivon-eval"
+  },
+  {
+    "description": "A Claude skill for building golden sets to test AI systems \u2014 matching, RAG, LLM-as-judge \u2014 without false greens.",
+    "id": "G59-Toneli/dataset-eval-skill",
+    "language": "JavaScript",
+    "name": "G59-Toneli/dataset-eval-skill",
+    "stars": 0,
+    "updated_at": "2026-06-25T19:03:51Z",
+    "url": "https://github.com/G59-Toneli/dataset-eval-skill"
+  },
+  {
+    "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
+    "id": "NoesisVision/nasde-toolkit",
+    "language": "Python",
+    "name": "NoesisVision/nasde-toolkit",
+    "stars": 10,
+    "updated_at": "2026-06-25T16:42:31Z",
+    "url": "https://github.com/NoesisVision/nasde-toolkit"
+  },
+  {
+    "description": "TjoeReviewKit\uff1atjoe \u7684\u672c\u5730\u79bb\u7ebf\u5de5\u4f5c\u6d41\u590d\u76d8\u68c0\u67e5\u5de5\u5177\uff1b\u4e0d\u8fd0\u884c\u4efb\u52a1\u3001\u4e0d\u8054\u7f51\u3001\u4e0d\u63a5\u7ba1\u5de5\u5177\u8c03\u7528\u3001\u4e0d\u91c7\u96c6\u751f\u4ea7\u65e5\u5fd7",
+    "id": "thewonderofyou777z-dot/tjoe-reviewkit",
+    "language": "Python",
+    "name": "thewonderofyou777z-dot/tjoe-reviewkit",
+    "stars": 0,
+    "updated_at": "2026-06-25T16:24:29Z",
+    "url": "https://github.com/thewonderofyou777z-dot/tjoe-reviewkit"
+  },
+  {
+    "description": "Tool-using ReAct + RAG agent (enterprise assistant) with a built-in evaluation harness scoring accuracy, tool selection,",
+    "id": "RaphaelFakhri/reagent",
+    "language": "Python",
+    "name": "RaphaelFakhri/reagent",
+    "stars": 0,
+    "updated_at": "2026-06-24T13:55:06Z",
+    "url": "https://github.com/RaphaelFakhri/reagent"
+  },
+  {
+    "description": "Agent eval harness \u2014 measure task success, tool-call accuracy, step efficiency, and cost for tool-using LLM agents (Clau",
+    "id": "tkarim45/agent-eval-harness",
+    "language": "Python",
+    "name": "tkarim45/agent-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-06-24T07:31:20Z",
+    "url": "https://github.com/tkarim45/agent-eval-harness"
+  },
+  {
+    "description": "\u4e2d\u6587 LLM \u7b80\u5386\u6539\u5199\u8bda\u5b9e\u5ea6 benchmark\uff1a20 \u8131\u654f\u7b80\u5386 \u00d7 3 \u6a21\u578b \u00d7 4 \u7ef4\u5ea6 \u00b7 promptfoo + LLM-as-judge \u00b7 \u542b\u5728\u7ebf\u62a5\u544a",
+    "id": "melody-ling-L/eval-resume",
+    "language": "HTML",
+    "name": "melody-ling-L/eval-resume",
+    "stars": 0,
+    "updated_at": "2026-06-24T03:52:11Z",
+    "url": "https://github.com/melody-ling-L/eval-resume"
+  },
+  {
+    "description": "Migrate headless Claude/AI workloads to local LLMs with a derived, per-workload quality eval \u2014 cron job in, zero-margina",
+    "id": "ahwurm/localshift",
+    "language": "Python",
+    "name": "ahwurm/localshift",
+    "stars": 3,
+    "updated_at": "2026-06-22T19:25:20Z",
+    "url": "https://github.com/ahwurm/localshift"
+  },
+  {
+    "description": "Evaluation for AI agents \u2014 judge-based scoring and native RAG metrics (faithfulness, relevancy, context precision/recall",
+    "id": "gashel01/evalmcp",
+    "language": "Python",
+    "name": "gashel01/evalmcp",
+    "stars": 0,
+    "updated_at": "2026-06-22T18:58:45Z",
+    "url": "https://github.com/gashel01/evalmcp"
+  },
+  {
+    "description": "Open-source LLM evaluation framework \u2014 drop-in SDK + CI plugin. LLM-as-judge, regression detection, free + self-hostable",
+    "id": "anejakartik/evalstack",
+    "language": "TypeScript",
+    "name": "anejakartik/evalstack",
+    "stars": 0,
+    "updated_at": "2026-06-22T05:56:36Z",
+    "url": "https://github.com/anejakartik/evalstack"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3409,
+    "updated_at": "2026-06-21T22:58:02Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "NL\u2192SQL multi-agent pipeline (LangGraph + Claude) with deterministic SQL-injection guardrails and golden-set eval.",
+    "id": "jmpei/nl2sql-agents",
+    "language": "Python",
+    "name": "jmpei/nl2sql-agents",
+    "stars": 0,
+    "updated_at": "2026-06-21T18:14:07Z",
+    "url": "https://github.com/jmpei/nl2sql-agents"
+  },
+  {
+    "description": "Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou",
+    "id": "lokesh75-kank/agenteval",
+    "language": "TypeScript",
+    "name": "lokesh75-kank/agenteval",
+    "stars": 0,
+    "updated_at": "2026-06-21T06:35:13Z",
+    "url": "https://github.com/lokesh75-kank/agenteval"
+  },
+  {
+    "description": "A forkable example of the human-in-the-loop model-improvement loop: AI generates, humans judge via the Terac MCP, you im",
+    "id": "TeracAI/svg-arena",
+    "language": "TypeScript",
+    "name": "TeracAI/svg-arena",
+    "stars": 0,
+    "updated_at": "2026-06-20T23:15:47Z",
+    "url": "https://github.com/TeracAI/svg-arena"
+  },
+  {
+    "description": "Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai",
+    "id": "ozlar34/job-match-radar",
+    "language": "Python",
+    "name": "ozlar34/job-match-radar",
+    "stars": 0,
+    "updated_at": "2026-06-20T21:22:02Z",
+    "url": "https://github.com/ozlar34/job-match-radar"
+  },
+  {
+    "description": "An LLM-as-judge harness that scores AI-generated campaign phone scripts against a weighted quality rubric with a real Ha",
+    "id": "kilocommits/campaign-eval-harness",
+    "language": "Python",
+    "name": "kilocommits/campaign-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-06-20T18:27:11Z",
+    "url": "https://github.com/kilocommits/campaign-eval-harness"
+  },
+  {
+    "description": "Zero-dependency detector and classifier for LLM refusals, deflections, and capability disclaimers \u2014 CLI + library with s",
+    "id": "Ayubjon/refusal-radar",
+    "language": "JavaScript",
+    "name": "Ayubjon/refusal-radar",
+    "stars": 0,
+    "updated_at": "2026-06-20T15:14:56Z",
+    "url": "https://github.com/Ayubjon/refusal-radar"
+  },
+  {
+    "description": "Single-file labeling tool for LLM-as-judge calibration. Three-pane comparison + multi-dim scoring. Zero deployment.",
+    "id": "melody-ling-L/judgebuddy",
+    "language": "HTML",
+    "name": "melody-ling-L/judgebuddy",
+    "stars": 0,
+    "updated_at": "2026-06-20T10:07:23Z",
+    "url": "https://github.com/melody-ling-L/judgebuddy"
+  },
+  {
+    "description": "Detect & score LLM hallucinations by groundedness \u2014 labeled data, precision/recall/F1, runs offline with no API key. Plu",
+    "id": "ramenprotokol/hallucination-hunter",
+    "language": "Python",
+    "name": "ramenprotokol/hallucination-hunter",
+    "stars": 0,
+    "updated_at": "2026-06-20T06:01:13Z",
+    "url": "https://github.com/ramenprotokol/hallucination-hunter"
+  },
+  {
+    "description": "TrustModel MCP Server \u2014 trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t",
+    "id": "pdxlab/trustmodel-mcp-server",
+    "language": "TypeScript",
+    "name": "pdxlab/trustmodel-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-06-19T11:55:17Z",
+    "url": "https://github.com/pdxlab/trustmodel-mcp-server"
+  },
+  {
+    "description": "Five local QA judges that review B2B and B2C customer-support replies, catch the risky parts, and explain what to fix. ",
+    "id": "gititya/Quality-Agency-support",
+    "language": "Python",
+    "name": "gititya/Quality-Agency-support",
+    "stars": 0,
+    "updated_at": "2026-06-17T18:29:01Z",
+    "url": "https://github.com/gititya/Quality-Agency-support"
+  },
+  {
+    "description": "Framework-agnostic evaluation harness for Go \u2014 test your MCP servers and AI agents with scored, CI-ready checks.",
+    "id": "tushariitr-19/assay",
+    "language": "Go",
+    "name": "tushariitr-19/assay",
+    "stars": 2,
+    "updated_at": "2026-06-17T04:24:00Z",
+    "url": "https://github.com/tushariitr-19/assay"
+  },
+  {
+    "description": "Score any Claude Code skill against a research-backed rubric derived from the top 9 most-starred skill repos on GitHub",
+    "id": "jedobe/skill-evaluator",
+    "language": "Python",
+    "name": "jedobe/skill-evaluator",
+    "stars": 0,
+    "updated_at": "2026-06-17T00:42:37Z",
+    "url": "https://github.com/jedobe/skill-evaluator"
+  },
+  {
+    "description": "OpenSkillEval: Automatically Auditing the Open Skill Ecosystem for LLM Agents",
+    "id": "ALEX-nlp/OpenSkillEval",
+    "language": "Python",
+    "name": "ALEX-nlp/OpenSkillEval",
+    "stars": 12,
+    "updated_at": "2026-06-15T02:14:09Z",
+    "url": "https://github.com/ALEX-nlp/OpenSkillEval"
+  },
+  {
+    "description": "Eval harness template for LLM systems: golden regression, LLM-as-judge, invariants",
+    "id": "mpuodziukas-labs/eval-harness-template",
+    "language": "Python",
+    "name": "mpuodziukas-labs/eval-harness-template",
+    "stars": 0,
+    "updated_at": "2026-06-14T07:51:51Z",
+    "url": "https://github.com/mpuodziukas-labs/eval-harness-template"
+  },
+  {
+    "description": "Agent and LLM evaluation harness \u2014 golden datasets, multi-scorer execution, regression detection across model versions, ",
+    "id": "mizcausevic-dev/agent-eval-arena",
+    "language": "TypeScript",
+    "name": "mizcausevic-dev/agent-eval-arena",
+    "stars": 0,
+    "updated_at": "2026-06-22T11:35:21Z",
+    "url": "https://github.com/mizcausevic-dev/agent-eval-arena"
+  },
+  {
+    "description": "A/B evaluate any LLM task with and without Ejentum cognitive injection. n8n workflow + TypeScript module.",
+    "id": "ejentum/eval",
+    "language": "Python",
+    "name": "ejentum/eval",
+    "stars": 4,
+    "updated_at": "2026-06-11T11:20:58Z",
+    "url": "https://github.com/ejentum/eval"
+  },
+  {
+    "description": "A lightweight harness to test agent behaviour (tool-call correctness, injection refusal, cost ceilings) before deploymen",
+    "id": "akanjilal-work/agent-eval-harness",
+    "language": "Python",
+    "name": "akanjilal-work/agent-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-06-10T14:29:09Z",
+    "url": "https://github.com/akanjilal-work/agent-eval-harness"
+  },
+  {
+    "description": "TrustModel MCP Server \u2014 trust evaluation, red-team & governance for AI agents via the Model Context Protocol. Public can",
+    "id": "karlmehta/trustmodel-mcp",
+    "language": "TypeScript",
+    "name": "karlmehta/trustmodel-mcp",
+    "stars": 0,
+    "updated_at": "2026-06-10T13:30:01Z",
+    "url": "https://github.com/karlmehta/trustmodel-mcp"
+  },
+  {
+    "description": "Continuity Keys: tests for \u201csame someone\u201d returns. Behavioral identity consistency under pressure. Origin (Alyssa Solen)",
+    "id": "alyssadata/continuity-keys",
+    "language": "\u2014",
+    "name": "alyssadata/continuity-keys",
+    "stars": 1,
+    "updated_at": "2026-06-08T19:12:31Z",
+    "url": "https://github.com/alyssadata/continuity-keys"
+  },
+  {
+    "description": "Offline classifier evaluation harness \u2014 dataset loader, confusion matrices, LLM-as-judge with cost accounting, regressio",
+    "id": "reaatech/classifier-evals",
+    "language": "TypeScript",
+    "name": "reaatech/classifier-evals",
+    "stars": 0,
+    "updated_at": "2026-06-24T05:39:54Z",
+    "url": "https://github.com/reaatech/classifier-evals"
+  },
+  {
+    "description": "RAG evaluation toolkit \u2014 faithfulness, answer relevance, context precision/recall, cost accounting, CI gates. Pairs with",
+    "id": "reaatech/rag-eval-pack",
+    "language": "TypeScript",
+    "name": "reaatech/rag-eval-pack",
+    "stars": 0,
+    "updated_at": "2026-06-29T14:20:52Z",
+    "url": "https://github.com/reaatech/rag-eval-pack"
+  },
+  {
+    "description": "A small, production-minded evaluation and observability harness for LLM/RAG features. Runs offline or live, gates CI on ",
+    "id": "Juanllenato/llm-eval-harness",
+    "language": "Python",
+    "name": "Juanllenato/llm-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-06-03T23:29:37Z",
+    "url": "https://github.com/Juanllenato/llm-eval-harness"
+  },
+  {
+    "description": "LLM evaluation harness that gates quality in CI: golden datasets, regression detection, grounding and faithfulness check",
+    "id": "Victor-David-Medina/llm-eval-harness",
+    "language": "Python",
+    "name": "Victor-David-Medina/llm-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-06-03T17:16:47Z",
+    "url": "https://github.com/Victor-David-Medina/llm-eval-harness"
+  }
+]
