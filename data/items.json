@@ -1,5 +1,14 @@
 [
   {
+    "description": "Codex eval plugin for auditing cancel-recovery replacement-product exposure policies.",
+    "id": "Merchantlee99/myrealtrip-cancel-recovery-eval",
+    "language": "Python",
+    "name": "Merchantlee99/myrealtrip-cancel-recovery-eval",
+    "stars": 0,
+    "updated_at": "2026-06-30T11:57:50Z",
+    "url": "https://github.com/Merchantlee99/myrealtrip-cancel-recovery-eval"
+  },
+  {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
     "id": "saddled-panicattack529/idea-evaluation-pipeline",
     "language": "\u2014",
@@ -40,9 +49,18 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22768,
+    "stars": 22767,
     "updated_at": "2026-06-30T10:27:09Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5480,
+    "updated_at": "2026-06-30T09:06:52Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
@@ -61,15 +79,6 @@
     "stars": 10342,
     "updated_at": "2026-06-30T11:22:28Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5479,
-    "updated_at": "2026-06-30T09:06:52Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T23:29:37Z",
     "url": "https://github.com/Juanllenato/llm-eval-harness"
-  },
-  {
-    "description": "LLM evaluation harness that gates quality in CI: golden datasets, regression detection, grounding and faithfulness check",
-    "id": "Victor-David-Medina/llm-eval-harness",
-    "language": "Python",
-    "name": "Victor-David-Medina/llm-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-06-03T17:16:47Z",
-    "url": "https://github.com/Victor-David-Medina/llm-eval-harness"
   }
 ]
