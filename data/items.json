@@ -1,11 +1,20 @@
 [
   {
+    "description": "\u2696\ufe0f Reusable LLM-as-judge harness \u2014 rubrics, pluggable judges (mock/proxy/LLM), and calibration against ground truth. Lib",
+    "id": "alvabillwu/judgekit",
+    "language": "Python",
+    "name": "alvabillwu/judgekit",
+    "stars": 0,
+    "updated_at": "2026-06-30T18:49:31Z",
+    "url": "https://github.com/alvabillwu/judgekit"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10344,
-    "updated_at": "2026-06-30T18:25:16Z",
+    "updated_at": "2026-06-30T18:55:33Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -16,15 +25,6 @@
     "stars": 0,
     "updated_at": "2026-06-30T17:20:09Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "\u2696\ufe0f Reusable LLM-as-judge harness \u2014 rubrics, pluggable judges (mock/proxy/LLM), and calibration against ground truth. Lib",
-    "id": "alvabillwu/judgekit",
-    "language": "Python",
-    "name": "alvabillwu/judgekit",
-    "stars": 0,
-    "updated_at": "2026-06-30T16:50:47Z",
-    "url": "https://github.com/alvabillwu/judgekit"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -67,7 +67,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22781,
+    "stars": 22782,
     "updated_at": "2026-06-30T10:27:09Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
