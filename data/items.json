@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
+    "id": "Kondwani10/Origin-Continuum",
+    "language": "\u2014",
+    "name": "Kondwani10/Origin-Continuum",
+    "stars": 0,
+    "updated_at": "2026-06-30T20:04:36Z",
+    "url": "https://github.com/Kondwani10/Origin-Continuum"
+  },
+  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -45,13 +54,13 @@
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
-    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
-    "id": "Kondwani10/Origin-Continuum",
-    "language": "\u2014",
-    "name": "Kondwani10/Origin-Continuum",
-    "stars": 0,
-    "updated_at": "2026-06-30T16:49:29Z",
-    "url": "https://github.com/Kondwani10/Origin-Continuum"
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5481,
+    "updated_at": "2026-06-30T15:01:52Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Codex eval plugin for auditing cancel-recovery replacement-product exposure policies.",
@@ -68,17 +77,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22783,
-    "updated_at": "2026-06-30T10:27:09Z",
+    "updated_at": "2026-06-30T20:08:56Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5480,
-    "updated_at": "2026-06-30T15:01:52Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
@@ -95,7 +95,7 @@
     "language": "TypeScript",
     "name": "jeremylongshore/j-rig-skill-binary-eval",
     "stars": 0,
-    "updated_at": "2026-06-30T05:40:09Z",
+    "updated_at": "2026-06-30T20:13:12Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
