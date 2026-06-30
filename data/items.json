@@ -1,5 +1,14 @@
 [
   {
+    "description": "An LLM-as-judge harness that scores AI-generated campaign phone scripts against a weighted quality rubric with a real Ha",
+    "id": "kilocommits/campaign-eval-harness",
+    "language": "Python",
+    "name": "kilocommits/campaign-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-06-30T20:59:14Z",
+    "url": "https://github.com/kilocommits/campaign-eval-harness"
+  },
+  {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
     "id": "jeremylongshore/j-rig-skill-binary-eval",
     "language": "TypeScript",
@@ -68,7 +77,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10344,
-    "updated_at": "2026-06-30T20:34:38Z",
+    "updated_at": "2026-06-30T20:49:20Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -295,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T21:22:02Z",
     "url": "https://github.com/ozlar34/job-match-radar"
-  },
-  {
-    "description": "An LLM-as-judge harness that scores AI-generated campaign phone scripts against a weighted quality rubric with a real Ha",
-    "id": "kilocommits/campaign-eval-harness",
-    "language": "Python",
-    "name": "kilocommits/campaign-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-06-20T18:27:11Z",
-    "url": "https://github.com/kilocommits/campaign-eval-harness"
   },
   {
     "description": "Zero-dependency detector and classifier for LLM refusals, deflections, and capability disclaimers \u2014 CLI + library with s",
