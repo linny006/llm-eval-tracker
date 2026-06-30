@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-30 13:45 UTC
+> ⏰ Last updated: 2026-06-30 14:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -48,9 +48,9 @@ expired items removed — so you can rely on what you see being current.
 | 4 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-06-30 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 5 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-06-30 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
 | 6 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-06-30 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
-| 7 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22771 | TypeScript | 2026-06-30 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 7 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22772 | TypeScript | 2026-06-30 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 8 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5480 | Python | 2026-06-30 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 9 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 315 | TypeScript | 2026-06-30 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 9 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 314 | TypeScript | 2026-06-30 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 10 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-06-30 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 11 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-06-30 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
 | 12 | [reaatech/agent-eval-harness](https://github.com/reaatech/agent-eval-harness) | 0 | TypeScript | 2026-06-29 | End-to-end agent evaluation — trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w |
@@ -69,7 +69,7 @@ expired items removed — so you can rely on what you see being current.
 | 25 | [ahwurm/localshift](https://github.com/ahwurm/localshift) | 3 | Python | 2026-06-22 | Migrate headless Claude/AI workloads to local LLMs with a derived, per-workload quality eval — cron job in, zero-margina |
 | 26 | [gashel01/evalmcp](https://github.com/gashel01/evalmcp) | 0 | Python | 2026-06-22 | Evaluation for AI agents — judge-based scoring and native RAG metrics (faithfulness, relevancy, context precision/recall |
 | 27 | [anejakartik/evalstack](https://github.com/anejakartik/evalstack) | 0 | TypeScript | 2026-06-22 | Open-source LLM evaluation framework — drop-in SDK + CI plugin. LLM-as-judge, regression detection, free + self-hostable |
-| 28 | [truera/trulens](https://github.com/truera/trulens) | 3410 | Python | 2026-06-21 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 28 | [truera/trulens](https://github.com/truera/trulens) | 3411 | Python | 2026-06-21 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 29 | [jmpei/nl2sql-agents](https://github.com/jmpei/nl2sql-agents) | 0 | Python | 2026-06-21 | NL→SQL multi-agent pipeline (LangGraph + Claude) with deterministic SQL-injection guardrails and golden-set eval. |
 | 30 | [lokesh75-kank/agenteval](https://github.com/lokesh75-kank/agenteval) | 0 | TypeScript | 2026-06-21 | Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou |
 | 31 | [TeracAI/svg-arena](https://github.com/TeracAI/svg-arena) | 0 | TypeScript | 2026-06-20 | A forkable example of the human-in-the-loop model-improvement loop: AI generates, humans judge via the Terac MCP, you im |
