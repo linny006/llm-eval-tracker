@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-01 13:45 UTC
+> ⏰ Last updated: 2026-07-01 14:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -50,7 +50,7 @@ expired items removed — so you can rely on what you see being current.
 | 6 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22812 | TypeScript | 2026-07-01 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 7 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-07-01 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 8 | [hydrangeas20/safetylens](https://github.com/hydrangeas20/safetylens) | 0 | Jupyter Notebook | 2026-07-01 | Empirical study of evaluation robustness in large language models. Compares benchmark style evaluation prompts with real |
-| 9 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5482 | Python | 2026-07-01 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 9 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5483 | Python | 2026-07-01 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 10 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-07-01 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
 | 11 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-07-01 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
 | 12 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10361 | Python | 2026-07-01 | AI Observability & Evaluation |
