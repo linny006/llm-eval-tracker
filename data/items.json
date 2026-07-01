@@ -1,5 +1,14 @@
 [
   {
+    "description": "Empirical study of evaluation robustness in large language models. Compares benchmark style evaluation prompts with real",
+    "id": "hydrangeas20/safetylens",
+    "language": "\u2014",
+    "name": "hydrangeas20/safetylens",
+    "stars": 0,
+    "updated_at": "2026-07-01T05:58:00Z",
+    "url": "https://github.com/hydrangeas20/safetylens"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "jeremylongshore/j-rig-skill-binary-eval",
     "stars": 0,
-    "updated_at": "2026-07-01T05:33:07Z",
+    "updated_at": "2026-07-01T05:55:47Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-24T05:39:54Z",
     "url": "https://github.com/reaatech/classifier-evals"
-  },
-  {
-    "description": "RAG evaluation toolkit \u2014 faithfulness, answer relevance, context precision/recall, cost accounting, CI gates. Pairs with",
-    "id": "reaatech/rag-eval-pack",
-    "language": "TypeScript",
-    "name": "reaatech/rag-eval-pack",
-    "stars": 0,
-    "updated_at": "2026-06-29T14:20:52Z",
-    "url": "https://github.com/reaatech/rag-eval-pack"
   }
 ]
