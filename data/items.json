@@ -2,10 +2,10 @@
   {
     "description": "Empirical study of evaluation robustness in large language models. Compares benchmark style evaluation prompts with real",
     "id": "hydrangeas20/safetylens",
-    "language": "\u2014",
+    "language": "Jupyter Notebook",
     "name": "hydrangeas20/safetylens",
     "stars": 0,
-    "updated_at": "2026-07-01T05:58:00Z",
+    "updated_at": "2026-07-01T06:09:34Z",
     "url": "https://github.com/hydrangeas20/safetylens"
   },
   {
@@ -49,7 +49,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22796,
+    "stars": 22799,
     "updated_at": "2026-07-01T04:46:09Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
