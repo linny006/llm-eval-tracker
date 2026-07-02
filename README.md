@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-02 05:30 UTC
+> ⏰ Last updated: 2026-07-02 05:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,7 +42,7 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22830 | TypeScript | 2026-07-02 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22831 | TypeScript | 2026-07-02 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 2 | [Ruthwik-Data/finrag-eval](https://github.com/Ruthwik-Data/finrag-eval) | 0 | Python | 2026-07-02 | RAG eval pipeline on Apple's FY 2024 10-K — found confident hallucinations, filed a metric-level bug in DeepEval, and bu |
 | 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10371 | Python | 2026-07-02 | AI Observability & Evaluation |
 | 4 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-07-02 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
