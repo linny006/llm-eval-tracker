@@ -1,5 +1,14 @@
 [
   {
+    "description": "Migrate headless Claude/AI workloads to local LLMs with a derived, per-workload quality eval \u2014 cron job in, zero-margina",
+    "id": "ahwurm/localshift",
+    "language": "Python",
+    "name": "ahwurm/localshift",
+    "stars": 3,
+    "updated_at": "2026-07-02T12:57:30Z",
+    "url": "https://github.com/ahwurm/localshift"
+  },
+  {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
     "id": "saddled-panicattack529/idea-evaluation-pipeline",
     "language": "\u2014",
@@ -259,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-06-24T03:52:11Z",
     "url": "https://github.com/melody-ling-L/eval-resume"
-  },
-  {
-    "description": "Migrate headless Claude/AI workloads to local LLMs with a derived, per-workload quality eval \u2014 cron job in, zero-margina",
-    "id": "ahwurm/localshift",
-    "language": "Python",
-    "name": "ahwurm/localshift",
-    "stars": 3,
-    "updated_at": "2026-06-22T19:25:20Z",
-    "url": "https://github.com/ahwurm/localshift"
   },
   {
     "description": "Evaluation for AI agents \u2014 judge-based scoring and native RAG metrics (faithfulness, relevancy, context precision/recall",
