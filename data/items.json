@@ -9,6 +9,15 @@
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5485,
+    "updated_at": "2026-07-03T13:32:42Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -52,15 +61,6 @@
     "stars": 22887,
     "updated_at": "2026-07-03T04:31:02Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5484,
-    "updated_at": "2026-07-03T13:32:42Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "AI Observability & Evaluation",
