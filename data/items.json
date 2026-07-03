@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10382,
-    "updated_at": "2026-07-03T03:00:08Z",
+    "updated_at": "2026-07-03T03:14:01Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5483,
+    "updated_at": "2026-07-03T03:12:57Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
@@ -61,15 +70,6 @@
     "stars": 3,
     "updated_at": "2026-07-02T12:57:30Z",
     "url": "https://github.com/ahwurm/localshift"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5483,
-    "updated_at": "2026-07-03T02:59:39Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
