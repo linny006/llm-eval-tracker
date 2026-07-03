@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-03 14:45 UTC
+> ⏰ Last updated: 2026-07-03 15:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -63,7 +63,7 @@ expired items removed — so you can rely on what you see being current.
 | 19 | [truera/trulens](https://github.com/truera/trulens) | 3414 | Python | 2026-06-30 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 20 | [Merchantlee99/myrealtrip-cancel-recovery-eval](https://github.com/Merchantlee99/myrealtrip-cancel-recovery-eval) | 0 | Python | 2026-06-30 | Codex eval plugin for auditing cancel-recovery replacement-product exposure policies. |
 | 21 | [reaatech/agent-eval-harness](https://github.com/reaatech/agent-eval-harness) | 0 | TypeScript | 2026-06-29 | End-to-end agent evaluation — trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w |
-| 22 | [TheAnacondA57/BidAgent](https://github.com/TheAnacondA57/BidAgent) | 0 | Python | 2026-06-29 | RAG agentique sur des documents de concession télécom publique (DSP/RIP), pensé eval-first et contrôlé en CI. |
+| 22 | [TheAnacondA57/BidAgent](https://github.com/TheAnacondA57/BidAgent) | 1 | Python | 2026-06-29 | RAG agentique sur des documents de concession télécom publique (DSP/RIP), pensé eval-first et contrôlé en CI. |
 | 23 | [tkarim45/multi-agent-eval](https://github.com/tkarim45/multi-agent-eval) | 0 | Python | 2026-06-29 | Does multi-agent beat single-agent? Benchmarks a planner→workers→critic system vs single-agent on quality/cost/latency — |
 | 24 | [chquandogong/mission-spec](https://github.com/chquandogong/mission-spec) | 0 | TypeScript | 2026-06-29 | Mission Spec — AI 에이전트 워크플로를 위한 task contract layer |
 | 25 | [IonDen/mlx-quant-fidelity](https://github.com/IonDen/mlx-quant-fidelity) | 1 | Python | 2026-07-03 | Measure MLX quantization quality loss — KL divergence, perplexity, top-token agreement for KV cache and weights |
