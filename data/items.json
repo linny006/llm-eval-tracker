@@ -18,6 +18,15 @@
     "url": "https://github.com/Kondwani10/Origin-Continuum"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22896,
+    "updated_at": "2026-07-03T20:07:19Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -54,15 +63,6 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22896,
-    "updated_at": "2026-07-03T20:07:19Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -77,7 +77,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 315,
-    "updated_at": "2026-07-03T11:07:26Z",
+    "updated_at": "2026-07-03T21:27:05Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
