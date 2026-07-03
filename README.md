@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-03 13:30 UTC
+> ⏰ Last updated: 2026-07-03 13:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -47,7 +47,7 @@ expired items removed — so you can rely on what you see being current.
 | 3 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-07-03 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
 | 4 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-07-03 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 5 | [nikolas-sapa/sigeval](https://github.com/nikolas-sapa/sigeval) | 1 | Python | 2026-07-03 | pytest for LLMs that isn't flaky — statistically rigorous eval verdicts (Wilson CI + significance-tested regression gate |
-| 6 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22885 | TypeScript | 2026-07-03 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 6 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22886 | TypeScript | 2026-07-03 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 7 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5484 | Python | 2026-07-03 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 8 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10390 | Python | 2026-07-03 | AI Observability & Evaluation |
 | 9 | [ahwurm/localshift](https://github.com/ahwurm/localshift) | 3 | Python | 2026-07-02 | Migrate headless Claude/AI workloads to local LLMs with a derived, per-workload quality eval — cron job in, zero-margina |
