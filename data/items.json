@@ -9,11 +9,20 @@
     "url": "https://github.com/lokesh75-kank/agenteval"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10390,
+    "updated_at": "2026-07-03T18:30:10Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22897,
+    "stars": 22896,
     "updated_at": "2026-07-03T18:13:06Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-07-03T18:12:16Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10391,
-    "updated_at": "2026-07-03T18:30:10Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
