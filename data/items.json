@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22865,
+    "updated_at": "2026-07-03T01:28:42Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
     "id": "saddled-panicattack529/idea-evaluation-pipeline",
     "language": "\u2014",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10381,
-    "updated_at": "2026-07-03T00:55:14Z",
+    "updated_at": "2026-07-03T01:24:09Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -34,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-07-02T23:29:27Z",
     "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22865,
-    "updated_at": "2026-07-03T01:06:24Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
