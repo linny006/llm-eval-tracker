@@ -1,10 +1,19 @@
 [
   {
+    "description": "Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou",
+    "id": "lokesh75-kank/agenteval",
+    "language": "TypeScript",
+    "name": "lokesh75-kank/agenteval",
+    "stars": 0,
+    "updated_at": "2026-07-03T18:43:31Z",
+    "url": "https://github.com/lokesh75-kank/agenteval"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22894,
+    "stars": 22896,
     "updated_at": "2026-07-03T18:13:06Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -304,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T18:14:07Z",
     "url": "https://github.com/jmpei/nl2sql-agents"
-  },
-  {
-    "description": "Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou",
-    "id": "lokesh75-kank/agenteval",
-    "language": "TypeScript",
-    "name": "lokesh75-kank/agenteval",
-    "stars": 0,
-    "updated_at": "2026-07-02T19:13:55Z",
-    "url": "https://github.com/lokesh75-kank/agenteval"
   },
   {
     "description": "A forkable example of the human-in-the-loop model-improvement loop: AI generates, humans judge via the Terac MCP, you im",
