@@ -23,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10391,
-    "updated_at": "2026-07-03T18:12:10Z",
+    "updated_at": "2026-07-03T18:30:10Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -61,6 +61,15 @@
     "stars": 5485,
     "updated_at": "2026-07-03T13:32:42Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 315,
+    "updated_at": "2026-07-03T11:07:26Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "pytest for LLMs that isn't flaky \u2014 statistically rigorous eval verdicts (Wilson CI + significance-tested regression gate",
@@ -106,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-07-01T19:57:20Z",
     "url": "https://github.com/homemade-software-inc/completion-kit"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 314,
-    "updated_at": "2026-07-03T11:07:26Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
