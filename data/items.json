@@ -36,6 +36,15 @@
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
+    "description": "CI-integrated eval harness for LLM agents \u2014 intent accuracy, retrieval precision/recall/MRR, and hallucination detection",
+    "id": "Sushant-Dagar/agent-eval-harness",
+    "language": "Python",
+    "name": "Sushant-Dagar/agent-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-07-04T03:55:22Z",
+    "url": "https://github.com/Sushant-Dagar/agent-eval-harness"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -68,7 +77,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22896,
-    "updated_at": "2026-07-04T04:49:01Z",
+    "updated_at": "2026-07-04T04:59:08Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-11T11:20:58Z",
     "url": "https://github.com/ejentum/eval"
-  },
-  {
-    "description": "A lightweight harness to test agent behaviour (tool-call correctness, injection refusal, cost ceilings) before deploymen",
-    "id": "akanjilal-work/agent-eval-harness",
-    "language": "Python",
-    "name": "akanjilal-work/agent-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-06-10T14:29:09Z",
-    "url": "https://github.com/akanjilal-work/agent-eval-harness"
   }
 ]
