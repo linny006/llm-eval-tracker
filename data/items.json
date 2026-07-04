@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22920,
+    "updated_at": "2026-07-04T20:52:10Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "sigeval is a statistically rigorous LLM eval framework for Python \u2014 pytest for LLMs that isn't flaky. It treats every ev",
     "id": "nikolas-sapa/sigeval",
     "language": "Python",
@@ -70,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-07-04T16:14:51Z",
     "url": "https://github.com/IonDen/mlx-quant-fidelity"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22919,
-    "updated_at": "2026-07-04T14:20:01Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
