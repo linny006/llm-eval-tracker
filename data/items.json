@@ -1,5 +1,14 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 315,
+    "updated_at": "2026-07-04T00:38:21Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -50,7 +59,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22896,
-    "updated_at": "2026-07-04T00:27:54Z",
+    "updated_at": "2026-07-04T00:41:03Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -70,15 +79,6 @@
     "stars": 5485,
     "updated_at": "2026-07-03T13:32:42Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 315,
-    "updated_at": "2026-07-04T00:22:57Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "pytest for LLMs that isn't flaky \u2014 statistically rigorous eval verdicts (Wilson CI + significance-tested regression gate",
