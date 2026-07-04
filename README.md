@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-04 09:15 UTC
+> ⏰ Last updated: 2026-07-04 09:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -50,7 +50,7 @@ expired items removed — so you can rely on what you see being current.
 | 6 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-07-04 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 7 | [Sushant-Dagar/agent-eval-harness](https://github.com/Sushant-Dagar/agent-eval-harness) | 0 | Python | 2026-07-04 | CI-integrated eval harness for LLM agents — intent accuracy, retrieval precision/recall/MRR, and hallucination detection |
 | 8 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 316 | TypeScript | 2026-07-04 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 9 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10394 | Python | 2026-07-04 | AI Observability & Evaluation |
+| 9 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10395 | Python | 2026-07-04 | AI Observability & Evaluation |
 | 10 | [sammyjdev/gnomon-eval](https://github.com/sammyjdev/gnomon-eval) | 0 | Python | 2026-07-03 | Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first. |
 | 11 | [lokesh75-kank/agenteval](https://github.com/lokesh75-kank/agenteval) | 0 | TypeScript | 2026-07-03 | Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou |
 | 12 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5486 | Python | 2026-07-03 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
