@@ -1,11 +1,20 @@
 [
   {
+    "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
+    "id": "jeremylongshore/j-rig-skill-binary-eval",
+    "language": "TypeScript",
+    "name": "jeremylongshore/j-rig-skill-binary-eval",
+    "stars": 0,
+    "updated_at": "2026-07-05T21:06:44Z",
+    "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
+  },
+  {
     "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
     "id": "valbaudo/awf",
     "language": "Go",
     "name": "valbaudo/awf",
     "stars": 1,
-    "updated_at": "2026-07-05T19:55:54Z",
+    "updated_at": "2026-07-05T21:01:27Z",
     "url": "https://github.com/valbaudo/awf"
   },
   {
@@ -106,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-07-04T16:14:51Z",
     "url": "https://github.com/IonDen/mlx-quant-fidelity"
-  },
-  {
-    "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
-    "id": "jeremylongshore/j-rig-skill-binary-eval",
-    "language": "TypeScript",
-    "name": "jeremylongshore/j-rig-skill-binary-eval",
-    "stars": 0,
-    "updated_at": "2026-07-05T20:56:08Z",
-    "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
     "description": "CI-integrated eval harness for LLM agents \u2014 intent accuracy, retrieval precision/recall/MRR, and hallucination detection",
@@ -337,7 +337,7 @@
     "id": "ozlar34/job-match-radar",
     "language": "Python",
     "name": "ozlar34/job-match-radar",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-06-20T21:22:02Z",
     "url": "https://github.com/ozlar34/job-match-radar"
   },
