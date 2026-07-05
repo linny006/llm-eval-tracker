@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10406,
+    "updated_at": "2026-07-05T18:29:44Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
     "id": "sammyjdev/gnomon-eval",
     "language": "Python",
@@ -52,15 +61,6 @@
     "stars": 22942,
     "updated_at": "2026-07-05T14:11:12Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10406,
-    "updated_at": "2026-07-05T09:45:19Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Statistically rigorous LLM evaluation framework for Python \u2014 pytest for LLMs that isn't flaky. Treats every eval as a pr",
