@@ -1,5 +1,14 @@
 [
   {
+    "description": "Statistically rigorous LLM evaluation framework for Python \u2014 pytest for LLMs that isn't flaky. Treats every eval as a pr",
+    "id": "nikolas-sapa/sigeval",
+    "language": "Python",
+    "name": "nikolas-sapa/sigeval",
+    "stars": 1,
+    "updated_at": "2026-07-05T04:35:20Z",
+    "url": "https://github.com/nikolas-sapa/sigeval"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -61,15 +70,6 @@
     "stars": 22926,
     "updated_at": "2026-07-04T21:16:01Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Statistically rigorous LLM evaluation framework for Python \u2014 pytest for LLMs that isn't flaky. Treats every eval as a pr",
-    "id": "nikolas-sapa/sigeval",
-    "language": "Python",
-    "name": "nikolas-sapa/sigeval",
-    "stars": 1,
-    "updated_at": "2026-07-05T04:28:07Z",
-    "url": "https://github.com/nikolas-sapa/sigeval"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
