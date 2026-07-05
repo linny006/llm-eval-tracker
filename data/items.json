@@ -63,12 +63,12 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "sigeval is a statistically rigorous LLM eval framework for Python \u2014 pytest for LLMs that isn't flaky. It treats every ev",
+    "description": "Statistically rigorous LLM evaluation framework for Python \u2014 pytest for LLMs that isn't flaky. Treats every eval as a pr",
     "id": "nikolas-sapa/sigeval",
     "language": "Python",
     "name": "nikolas-sapa/sigeval",
     "stars": 1,
-    "updated_at": "2026-07-04T20:42:40Z",
+    "updated_at": "2026-07-05T04:28:07Z",
     "url": "https://github.com/nikolas-sapa/sigeval"
   },
   {
