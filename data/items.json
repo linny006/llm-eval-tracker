@@ -81,15 +81,6 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "Statistically rigorous LLM evaluation framework for Python \u2014 pytest for LLMs that isn't flaky. Treats every eval as a pr",
-    "id": "nikolas-sapa/sigeval",
-    "language": "Python",
-    "name": "nikolas-sapa/sigeval",
-    "stars": 1,
-    "updated_at": "2026-07-05T04:35:20Z",
-    "url": "https://github.com/nikolas-sapa/sigeval"
-  },
-  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -448,5 +439,14 @@
     "stars": 0,
     "updated_at": "2026-06-10T14:29:09Z",
     "url": "https://github.com/akanjilal-work/agent-eval-harness"
+  },
+  {
+    "description": "TrustModel MCP Server \u2014 trust evaluation, red-team & governance for AI agents via the Model Context Protocol. Public can",
+    "id": "karlmehta/trustmodel-mcp",
+    "language": "TypeScript",
+    "name": "karlmehta/trustmodel-mcp",
+    "stars": 0,
+    "updated_at": "2026-06-10T13:30:01Z",
+    "url": "https://github.com/karlmehta/trustmodel-mcp"
   }
 ]
