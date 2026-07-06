@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10418,
-    "updated_at": "2026-07-06T17:18:24Z",
+    "updated_at": "2026-07-06T17:43:08Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
+    "id": "sammyjdev/gnomon-eval",
+    "language": "Python",
+    "name": "sammyjdev/gnomon-eval",
+    "stars": 0,
+    "updated_at": "2026-07-06T17:38:48Z",
+    "url": "https://github.com/sammyjdev/gnomon-eval"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22974,
+    "updated_at": "2026-07-06T17:32:18Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
@@ -16,15 +34,6 @@
     "stars": 1,
     "updated_at": "2026-07-06T16:43:34Z",
     "url": "https://github.com/homemade-software-inc/completion-kit"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22973,
-    "updated_at": "2026-07-06T16:24:23Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
@@ -70,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-07-06T15:28:59Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
-    "id": "sammyjdev/gnomon-eval",
-    "language": "Python",
-    "name": "sammyjdev/gnomon-eval",
-    "stars": 0,
-    "updated_at": "2026-07-06T14:34:01Z",
-    "url": "https://github.com/sammyjdev/gnomon-eval"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
