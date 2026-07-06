@@ -4,9 +4,18 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22954,
-    "updated_at": "2026-07-06T07:37:22Z",
+    "stars": 22955,
+    "updated_at": "2026-07-06T08:08:25Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5494,
+    "updated_at": "2026-07-06T08:05:42Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
@@ -79,15 +88,6 @@
     "stars": 10413,
     "updated_at": "2026-07-06T05:33:45Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5492,
-    "updated_at": "2026-07-06T06:27:37Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "An graph-eval framework for LLM's ",
