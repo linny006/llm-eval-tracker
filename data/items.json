@@ -1,5 +1,23 @@
 [
   {
+    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
+    "id": "saddled-panicattack529/idea-evaluation-pipeline",
+    "language": "\u2014",
+    "name": "saddled-panicattack529/idea-evaluation-pipeline",
+    "stars": 0,
+    "updated_at": "2026-07-06T19:21:07Z",
+    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10418,
+    "updated_at": "2026-07-06T19:25:01Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
     "id": "homemade-software-inc/completion-kit",
     "language": "Ruby",
@@ -13,7 +31,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22978,
+    "stars": 22979,
     "updated_at": "2026-07-06T19:03:10Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -45,15 +63,6 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10418,
-    "updated_at": "2026-07-06T19:06:31Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
     "id": "sammyjdev/gnomon-eval",
     "language": "Python",
@@ -70,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-07-06T17:25:22Z",
     "url": "https://github.com/valbaudo/awf"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-07-06T16:07:59Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
