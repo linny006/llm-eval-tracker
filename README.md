@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-06 12:15 UTC
+> ⏰ Last updated: 2026-07-06 12:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -52,7 +52,7 @@ expired items removed — so you can rely on what you see being current.
 | 8 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 316 | TypeScript | 2026-07-06 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 9 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-07-06 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
 | 10 | [ContextJet-ai/skillvitals](https://github.com/ContextJet-ai/skillvitals) | 1 | Python | 2026-07-06 | Vital signs for your agent skills: measure whether a skill triggers when it should and whether it actually helps, on a c |
-| 11 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10415 | Python | 2026-07-06 | AI Observability & Evaluation |
+| 11 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10416 | Python | 2026-07-06 | AI Observability & Evaluation |
 | 12 | [harnexa/nexa-gauge](https://github.com/harnexa/nexa-gauge) | 38 | Python | 2026-07-06 | An graph-eval framework for LLM's  |
 | 13 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-07-05 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 14 | [sammyjdev/gnomon-eval](https://github.com/sammyjdev/gnomon-eval) | 0 | Python | 2026-07-05 | Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first. |
