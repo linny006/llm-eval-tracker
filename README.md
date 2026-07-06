@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-06 01:45 UTC
+> ⏰ Last updated: 2026-07-06 02:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -51,7 +51,7 @@ expired items removed — so you can rely on what you see being current.
 | 7 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-07-05 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 8 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-07-05 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
 | 9 | [sammyjdev/gnomon-eval](https://github.com/sammyjdev/gnomon-eval) | 0 | Python | 2026-07-05 | Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first. |
-| 10 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22943 | TypeScript | 2026-07-05 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 10 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22945 | TypeScript | 2026-07-05 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 11 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 316 | TypeScript | 2026-07-06 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 12 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-07-04 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
 | 13 | [IonDen/mlx-quant-fidelity](https://github.com/IonDen/mlx-quant-fidelity) | 1 | Python | 2026-07-04 | Measure MLX quantization quality loss — KL divergence, perplexity, top-token agreement for KV cache and weights |
