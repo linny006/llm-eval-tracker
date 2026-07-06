@@ -1,11 +1,20 @@
 [
   {
+    "description": "Vital signs for your agent skills: measure whether a skill triggers when it should and whether it actually helps, on a c",
+    "id": "ContextJet-ai/skillvitals",
+    "language": "Python",
+    "name": "ContextJet-ai/skillvitals",
+    "stars": 0,
+    "updated_at": "2026-07-06T05:44:06Z",
+    "url": "https://github.com/ContextJet-ai/skillvitals"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10410,
-    "updated_at": "2026-07-06T05:17:33Z",
+    "updated_at": "2026-07-06T05:33:45Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-11T11:20:58Z",
     "url": "https://github.com/ejentum/eval"
-  },
-  {
-    "description": "A lightweight harness to test agent behaviour (tool-call correctness, injection refusal, cost ceilings) before deploymen",
-    "id": "akanjilal-work/agent-eval-harness",
-    "language": "Python",
-    "name": "akanjilal-work/agent-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-06-10T14:29:09Z",
-    "url": "https://github.com/akanjilal-work/agent-eval-harness"
   }
 ]
