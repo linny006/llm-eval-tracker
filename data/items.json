@@ -1,11 +1,20 @@
 [
   {
+    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
+    "id": "homemade-software-inc/completion-kit",
+    "language": "Ruby",
+    "name": "homemade-software-inc/completion-kit",
+    "stars": 1,
+    "updated_at": "2026-07-06T16:43:34Z",
+    "url": "https://github.com/homemade-software-inc/completion-kit"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10417,
-    "updated_at": "2026-07-06T16:24:50Z",
+    "updated_at": "2026-07-06T16:30:27Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -13,7 +22,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22971,
+    "stars": 22972,
     "updated_at": "2026-07-06T16:24:23Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -124,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-05T22:39:22Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
-  },
-  {
-    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
-    "id": "homemade-software-inc/completion-kit",
-    "language": "Ruby",
-    "name": "homemade-software-inc/completion-kit",
-    "stars": 1,
-    "updated_at": "2026-07-06T15:04:58Z",
-    "url": "https://github.com/homemade-software-inc/completion-kit"
   },
   {
     "description": "Measure MLX quantization quality loss \u2014 KL divergence, perplexity, top-token agreement for KV cache and weights",
