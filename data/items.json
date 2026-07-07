@@ -1,11 +1,20 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10421,
+    "updated_at": "2026-07-07T01:16:27Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22982,
-    "updated_at": "2026-07-07T01:14:35Z",
+    "updated_at": "2026-07-07T01:17:27Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -43,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-07-07T00:22:44Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10421,
-    "updated_at": "2026-07-07T00:18:58Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
@@ -131,7 +131,7 @@
     "language": "TypeScript",
     "name": "jeremylongshore/j-rig-skill-binary-eval",
     "stars": 0,
-    "updated_at": "2026-07-07T00:44:54Z",
+    "updated_at": "2026-07-07T01:20:10Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
