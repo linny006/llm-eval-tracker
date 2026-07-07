@@ -1,5 +1,41 @@
 [
   {
+    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
+    "id": "Kondwani10/Origin-Continuum",
+    "language": "\u2014",
+    "name": "Kondwani10/Origin-Continuum",
+    "stars": 0,
+    "updated_at": "2026-07-07T05:58:51Z",
+    "url": "https://github.com/Kondwani10/Origin-Continuum"
+  },
+  {
+    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
+    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "language": "\u2014",
+    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "stars": 0,
+    "updated_at": "2026-07-07T05:52:21Z",
+    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
+  },
+  {
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-07-07T05:50:44Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
+    "description": "Stress-test the tool-routing decision inside an agent loop: audit confusable tools, red-team routing robustness, compare",
+    "id": "plwslpld-arch/loopward",
+    "language": "TypeScript",
+    "name": "plwslpld-arch/loopward",
+    "stars": 0,
+    "updated_at": "2026-07-07T05:46:07Z",
+    "url": "https://github.com/plwslpld-arch/loopward"
+  },
+  {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
     "id": "jeremylongshore/j-rig-skill-binary-eval",
     "language": "TypeScript",
@@ -9,13 +45,13 @@
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
-    "description": "Stress-test the tool-routing decision inside an agent loop: audit confusable tools, red-team routing robustness, compare",
-    "id": "plwslpld-arch/loopward",
-    "language": "TypeScript",
-    "name": "plwslpld-arch/loopward",
-    "stars": 0,
-    "updated_at": "2026-07-07T04:56:56Z",
-    "url": "https://github.com/plwslpld-arch/loopward"
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10424,
+    "updated_at": "2026-07-07T04:17:08Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
@@ -36,33 +72,6 @@
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
-    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
-    "id": "Kondwani10/Origin-Continuum",
-    "language": "\u2014",
-    "name": "Kondwani10/Origin-Continuum",
-    "stars": 0,
-    "updated_at": "2026-07-07T02:56:57Z",
-    "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-07-07T02:50:36Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
-    "id": "bhavya7995/AI_governance",
-    "language": "PowerShell",
-    "name": "bhavya7995/AI_governance",
-    "stars": 1,
-    "updated_at": "2026-07-07T02:49:01Z",
-    "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
     "id": "homemade-software-inc/completion-kit",
     "language": "Ruby",
@@ -70,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-07-07T02:32:37Z",
     "url": "https://github.com/homemade-software-inc/completion-kit"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10423,
-    "updated_at": "2026-07-07T04:17:08Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
