@@ -1,5 +1,14 @@
 [
   {
+    "description": "Stress-test the tool-routing decision inside an agent loop: audit confusable tools, red-team routing robustness, compare",
+    "id": "plwslpld-arch/loopward",
+    "language": "TypeScript",
+    "name": "plwslpld-arch/loopward",
+    "stars": 0,
+    "updated_at": "2026-07-07T04:29:18Z",
+    "url": "https://github.com/plwslpld-arch/loopward"
+  },
+  {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
     "id": "saddled-panicattack529/idea-evaluation-pipeline",
     "language": "\u2014",
@@ -16,15 +25,6 @@
     "stars": 5498,
     "updated_at": "2026-07-07T03:13:54Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Stress-test the tool-routing decision inside an agent loop: audit confusable tools, red-team routing robustness, compare",
-    "id": "plwslpld-arch/loopward",
-    "language": "HTML",
-    "name": "plwslpld-arch/loopward",
-    "stars": 0,
-    "updated_at": "2026-07-07T02:59:28Z",
-    "url": "https://github.com/plwslpld-arch/loopward"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -77,7 +77,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10423,
-    "updated_at": "2026-07-07T03:40:00Z",
+    "updated_at": "2026-07-07T04:17:08Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -85,7 +85,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22987,
+    "stars": 22988,
     "updated_at": "2026-07-07T01:17:27Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
