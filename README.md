@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-07 07:30 UTC
+> ⏰ Last updated: 2026-07-07 07:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -51,7 +51,7 @@ expired items removed — so you can rely on what you see being current.
 | 7 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-07-07 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 8 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5498 | Python | 2026-07-07 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 9 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-07-07 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
-| 10 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22993 | TypeScript | 2026-07-07 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 10 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22994 | TypeScript | 2026-07-07 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 11 | [sammyjdev/gnomon-eval](https://github.com/sammyjdev/gnomon-eval) | 0 | Python | 2026-07-06 | Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first. |
 | 12 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-07-06 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
 | 13 | [alvabillwu/judgekit](https://github.com/alvabillwu/judgekit) | 0 | Python | 2026-07-06 | ⚖️ Reusable LLM-as-judge harness — rubrics, pluggable judges (mock/proxy/LLM), and calibration against ground truth. Lib |
