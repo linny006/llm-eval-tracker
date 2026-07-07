@@ -117,6 +117,15 @@
     "url": "https://github.com/alvabillwu/judgekit"
   },
   {
+    "description": "An graph-eval framework for LLM's ",
+    "id": "harnexa/nexa-gauge",
+    "language": "Python",
+    "name": "harnexa/nexa-gauge",
+    "stars": 39,
+    "updated_at": "2026-07-06T09:25:28Z",
+    "url": "https://github.com/harnexa/nexa-gauge"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -133,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-07-06T06:57:51Z",
     "url": "https://github.com/ContextJet-ai/skillvitals"
-  },
-  {
-    "description": "An graph-eval framework for LLM's ",
-    "id": "harnexa/nexa-gauge",
-    "language": "Python",
-    "name": "harnexa/nexa-gauge",
-    "stars": 38,
-    "updated_at": "2026-07-06T09:25:28Z",
-    "url": "https://github.com/harnexa/nexa-gauge"
   },
   {
     "description": "Measure MLX quantization quality loss \u2014 KL divergence, perplexity, top-token agreement for KV cache and weights",
