@@ -1,5 +1,14 @@
 [
   {
+    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
+    "id": "saddled-panicattack529/idea-evaluation-pipeline",
+    "language": "\u2014",
+    "name": "saddled-panicattack529/idea-evaluation-pipeline",
+    "stars": 0,
+    "updated_at": "2026-07-07T06:27:29Z",
+    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -49,18 +58,9 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10424,
+    "stars": 10425,
     "updated_at": "2026-07-07T04:17:08Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-07-07T03:24:59Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -85,7 +85,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22988,
+    "stars": 22989,
     "updated_at": "2026-07-07T01:17:27Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
