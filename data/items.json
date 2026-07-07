@@ -72,6 +72,15 @@
     "url": "https://github.com/valbaudo/awf"
   },
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5499,
+    "updated_at": "2026-07-07T10:13:58Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
     "description": "Stress-test the tool-routing decision inside an agent loop: audit confusable tools, red-team routing robustness, compare",
     "id": "plwslpld-arch/loopward",
     "language": "TypeScript",
@@ -88,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-07T05:42:37Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5498,
-    "updated_at": "2026-07-07T10:13:58Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
@@ -275,7 +275,7 @@
     "language": "Python",
     "name": "NoesisVision/nasde-toolkit",
     "stars": 10,
-    "updated_at": "2026-07-07T19:32:00Z",
+    "updated_at": "2026-07-07T19:54:50Z",
     "url": "https://github.com/NoesisVision/nasde-toolkit"
   },
   {
