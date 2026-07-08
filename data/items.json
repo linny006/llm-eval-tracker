@@ -1,12 +1,39 @@
 [
   {
+    "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
+    "id": "sammyjdev/gnomon-eval",
+    "language": "Python",
+    "name": "sammyjdev/gnomon-eval",
+    "stars": 0,
+    "updated_at": "2026-07-08T18:12:56Z",
+    "url": "https://github.com/sammyjdev/gnomon-eval"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23045,
-    "updated_at": "2026-07-08T17:21:51Z",
+    "stars": 23046,
+    "updated_at": "2026-07-08T18:05:58Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10459,
+    "updated_at": "2026-07-08T17:57:57Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "LLM-as-judge validated vs humans (Cohen's \u03ba), with position-bias exposed.",
+    "id": "christianmacion26/judge-harness",
+    "language": "Python",
+    "name": "christianmacion26/judge-harness",
+    "stars": 0,
+    "updated_at": "2026-07-08T18:01:12Z",
+    "url": "https://github.com/christianmacion26/judge-harness"
   },
   {
     "description": "\u2696\ufe0f Reusable LLM-as-judge harness \u2014 rubrics, pluggable judges (mock/proxy/LLM), and calibration against ground truth. Lib",
@@ -63,15 +90,6 @@
     "url": "https://github.com/coffee-converter/onthemoney"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10458,
-    "updated_at": "2026-07-08T17:57:57Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -106,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-07-08T07:57:11Z",
     "url": "https://github.com/tkarim45/multi-agent-eval"
-  },
-  {
-    "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
-    "id": "sammyjdev/gnomon-eval",
-    "language": "Python",
-    "name": "sammyjdev/gnomon-eval",
-    "stars": 0,
-    "updated_at": "2026-07-07T18:43:41Z",
-    "url": "https://github.com/sammyjdev/gnomon-eval"
   },
   {
     "description": "Stress-test the tool-routing decision inside an agent loop: audit confusable tools, red-team routing robustness, compare",
@@ -439,14 +448,5 @@
     "stars": 12,
     "updated_at": "2026-06-15T02:14:09Z",
     "url": "https://github.com/ALEX-nlp/OpenSkillEval"
-  },
-  {
-    "description": "Eval harness template for LLM systems: golden regression, LLM-as-judge, invariants",
-    "id": "mpuodziukas-labs/eval-harness-template",
-    "language": "Python",
-    "name": "mpuodziukas-labs/eval-harness-template",
-    "stars": 0,
-    "updated_at": "2026-06-14T07:51:51Z",
-    "url": "https://github.com/mpuodziukas-labs/eval-harness-template"
   }
 ]
