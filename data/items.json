@@ -5,8 +5,17 @@
     "language": "Go",
     "name": "valbaudo/awf",
     "stars": 1,
-    "updated_at": "2026-07-08T08:19:39Z",
+    "updated_at": "2026-07-08T08:33:08Z",
     "url": "https://github.com/valbaudo/awf"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5499,
+    "updated_at": "2026-07-08T08:30:44Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Does multi-agent beat single-agent? Benchmarks a planner\u2192workers\u2192critic system vs single-agent on quality/cost/latency \u2014",
@@ -61,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-07-08T06:58:57Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5499,
-    "updated_at": "2026-07-08T08:29:28Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
