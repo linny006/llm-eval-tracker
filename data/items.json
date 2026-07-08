@@ -1,10 +1,19 @@
 [
   {
+    "description": "A conversational accountability atlas: ask how U.S. House campaign money flows, and an agent answers against real FEC da",
+    "id": "coffee-converter/onthemoney",
+    "language": "Python",
+    "name": "coffee-converter/onthemoney",
+    "stars": 0,
+    "updated_at": "2026-07-08T21:24:14Z",
+    "url": "https://github.com/coffee-converter/onthemoney"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23048,
+    "stars": 23049,
     "updated_at": "2026-07-08T21:10:41Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -13,7 +22,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10462,
+    "stars": 10463,
     "updated_at": "2026-07-08T21:07:09Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -88,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-08T16:36:53Z",
     "url": "https://github.com/alvabillwu/judgekit"
-  },
-  {
-    "description": "A conversational accountability atlas: ask how U.S. House campaign money flows, and an agent answers against real FEC da",
-    "id": "coffee-converter/onthemoney",
-    "language": "Python",
-    "name": "coffee-converter/onthemoney",
-    "stars": 0,
-    "updated_at": "2026-07-08T15:13:20Z",
-    "url": "https://github.com/coffee-converter/onthemoney"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -247,7 +247,7 @@
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3432,
+    "stars": 3433,
     "updated_at": "2026-06-30T15:16:55Z",
     "url": "https://github.com/truera/trulens"
   },
