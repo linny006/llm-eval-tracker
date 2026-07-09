@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-09 06:30 UTC
+> ⏰ Last updated: 2026-07-09 06:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -52,7 +52,7 @@ expired items removed — so you can rely on what you see being current.
 | 8 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-07-09 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
 | 9 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-07-09 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 10 | [sammyjdev/gnomon-eval](https://github.com/sammyjdev/gnomon-eval) | 0 | Python | 2026-07-09 | Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first. |
-| 11 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23064 | TypeScript | 2026-07-08 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 11 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23065 | TypeScript | 2026-07-08 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 12 | [christianmacion26/judge-harness](https://github.com/christianmacion26/judge-harness) | 0 | Python | 2026-07-08 | LLM-as-judge validated vs humans (Cohen's κ), with position-bias exposed. |
 | 13 | [alvabillwu/judgekit](https://github.com/alvabillwu/judgekit) | 0 | Python | 2026-07-08 | ⚖️ Reusable LLM-as-judge harness — rubrics, pluggable judges (mock/proxy/LLM), and calibration against ground truth. Lib |
 | 14 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5499 | Python | 2026-07-09 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
