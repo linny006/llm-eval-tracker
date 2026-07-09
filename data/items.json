@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23066,
+    "updated_at": "2026-07-09T07:58:59Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
     "id": "homemade-software-inc/completion-kit",
     "language": "Ruby",
@@ -97,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-09T01:42:52Z",
     "url": "https://github.com/sammyjdev/gnomon-eval"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23064,
-    "updated_at": "2026-07-08T22:07:26Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "LLM-as-judge validated vs humans (Cohen's \u03ba), with position-bias exposed.",
