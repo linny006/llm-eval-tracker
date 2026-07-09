@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10469,
+    "updated_at": "2026-07-09T04:09:35Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "A conversational accountability atlas: ask how U.S. House campaign money flows, and an agent answers against real FEC da",
     "id": "coffee-converter/onthemoney",
     "language": "Python",
@@ -45,15 +54,6 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10469,
-    "updated_at": "2026-07-09T02:37:04Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
     "id": "sammyjdev/gnomon-eval",
     "language": "Python",
@@ -67,7 +67,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23059,
+    "stars": 23060,
     "updated_at": "2026-07-08T22:07:26Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
