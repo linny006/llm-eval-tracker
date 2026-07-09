@@ -9,6 +9,15 @@
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23088,
+    "updated_at": "2026-07-09T16:45:33Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10478,
-    "updated_at": "2026-07-09T16:55:35Z",
+    "updated_at": "2026-07-09T17:15:13Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -52,15 +61,6 @@
     "stars": 5502,
     "updated_at": "2026-07-09T09:13:56Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23087,
-    "updated_at": "2026-07-09T16:45:33Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
