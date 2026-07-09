@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-09 19:00 UTC
+> ⏰ Last updated: 2026-07-09 19:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [coffee-converter/onthemoney](https://github.com/coffee-converter/onthemoney) | 0 | Python | 2026-07-09 | An AI agent that answers questions about U.S. campaign money against real FEC data. Source-cited, graded on a public eva |
-| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10479 | Python | 2026-07-09 | AI Observability & Evaluation |
-| 3 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-07-09 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23090 | TypeScript | 2026-07-09 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10479 | Python | 2026-07-09 | AI Observability & Evaluation |
+| 2 | [coffee-converter/onthemoney](https://github.com/coffee-converter/onthemoney) | 0 | Python | 2026-07-09 | An AI agent that answers questions about U.S. campaign money against real FEC data. Source-cited, graded on a public eva |
+| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23091 | TypeScript | 2026-07-09 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 4 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-07-09 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 5 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-07-09 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
 | 6 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-07-09 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
 | 7 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-07-09 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
