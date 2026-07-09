@@ -1,5 +1,14 @@
 [
   {
+    "description": "A broken Terminal-Bench 2 (Harbor) task, repaired: reproducible env, solution-leak removed, gameable verifier replaced w",
+    "id": "MihirBindu/dynamo-log-report-fix",
+    "language": "Python",
+    "name": "MihirBindu/dynamo-log-report-fix",
+    "stars": 0,
+    "updated_at": "2026-07-09T06:21:22Z",
+    "url": "https://github.com/MihirBindu/dynamo-log-report-fix"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -85,7 +94,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23063,
+    "stars": 23064,
     "updated_at": "2026-07-08T22:07:26Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -130,7 +139,7 @@
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
-    "stars": 318,
+    "stars": 319,
     "updated_at": "2026-07-08T10:07:07Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T00:42:37Z",
     "url": "https://github.com/jedobe/skill-evaluator"
-  },
-  {
-    "description": "OpenSkillEval: Automatically Auditing the Open Skill Ecosystem for LLM Agents",
-    "id": "ALEX-nlp/OpenSkillEval",
-    "language": "Python",
-    "name": "ALEX-nlp/OpenSkillEval",
-    "stars": 12,
-    "updated_at": "2026-06-15T02:14:09Z",
-    "url": "https://github.com/ALEX-nlp/OpenSkillEval"
   }
 ]
