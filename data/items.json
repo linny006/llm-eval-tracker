@@ -1,11 +1,20 @@
 [
   {
+    "description": "An AI agent that answers questions about U.S. campaign money against real FEC data. Source-cited, graded on a public eva",
+    "id": "coffee-converter/onthemoney",
+    "language": "Python",
+    "name": "coffee-converter/onthemoney",
+    "stars": 0,
+    "updated_at": "2026-07-09T18:58:37Z",
+    "url": "https://github.com/coffee-converter/onthemoney"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10478,
-    "updated_at": "2026-07-09T17:45:29Z",
+    "stars": 10479,
+    "updated_at": "2026-07-09T18:57:33Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -79,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-07-09T06:21:22Z",
     "url": "https://github.com/MihirBindu/dynamo-log-report-fix"
-  },
-  {
-    "description": "An AI agent that answers questions about U.S. campaign money against real FEC data. Source-cited, graded on a public eva",
-    "id": "coffee-converter/onthemoney",
-    "language": "Python",
-    "name": "coffee-converter/onthemoney",
-    "stars": 0,
-    "updated_at": "2026-07-09T05:40:01Z",
-    "url": "https://github.com/coffee-converter/onthemoney"
   },
   {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
