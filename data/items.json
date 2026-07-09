@@ -1,5 +1,14 @@
 [
   {
+    "description": "A conversational accountability atlas: ask how U.S. House campaign money flows, and an agent answers against real FEC da",
+    "id": "coffee-converter/onthemoney",
+    "language": "Python",
+    "name": "coffee-converter/onthemoney",
+    "stars": 0,
+    "updated_at": "2026-07-09T04:26:29Z",
+    "url": "https://github.com/coffee-converter/onthemoney"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 10469,
     "updated_at": "2026-07-09T04:09:35Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "A conversational accountability atlas: ask how U.S. House campaign money flows, and an agent answers against real FEC da",
-    "id": "coffee-converter/onthemoney",
-    "language": "Python",
-    "name": "coffee-converter/onthemoney",
-    "stars": 0,
-    "updated_at": "2026-07-09T03:32:15Z",
-    "url": "https://github.com/coffee-converter/onthemoney"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
@@ -104,7 +104,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5499,
-    "updated_at": "2026-07-09T03:17:22Z",
+    "updated_at": "2026-07-09T04:16:24Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
