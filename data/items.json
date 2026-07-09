@@ -1,5 +1,14 @@
 [
   {
+    "description": "Migrate headless Claude/AI workloads to local LLMs with a derived, per-workload quality eval \u2014 cron job in, zero-margina",
+    "id": "ahwurm/localshift",
+    "language": "Python",
+    "name": "ahwurm/localshift",
+    "stars": 3,
+    "updated_at": "2026-07-09T19:36:40Z",
+    "url": "https://github.com/ahwurm/localshift"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -205,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-07-03T18:43:31Z",
     "url": "https://github.com/lokesh75-kank/agenteval"
-  },
-  {
-    "description": "Migrate headless Claude/AI workloads to local LLMs with a derived, per-workload quality eval \u2014 cron job in, zero-margina",
-    "id": "ahwurm/localshift",
-    "language": "Python",
-    "name": "ahwurm/localshift",
-    "stars": 3,
-    "updated_at": "2026-07-02T12:57:30Z",
-    "url": "https://github.com/ahwurm/localshift"
   },
   {
     "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
