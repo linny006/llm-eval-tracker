@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-09 03:15 UTC
+> ⏰ Last updated: 2026-07-09 03:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-07-09 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
-| 2 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-07-09 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
-| 3 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-07-09 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
-| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10466 | Python | 2026-07-09 | AI Observability & Evaluation |
-| 5 | [sammyjdev/gnomon-eval](https://github.com/sammyjdev/gnomon-eval) | 0 | Python | 2026-07-09 | Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first. |
-| 6 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-07-09 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
+| 1 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-07-09 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
+| 2 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-07-09 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
+| 3 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-07-09 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
+| 4 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-07-09 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
+| 5 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10468 | Python | 2026-07-09 | AI Observability & Evaluation |
+| 6 | [sammyjdev/gnomon-eval](https://github.com/sammyjdev/gnomon-eval) | 0 | Python | 2026-07-09 | Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first. |
 | 7 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23057 | TypeScript | 2026-07-08 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 8 | [coffee-converter/onthemoney](https://github.com/coffee-converter/onthemoney) | 0 | Python | 2026-07-08 | A conversational accountability atlas: ask how U.S. House campaign money flows, and an agent answers against real FEC da |
 | 9 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-07-08 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 10 | [christianmacion26/judge-harness](https://github.com/christianmacion26/judge-harness) | 0 | Python | 2026-07-08 | LLM-as-judge validated vs humans (Cohen's κ), with position-bias exposed. |
 | 11 | [alvabillwu/judgekit](https://github.com/alvabillwu/judgekit) | 0 | Python | 2026-07-08 | ⚖️ Reusable LLM-as-judge harness — rubrics, pluggable judges (mock/proxy/LLM), and calibration against ground truth. Lib |
-| 12 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5499 | Python | 2026-07-08 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 12 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5499 | Python | 2026-07-09 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 13 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-07-08 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
 | 14 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 318 | TypeScript | 2026-07-08 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 15 | [tkarim45/multi-agent-eval](https://github.com/tkarim45/multi-agent-eval) | 0 | Python | 2026-07-08 | Does multi-agent beat single-agent? Benchmarks a planner→workers→critic system vs single-agent on quality/cost/latency — |
