@@ -1,11 +1,20 @@
 [
   {
+    "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
+    "id": "sammyjdev/gnomon-eval",
+    "language": "Python",
+    "name": "sammyjdev/gnomon-eval",
+    "stars": 0,
+    "updated_at": "2026-07-09T01:42:52Z",
+    "url": "https://github.com/sammyjdev/gnomon-eval"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10465,
-    "updated_at": "2026-07-09T01:18:24Z",
+    "updated_at": "2026-07-09T01:41:42Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -43,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-07-08T23:52:35Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
-    "id": "sammyjdev/gnomon-eval",
-    "language": "Python",
-    "name": "sammyjdev/gnomon-eval",
-    "stars": 0,
-    "updated_at": "2026-07-09T00:25:50Z",
-    "url": "https://github.com/sammyjdev/gnomon-eval"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
