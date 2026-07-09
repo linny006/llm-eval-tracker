@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "coffee-converter/onthemoney",
     "stars": 0,
-    "updated_at": "2026-07-09T04:36:05Z",
+    "updated_at": "2026-07-09T04:56:13Z",
     "url": "https://github.com/coffee-converter/onthemoney"
   },
   {
@@ -13,9 +13,18 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10469,
-    "updated_at": "2026-07-09T04:09:35Z",
+    "stars": 10470,
+    "updated_at": "2026-07-09T04:54:40Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
+    "id": "jeremylongshore/j-rig-skill-binary-eval",
+    "language": "TypeScript",
+    "name": "jeremylongshore/j-rig-skill-binary-eval",
+    "stars": 0,
+    "updated_at": "2026-07-09T04:59:58Z",
+    "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
@@ -72,15 +81,6 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
-    "id": "jeremylongshore/j-rig-skill-binary-eval",
-    "language": "TypeScript",
-    "name": "jeremylongshore/j-rig-skill-binary-eval",
-    "stars": 0,
-    "updated_at": "2026-07-08T20:06:44Z",
-    "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
-  },
-  {
     "description": "LLM-as-judge validated vs humans (Cohen's \u03ba), with position-bias exposed.",
     "id": "christianmacion26/judge-harness",
     "language": "Python",
@@ -104,7 +104,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5499,
-    "updated_at": "2026-07-09T04:32:38Z",
+    "updated_at": "2026-07-09T04:58:48Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
