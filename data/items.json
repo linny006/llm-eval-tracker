@@ -1,5 +1,14 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 319,
+    "updated_at": "2026-07-09T23:05:20Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -68,7 +77,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23096,
-    "updated_at": "2026-07-09T18:18:40Z",
+    "updated_at": "2026-07-09T23:08:18Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -142,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-07-08T10:34:50Z",
     "url": "https://github.com/valbaudo/awf"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 319,
-    "updated_at": "2026-07-09T21:39:55Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Does multi-agent beat single-agent? Benchmarks a planner\u2192workers\u2192critic system vs single-agent on quality/cost/latency \u2014",
