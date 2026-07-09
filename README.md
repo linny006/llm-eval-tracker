@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-09 03:00 UTC
+> ⏰ Last updated: 2026-07-09 03:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -48,7 +48,7 @@ expired items removed — so you can rely on what you see being current.
 | 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10466 | Python | 2026-07-09 | AI Observability & Evaluation |
 | 5 | [sammyjdev/gnomon-eval](https://github.com/sammyjdev/gnomon-eval) | 0 | Python | 2026-07-09 | Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first. |
 | 6 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-07-09 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 7 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23056 | TypeScript | 2026-07-08 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 7 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23057 | TypeScript | 2026-07-08 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 8 | [coffee-converter/onthemoney](https://github.com/coffee-converter/onthemoney) | 0 | Python | 2026-07-08 | A conversational accountability atlas: ask how U.S. House campaign money flows, and an agent answers against real FEC da |
 | 9 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-07-08 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 10 | [christianmacion26/judge-harness](https://github.com/christianmacion26/judge-harness) | 0 | Python | 2026-07-08 | LLM-as-judge validated vs humans (Cohen's κ), with position-bias exposed. |
