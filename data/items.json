@@ -68,7 +68,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10501,
-    "updated_at": "2026-07-10T22:34:11Z",
+    "updated_at": "2026-07-10T23:15:56Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -160,6 +160,15 @@
     "stars": 0,
     "updated_at": "2026-07-09T06:21:22Z",
     "url": "https://github.com/MihirBindu/dynamo-log-report-fix"
+  },
+  {
+    "description": "The evaluation framework for AI-generated SQL.",
+    "id": "monospaceai/evaldata",
+    "language": "Python",
+    "name": "monospaceai/evaldata",
+    "stars": 2,
+    "updated_at": "2026-07-09T03:01:55Z",
+    "url": "https://github.com/monospaceai/evaldata"
   },
   {
     "description": "LLM-as-judge validated vs humans (Cohen's \u03ba), with position-bias exposed.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-02T18:04:15Z",
     "url": "https://github.com/pdxlab/trustmodel-mcp-server"
-  },
-  {
-    "description": "Five local QA judges that review B2B and B2C customer-support replies, catch the risky parts, and explain what to fix. ",
-    "id": "gititya/Quality-Agency-support",
-    "language": "Python",
-    "name": "gititya/Quality-Agency-support",
-    "stars": 0,
-    "updated_at": "2026-07-09T07:16:10Z",
-    "url": "https://github.com/gititya/Quality-Agency-support"
   }
 ]
