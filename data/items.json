@@ -1,11 +1,11 @@
 [
   {
-    "description": "Bilingual RAG assistant for California transit reduced-fare policy, citing dated sources, with a public 118-case harness",
+    "description": "Bilingual (EN/ES) RAG assistant answering reduced-fare policy questions for five California transit agencies, citing dat",
     "id": "ChelseaKR/fare-policy-assistant",
     "language": "HTML",
     "name": "ChelseaKR/fare-policy-assistant",
     "stars": 0,
-    "updated_at": "2026-07-10T05:48:14Z",
+    "updated_at": "2026-07-10T06:07:33Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
