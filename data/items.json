@@ -1,11 +1,20 @@
 [
   {
+    "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
+    "id": "sammyjdev/gnomon-eval",
+    "language": "Python",
+    "name": "sammyjdev/gnomon-eval",
+    "stars": 0,
+    "updated_at": "2026-07-10T02:24:44Z",
+    "url": "https://github.com/sammyjdev/gnomon-eval"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10481,
-    "updated_at": "2026-07-10T01:29:49Z",
+    "stars": 10482,
+    "updated_at": "2026-07-10T02:23:19Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -115,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-07-10T00:31:47Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
-  },
-  {
-    "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
-    "id": "sammyjdev/gnomon-eval",
-    "language": "Python",
-    "name": "sammyjdev/gnomon-eval",
-    "stars": 0,
-    "updated_at": "2026-07-09T01:42:52Z",
-    "url": "https://github.com/sammyjdev/gnomon-eval"
   },
   {
     "description": "LLM-as-judge validated vs humans (Cohen's \u03ba), with position-bias exposed.",
