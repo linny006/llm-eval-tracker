@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "monospaceai/evaldata",
     "stars": 2,
-    "updated_at": "2026-07-11T05:27:49Z",
+    "updated_at": "2026-07-11T05:39:39Z",
     "url": "https://github.com/monospaceai/evaldata"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23139,
+    "updated_at": "2026-07-11T05:42:49Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10503,
-    "updated_at": "2026-07-11T05:28:22Z",
+    "updated_at": "2026-07-11T05:40:47Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -70,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-07-11T03:09:12Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23139,
-    "updated_at": "2026-07-11T01:21:57Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "An agent-eval harness that gates and judges testgen's generated test suites via MCP \u2014 deterministic checks plus an LLM-j",
