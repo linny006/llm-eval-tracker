@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10509,
+    "updated_at": "2026-07-11T23:03:00Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Bilingual (EN/ES) RAG assistant answering reduced-fare policy questions for five California transit agencies, citing dat",
     "id": "ChelseaKR/fare-policy-assistant",
     "language": "HTML",
@@ -52,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-07-11T21:33:04Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10509,
-    "updated_at": "2026-07-11T22:46:55Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
