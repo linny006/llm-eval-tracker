@@ -1,11 +1,20 @@
 [
   {
+    "description": "The evaluation framework for AI-generated SQL.",
+    "id": "monospaceai/evaldata",
+    "language": "Python",
+    "name": "monospaceai/evaldata",
+    "stars": 2,
+    "updated_at": "2026-07-11T02:50:50Z",
+    "url": "https://github.com/monospaceai/evaldata"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10502,
-    "updated_at": "2026-07-11T02:32:07Z",
+    "updated_at": "2026-07-11T02:47:31Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -160,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-07-09T06:21:22Z",
     "url": "https://github.com/MihirBindu/dynamo-log-report-fix"
-  },
-  {
-    "description": "The evaluation framework for AI-generated SQL.",
-    "id": "monospaceai/evaldata",
-    "language": "Python",
-    "name": "monospaceai/evaldata",
-    "stars": 2,
-    "updated_at": "2026-07-11T02:04:13Z",
-    "url": "https://github.com/monospaceai/evaldata"
   },
   {
     "description": "LLM-as-judge validated vs humans (Cohen's \u03ba), with position-bias exposed.",
