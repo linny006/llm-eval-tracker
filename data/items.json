@@ -36,6 +36,15 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10507,
+    "updated_at": "2026-07-11T09:15:44Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -43,15 +52,6 @@
     "stars": 23142,
     "updated_at": "2026-07-11T08:12:40Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10506,
-    "updated_at": "2026-07-11T09:15:44Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Evaluate AI-generated SQL with pytest.",
