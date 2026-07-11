@@ -5,8 +5,17 @@
     "language": "HTML",
     "name": "ChelseaKR/fare-policy-assistant",
     "stars": 0,
-    "updated_at": "2026-07-11T19:29:47Z",
+    "updated_at": "2026-07-11T19:44:21Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
+  },
+  {
+    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
+    "id": "saddled-panicattack529/idea-evaluation-pipeline",
+    "language": "\u2014",
+    "name": "saddled-panicattack529/idea-evaluation-pipeline",
+    "stars": 0,
+    "updated_at": "2026-07-11T19:43:42Z",
+    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -52,15 +61,6 @@
     "stars": 10508,
     "updated_at": "2026-07-11T19:15:19Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-07-11T16:32:11Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
     "description": "Evaluate AI-generated SQL with pytest.",
@@ -140,7 +140,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 319,
-    "updated_at": "2026-07-10T05:39:08Z",
+    "updated_at": "2026-07-11T19:42:30Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
