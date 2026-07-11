@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-11 17:00 UTC
+> ⏰ Last updated: 2026-07-11 17:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -51,8 +51,8 @@ expired items removed — so you can rely on what you see being current.
 | 7 | [monospaceai/evaldata](https://github.com/monospaceai/evaldata) | 2 | Python | 2026-07-11 | Evaluate AI-generated SQL with pytest. |
 | 8 | [multivon-ai/multivon-eval](https://github.com/multivon-ai/multivon-eval) | 8 | Python | 2026-07-11 | Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI |
 | 9 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-07-11 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
-| 10 | [nishant20/testgen-eval](https://github.com/nishant20/testgen-eval) | 0 | TypeScript | 2026-07-10 | An agent-eval harness that gates and judges testgen's generated test suites via MCP — deterministic checks plus an LLM-j |
-| 11 | [truera/trulens](https://github.com/truera/trulens) | 3434 | Python | 2026-07-11 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 10 | [truera/trulens](https://github.com/truera/trulens) | 3435 | Python | 2026-07-11 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 11 | [nishant20/testgen-eval](https://github.com/nishant20/testgen-eval) | 0 | TypeScript | 2026-07-10 | An agent-eval harness that gates and judges testgen's generated test suites via MCP — deterministic checks plus an LLM-j |
 | 12 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5505 | Python | 2026-07-10 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 13 | [sammyjdev/gnomon-eval](https://github.com/sammyjdev/gnomon-eval) | 0 | Python | 2026-07-10 | Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first. |
 | 14 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-07-10 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
