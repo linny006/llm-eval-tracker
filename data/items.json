@@ -1,5 +1,14 @@
 [
   {
+    "description": "Bilingual (EN/ES) RAG assistant answering reduced-fare policy questions for five California transit agencies, citing dat",
+    "id": "ChelseaKR/fare-policy-assistant",
+    "language": "HTML",
+    "name": "ChelseaKR/fare-policy-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-11T22:42:23Z",
+    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
+  },
+  {
     "description": "Evaluate AI-generated SQL with pytest.",
     "id": "monospaceai/evaldata",
     "language": "Python",
@@ -45,21 +54,12 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
-    "description": "Bilingual (EN/ES) RAG assistant answering reduced-fare policy questions for five California transit agencies, citing dat",
-    "id": "ChelseaKR/fare-policy-assistant",
-    "language": "HTML",
-    "name": "ChelseaKR/fare-policy-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-11T22:29:48Z",
-    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10509,
-    "updated_at": "2026-07-11T22:27:36Z",
+    "updated_at": "2026-07-11T22:41:57Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -67,7 +67,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23154,
+    "stars": 23155,
     "updated_at": "2026-07-11T18:26:32Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
