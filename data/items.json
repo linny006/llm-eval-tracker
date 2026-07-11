@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23139,
+    "updated_at": "2026-07-11T05:59:19Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Evaluate AI-generated SQL with pytest.",
     "id": "monospaceai/evaldata",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 2,
     "updated_at": "2026-07-11T05:39:39Z",
     "url": "https://github.com/monospaceai/evaldata"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23139,
-    "updated_at": "2026-07-11T05:42:49Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AI Observability & Evaluation",

@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-11 05:45 UTC
+> ⏰ Last updated: 2026-07-11 06:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,8 +42,8 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [monospaceai/evaldata](https://github.com/monospaceai/evaldata) | 2 | Python | 2026-07-11 | Evaluate AI-generated SQL with pytest. |
-| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23139 | TypeScript | 2026-07-11 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23139 | TypeScript | 2026-07-11 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 2 | [monospaceai/evaldata](https://github.com/monospaceai/evaldata) | 2 | Python | 2026-07-11 | Evaluate AI-generated SQL with pytest. |
 | 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10503 | Python | 2026-07-11 | AI Observability & Evaluation |
 | 4 | [multivon-ai/multivon-eval](https://github.com/multivon-ai/multivon-eval) | 8 | Python | 2026-07-11 | Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI |
 | 5 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-07-11 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
