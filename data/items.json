@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23151,
+    "updated_at": "2026-07-11T18:26:32Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Bilingual (EN/ES) RAG assistant answering reduced-fare policy questions for five California transit agencies, citing dat",
     "id": "ChelseaKR/fare-policy-assistant",
     "language": "HTML",
@@ -52,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-07-11T15:53:45Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23151,
-    "updated_at": "2026-07-11T18:12:14Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Evaluate AI-generated SQL with pytest.",
