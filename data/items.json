@@ -1,11 +1,20 @@
 [
   {
+    "description": "Bilingual (EN/ES) RAG assistant answering reduced-fare policy questions for five California transit agencies, citing dat",
+    "id": "ChelseaKR/fare-policy-assistant",
+    "language": "HTML",
+    "name": "ChelseaKR/fare-policy-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-11T17:44:23Z",
+    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10508,
-    "updated_at": "2026-07-11T17:25:03Z",
+    "updated_at": "2026-07-11T17:36:15Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -124,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-07-10T10:48:21Z",
     "url": "https://github.com/valbaudo/awf"
-  },
-  {
-    "description": "Bilingual (EN/ES) RAG assistant answering reduced-fare policy questions for five California transit agencies, citing dat",
-    "id": "ChelseaKR/fare-policy-assistant",
-    "language": "HTML",
-    "name": "ChelseaKR/fare-policy-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-10T06:07:33Z",
-    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
