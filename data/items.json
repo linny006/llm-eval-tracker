@@ -1,5 +1,14 @@
 [
   {
+    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
+    "id": "multivon-ai/multivon-eval",
+    "language": "Python",
+    "name": "multivon-ai/multivon-eval",
+    "stars": 8,
+    "updated_at": "2026-07-11T04:10:10Z",
+    "url": "https://github.com/multivon-ai/multivon-eval"
+  },
+  {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
     "id": "jeremylongshore/j-rig-skill-binary-eval",
     "language": "TypeScript",
@@ -250,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-07-03T18:43:31Z",
     "url": "https://github.com/lokesh75-kank/agenteval"
-  },
-  {
-    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
-    "id": "multivon-ai/multivon-eval",
-    "language": "Python",
-    "name": "multivon-ai/multivon-eval",
-    "stars": 8,
-    "updated_at": "2026-07-02T07:41:32Z",
-    "url": "https://github.com/multivon-ai/multivon-eval"
   },
   {
     "description": "RAG eval pipeline on Apple's FY 2024 10-K \u2014 found confident hallucinations, filed a metric-level bug in DeepEval, and bu",
