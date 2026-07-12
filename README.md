@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-12 13:30 UTC
+> ⏰ Last updated: 2026-07-12 13:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -47,7 +47,7 @@ expired items removed — so you can rely on what you see being current.
 | 3 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-07-12 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
 | 4 | [monospaceai/evaldata](https://github.com/monospaceai/evaldata) | 2 | Python | 2026-07-12 | Evaluate AI-generated SQL with pytest. |
 | 5 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-07-12 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 6 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23165 | TypeScript | 2026-07-12 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 6 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23166 | TypeScript | 2026-07-12 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 7 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 0 | Python | 2026-07-12 | Offline-first RAG plant-care assistant that answers only from a versioned, cited corpus: enforced inline citations, neve |
 | 8 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 0 | HTML | 2026-07-12 | Bilingual (EN/ES) RAG assistant answering reduced-fare policy questions for five California transit agencies, citing dat |
 | 9 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10518 | Python | 2026-07-12 | AI Observability & Evaluation |
