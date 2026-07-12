@@ -1,5 +1,14 @@
 [
   {
+    "description": "Offline-first RAG plant-care assistant that answers only from a versioned, cited corpus: enforced inline citations, neve",
+    "id": "ChelseaKR/sprout",
+    "language": "Python",
+    "name": "ChelseaKR/sprout",
+    "stars": 0,
+    "updated_at": "2026-07-12T07:45:59Z",
+    "url": "https://github.com/ChelseaKR/sprout"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 10513,
     "updated_at": "2026-07-12T07:43:11Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Offline-first RAG plant-care assistant that answers only from a versioned, cited corpus: enforced inline citations, neve",
-    "id": "ChelseaKR/sprout",
-    "language": "Python",
-    "name": "ChelseaKR/sprout",
-    "stars": 0,
-    "updated_at": "2026-07-12T07:44:11Z",
-    "url": "https://github.com/ChelseaKR/sprout"
   },
   {
     "description": "Bilingual (EN/ES) RAG assistant answering reduced-fare policy questions for five California transit agencies, citing dat",
