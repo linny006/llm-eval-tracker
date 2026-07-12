@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-12 20:45 UTC
+> ⏰ Last updated: 2026-07-12 21:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -49,11 +49,11 @@ expired items removed — so you can rely on what you see being current.
 | 5 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-07-12 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
 | 6 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-07-12 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
 | 7 | [monospaceai/evaldata](https://github.com/monospaceai/evaldata) | 2 | Python | 2026-07-12 | Evaluate AI-generated SQL with pytest. |
-| 8 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 0 | Python | 2026-07-12 | Offline-first RAG plant-care assistant that answers only from a versioned, cited corpus: enforced inline citations, neve |
-| 9 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 0 | HTML | 2026-07-12 | Beta reduced-fare reference assistant for five California transit agencies, designed for EN/ES answers from dated, cited |
+| 8 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-07-12 | Offline-first RAG plant-care assistant that answers only from a versioned, cited corpus: enforced inline citations, neve |
+| 9 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-07-12 | Beta reduced-fare reference assistant for five California transit agencies, designed for EN/ES answers from dated, cited |
 | 10 | [multivon-ai/multivon-eval](https://github.com/multivon-ai/multivon-eval) | 8 | Python | 2026-07-11 | Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI |
 | 11 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-07-11 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
-| 12 | [truera/trulens](https://github.com/truera/trulens) | 3435 | Python | 2026-07-11 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 12 | [truera/trulens](https://github.com/truera/trulens) | 3436 | Python | 2026-07-11 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 13 | [nishant20/testgen-eval](https://github.com/nishant20/testgen-eval) | 0 | TypeScript | 2026-07-10 | An agent-eval harness that gates and judges testgen's generated test suites via MCP — deterministic checks plus an LLM-j |
 | 14 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5507 | Python | 2026-07-10 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 15 | [sammyjdev/gnomon-eval](https://github.com/sammyjdev/gnomon-eval) | 0 | Python | 2026-07-10 | Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first. |
