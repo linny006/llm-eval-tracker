@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10510,
+    "updated_at": "2026-07-11T23:54:02Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Bilingual (EN/ES) RAG assistant answering reduced-fare policy questions for five California transit agencies, citing dat",
     "id": "ChelseaKR/fare-policy-assistant",
     "language": "HTML",
@@ -7,15 +16,6 @@
     "stars": 0,
     "updated_at": "2026-07-11T23:43:05Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10509,
-    "updated_at": "2026-07-11T23:41:48Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Evaluate AI-generated SQL with pytest.",
@@ -67,7 +67,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23157,
+    "stars": 23158,
     "updated_at": "2026-07-11T18:26:32Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
