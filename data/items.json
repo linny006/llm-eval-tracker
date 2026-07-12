@@ -1,5 +1,14 @@
 [
   {
+    "description": "Bilingual (EN/ES) RAG assistant answering reduced-fare policy questions for five California transit agencies, citing dat",
+    "id": "ChelseaKR/fare-policy-assistant",
+    "language": "HTML",
+    "name": "ChelseaKR/fare-policy-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-12T06:56:54Z",
+    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -27,21 +36,12 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
-    "description": "Bilingual (EN/ES) RAG assistant answering reduced-fare policy questions for five California transit agencies, citing dat",
-    "id": "ChelseaKR/fare-policy-assistant",
-    "language": "HTML",
-    "name": "ChelseaKR/fare-policy-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-12T06:33:26Z",
-    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10512,
-    "updated_at": "2026-07-12T06:29:45Z",
+    "updated_at": "2026-07-12T06:47:30Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
