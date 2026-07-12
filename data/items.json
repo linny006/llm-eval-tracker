@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10524,
+    "updated_at": "2026-07-12T22:56:10Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
     "id": "multivon-ai/multivon-eval",
     "language": "Python",
@@ -45,21 +54,12 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10524,
-    "updated_at": "2026-07-12T21:47:51Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23176,
-    "updated_at": "2026-07-12T20:15:16Z",
+    "updated_at": "2026-07-12T22:59:54Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
