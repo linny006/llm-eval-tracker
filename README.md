@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-12 13:45 UTC
+> ⏰ Last updated: 2026-07-12 14:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -55,7 +55,7 @@ expired items removed — so you can rely on what you see being current.
 | 11 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-07-11 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 12 | [truera/trulens](https://github.com/truera/trulens) | 3435 | Python | 2026-07-11 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 13 | [nishant20/testgen-eval](https://github.com/nishant20/testgen-eval) | 0 | TypeScript | 2026-07-10 | An agent-eval harness that gates and judges testgen's generated test suites via MCP — deterministic checks plus an LLM-j |
-| 14 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5506 | Python | 2026-07-10 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 14 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5507 | Python | 2026-07-10 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 15 | [sammyjdev/gnomon-eval](https://github.com/sammyjdev/gnomon-eval) | 0 | Python | 2026-07-10 | Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first. |
 | 16 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-07-10 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
 | 17 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 319 | TypeScript | 2026-07-12 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
