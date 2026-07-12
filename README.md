@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-12 12:15 UTC
+> ⏰ Last updated: 2026-07-12 12:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -50,7 +50,7 @@ expired items removed — so you can rely on what you see being current.
 | 6 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23164 | TypeScript | 2026-07-12 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 7 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 0 | Python | 2026-07-12 | Offline-first RAG plant-care assistant that answers only from a versioned, cited corpus: enforced inline citations, neve |
 | 8 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 0 | HTML | 2026-07-12 | Bilingual (EN/ES) RAG assistant answering reduced-fare policy questions for five California transit agencies, citing dat |
-| 9 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10514 | Python | 2026-07-12 | AI Observability & Evaluation |
+| 9 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10516 | Python | 2026-07-12 | AI Observability & Evaluation |
 | 10 | [multivon-ai/multivon-eval](https://github.com/multivon-ai/multivon-eval) | 8 | Python | 2026-07-11 | Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI |
 | 11 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-07-11 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 12 | [truera/trulens](https://github.com/truera/trulens) | 3435 | Python | 2026-07-11 | Evaluation and Tracking for LLM Experiments and AI Agents |
