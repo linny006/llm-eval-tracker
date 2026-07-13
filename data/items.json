@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10536,
+    "updated_at": "2026-07-13T22:23:37Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -27,15 +36,6 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10536,
-    "updated_at": "2026-07-13T21:56:24Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
     "id": "homemade-software-inc/completion-kit",
     "language": "Ruby",
@@ -50,7 +50,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23205,
-    "updated_at": "2026-07-13T22:10:47Z",
+    "updated_at": "2026-07-13T22:26:26Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
