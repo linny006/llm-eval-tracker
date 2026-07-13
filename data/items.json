@@ -1,11 +1,29 @@
 [
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5507,
+    "updated_at": "2026-07-13T08:28:04Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 319,
+    "updated_at": "2026-07-13T08:20:28Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23183,
-    "updated_at": "2026-07-13T08:14:14Z",
+    "stars": 23184,
+    "updated_at": "2026-07-13T08:17:47Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -52,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-07-13T07:05:09Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5507,
-    "updated_at": "2026-07-13T08:04:47Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -151,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-07-10T10:48:21Z",
     "url": "https://github.com/valbaudo/awf"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 319,
-    "updated_at": "2026-07-13T08:12:28Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Migrate headless Claude/AI workloads to local LLMs with a derived, per-workload quality eval \u2014 cron job in, zero-margina",
