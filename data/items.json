@@ -1,21 +1,21 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10533,
-    "updated_at": "2026-07-13T15:40:57Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23197,
-    "updated_at": "2026-07-13T15:48:49Z",
+    "updated_at": "2026-07-13T16:12:34Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10533,
+    "updated_at": "2026-07-13T16:06:10Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking) --",
@@ -329,7 +329,7 @@
     "language": "TypeScript",
     "name": "reaatech/agent-eval-harness",
     "stars": 0,
-    "updated_at": "2026-06-29T16:12:53Z",
+    "updated_at": "2026-07-13T16:08:25Z",
     "url": "https://github.com/reaatech/agent-eval-harness"
   },
   {
