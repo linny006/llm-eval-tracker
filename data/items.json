@@ -1,21 +1,21 @@
 [
   {
-    "description": "Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking) --",
-    "id": "RudrenduPaul/memtrust",
-    "language": "Python",
-    "name": "RudrenduPaul/memtrust",
-    "stars": 0,
-    "updated_at": "2026-07-13T05:56:09Z",
-    "url": "https://github.com/RudrenduPaul/memtrust"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23182,
-    "updated_at": "2026-07-13T05:59:51Z",
+    "updated_at": "2026-07-13T06:15:12Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking) --",
+    "id": "RudrenduPaul/memtrust",
+    "language": "Python",
+    "name": "RudrenduPaul/memtrust",
+    "stars": 0,
+    "updated_at": "2026-07-13T06:07:46Z",
+    "url": "https://github.com/RudrenduPaul/memtrust"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -23,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10527,
-    "updated_at": "2026-07-13T05:52:16Z",
+    "updated_at": "2026-07-13T06:07:28Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
