@@ -4,9 +4,18 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23184,
-    "updated_at": "2026-07-13T08:41:46Z",
+    "stars": 23185,
+    "updated_at": "2026-07-13T08:53:20Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5506,
+    "updated_at": "2026-07-13T08:50:55Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 319,
-    "updated_at": "2026-07-13T08:38:23Z",
+    "updated_at": "2026-07-13T08:50:46Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-07-13T08:34:54Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5507,
-    "updated_at": "2026-07-13T08:43:46Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
