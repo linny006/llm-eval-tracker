@@ -5,8 +5,17 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23182,
-    "updated_at": "2026-07-13T06:59:16Z",
+    "updated_at": "2026-07-13T07:14:49Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Beta reduced-fare reference assistant for five California transit agencies, designed for EN/ES answers from dated, cited",
+    "id": "ChelseaKR/fare-policy-assistant",
+    "language": "HTML",
+    "name": "ChelseaKR/fare-policy-assistant",
+    "stars": 1,
+    "updated_at": "2026-07-13T07:05:09Z",
+    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -97,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-07-13T06:27:37Z",
     "url": "https://github.com/ChelseaKR/sprout"
-  },
-  {
-    "description": "Beta reduced-fare reference assistant for five California transit agencies, designed for EN/ES answers from dated, cited",
-    "id": "ChelseaKR/fare-policy-assistant",
-    "language": "HTML",
-    "name": "ChelseaKR/fare-policy-assistant",
-    "stars": 1,
-    "updated_at": "2026-07-12T08:20:35Z",
-    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
