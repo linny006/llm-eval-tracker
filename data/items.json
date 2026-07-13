@@ -1,5 +1,14 @@
 [
   {
+    "description": "Evaluate AI-generated SQL with pytest.",
+    "id": "monospaceai/evaldata",
+    "language": "Python",
+    "name": "monospaceai/evaldata",
+    "stars": 2,
+    "updated_at": "2026-07-12T23:58:12Z",
+    "url": "https://github.com/monospaceai/evaldata"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -32,7 +41,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23177,
-    "updated_at": "2026-07-12T22:59:54Z",
+    "updated_at": "2026-07-12T23:56:03Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -59,17 +68,8 @@
     "language": "\u2014",
     "name": "saddled-panicattack529/idea-evaluation-pipeline",
     "stars": 0,
-    "updated_at": "2026-07-12T21:39:46Z",
+    "updated_at": "2026-07-13T00:00:17Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Evaluate AI-generated SQL with pytest.",
-    "id": "monospaceai/evaldata",
-    "language": "Python",
-    "name": "monospaceai/evaldata",
-    "stars": 2,
-    "updated_at": "2026-07-12T23:11:50Z",
-    "url": "https://github.com/monospaceai/evaldata"
   },
   {
     "description": "Offline-first RAG plant-care assistant that answers only from a versioned, cited corpus: enforced inline citations, neve",
