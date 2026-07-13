@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10534,
+    "updated_at": "2026-07-13T16:44:43Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -32,17 +41,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23197,
-    "updated_at": "2026-07-13T16:12:34Z",
+    "updated_at": "2026-07-13T16:30:47Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10533,
-    "updated_at": "2026-07-13T16:15:30Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking) --",
@@ -140,7 +140,7 @@
     "language": "TypeScript",
     "name": "jeremylongshore/j-rig-skill-binary-eval",
     "stars": 0,
-    "updated_at": "2026-07-11T03:51:50Z",
+    "updated_at": "2026-07-13T16:43:25Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
