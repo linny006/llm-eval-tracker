@@ -1,11 +1,20 @@
 [
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5507,
+    "updated_at": "2026-07-13T06:45:04Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23182,
-    "updated_at": "2026-07-13T06:30:15Z",
+    "stars": 23181,
+    "updated_at": "2026-07-13T06:44:35Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10527,
-    "updated_at": "2026-07-13T06:22:52Z",
+    "updated_at": "2026-07-13T06:40:24Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -124,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-10T21:27:57Z",
     "url": "https://github.com/nishant20/testgen-eval"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5507,
-    "updated_at": "2026-07-13T03:27:59Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
