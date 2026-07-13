@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10526,
+    "updated_at": "2026-07-13T03:26:49Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
     "id": "multivon-ai/multivon-eval",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 8,
     "updated_at": "2026-07-13T03:14:02Z",
     "url": "https://github.com/multivon-ai/multivon-eval"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10526,
-    "updated_at": "2026-07-13T03:09:22Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
@@ -122,7 +122,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5507,
-    "updated_at": "2026-07-13T02:40:02Z",
+    "updated_at": "2026-07-13T03:27:59Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
