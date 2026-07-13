@@ -1,11 +1,20 @@
 [
   {
+    "description": "Offline-first RAG plant-care assistant that answers only from a versioned, cited corpus: enforced inline citations, neve",
+    "id": "ChelseaKR/sprout",
+    "language": "Python",
+    "name": "ChelseaKR/sprout",
+    "stars": 1,
+    "updated_at": "2026-07-13T07:41:49Z",
+    "url": "https://github.com/ChelseaKR/sprout"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23182,
-    "updated_at": "2026-07-13T07:29:40Z",
+    "updated_at": "2026-07-13T07:43:48Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5507,
-    "updated_at": "2026-07-13T06:45:04Z",
+    "updated_at": "2026-07-13T07:45:04Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -31,7 +40,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10527,
+    "stars": 10528,
     "updated_at": "2026-07-13T06:40:24Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -97,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-07-13T00:35:28Z",
     "url": "https://github.com/monospaceai/evaldata"
-  },
-  {
-    "description": "Offline-first RAG plant-care assistant that answers only from a versioned, cited corpus: enforced inline citations, neve",
-    "id": "ChelseaKR/sprout",
-    "language": "Python",
-    "name": "ChelseaKR/sprout",
-    "stars": 1,
-    "updated_at": "2026-07-13T06:27:37Z",
-    "url": "https://github.com/ChelseaKR/sprout"
   },
   {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
