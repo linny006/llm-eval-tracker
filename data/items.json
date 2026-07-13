@@ -1,5 +1,14 @@
 [
   {
+    "description": "TrustModel MCP Server \u2014 trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t",
+    "id": "pdxlab/trustmodel-mcp-server",
+    "language": "TypeScript",
+    "name": "pdxlab/trustmodel-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-07-13T12:14:35Z",
+    "url": "https://github.com/pdxlab/trustmodel-mcp-server"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -49,7 +58,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23190,
+    "stars": 23192,
     "updated_at": "2026-07-13T09:08:13Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -58,7 +67,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5507,
+    "stars": 5508,
     "updated_at": "2026-07-13T08:50:55Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-20T15:14:56Z",
     "url": "https://github.com/Ayubjon/refusal-radar"
-  },
-  {
-    "description": "Single-file labeling tool for LLM-as-judge calibration. Three-pane comparison + multi-dim scoring. Zero deployment.",
-    "id": "melody-ling-L/judgebuddy",
-    "language": "HTML",
-    "name": "melody-ling-L/judgebuddy",
-    "stars": 0,
-    "updated_at": "2026-06-20T10:07:23Z",
-    "url": "https://github.com/melody-ling-L/judgebuddy"
   }
 ]
