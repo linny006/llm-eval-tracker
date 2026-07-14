@@ -1,5 +1,14 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 319,
+    "updated_at": "2026-07-14T08:24:02Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "Benchmark pipeline for Amiga Gemma 3-27b vs. frontier models on Austrian legal question answering.",
     "id": "JOwiesner/amiga-ai-evaluation",
     "language": "Python",
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10547,
-    "updated_at": "2026-07-14T07:01:28Z",
+    "updated_at": "2026-07-14T08:25:58Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -67,7 +76,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23228,
+    "stars": 23229,
     "updated_at": "2026-07-14T06:08:30Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -115,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-07-13T12:16:17Z",
     "url": "https://github.com/pdxlab/trustmodel-mcp-server"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 319,
-    "updated_at": "2026-07-13T23:55:40Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Beta reduced-fare reference assistant for five California transit agencies, designed for EN/ES answers from dated, cited",
