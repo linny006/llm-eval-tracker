@@ -5,8 +5,26 @@
     "language": "HTML",
     "name": "cklxx/ckl-bench",
     "stars": 0,
-    "updated_at": "2026-07-14T11:27:51Z",
+    "updated_at": "2026-07-14T11:44:15Z",
     "url": "https://github.com/cklxx/ckl-bench"
+  },
+  {
+    "description": "A gym for scientific judgment. AI agents render fatally flawed analyses at publication quality \u2014 we measured whether any",
+    "id": "sahuno/confounded",
+    "language": "R",
+    "name": "sahuno/confounded",
+    "stars": 0,
+    "updated_at": "2026-07-14T11:44:08Z",
+    "url": "https://github.com/sahuno/confounded"
+  },
+  {
+    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
+    "id": "Kondwani10/Origin-Continuum",
+    "language": "\u2014",
+    "name": "Kondwani10/Origin-Continuum",
+    "stars": 0,
+    "updated_at": "2026-07-14T11:33:45Z",
+    "url": "https://github.com/Kondwani10/Origin-Continuum"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
@@ -27,29 +45,11 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
-    "description": "A gym for scientific judgment. AI agents render fatally flawed analyses at publication quality \u2014 we measured whether any",
-    "id": "sahuno/confounded",
-    "language": "R",
-    "name": "sahuno/confounded",
-    "stars": 0,
-    "updated_at": "2026-07-14T11:12:23Z",
-    "url": "https://github.com/sahuno/confounded"
-  },
-  {
-    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
-    "id": "Kondwani10/Origin-Continuum",
-    "language": "\u2014",
-    "name": "Kondwani10/Origin-Continuum",
-    "stars": 0,
-    "updated_at": "2026-07-14T09:43:15Z",
-    "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10549,
+    "stars": 10550,
     "updated_at": "2026-07-14T11:14:00Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
