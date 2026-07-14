@@ -1,5 +1,14 @@
 [
   {
+    "description": "Benchmark pipeline for Amiga Gemma 3-27b vs. frontier models on Austrian legal question answering.",
+    "id": "JOwiesner/amiga-ai-evaluation",
+    "language": "Python",
+    "name": "JOwiesner/amiga-ai-evaluation",
+    "stars": 0,
+    "updated_at": "2026-07-14T08:12:25Z",
+    "url": "https://github.com/JOwiesner/amiga-ai-evaluation"
+  },
+  {
     "description": "Offline-first RAG plant-care assistant that answers only from a versioned, cited corpus: enforced inline citations, neve",
     "id": "ChelseaKR/sprout",
     "language": "Python",
@@ -97,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-13T14:59:24Z",
     "url": "https://github.com/RudrenduPaul/memtrust"
-  },
-  {
-    "description": "Benchmark pipeline for Amiga Gemma 3-27b vs. frontier models on Austrian legal question answering.",
-    "id": "JOwiesner/amiga-ai-evaluation",
-    "language": "Python",
-    "name": "JOwiesner/amiga-ai-evaluation",
-    "stars": 0,
-    "updated_at": "2026-07-13T13:54:28Z",
-    "url": "https://github.com/JOwiesner/amiga-ai-evaluation"
   },
   {
     "description": "TrustModel MCP Server \u2014 trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t",
