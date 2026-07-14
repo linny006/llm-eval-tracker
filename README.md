@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-14 20:15 UTC
+> ⏰ Last updated: 2026-07-14 20:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -48,7 +48,7 @@ expired items removed — so you can rely on what you see being current.
 | 4 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 319 | TypeScript | 2026-07-14 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 5 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10558 | Python | 2026-07-14 | AI Observability & Evaluation |
 | 6 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-07-14 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
-| 7 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23259 | TypeScript | 2026-07-14 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 7 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23262 | TypeScript | 2026-07-14 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 8 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-07-14 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 9 | [sahuno/confounded](https://github.com/sahuno/confounded) | 0 | R | 2026-07-14 | A gym for scientific judgment. AI agents render fatally flawed analyses at publication quality — we measured whether any |
 | 10 | [cklxx/ckl-bench](https://github.com/cklxx/ckl-bench) | 1 | HTML | 2026-07-14 | ckl's personal benchmark for doc writing, infra code, and paper reading — one-click evaluation of the latest models via  |
@@ -58,7 +58,7 @@ expired items removed — so you can rely on what you see being current.
 | 14 | [RudrenduPaul/memtrust](https://github.com/RudrenduPaul/memtrust) | 0 | Python | 2026-07-13 | Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking) -- |
 | 15 | [pdxlab/trustmodel-mcp-server](https://github.com/pdxlab/trustmodel-mcp-server) | 0 | TypeScript | 2026-07-13 | TrustModel MCP Server — trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t |
 | 16 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-07-13 | Beta reduced-fare reference assistant for five California transit agencies, designed for EN/ES answers from dated, cited |
-| 17 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5522 | Python | 2026-07-13 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 17 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5523 | Python | 2026-07-13 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 18 | [multivon-ai/multivon-eval](https://github.com/multivon-ai/multivon-eval) | 8 | Python | 2026-07-13 | Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI |
 | 19 | [monospaceai/evaldata](https://github.com/monospaceai/evaldata) | 2 | Python | 2026-07-13 | Evaluate AI-generated SQL with pytest. |
 | 20 | [truera/trulens](https://github.com/truera/trulens) | 3437 | Python | 2026-07-11 | Evaluation and Tracking for LLM Experiments and AI Agents |
