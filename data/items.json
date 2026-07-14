@@ -1,5 +1,14 @@
 [
   {
+    "description": "LLM self-consistency and sycophancy diagnostic \u2014 catches contradictions and false-premise acceptance hiding behind confi",
+    "id": "vijayarjun7/flipcheck",
+    "language": "TypeScript",
+    "name": "vijayarjun7/flipcheck",
+    "stars": 0,
+    "updated_at": "2026-07-14T23:10:06Z",
+    "url": "https://github.com/vijayarjun7/flipcheck"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -59,7 +68,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10558,
-    "updated_at": "2026-07-14T22:13:25Z",
+    "updated_at": "2026-07-14T23:12:28Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -175,7 +184,7 @@
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3437,
+    "stars": 3438,
     "updated_at": "2026-07-11T01:04:48Z",
     "url": "https://github.com/truera/trulens"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-22T05:56:36Z",
     "url": "https://github.com/anejakartik/evalstack"
-  },
-  {
-    "description": "NL\u2192SQL multi-agent pipeline (LangGraph + Claude) with deterministic SQL-injection guardrails and golden-set eval.",
-    "id": "jmpei/nl2sql-agents",
-    "language": "Python",
-    "name": "jmpei/nl2sql-agents",
-    "stars": 0,
-    "updated_at": "2026-06-21T18:14:07Z",
-    "url": "https://github.com/jmpei/nl2sql-agents"
   }
 ]
