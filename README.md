@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-14 18:00 UTC
+> ⏰ Last updated: 2026-07-14 18:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -61,7 +61,7 @@ expired items removed — so you can rely on what you see being current.
 | 17 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5521 | Python | 2026-07-13 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 18 | [multivon-ai/multivon-eval](https://github.com/multivon-ai/multivon-eval) | 8 | Python | 2026-07-13 | Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI |
 | 19 | [monospaceai/evaldata](https://github.com/monospaceai/evaldata) | 2 | Python | 2026-07-13 | Evaluate AI-generated SQL with pytest. |
-| 20 | [truera/trulens](https://github.com/truera/trulens) | 3436 | Python | 2026-07-11 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 20 | [truera/trulens](https://github.com/truera/trulens) | 3437 | Python | 2026-07-11 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 21 | [nishant20/testgen-eval](https://github.com/nishant20/testgen-eval) | 0 | TypeScript | 2026-07-10 | An agent-eval harness that gates and judges testgen's generated test suites via MCP — deterministic checks plus an LLM-j |
 | 22 | [sammyjdev/gnomon-eval](https://github.com/sammyjdev/gnomon-eval) | 0 | Python | 2026-07-10 | Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first. |
 | 23 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-07-10 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
