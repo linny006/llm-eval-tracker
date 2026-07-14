@@ -1,5 +1,14 @@
 [
   {
+    "description": "A gym for scientific judgment. AI agents render fatally flawed analyses at publication quality \u2014 we measured whether any",
+    "id": "sahuno/confounded",
+    "language": "R",
+    "name": "sahuno/confounded",
+    "stars": 0,
+    "updated_at": "2026-07-14T00:48:19Z",
+    "url": "https://github.com/sahuno/confounded"
+  },
+  {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
     "id": "homemade-software-inc/completion-kit",
     "language": "Ruby",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10536,
-    "updated_at": "2026-07-14T00:31:32Z",
+    "updated_at": "2026-07-14T00:58:32Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -22,7 +31,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23209,
+    "stars": 23210,
     "updated_at": "2026-07-13T22:40:46Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T23:15:47Z",
     "url": "https://github.com/TeracAI/svg-arena"
-  },
-  {
-    "description": "Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai",
-    "id": "ozlar34/job-match-radar",
-    "language": "Python",
-    "name": "ozlar34/job-match-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T21:22:02Z",
-    "url": "https://github.com/ozlar34/job-match-radar"
   }
 ]
