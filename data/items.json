@@ -1,5 +1,14 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 319,
+    "updated_at": "2026-07-14T19:42:33Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -79,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-07-14T11:54:56Z",
     "url": "https://github.com/cklxx/ckl-bench"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 319,
-    "updated_at": "2026-07-14T08:36:53Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Benchmark pipeline for Amiga Gemma 3-27b vs. frontier models on Austrian legal question answering.",
