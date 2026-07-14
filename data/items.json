@@ -1,11 +1,20 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23264,
+    "updated_at": "2026-07-14T23:26:08Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "LLM self-consistency and sycophancy diagnostic \u2014 catches contradictions and false-premise acceptance hiding behind confi",
     "id": "vijayarjun7/flipcheck",
     "language": "TypeScript",
     "name": "vijayarjun7/flipcheck",
     "stars": 0,
-    "updated_at": "2026-07-14T23:10:06Z",
+    "updated_at": "2026-07-14T23:23:00Z",
     "url": "https://github.com/vijayarjun7/flipcheck"
   },
   {
@@ -34,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-07-14T22:36:55Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23264,
-    "updated_at": "2026-07-14T22:49:14Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
