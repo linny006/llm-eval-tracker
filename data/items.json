@@ -1,28 +1,28 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10577,
-    "updated_at": "2026-07-15T19:43:13Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
     "id": "homemade-software-inc/completion-kit",
     "language": "Ruby",
     "name": "homemade-software-inc/completion-kit",
     "stars": 1,
-    "updated_at": "2026-07-15T19:30:54Z",
+    "updated_at": "2026-07-15T20:07:49Z",
     "url": "https://github.com/homemade-software-inc/completion-kit"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10577,
+    "updated_at": "2026-07-15T20:14:14Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23294,
+    "stars": 23295,
     "updated_at": "2026-07-15T18:34:31Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -157,7 +157,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5528,
+    "stars": 5530,
     "updated_at": "2026-07-13T08:50:55Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
