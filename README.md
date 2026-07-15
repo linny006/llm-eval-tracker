@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-15 21:45 UTC
+> ⏰ Last updated: 2026-07-15 21:58 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-07-15 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
-| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10577 | Python | 2026-07-15 | AI Observability & Evaluation |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10577 | Python | 2026-07-15 | AI Observability & Evaluation |
+| 2 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-07-15 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
 | 3 | [alvabillwu/judgekit](https://github.com/alvabillwu/judgekit) | 0 | Python | 2026-07-15 | ⚖️ Reusable LLM-as-judge harness — rubrics, pluggable judges (mock/proxy/LLM), and calibration against ground truth. Lib |
 | 4 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-07-15 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
-| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23296 | TypeScript | 2026-07-15 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23297 | TypeScript | 2026-07-15 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 6 | [sahuno/confounded](https://github.com/sahuno/confounded) | 0 | R | 2026-07-15 | A gym for scientific judgment. AI agents render fatally flawed analyses at publication quality — we measured whether any |
 | 7 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-07-15 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 8 | [vitorwilher/copom-rag-service](https://github.com/vitorwilher/copom-rag-service) | 0 | Python | 2026-07-15 | Serviço de RAG sobre atas do Copom + boletim Focus, servido como API (FastAPI+Docker), com eval harness (golden set, LLM |
