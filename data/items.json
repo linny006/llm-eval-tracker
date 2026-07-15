@@ -108,15 +108,6 @@
     "url": "https://github.com/sahuno/confounded"
   },
   {
-    "description": "Benchmark pipeline for Amiga Gemma 3-27b vs. frontier models on Austrian legal question answering.",
-    "id": "JOwiesner/amiga-ai-evaluation",
-    "language": "Python",
-    "name": "JOwiesner/amiga-ai-evaluation",
-    "stars": 0,
-    "updated_at": "2026-07-14T08:12:25Z",
-    "url": "https://github.com/JOwiesner/amiga-ai-evaluation"
-  },
-  {
     "description": "Offline-first RAG plant-care assistant that answers only from a versioned, cited corpus: enforced inline citations, neve",
     "id": "ChelseaKR/sprout",
     "language": "Python",
@@ -448,5 +439,14 @@
     "stars": 0,
     "updated_at": "2026-06-22T18:58:45Z",
     "url": "https://github.com/gashel01/evalmcp"
+  },
+  {
+    "description": "Open-source LLM evaluation framework \u2014 drop-in SDK + CI plugin. LLM-as-judge, regression detection, free + self-hostable",
+    "id": "anejakartik/evalstack",
+    "language": "TypeScript",
+    "name": "anejakartik/evalstack",
+    "stars": 0,
+    "updated_at": "2026-06-22T05:56:36Z",
+    "url": "https://github.com/anejakartik/evalstack"
   }
 ]
