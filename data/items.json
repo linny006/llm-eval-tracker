@@ -1,5 +1,23 @@
 [
   {
+    "description": "A gym for scientific judgment. AI agents render fatally flawed analyses at publication quality \u2014 we measured whether any",
+    "id": "sahuno/confounded",
+    "language": "R",
+    "name": "sahuno/confounded",
+    "stars": 0,
+    "updated_at": "2026-07-15T16:37:12Z",
+    "url": "https://github.com/sahuno/confounded"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10574,
+    "updated_at": "2026-07-15T16:35:10Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
     "id": "saddled-panicattack529/idea-evaluation-pipeline",
     "language": "\u2014",
@@ -16,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-07-15T14:38:24Z",
     "url": "https://github.com/vitorwilher/copom-rag-service"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10574,
-    "updated_at": "2026-07-15T15:44:10Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -86,7 +95,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23290,
-    "updated_at": "2026-07-15T01:07:40Z",
+    "updated_at": "2026-07-15T16:45:03Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -97,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-14T23:23:00Z",
     "url": "https://github.com/vijayarjun7/flipcheck"
-  },
-  {
-    "description": "A gym for scientific judgment. AI agents render fatally flawed analyses at publication quality \u2014 we measured whether any",
-    "id": "sahuno/confounded",
-    "language": "R",
-    "name": "sahuno/confounded",
-    "stars": 0,
-    "updated_at": "2026-07-15T14:23:13Z",
-    "url": "https://github.com/sahuno/confounded"
   },
   {
     "description": "Offline-first RAG plant-care assistant that answers only from a versioned, cited corpus: enforced inline citations, neve",
