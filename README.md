@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-15 17:00 UTC
+> ⏰ Last updated: 2026-07-15 17:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,8 +42,8 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [sahuno/confounded](https://github.com/sahuno/confounded) | 0 | R | 2026-07-15 | A gym for scientific judgment. AI agents render fatally flawed analyses at publication quality — we measured whether any |
-| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10574 | Python | 2026-07-15 | AI Observability & Evaluation |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10574 | Python | 2026-07-15 | AI Observability & Evaluation |
+| 2 | [sahuno/confounded](https://github.com/sahuno/confounded) | 0 | R | 2026-07-15 | A gym for scientific judgment. AI agents render fatally flawed analyses at publication quality — we measured whether any |
 | 3 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-07-15 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 4 | [vitorwilher/copom-rag-service](https://github.com/vitorwilher/copom-rag-service) | 0 | Python | 2026-07-15 | Serviço de RAG sobre atas do Copom + boletim Focus, servido como API (FastAPI+Docker), com eval harness (golden set, LLM |
 | 5 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-07-15 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
