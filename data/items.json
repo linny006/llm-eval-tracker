@@ -1,11 +1,20 @@
 [
   {
+    "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
+    "id": "valbaudo/awf",
+    "language": "Go",
+    "name": "valbaudo/awf",
+    "stars": 1,
+    "updated_at": "2026-07-15T21:38:24Z",
+    "url": "https://github.com/valbaudo/awf"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10577,
-    "updated_at": "2026-07-15T21:28:04Z",
+    "updated_at": "2026-07-15T21:42:48Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -31,7 +40,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23295,
+    "stars": 23296,
     "updated_at": "2026-07-15T18:34:31Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -166,7 +175,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5537,
+    "stars": 5538,
     "updated_at": "2026-07-13T08:50:55Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
@@ -214,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-07-10T12:21:23Z",
     "url": "https://github.com/sammyjdev/gnomon-eval"
-  },
-  {
-    "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
-    "id": "valbaudo/awf",
-    "language": "Go",
-    "name": "valbaudo/awf",
-    "stars": 1,
-    "updated_at": "2026-07-15T09:24:22Z",
-    "url": "https://github.com/valbaudo/awf"
   },
   {
     "description": "Migrate headless Claude/AI workloads to local LLMs with a derived, per-workload quality eval \u2014 cron job in, zero-margina",
