@@ -1,5 +1,14 @@
 [
   {
+    "description": "\u2696\ufe0f Reusable LLM-as-judge harness \u2014 rubrics, pluggable judges (mock/proxy/LLM), and calibration against ground truth. Lib",
+    "id": "alvabillwu/judgekit",
+    "language": "Python",
+    "name": "alvabillwu/judgekit",
+    "stars": 0,
+    "updated_at": "2026-07-15T20:30:02Z",
+    "url": "https://github.com/alvabillwu/judgekit"
+  },
+  {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
     "id": "homemade-software-inc/completion-kit",
     "language": "Ruby",
@@ -157,7 +166,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5530,
+    "stars": 5532,
     "updated_at": "2026-07-13T08:50:55Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
@@ -250,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-07-08T18:01:12Z",
     "url": "https://github.com/christianmacion26/judge-harness"
-  },
-  {
-    "description": "\u2696\ufe0f Reusable LLM-as-judge harness \u2014 rubrics, pluggable judges (mock/proxy/LLM), and calibration against ground truth. Lib",
-    "id": "alvabillwu/judgekit",
-    "language": "Python",
-    "name": "alvabillwu/judgekit",
-    "stars": 0,
-    "updated_at": "2026-07-08T16:36:53Z",
-    "url": "https://github.com/alvabillwu/judgekit"
   },
   {
     "description": "Does multi-agent beat single-agent? Benchmarks a planner\u2192workers\u2192critic system vs single-agent on quality/cost/latency \u2014",
