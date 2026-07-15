@@ -1,5 +1,14 @@
 [
   {
+    "description": "ckl's personal benchmark for doc writing, infra code, and paper reading \u2014 one-click evaluation of the latest models via ",
+    "id": "cklxx/ckl-bench",
+    "language": "HTML",
+    "name": "cklxx/ckl-bench",
+    "stars": 1,
+    "updated_at": "2026-07-15T08:04:25Z",
+    "url": "https://github.com/cklxx/ckl-bench"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -54,15 +63,6 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
-    "description": "ckl's personal benchmark for doc writing, infra code, and paper reading \u2014 one-click evaluation of the latest models via ",
-    "id": "cklxx/ckl-bench",
-    "language": "HTML",
-    "name": "cklxx/ckl-bench",
-    "stars": 1,
-    "updated_at": "2026-07-15T05:32:42Z",
-    "url": "https://github.com/cklxx/ckl-bench"
-  },
-  {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
     "id": "homemade-software-inc/completion-kit",
     "language": "Ruby",
@@ -76,7 +76,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23274,
+    "stars": 23276,
     "updated_at": "2026-07-15T01:07:40Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
