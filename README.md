@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-15 09:15 UTC
+> ⏰ Last updated: 2026-07-15 09:27 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -65,7 +65,7 @@ expired items removed — so you can rely on what you see being current.
 | 21 | [truera/trulens](https://github.com/truera/trulens) | 3438 | Python | 2026-07-11 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 22 | [nishant20/testgen-eval](https://github.com/nishant20/testgen-eval) | 0 | TypeScript | 2026-07-10 | An agent-eval harness that gates and judges testgen's generated test suites via MCP — deterministic checks plus an LLM-j |
 | 23 | [sammyjdev/gnomon-eval](https://github.com/sammyjdev/gnomon-eval) | 0 | Python | 2026-07-10 | Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first. |
-| 24 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-07-10 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
+| 24 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-07-15 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
 | 25 | [ahwurm/localshift](https://github.com/ahwurm/localshift) | 3 | Python | 2026-07-09 | Migrate headless Claude/AI workloads to local LLMs with a derived, per-workload quality eval — cron job in, zero-margina |
 | 26 | [coffee-converter/onthemoney](https://github.com/coffee-converter/onthemoney) | 0 | Python | 2026-07-14 | An AI agent that answers questions about U.S. campaign money against real FEC data. Source-cited, graded on a public eva |
 | 27 | [MihirBindu/dynamo-log-report-fix](https://github.com/MihirBindu/dynamo-log-report-fix) | 0 | Python | 2026-07-09 | A broken Terminal-Bench 2 (Harbor) task, repaired: reproducible env, solution-leak removed, gameable verifier replaced w |
