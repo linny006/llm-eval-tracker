@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-15 13:30 UTC
+> ⏰ Last updated: 2026-07-15 13:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -50,7 +50,7 @@ expired items removed — so you can rely on what you see being current.
 | 6 | [cklxx/ckl-bench](https://github.com/cklxx/ckl-bench) | 1 | HTML | 2026-07-15 | ckl's personal benchmark for doc writing, infra code, and paper reading — one-click evaluation of the latest models via  |
 | 7 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 320 | TypeScript | 2026-07-15 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 8 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-07-15 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
-| 9 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23285 | TypeScript | 2026-07-15 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 9 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23286 | TypeScript | 2026-07-15 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 10 | [vijayarjun7/flipcheck](https://github.com/vijayarjun7/flipcheck) | 0 | TypeScript | 2026-07-14 | LLM self-consistency and sycophancy diagnostic — catches contradictions and false-premise acceptance hiding behind confi |
 | 11 | [sahuno/confounded](https://github.com/sahuno/confounded) | 0 | R | 2026-07-14 | A gym for scientific judgment. AI agents render fatally flawed analyses at publication quality — we measured whether any |
 | 12 | [JOwiesner/amiga-ai-evaluation](https://github.com/JOwiesner/amiga-ai-evaluation) | 0 | Python | 2026-07-14 | Benchmark pipeline for Amiga Gemma 3-27b vs. frontier models on Austrian legal question answering. |
