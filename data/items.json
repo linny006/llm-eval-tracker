@@ -1,5 +1,23 @@
 [
   {
+    "description": "Servi\u00e7o de RAG sobre atas do Copom + boletim Focus, servido como API (FastAPI+Docker), com eval harness (golden set, LLM",
+    "id": "vitorwilher/copom-rag-service",
+    "language": "Python",
+    "name": "vitorwilher/copom-rag-service",
+    "stars": 0,
+    "updated_at": "2026-07-15T14:38:24Z",
+    "url": "https://github.com/vitorwilher/copom-rag-service"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10574,
+    "updated_at": "2026-07-15T14:44:32Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -7,15 +25,6 @@
     "stars": 0,
     "updated_at": "2026-07-15T14:15:44Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10572,
-    "updated_at": "2026-07-15T14:29:35Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
@@ -76,7 +85,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23288,
+    "stars": 23290,
     "updated_at": "2026-07-15T01:07:40Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-22T18:58:45Z",
     "url": "https://github.com/gashel01/evalmcp"
-  },
-  {
-    "description": "Open-source LLM evaluation framework \u2014 drop-in SDK + CI plugin. LLM-as-judge, regression detection, free + self-hostable",
-    "id": "anejakartik/evalstack",
-    "language": "TypeScript",
-    "name": "anejakartik/evalstack",
-    "stars": 0,
-    "updated_at": "2026-06-22T05:56:36Z",
-    "url": "https://github.com/anejakartik/evalstack"
   }
 ]
