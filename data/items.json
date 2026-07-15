@@ -5,7 +5,7 @@
     "language": "HTML",
     "name": "cklxx/ckl-bench",
     "stars": 1,
-    "updated_at": "2026-07-15T04:04:09Z",
+    "updated_at": "2026-07-15T05:32:42Z",
     "url": "https://github.com/cklxx/ckl-bench"
   },
   {
@@ -54,6 +54,15 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10559,
+    "updated_at": "2026-07-15T01:55:00Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -79,15 +88,6 @@
     "stars": 319,
     "updated_at": "2026-07-14T19:42:33Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10558,
-    "updated_at": "2026-07-15T01:55:00Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "A gym for scientific judgment. AI agents render fatally flawed analyses at publication quality \u2014 we measured whether any",
