@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10588,
-    "updated_at": "2026-07-16T17:11:44Z",
+    "updated_at": "2026-07-16T17:19:45Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -13,8 +13,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23330,
-    "updated_at": "2026-07-16T16:54:58Z",
+    "stars": 23331,
+    "updated_at": "2026-07-16T17:22:53Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -54,12 +54,21 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
+    "description": "Turn any LLM session \u2014 an eval item, agent trace, or one-off completion \u2014 into a permanent, shareable URL you can inspec",
+    "id": "lftherios/session-link",
+    "language": "JavaScript",
+    "name": "lftherios/session-link",
+    "stars": 0,
+    "updated_at": "2026-07-16T14:55:53Z",
+    "url": "https://github.com/lftherios/session-link"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 320,
-    "updated_at": "2026-07-16T16:30:38Z",
+    "updated_at": "2026-07-16T17:16:33Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-24T03:52:11Z",
     "url": "https://github.com/melody-ling-L/eval-resume"
-  },
-  {
-    "description": "Evaluation for AI agents \u2014 judge-based scoring and native RAG metrics (faithfulness, relevancy, context precision/recall",
-    "id": "gashel01/evalmcp",
-    "language": "Python",
-    "name": "gashel01/evalmcp",
-    "stars": 0,
-    "updated_at": "2026-06-22T18:58:45Z",
-    "url": "https://github.com/gashel01/evalmcp"
   }
 ]
