@@ -1,5 +1,14 @@
 [
   {
+    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
+    "id": "saddled-panicattack529/idea-evaluation-pipeline",
+    "language": "\u2014",
+    "name": "saddled-panicattack529/idea-evaluation-pipeline",
+    "stars": 0,
+    "updated_at": "2026-07-16T21:27:21Z",
+    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10590,
-    "updated_at": "2026-07-16T21:09:59Z",
+    "updated_at": "2026-07-16T21:25:48Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -40,18 +49,9 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23335,
+    "stars": 23336,
     "updated_at": "2026-07-16T19:44:33Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-07-16T19:19:08Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
     "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
@@ -68,7 +68,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 320,
-    "updated_at": "2026-07-16T17:16:33Z",
+    "updated_at": "2026-07-16T21:22:55Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -158,7 +158,7 @@
     "language": "Python",
     "name": "ChelseaKR/sprout",
     "stars": 1,
-    "updated_at": "2026-07-16T21:14:55Z",
+    "updated_at": "2026-07-16T21:16:37Z",
     "url": "https://github.com/ChelseaKR/sprout"
   },
   {
