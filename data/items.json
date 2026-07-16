@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10588,
-    "updated_at": "2026-07-16T17:19:45Z",
+    "updated_at": "2026-07-16T17:41:52Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "A local-first CLI for turning any LLM session \u2014 an eval item, agent trace, or one-off completion \u2014 into a permanent, sha",
+    "id": "lftherios/session-link",
+    "language": "JavaScript",
+    "name": "lftherios/session-link",
+    "stars": 0,
+    "updated_at": "2026-07-16T17:32:43Z",
+    "url": "https://github.com/lftherios/session-link"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -52,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-07-16T16:08:23Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "Turn any LLM session \u2014 an eval item, agent trace, or one-off completion \u2014 into a permanent, shareable URL you can inspec",
-    "id": "lftherios/session-link",
-    "language": "JavaScript",
-    "name": "lftherios/session-link",
-    "stars": 0,
-    "updated_at": "2026-07-16T14:55:53Z",
-    "url": "https://github.com/lftherios/session-link"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
