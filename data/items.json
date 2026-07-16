@@ -40,7 +40,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23315,
+    "stars": 23317,
     "updated_at": "2026-07-16T08:04:20Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -180,6 +180,15 @@
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
+    "description": "An graph-eval framework for LLM's ",
+    "id": "harnexa/nexa-gauge",
+    "language": "Python",
+    "name": "harnexa/nexa-gauge",
+    "stars": 40,
+    "updated_at": "2026-07-13T09:29:06Z",
+    "url": "https://github.com/harnexa/nexa-gauge"
+  },
+  {
     "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
     "id": "multivon-ai/multivon-eval",
     "language": "Python",
@@ -277,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-07-07T09:16:14Z",
     "url": "https://github.com/plwslpld-arch/loopward"
-  },
-  {
-    "description": "An graph-eval framework for LLM's ",
-    "id": "harnexa/nexa-gauge",
-    "language": "Python",
-    "name": "harnexa/nexa-gauge",
-    "stars": 39,
-    "updated_at": "2026-07-13T09:29:06Z",
-    "url": "https://github.com/harnexa/nexa-gauge"
   },
   {
     "description": "Vital signs for your agent skills: measure whether a skill triggers when it should and whether it actually helps, on a c",

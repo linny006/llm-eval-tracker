@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-16 11:15 UTC
+> ⏰ Last updated: 2026-07-16 11:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -46,7 +46,7 @@ expired items removed — so you can rely on what you see being current.
 | 2 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-07-16 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 3 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-07-16 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
 | 4 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-07-16 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
-| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23315 | TypeScript | 2026-07-16 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23317 | TypeScript | 2026-07-16 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 6 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-07-16 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
 | 7 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10583 | Python | 2026-07-16 | AI Observability & Evaluation |
 | 8 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5564 | Python | 2026-07-16 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
@@ -62,18 +62,18 @@ expired items removed — so you can rely on what you see being current.
 | 18 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-07-13 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 19 | [pdxlab/trustmodel-mcp-server](https://github.com/pdxlab/trustmodel-mcp-server) | 0 | TypeScript | 2026-07-13 | TrustModel MCP Server — trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t |
 | 20 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-07-13 | Beta reduced-fare reference assistant for five California transit agencies, designed for EN/ES answers from dated, cited |
-| 21 | [multivon-ai/multivon-eval](https://github.com/multivon-ai/multivon-eval) | 8 | Python | 2026-07-13 | Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI |
-| 22 | [monospaceai/evaldata](https://github.com/monospaceai/evaldata) | 2 | Python | 2026-07-13 | Evaluate AI-generated SQL with pytest. |
-| 23 | [truera/trulens](https://github.com/truera/trulens) | 3440 | Python | 2026-07-11 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 24 | [nishant20/testgen-eval](https://github.com/nishant20/testgen-eval) | 0 | TypeScript | 2026-07-10 | An agent-eval harness that gates and judges testgen's generated test suites via MCP — deterministic checks plus an LLM-j |
-| 25 | [sammyjdev/gnomon-eval](https://github.com/sammyjdev/gnomon-eval) | 0 | Python | 2026-07-10 | Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first. |
-| 26 | [ahwurm/localshift](https://github.com/ahwurm/localshift) | 3 | Python | 2026-07-09 | Migrate headless Claude/AI workloads to local LLMs with a derived, per-workload quality eval — cron job in, zero-margina |
-| 27 | [coffee-converter/onthemoney](https://github.com/coffee-converter/onthemoney) | 0 | Python | 2026-07-14 | An AI agent that answers questions about U.S. campaign money against real FEC data. Source-cited, graded on a public eva |
-| 28 | [MihirBindu/dynamo-log-report-fix](https://github.com/MihirBindu/dynamo-log-report-fix) | 0 | Python | 2026-07-09 | A broken Terminal-Bench 2 (Harbor) task, repaired: reproducible env, solution-leak removed, gameable verifier replaced w |
-| 29 | [christianmacion26/judge-harness](https://github.com/christianmacion26/judge-harness) | 0 | Python | 2026-07-08 | LLM-as-judge validated vs humans (Cohen's κ), with position-bias exposed. |
-| 30 | [tkarim45/multi-agent-eval](https://github.com/tkarim45/multi-agent-eval) | 0 | Python | 2026-07-08 | Does multi-agent beat single-agent? Benchmarks a planner→workers→critic system vs single-agent on quality/cost/latency — |
-| 31 | [plwslpld-arch/loopward](https://github.com/plwslpld-arch/loopward) | 1 | TypeScript | 2026-07-07 | Stress-test the tool-routing decision inside an agent loop: audit confusable tools, red-team routing robustness, compare |
-| 32 | [harnexa/nexa-gauge](https://github.com/harnexa/nexa-gauge) | 39 | Python | 2026-07-13 | An graph-eval framework for LLM's  |
+| 21 | [harnexa/nexa-gauge](https://github.com/harnexa/nexa-gauge) | 40 | Python | 2026-07-13 | An graph-eval framework for LLM's  |
+| 22 | [multivon-ai/multivon-eval](https://github.com/multivon-ai/multivon-eval) | 8 | Python | 2026-07-13 | Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI |
+| 23 | [monospaceai/evaldata](https://github.com/monospaceai/evaldata) | 2 | Python | 2026-07-13 | Evaluate AI-generated SQL with pytest. |
+| 24 | [truera/trulens](https://github.com/truera/trulens) | 3440 | Python | 2026-07-11 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 25 | [nishant20/testgen-eval](https://github.com/nishant20/testgen-eval) | 0 | TypeScript | 2026-07-10 | An agent-eval harness that gates and judges testgen's generated test suites via MCP — deterministic checks plus an LLM-j |
+| 26 | [sammyjdev/gnomon-eval](https://github.com/sammyjdev/gnomon-eval) | 0 | Python | 2026-07-10 | Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first. |
+| 27 | [ahwurm/localshift](https://github.com/ahwurm/localshift) | 3 | Python | 2026-07-09 | Migrate headless Claude/AI workloads to local LLMs with a derived, per-workload quality eval — cron job in, zero-margina |
+| 28 | [coffee-converter/onthemoney](https://github.com/coffee-converter/onthemoney) | 0 | Python | 2026-07-14 | An AI agent that answers questions about U.S. campaign money against real FEC data. Source-cited, graded on a public eva |
+| 29 | [MihirBindu/dynamo-log-report-fix](https://github.com/MihirBindu/dynamo-log-report-fix) | 0 | Python | 2026-07-09 | A broken Terminal-Bench 2 (Harbor) task, repaired: reproducible env, solution-leak removed, gameable verifier replaced w |
+| 30 | [christianmacion26/judge-harness](https://github.com/christianmacion26/judge-harness) | 0 | Python | 2026-07-08 | LLM-as-judge validated vs humans (Cohen's κ), with position-bias exposed. |
+| 31 | [tkarim45/multi-agent-eval](https://github.com/tkarim45/multi-agent-eval) | 0 | Python | 2026-07-08 | Does multi-agent beat single-agent? Benchmarks a planner→workers→critic system vs single-agent on quality/cost/latency — |
+| 32 | [plwslpld-arch/loopward](https://github.com/plwslpld-arch/loopward) | 1 | TypeScript | 2026-07-07 | Stress-test the tool-routing decision inside an agent loop: audit confusable tools, red-team routing robustness, compare |
 | 33 | [ContextJet-ai/skillvitals](https://github.com/ContextJet-ai/skillvitals) | 1 | Python | 2026-07-06 | Vital signs for your agent skills: measure whether a skill triggers when it should and whether it actually helps, on a c |
 | 34 | [IonDen/mlx-quant-fidelity](https://github.com/IonDen/mlx-quant-fidelity) | 1 | Python | 2026-07-04 | Measure MLX quantization quality loss — KL divergence, perplexity, top-token agreement for KV cache and weights |
 | 35 | [Sushant-Dagar/agent-eval-harness](https://github.com/Sushant-Dagar/agent-eval-harness) | 0 | Python | 2026-07-04 | CI-integrated eval harness for LLM agents — intent accuracy, retrieval precision/recall/MRR, and hallucination detection |
