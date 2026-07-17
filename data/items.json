@@ -1,12 +1,12 @@
 [
   {
-    "description": "TrustModel MCP Server \u2014 trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t",
-    "id": "pdxlab/trustmodel-mcp-server",
-    "language": "TypeScript",
-    "name": "pdxlab/trustmodel-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-07-17T04:42:56Z",
-    "url": "https://github.com/pdxlab/trustmodel-mcp-server"
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10595,
+    "updated_at": "2026-07-17T05:13:14Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking) --",
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "RudrenduPaul/memtrust",
     "stars": 0,
-    "updated_at": "2026-07-17T04:15:56Z",
+    "updated_at": "2026-07-17T05:06:48Z",
     "url": "https://github.com/RudrenduPaul/memtrust"
+  },
+  {
+    "description": "TrustModel MCP Server \u2014 trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t",
+    "id": "pdxlab/trustmodel-mcp-server",
+    "language": "TypeScript",
+    "name": "pdxlab/trustmodel-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-07-17T04:42:56Z",
+    "url": "https://github.com/pdxlab/trustmodel-mcp-server"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -43,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T03:05:56Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10595,
-    "updated_at": "2026-07-17T04:52:16Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
