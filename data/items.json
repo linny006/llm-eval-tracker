@@ -22,7 +22,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5604,
+    "stars": 5605,
     "updated_at": "2026-07-17T08:20:51Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
@@ -36,12 +36,21 @@
     "url": "https://github.com/Kondwani10/Origin-Continuum"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10597,
+    "updated_at": "2026-07-17T08:11:49Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Beta reduced-fare reference assistant for five California transit agencies, designed for EN/ES answers from dated, cited",
     "id": "ChelseaKR/fare-policy-assistant",
     "language": "HTML",
     "name": "ChelseaKR/fare-policy-assistant",
     "stars": 1,
-    "updated_at": "2026-07-17T08:10:17Z",
+    "updated_at": "2026-07-17T09:05:08Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
@@ -61,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-07-17T08:04:29Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10596,
-    "updated_at": "2026-07-17T08:11:49Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
