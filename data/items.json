@@ -1,5 +1,23 @@
 [
   {
+    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
+    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "language": "\u2014",
+    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "stars": 0,
+    "updated_at": "2026-07-17T13:58:39Z",
+    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
+  },
+  {
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-07-17T13:57:01Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
     "id": "jeremylongshore/j-rig-skill-binary-eval",
     "language": "TypeScript",
@@ -43,24 +61,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T11:33:40Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-07-17T11:26:57Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
-    "id": "bhavya7995/AI_governance",
-    "language": "PowerShell",
-    "name": "bhavya7995/AI_governance",
-    "stars": 1,
-    "updated_at": "2026-07-17T11:25:08Z",
-    "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
     "description": "Offline-first RAG plant-care assistant that answers only from a versioned, cited corpus: enforced inline citations, neve",
@@ -113,7 +113,7 @@
     "language": "TypeScript",
     "name": "pdxlab/trustmodel-mcp-server",
     "stars": 0,
-    "updated_at": "2026-07-17T04:42:56Z",
+    "updated_at": "2026-07-17T13:47:52Z",
     "url": "https://github.com/pdxlab/trustmodel-mcp-server"
   },
   {
@@ -121,7 +121,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23355,
+    "stars": 23356,
     "updated_at": "2026-07-17T04:07:58Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
