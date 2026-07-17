@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10598,
+    "updated_at": "2026-07-17T14:19:04Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "TrustModel MCP Server \u2014 trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t",
     "id": "pdxlab/trustmodel-mcp-server",
     "language": "TypeScript",
@@ -45,15 +54,6 @@
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10598,
-    "updated_at": "2026-07-17T13:14:21Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
     "id": "lftherios/session-link",
     "language": "JavaScript",
@@ -85,7 +85,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5612,
+    "stars": 5613,
     "updated_at": "2026-07-17T08:20:51Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
@@ -121,7 +121,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23358,
+    "stars": 23359,
     "updated_at": "2026-07-17T04:07:58Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
