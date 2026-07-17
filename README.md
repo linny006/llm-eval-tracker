@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-17 22:30 UTC
+> ⏰ Last updated: 2026-07-17 22:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -54,7 +54,7 @@ expired items removed — so you can rely on what you see being current.
 | 10 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-07-17 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 11 | [lftherios/session-link](https://github.com/lftherios/session-link) | 0 | JavaScript | 2026-07-17 | A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit. |
 | 12 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-07-17 | Offline-first RAG plant-care assistant that answers only from a versioned, cited corpus: enforced inline citations, neve |
-| 13 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5627 | Python | 2026-07-17 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 13 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5628 | Python | 2026-07-17 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 14 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-07-17 | Beta reduced-fare reference assistant for five California transit agencies, designed for EN/ES answers from dated, cited |
 | 15 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 321 | TypeScript | 2026-07-17 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 16 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-07-16 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
