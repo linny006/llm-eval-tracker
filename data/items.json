@@ -1,5 +1,14 @@
 [
   {
+    "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
+    "id": "lftherios/session-link",
+    "language": "JavaScript",
+    "name": "lftherios/session-link",
+    "stars": 0,
+    "updated_at": "2026-07-17T11:11:44Z",
+    "url": "https://github.com/lftherios/session-link"
+  },
+  {
     "description": "Offline-first RAG plant-care assistant that answers only from a versioned, cited corpus: enforced inline citations, neve",
     "id": "ChelseaKR/sprout",
     "language": "Python",
@@ -22,7 +31,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5608,
+    "stars": 5609,
     "updated_at": "2026-07-17T08:20:51Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
@@ -103,7 +112,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23351,
+    "stars": 23352,
     "updated_at": "2026-07-17T04:07:58Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -115,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T03:16:03Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
-  },
-  {
-    "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
-    "id": "lftherios/session-link",
-    "language": "JavaScript",
-    "name": "lftherios/session-link",
-    "stars": 0,
-    "updated_at": "2026-07-16T19:14:03Z",
-    "url": "https://github.com/lftherios/session-link"
   },
   {
     "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
