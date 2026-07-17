@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23366,
+    "updated_at": "2026-07-17T19:23:29Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
     "id": "homemade-software-inc/completion-kit",
     "language": "Ruby",
@@ -45,15 +54,6 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23365,
-    "updated_at": "2026-07-17T19:23:29Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking) --",
     "id": "RudrenduPaul/memtrust",
     "language": "Python",
@@ -68,7 +68,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10600,
-    "updated_at": "2026-07-17T19:23:42Z",
+    "updated_at": "2026-07-17T19:37:04Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -112,7 +112,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5623,
+    "stars": 5624,
     "updated_at": "2026-07-17T08:20:51Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
