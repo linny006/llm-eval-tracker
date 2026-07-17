@@ -50,7 +50,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23365,
-    "updated_at": "2026-07-17T18:07:32Z",
+    "updated_at": "2026-07-17T18:58:00Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -68,7 +68,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10600,
-    "updated_at": "2026-07-17T18:41:07Z",
+    "updated_at": "2026-07-17T18:48:17Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -151,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-07-16T03:11:24Z",
     "url": "https://github.com/cklxx/ckl-bench"
-  },
-  {
-    "description": "\u2696\ufe0f Reusable LLM-as-judge harness \u2014 rubrics, pluggable judges (mock/proxy/LLM), and calibration against ground truth. Lib",
-    "id": "alvabillwu/judgekit",
-    "language": "Python",
-    "name": "alvabillwu/judgekit",
-    "stars": 0,
-    "updated_at": "2026-07-15T20:30:02Z",
-    "url": "https://github.com/alvabillwu/judgekit"
   },
   {
     "description": "A gym for scientific judgment. AI agents render fatally flawed analyses at publication quality \u2014 we measured whether any",
@@ -448,5 +439,14 @@
     "stars": 0,
     "updated_at": "2026-06-24T07:31:20Z",
     "url": "https://github.com/tkarim45/agent-eval-harness"
+  },
+  {
+    "description": "\u4e2d\u6587 LLM \u7b80\u5386\u6539\u5199\u8bda\u5b9e\u5ea6 benchmark\uff1a20 \u8131\u654f\u7b80\u5386 \u00d7 3 \u6a21\u578b \u00d7 4 \u7ef4\u5ea6 \u00b7 promptfoo + LLM-as-judge \u00b7 \u542b\u5728\u7ebf\u62a5\u544a",
+    "id": "melody-ling-L/eval-resume",
+    "language": "HTML",
+    "name": "melody-ling-L/eval-resume",
+    "stars": 0,
+    "updated_at": "2026-06-24T03:52:11Z",
+    "url": "https://github.com/melody-ling-L/eval-resume"
   }
 ]
