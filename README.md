@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-17 15:15 UTC
+> ⏰ Last updated: 2026-07-17 15:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -52,7 +52,7 @@ expired items removed — so you can rely on what you see being current.
 | 8 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-07-17 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 9 | [lftherios/session-link](https://github.com/lftherios/session-link) | 0 | JavaScript | 2026-07-17 | A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit. |
 | 10 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-07-17 | Offline-first RAG plant-care assistant that answers only from a versioned, cited corpus: enforced inline citations, neve |
-| 11 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5614 | Python | 2026-07-17 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 11 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5616 | Python | 2026-07-17 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 12 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-07-17 | Beta reduced-fare reference assistant for five California transit agencies, designed for EN/ES answers from dated, cited |
 | 13 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 321 | TypeScript | 2026-07-17 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 14 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23360 | TypeScript | 2026-07-17 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
