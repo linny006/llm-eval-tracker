@@ -1,11 +1,29 @@
 [
   {
+    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
+    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "language": "\u2014",
+    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "stars": 0,
+    "updated_at": "2026-07-17T05:39:58Z",
+    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
+  },
+  {
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-07-17T05:38:17Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10595,
-    "updated_at": "2026-07-17T05:13:14Z",
+    "updated_at": "2026-07-17T05:30:40Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "RudrenduPaul/memtrust",
     "stars": 0,
-    "updated_at": "2026-07-17T05:06:48Z",
+    "updated_at": "2026-07-17T05:44:41Z",
     "url": "https://github.com/RudrenduPaul/memtrust"
   },
   {
@@ -63,24 +81,6 @@
     "url": "https://github.com/Kondwani10/Origin-Continuum"
   },
   {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-07-17T02:32:37Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
-    "id": "bhavya7995/AI_governance",
-    "language": "PowerShell",
-    "name": "bhavya7995/AI_governance",
-    "stars": 1,
-    "updated_at": "2026-07-17T02:31:07Z",
-    "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
     "description": "Offline-first RAG plant-care assistant that answers only from a versioned, cited corpus: enforced inline citations, neve",
     "id": "ChelseaKR/sprout",
     "language": "Python",
@@ -121,7 +121,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5598,
+    "stars": 5599,
     "updated_at": "2026-07-16T05:13:59Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
