@@ -1,5 +1,23 @@
 [
   {
+    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
+    "id": "Kondwani10/Origin-Continuum",
+    "language": "\u2014",
+    "name": "Kondwani10/Origin-Continuum",
+    "stars": 0,
+    "updated_at": "2026-07-17T05:46:25Z",
+    "url": "https://github.com/Kondwani10/Origin-Continuum"
+  },
+  {
+    "description": "Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking) --",
+    "id": "RudrenduPaul/memtrust",
+    "language": "Python",
+    "name": "RudrenduPaul/memtrust",
+    "stars": 0,
+    "updated_at": "2026-07-17T05:55:31Z",
+    "url": "https://github.com/RudrenduPaul/memtrust"
+  },
+  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -25,15 +43,6 @@
     "stars": 10595,
     "updated_at": "2026-07-17T05:30:40Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking) --",
-    "id": "RudrenduPaul/memtrust",
-    "language": "Python",
-    "name": "RudrenduPaul/memtrust",
-    "stars": 0,
-    "updated_at": "2026-07-17T05:44:41Z",
-    "url": "https://github.com/RudrenduPaul/memtrust"
   },
   {
     "description": "TrustModel MCP Server \u2014 trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t",
@@ -70,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T03:05:56Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
-    "id": "Kondwani10/Origin-Continuum",
-    "language": "\u2014",
-    "name": "Kondwani10/Origin-Continuum",
-    "stars": 0,
-    "updated_at": "2026-07-17T02:38:56Z",
-    "url": "https://github.com/Kondwani10/Origin-Continuum"
   },
   {
     "description": "Offline-first RAG plant-care assistant that answers only from a versioned, cited corpus: enforced inline citations, neve",
