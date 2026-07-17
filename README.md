@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-17 04:45 UTC
+> ⏰ Last updated: 2026-07-17 05:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -55,7 +55,7 @@ expired items removed — so you can rely on what you see being current.
 | 11 | [lftherios/session-link](https://github.com/lftherios/session-link) | 0 | JavaScript | 2026-07-16 | A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit. |
 | 12 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 320 | TypeScript | 2026-07-16 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 13 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-07-16 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
-| 14 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5597 | Python | 2026-07-16 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 14 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5598 | Python | 2026-07-16 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 15 | [cklxx/ckl-bench](https://github.com/cklxx/ckl-bench) | 1 | HTML | 2026-07-16 | ckl's personal benchmark for doc writing, infra code, and paper reading — one-click evaluation of the latest models via  |
 | 16 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-07-16 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
 | 17 | [alvabillwu/judgekit](https://github.com/alvabillwu/judgekit) | 0 | Python | 2026-07-15 | ⚖️ Reusable LLM-as-judge harness — rubrics, pluggable judges (mock/proxy/LLM), and calibration against ground truth. Lib |
