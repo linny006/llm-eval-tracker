@@ -1,11 +1,29 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23338,
+    "updated_at": "2026-07-16T23:58:25Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
+    "id": "jeremylongshore/j-rig-skill-binary-eval",
+    "language": "TypeScript",
+    "name": "jeremylongshore/j-rig-skill-binary-eval",
+    "stars": 0,
+    "updated_at": "2026-07-16T23:48:48Z",
+    "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
+  },
+  {
     "description": "Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking) --",
     "id": "RudrenduPaul/memtrust",
     "language": "Python",
     "name": "RudrenduPaul/memtrust",
     "stars": 0,
-    "updated_at": "2026-07-16T22:13:01Z",
+    "updated_at": "2026-07-16T23:05:31Z",
     "url": "https://github.com/RudrenduPaul/memtrust"
   },
   {
@@ -13,8 +31,8 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10589,
-    "updated_at": "2026-07-16T22:13:43Z",
+    "stars": 10591,
+    "updated_at": "2026-07-16T22:59:31Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -54,15 +72,6 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23336,
-    "updated_at": "2026-07-16T19:44:33Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
     "id": "lftherios/session-link",
     "language": "JavaScript",
@@ -94,7 +103,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5587,
+    "stars": 5588,
     "updated_at": "2026-07-16T05:13:59Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
@@ -160,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-07-16T21:16:37Z",
     "url": "https://github.com/ChelseaKR/sprout"
-  },
-  {
-    "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
-    "id": "jeremylongshore/j-rig-skill-binary-eval",
-    "language": "TypeScript",
-    "name": "jeremylongshore/j-rig-skill-binary-eval",
-    "stars": 0,
-    "updated_at": "2026-07-16T22:11:30Z",
-    "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
     "description": "TrustModel MCP Server \u2014 trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t",
