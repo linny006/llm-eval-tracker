@@ -1,5 +1,14 @@
 [
   {
+    "description": "TrustModel MCP Server \u2014 trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t",
+    "id": "pdxlab/trustmodel-mcp-server",
+    "language": "TypeScript",
+    "name": "pdxlab/trustmodel-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-07-17T04:42:56Z",
+    "url": "https://github.com/pdxlab/trustmodel-mcp-server"
+  },
+  {
     "description": "Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking) --",
     "id": "RudrenduPaul/memtrust",
     "language": "Python",
@@ -169,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-07-14T23:23:00Z",
     "url": "https://github.com/vijayarjun7/flipcheck"
-  },
-  {
-    "description": "TrustModel MCP Server \u2014 trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t",
-    "id": "pdxlab/trustmodel-mcp-server",
-    "language": "TypeScript",
-    "name": "pdxlab/trustmodel-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-07-16T13:37:47Z",
-    "url": "https://github.com/pdxlab/trustmodel-mcp-server"
   },
   {
     "description": "Beta reduced-fare reference assistant for five California transit agencies, designed for EN/ES answers from dated, cited",
