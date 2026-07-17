@@ -1,5 +1,23 @@
 [
   {
+    "description": "Offline-first RAG plant-care assistant that answers only from a versioned, cited corpus: enforced inline citations, neve",
+    "id": "ChelseaKR/sprout",
+    "language": "Python",
+    "name": "ChelseaKR/sprout",
+    "stars": 1,
+    "updated_at": "2026-07-17T01:40:02Z",
+    "url": "https://github.com/ChelseaKR/sprout"
+  },
+  {
+    "description": "Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking) --",
+    "id": "RudrenduPaul/memtrust",
+    "language": "Python",
+    "name": "RudrenduPaul/memtrust",
+    "stars": 0,
+    "updated_at": "2026-07-17T01:36:14Z",
+    "url": "https://github.com/RudrenduPaul/memtrust"
+  },
+  {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
     "id": "saddled-panicattack529/idea-evaluation-pipeline",
     "language": "\u2014",
@@ -16,6 +34,15 @@
     "stars": 0,
     "updated_at": "2026-07-17T00:45:42Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10592,
+    "updated_at": "2026-07-17T00:28:44Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -49,27 +76,9 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23337,
+    "stars": 23338,
     "updated_at": "2026-07-17T00:00:59Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking) --",
-    "id": "RudrenduPaul/memtrust",
-    "language": "Python",
-    "name": "RudrenduPaul/memtrust",
-    "stars": 0,
-    "updated_at": "2026-07-16T23:05:31Z",
-    "url": "https://github.com/RudrenduPaul/memtrust"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10591,
-    "updated_at": "2026-07-17T00:28:44Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
@@ -160,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-07-14T23:23:00Z",
     "url": "https://github.com/vijayarjun7/flipcheck"
-  },
-  {
-    "description": "Offline-first RAG plant-care assistant that answers only from a versioned, cited corpus: enforced inline citations, neve",
-    "id": "ChelseaKR/sprout",
-    "language": "Python",
-    "name": "ChelseaKR/sprout",
-    "stars": 1,
-    "updated_at": "2026-07-17T01:30:11Z",
-    "url": "https://github.com/ChelseaKR/sprout"
   },
   {
     "description": "TrustModel MCP Server \u2014 trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t",
