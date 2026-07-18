@@ -50,8 +50,17 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10615,
-    "updated_at": "2026-07-18T18:59:50Z",
+    "updated_at": "2026-07-18T20:10:33Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23390,
+    "updated_at": "2026-07-18T16:44:47Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Bilingual reduced-fare policy assistant for five California transit agencies, grounded in dated citations and shipped wi",
@@ -70,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-07-18T15:58:20Z",
     "url": "https://github.com/lftherios/session-link"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23389,
-    "updated_at": "2026-07-18T16:44:47Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Automated groundedness scoring, hallucination detection, and regression tracking for RAG and agent outputs",
