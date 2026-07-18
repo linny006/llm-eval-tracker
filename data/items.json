@@ -1,11 +1,20 @@
 [
   {
+    "description": "Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking) --",
+    "id": "RudrenduPaul/memtrust",
+    "language": "Python",
+    "name": "RudrenduPaul/memtrust",
+    "stars": 0,
+    "updated_at": "2026-07-18T18:43:51Z",
+    "url": "https://github.com/RudrenduPaul/memtrust"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10615,
-    "updated_at": "2026-07-18T18:18:42Z",
+    "updated_at": "2026-07-18T18:43:48Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -88,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-18T09:19:51Z",
     "url": "https://github.com/iZenDeveloper/auditai"
-  },
-  {
-    "description": "Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking) --",
-    "id": "RudrenduPaul/memtrust",
-    "language": "Python",
-    "name": "RudrenduPaul/memtrust",
-    "stars": 0,
-    "updated_at": "2026-07-18T02:06:24Z",
-    "url": "https://github.com/RudrenduPaul/memtrust"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
