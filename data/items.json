@@ -1,5 +1,14 @@
 [
   {
+    "description": "Developer-first LLM/RAG safety audits for CI/CD \u2014 faithfulness, relevancy, prompt injection (BYOK OpenAI/xAI). pip insta",
+    "id": "iZenDeveloper/auditai",
+    "language": "Python",
+    "name": "iZenDeveloper/auditai",
+    "stars": 0,
+    "updated_at": "2026-07-18T09:19:51Z",
+    "url": "https://github.com/iZenDeveloper/auditai"
+  },
+  {
     "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
     "id": "lftherios/session-link",
     "language": "JavaScript",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-24T13:55:06Z",
     "url": "https://github.com/RaphaelFakhri/reagent"
-  },
-  {
-    "description": "Agent eval harness \u2014 measure task success, tool-call accuracy, step efficiency, and cost for tool-using LLM agents (Clau",
-    "id": "tkarim45/agent-eval-harness",
-    "language": "Python",
-    "name": "tkarim45/agent-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-06-24T07:31:20Z",
-    "url": "https://github.com/tkarim45/agent-eval-harness"
   }
 ]
