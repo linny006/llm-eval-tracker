@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-18 20:15 UTC
+> ⏰ Last updated: 2026-07-18 20:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -57,7 +57,7 @@ expired items removed — so you can rely on what you see being current.
 | 13 | [pdxlab/trustmodel-mcp-server](https://github.com/pdxlab/trustmodel-mcp-server) | 0 | TypeScript | 2026-07-17 | TrustModel MCP Server — trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t |
 | 14 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-07-17 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 15 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-07-17 | Offline-first plant-care assistant and public evaluation harness with cited-corpus answers, calibrated abstention, toxic |
-| 16 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5655 | Python | 2026-07-17 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 16 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5656 | Python | 2026-07-17 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 17 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 321 | TypeScript | 2026-07-17 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 18 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-07-16 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
 | 19 | [cklxx/ckl-bench](https://github.com/cklxx/ckl-bench) | 1 | HTML | 2026-07-16 | ckl's personal benchmark for doc writing, infra code, and paper reading — one-click evaluation of the latest models via  |
