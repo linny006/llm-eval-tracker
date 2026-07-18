@@ -32,7 +32,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10605,
-    "updated_at": "2026-07-17T23:35:28Z",
+    "updated_at": "2026-07-18T00:09:53Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -178,6 +178,15 @@
     "stars": 0,
     "updated_at": "2026-07-14T23:23:00Z",
     "url": "https://github.com/vijayarjun7/flipcheck"
+  },
+  {
+    "description": "An open-source benchmark for evaluating AI agents' ability to find backdoors hidden in compiled binaries.",
+    "id": "QuesmaOrg/BinaryAudit",
+    "language": "Shell",
+    "name": "QuesmaOrg/BinaryAudit",
+    "stars": 94,
+    "updated_at": "2026-07-14T16:19:30Z",
+    "url": "https://github.com/QuesmaOrg/BinaryAudit"
   },
   {
     "description": "An graph-eval framework for LLM's ",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-24T07:31:20Z",
     "url": "https://github.com/tkarim45/agent-eval-harness"
-  },
-  {
-    "description": "\u4e2d\u6587 LLM \u7b80\u5386\u6539\u5199\u8bda\u5b9e\u5ea6 benchmark\uff1a20 \u8131\u654f\u7b80\u5386 \u00d7 3 \u6a21\u578b \u00d7 4 \u7ef4\u5ea6 \u00b7 promptfoo + LLM-as-judge \u00b7 \u542b\u5728\u7ebf\u62a5\u544a",
-    "id": "melody-ling-L/eval-resume",
-    "language": "HTML",
-    "name": "melody-ling-L/eval-resume",
-    "stars": 0,
-    "updated_at": "2026-06-24T03:52:11Z",
-    "url": "https://github.com/melody-ling-L/eval-resume"
   }
 ]
