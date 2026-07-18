@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-18 15:15 UTC
+> ⏰ Last updated: 2026-07-18 15:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -50,7 +50,7 @@ expired items removed — so you can rely on what you see being current.
 | 6 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-07-18 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 7 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23387 | TypeScript | 2026-07-18 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 8 | [iZenDeveloper/auditai](https://github.com/iZenDeveloper/auditai) | 0 | Python | 2026-07-18 | Developer-first LLM/RAG safety audits for CI/CD — faithfulness, relevancy, prompt injection (BYOK OpenAI/xAI). pip insta |
-| 9 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10614 | Python | 2026-07-18 | AI Observability & Evaluation |
+| 9 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10615 | Python | 2026-07-18 | AI Observability & Evaluation |
 | 10 | [RudrenduPaul/memtrust](https://github.com/RudrenduPaul/memtrust) | 0 | Python | 2026-07-18 | Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking) -- |
 | 11 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-07-17 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
 | 12 | [pdxlab/trustmodel-mcp-server](https://github.com/pdxlab/trustmodel-mcp-server) | 0 | TypeScript | 2026-07-17 | TrustModel MCP Server — trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t |
