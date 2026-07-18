@@ -1,5 +1,14 @@
 [
   {
+    "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
+    "id": "lftherios/session-link",
+    "language": "JavaScript",
+    "name": "lftherios/session-link",
+    "stars": 0,
+    "updated_at": "2026-07-18T08:36:49Z",
+    "url": "https://github.com/lftherios/session-link"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -90,15 +99,6 @@
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
-    "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
-    "id": "lftherios/session-link",
-    "language": "JavaScript",
-    "name": "lftherios/session-link",
-    "stars": 0,
-    "updated_at": "2026-07-17T13:06:30Z",
-    "url": "https://github.com/lftherios/session-link"
-  },
-  {
     "description": "Offline-first RAG plant-care assistant that answers only from a versioned, cited corpus: enforced inline citations, neve",
     "id": "ChelseaKR/sprout",
     "language": "Python",
@@ -112,7 +112,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5644,
+    "stars": 5645,
     "updated_at": "2026-07-17T08:20:51Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
