@@ -5,8 +5,26 @@
     "language": "JavaScript",
     "name": "lftherios/session-link",
     "stars": 0,
-    "updated_at": "2026-07-18T15:34:00Z",
+    "updated_at": "2026-07-18T15:58:20Z",
     "url": "https://github.com/lftherios/session-link"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10615,
+    "updated_at": "2026-07-18T15:46:47Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23388,
+    "updated_at": "2026-07-18T15:18:11Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Automated groundedness scoring, hallucination detection, and regression tracking for RAG and agent outputs",
@@ -54,15 +72,6 @@
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23387,
-    "updated_at": "2026-07-18T15:18:11Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Developer-first LLM/RAG safety audits for CI/CD \u2014 faithfulness, relevancy, prompt injection (BYOK OpenAI/xAI). pip insta",
     "id": "iZenDeveloper/auditai",
     "language": "Python",
@@ -72,15 +81,6 @@
     "url": "https://github.com/iZenDeveloper/auditai"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10615,
-    "updated_at": "2026-07-18T15:28:24Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking) --",
     "id": "RudrenduPaul/memtrust",
     "language": "Python",
@@ -88,6 +88,15 @@
     "stars": 0,
     "updated_at": "2026-07-18T02:06:24Z",
     "url": "https://github.com/RudrenduPaul/memtrust"
+  },
+  {
+    "description": "Bilingual reduced-fare policy assistant for five California transit agencies, grounded in dated citations and shipped wi",
+    "id": "ChelseaKR/fare-policy-assistant",
+    "language": "HTML",
+    "name": "ChelseaKR/fare-policy-assistant",
+    "stars": 1,
+    "updated_at": "2026-07-17T21:25:15Z",
+    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
@@ -117,7 +126,7 @@
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
-    "description": "Offline-first RAG plant-care assistant that answers only from a versioned, cited corpus: enforced inline citations, neve",
+    "description": "Offline-first plant-care assistant and public evaluation harness with cited-corpus answers, calibrated abstention, toxic",
     "id": "ChelseaKR/sprout",
     "language": "Python",
     "name": "ChelseaKR/sprout",
@@ -130,18 +139,9 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5654,
+    "stars": 5655,
     "updated_at": "2026-07-17T08:20:51Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Beta reduced-fare reference assistant for five California transit agencies, designed for EN/ES answers from dated, cited",
-    "id": "ChelseaKR/fare-policy-assistant",
-    "language": "HTML",
-    "name": "ChelseaKR/fare-policy-assistant",
-    "stars": 1,
-    "updated_at": "2026-07-17T21:25:15Z",
-    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
