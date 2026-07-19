@@ -1,5 +1,14 @@
 [
   {
+    "description": "Know when your AI gets worse \u2014 before your users do. Records how your LLM apps and agents behave and checks every change",
+    "id": "Eval-core/evalcore",
+    "language": "Rust",
+    "name": "Eval-core/evalcore",
+    "stars": 5,
+    "updated_at": "2026-07-19T22:09:21Z",
+    "url": "https://github.com/Eval-core/evalcore"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 10626,
     "updated_at": "2026-07-19T21:52:45Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Know when your AI gets worse \u2014 before your users do. Records how your LLM apps and agents behave and checks every change",
-    "id": "Eval-core/evalcore",
-    "language": "Rust",
-    "name": "Eval-core/evalcore",
-    "stars": 5,
-    "updated_at": "2026-07-19T21:48:41Z",
-    "url": "https://github.com/Eval-core/evalcore"
   },
   {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
