@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-19 21:15 UTC
+> ⏰ Last updated: 2026-07-19 21:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -69,7 +69,7 @@ expired items removed — so you can rely on what you see being current.
 | 25 | [QuesmaOrg/BinaryAudit](https://github.com/QuesmaOrg/BinaryAudit) | 96 | Shell | 2026-07-14 | An open-source benchmark for evaluating AI agents' ability to find backdoors hidden in compiled binaries. |
 | 26 | [harnexa/nexa-gauge](https://github.com/harnexa/nexa-gauge) | 40 | Python | 2026-07-13 | An graph-eval framework for LLM's  |
 | 27 | [multivon-ai/multivon-eval](https://github.com/multivon-ai/multivon-eval) | 8 | Python | 2026-07-13 | Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI |
-| 28 | [monospaceai/evaldata](https://github.com/monospaceai/evaldata) | 2 | Python | 2026-07-13 | Evaluate AI-generated SQL with pytest. |
+| 28 | [monospaceai/evaldata](https://github.com/monospaceai/evaldata) | 2 | Python | 2026-07-19 | Evaluate AI-generated SQL with pytest. |
 | 29 | [attogram/ollama-multirun](https://github.com/attogram/ollama-multirun) | 16 | Shell | 2026-07-12 | Run a prompt against all, or some, of your models running on Ollama. Creates web pages with the output, performance stat |
 | 30 | [truera/trulens](https://github.com/truera/trulens) | 3447 | Python | 2026-07-11 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 31 | [nishant20/testgen-eval](https://github.com/nishant20/testgen-eval) | 0 | TypeScript | 2026-07-10 | An agent-eval harness that gates and judges testgen's generated test suites via MCP — deterministic checks plus an LLM-j |
