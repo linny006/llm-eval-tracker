@@ -1,11 +1,20 @@
 [
   {
+    "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
+    "id": "jeremylongshore/j-rig-skill-binary-eval",
+    "language": "TypeScript",
+    "name": "jeremylongshore/j-rig-skill-binary-eval",
+    "stars": 0,
+    "updated_at": "2026-07-19T20:57:45Z",
+    "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10626,
-    "updated_at": "2026-07-19T20:24:00Z",
+    "updated_at": "2026-07-19T20:56:41Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -22,7 +31,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23410,
+    "stars": 23411,
     "updated_at": "2026-07-19T18:23:56Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -151,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T14:06:25Z",
     "url": "https://github.com/pdxlab/trustmodel-mcp-server"
-  },
-  {
-    "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
-    "id": "jeremylongshore/j-rig-skill-binary-eval",
-    "language": "TypeScript",
-    "name": "jeremylongshore/j-rig-skill-binary-eval",
-    "stars": 0,
-    "updated_at": "2026-07-19T20:45:05Z",
-    "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
     "description": "Offline-first plant-care assistant and public evaluation harness with cited-corpus answers, calibrated abstention, toxic",
