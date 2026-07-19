@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-19 13:15 UTC
+> ⏰ Last updated: 2026-07-19 13:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,27 +42,27 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5657 | Python | 2026-07-19 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 2 | [lftherios/session-link](https://github.com/lftherios/session-link) | 0 | Go | 2026-07-19 | A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit. |
-| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10619 | Python | 2026-07-19 | AI Observability & Evaluation |
-| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23404 | TypeScript | 2026-07-19 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 5 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-07-19 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 6 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-07-19 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
-| 7 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-07-19 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
-| 8 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-07-19 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
-| 9 | [Eval-core/evalcore](https://github.com/Eval-core/evalcore) | 5 | Rust | 2026-07-19 | Know when your AI gets worse — before your users do. Records how your LLM apps and agents behave and checks every change |
-| 10 | [RudrenduPaul/memtrust](https://github.com/RudrenduPaul/memtrust) | 0 | Python | 2026-07-19 | Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking) -- |
-| 11 | [sammyjdev/gnomon-eval](https://github.com/sammyjdev/gnomon-eval) | 0 | Python | 2026-07-19 | Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first. |
-| 12 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-07-19 | Bilingual reduced-fare policy assistant for five California transit agencies, grounded in dated citations and shipped wi |
-| 13 | [AshC2004/llm-eval-harness](https://github.com/AshC2004/llm-eval-harness) | 0 | Python | 2026-07-18 | Automated groundedness scoring, hallucination detection, and regression tracking for RAG and agent outputs |
-| 14 | [iZenDeveloper/auditai](https://github.com/iZenDeveloper/auditai) | 0 | Python | 2026-07-18 | Developer-first LLM/RAG safety audits for CI/CD — faithfulness, relevancy, prompt injection (BYOK OpenAI/xAI). pip insta |
-| 15 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-07-17 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
-| 16 | [pdxlab/trustmodel-mcp-server](https://github.com/pdxlab/trustmodel-mcp-server) | 0 | TypeScript | 2026-07-17 | TrustModel MCP Server — trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t |
-| 17 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-07-17 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
-| 18 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-07-17 | Offline-first plant-care assistant and public evaluation harness with cited-corpus answers, calibrated abstention, toxic |
-| 19 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 321 | TypeScript | 2026-07-19 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 20 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-07-16 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
-| 21 | [cklxx/ckl-bench](https://github.com/cklxx/ckl-bench) | 1 | HTML | 2026-07-16 | ckl's personal benchmark for doc writing, infra code, and paper reading — one-click evaluation of the latest models via  |
+| 1 | [cklxx/ckl-bench](https://github.com/cklxx/ckl-bench) | 1 | HTML | 2026-07-19 | ckl's personal benchmark for doc writing, infra code, and paper reading — one-click evaluation of the latest models via  |
+| 2 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5657 | Python | 2026-07-19 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 3 | [lftherios/session-link](https://github.com/lftherios/session-link) | 0 | Go | 2026-07-19 | A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit. |
+| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10619 | Python | 2026-07-19 | AI Observability & Evaluation |
+| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23404 | TypeScript | 2026-07-19 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 6 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-07-19 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
+| 7 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-07-19 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
+| 8 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-07-19 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
+| 9 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-07-19 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
+| 10 | [Eval-core/evalcore](https://github.com/Eval-core/evalcore) | 5 | Rust | 2026-07-19 | Know when your AI gets worse — before your users do. Records how your LLM apps and agents behave and checks every change |
+| 11 | [RudrenduPaul/memtrust](https://github.com/RudrenduPaul/memtrust) | 0 | Python | 2026-07-19 | Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking) -- |
+| 12 | [sammyjdev/gnomon-eval](https://github.com/sammyjdev/gnomon-eval) | 0 | Python | 2026-07-19 | Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first. |
+| 13 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-07-19 | Bilingual reduced-fare policy assistant for five California transit agencies, grounded in dated citations and shipped wi |
+| 14 | [AshC2004/llm-eval-harness](https://github.com/AshC2004/llm-eval-harness) | 0 | Python | 2026-07-18 | Automated groundedness scoring, hallucination detection, and regression tracking for RAG and agent outputs |
+| 15 | [iZenDeveloper/auditai](https://github.com/iZenDeveloper/auditai) | 0 | Python | 2026-07-18 | Developer-first LLM/RAG safety audits for CI/CD — faithfulness, relevancy, prompt injection (BYOK OpenAI/xAI). pip insta |
+| 16 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-07-17 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
+| 17 | [pdxlab/trustmodel-mcp-server](https://github.com/pdxlab/trustmodel-mcp-server) | 0 | TypeScript | 2026-07-17 | TrustModel MCP Server — trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t |
+| 18 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-07-17 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
+| 19 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-07-17 | Offline-first plant-care assistant and public evaluation harness with cited-corpus answers, calibrated abstention, toxic |
+| 20 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 321 | TypeScript | 2026-07-19 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 21 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-07-16 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
 | 22 | [sahuno/confounded](https://github.com/sahuno/confounded) | 0 | R | 2026-07-15 | A gym for scientific judgment. AI agents render fatally flawed analyses at publication quality — we measured whether any |
 | 23 | [vitorwilher/copom-rag-service](https://github.com/vitorwilher/copom-rag-service) | 0 | Python | 2026-07-15 | Serviço de RAG sobre atas do Copom + boletim Focus, servido como API (FastAPI+Docker), com eval harness (golden set, LLM |
 | 24 | [vijayarjun7/flipcheck](https://github.com/vijayarjun7/flipcheck) | 0 | TypeScript | 2026-07-14 | LLM self-consistency and sycophancy diagnostic — catches contradictions and false-premise acceptance hiding behind confi |

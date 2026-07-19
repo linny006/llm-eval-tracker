@@ -1,5 +1,14 @@
 [
   {
+    "description": "ckl's personal benchmark for doc writing, infra code, and paper reading \u2014 one-click evaluation of the latest models via ",
+    "id": "cklxx/ckl-bench",
+    "language": "HTML",
+    "name": "cklxx/ckl-bench",
+    "stars": 1,
+    "updated_at": "2026-07-19T13:20:28Z",
+    "url": "https://github.com/cklxx/ckl-bench"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -178,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-07-16T07:28:56Z",
     "url": "https://github.com/valbaudo/awf"
-  },
-  {
-    "description": "ckl's personal benchmark for doc writing, infra code, and paper reading \u2014 one-click evaluation of the latest models via ",
-    "id": "cklxx/ckl-bench",
-    "language": "HTML",
-    "name": "cklxx/ckl-bench",
-    "stars": 1,
-    "updated_at": "2026-07-16T03:11:24Z",
-    "url": "https://github.com/cklxx/ckl-bench"
   },
   {
     "description": "A gym for scientific judgment. AI agents render fatally flawed analyses at publication quality \u2014 we measured whether any",
