@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-19 14:45 UTC
+> ⏰ Last updated: 2026-07-19 15:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -45,7 +45,7 @@ expired items removed — so you can rely on what you see being current.
 | 1 | [cklxx/ckl-bench](https://github.com/cklxx/ckl-bench) | 1 | HTML | 2026-07-19 | ckl's personal benchmark for doc writing, infra code, and paper reading — one-click evaluation of the latest models via  |
 | 2 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5657 | Python | 2026-07-19 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 3 | [lftherios/session-link](https://github.com/lftherios/session-link) | 0 | Go | 2026-07-19 | A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit. |
-| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10620 | Python | 2026-07-19 | AI Observability & Evaluation |
+| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10621 | Python | 2026-07-19 | AI Observability & Evaluation |
 | 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23408 | TypeScript | 2026-07-19 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 6 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-07-19 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 7 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-07-19 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
