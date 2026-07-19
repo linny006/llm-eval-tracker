@@ -1,5 +1,23 @@
 [
   {
+    "description": "Know when your AI gets worse \u2014 before your users do. Records how your LLM apps and agents behave and checks every change",
+    "id": "Eval-core/evalcore",
+    "language": "Rust",
+    "name": "Eval-core/evalcore",
+    "stars": 5,
+    "updated_at": "2026-07-19T23:20:53Z",
+    "url": "https://github.com/Eval-core/evalcore"
+  },
+  {
+    "description": "Evaluate AI-generated SQL with pytest.",
+    "id": "monospaceai/evaldata",
+    "language": "Python",
+    "name": "monospaceai/evaldata",
+    "stars": 2,
+    "updated_at": "2026-07-19T23:20:37Z",
+    "url": "https://github.com/monospaceai/evaldata"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -7,15 +25,6 @@
     "stars": 10626,
     "updated_at": "2026-07-19T23:07:19Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Know when your AI gets worse \u2014 before your users do. Records how your LLM apps and agents behave and checks every change",
-    "id": "Eval-core/evalcore",
-    "language": "Rust",
-    "name": "Eval-core/evalcore",
-    "stars": 5,
-    "updated_at": "2026-07-19T22:09:21Z",
-    "url": "https://github.com/Eval-core/evalcore"
   },
   {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
@@ -31,7 +40,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23413,
+    "stars": 23414,
     "updated_at": "2026-07-19T18:23:56Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -241,15 +250,6 @@
     "stars": 8,
     "updated_at": "2026-07-13T03:14:02Z",
     "url": "https://github.com/multivon-ai/multivon-eval"
-  },
-  {
-    "description": "Evaluate AI-generated SQL with pytest.",
-    "id": "monospaceai/evaldata",
-    "language": "Python",
-    "name": "monospaceai/evaldata",
-    "stars": 2,
-    "updated_at": "2026-07-19T22:53:18Z",
-    "url": "https://github.com/monospaceai/evaldata"
   },
   {
     "description": "Run a prompt against all, or some, of your models running on Ollama. Creates web pages with the output, performance stat",
