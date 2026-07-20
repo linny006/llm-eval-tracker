@@ -1,5 +1,23 @@
 [
   {
+    "description": "Does multi-agent beat single-agent? Benchmarks a planner\u2192workers\u2192critic system vs single-agent on quality/cost/latency \u2014",
+    "id": "tkarim45/multi-agent-eval",
+    "language": "Python",
+    "name": "tkarim45/multi-agent-eval",
+    "stars": 0,
+    "updated_at": "2026-07-20T07:29:02Z",
+    "url": "https://github.com/tkarim45/multi-agent-eval"
+  },
+  {
+    "description": "Agent eval harness \u2014 measure task success, tool-call accuracy, step efficiency, and cost for tool-using LLM agents (Clau",
+    "id": "tkarim45/agent-eval-harness",
+    "language": "Python",
+    "name": "tkarim45/agent-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-07-20T07:28:49Z",
+    "url": "https://github.com/tkarim45/agent-eval-harness"
+  },
+  {
     "description": "Developer-first LLM/RAG safety audits for CI/CD \u2014 faithfulness, relevancy, prompt injection (BYOK OpenAI/xAI). pip insta",
     "id": "iZenDeveloper/auditai",
     "language": "Python",
@@ -85,7 +103,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5658,
+    "stars": 5659,
     "updated_at": "2026-07-19T12:58:16Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
@@ -297,15 +315,6 @@
     "url": "https://github.com/christianmacion26/judge-harness"
   },
   {
-    "description": "Does multi-agent beat single-agent? Benchmarks a planner\u2192workers\u2192critic system vs single-agent on quality/cost/latency \u2014",
-    "id": "tkarim45/multi-agent-eval",
-    "language": "Python",
-    "name": "tkarim45/multi-agent-eval",
-    "stars": 0,
-    "updated_at": "2026-07-08T07:57:11Z",
-    "url": "https://github.com/tkarim45/multi-agent-eval"
-  },
-  {
     "description": "Stress-test the tool-routing decision inside an agent loop: audit confusable tools, red-team routing robustness, compare",
     "id": "plwslpld-arch/loopward",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-25T16:24:29Z",
     "url": "https://github.com/thewonderofyou777z-dot/tjoe-reviewkit"
-  },
-  {
-    "description": "Tool-using ReAct + RAG agent (enterprise assistant) with a built-in evaluation harness scoring accuracy, tool selection,",
-    "id": "RaphaelFakhri/reagent",
-    "language": "Python",
-    "name": "RaphaelFakhri/reagent",
-    "stars": 0,
-    "updated_at": "2026-06-24T13:55:06Z",
-    "url": "https://github.com/RaphaelFakhri/reagent"
   }
 ]
