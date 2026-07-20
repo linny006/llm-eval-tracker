@@ -1,5 +1,14 @@
 [
   {
+    "description": "Developer-first LLM/RAG safety audits for CI/CD \u2014 faithfulness, relevancy, prompt injection (BYOK OpenAI/xAI). pip insta",
+    "id": "iZenDeveloper/auditai",
+    "language": "Python",
+    "name": "iZenDeveloper/auditai",
+    "stars": 0,
+    "updated_at": "2026-07-20T07:11:59Z",
+    "url": "https://github.com/iZenDeveloper/auditai"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -13,7 +22,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23424,
+    "stars": 23425,
     "updated_at": "2026-07-20T05:51:52Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -49,7 +58,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10633,
+    "stars": 10634,
     "updated_at": "2026-07-19T23:07:19Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -142,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-18T14:53:47Z",
     "url": "https://github.com/AshC2004/llm-eval-harness"
-  },
-  {
-    "description": "Developer-first LLM/RAG safety audits for CI/CD \u2014 faithfulness, relevancy, prompt injection (BYOK OpenAI/xAI). pip insta",
-    "id": "iZenDeveloper/auditai",
-    "language": "Python",
-    "name": "iZenDeveloper/auditai",
-    "stars": 0,
-    "updated_at": "2026-07-18T09:19:51Z",
-    "url": "https://github.com/iZenDeveloper/auditai"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
