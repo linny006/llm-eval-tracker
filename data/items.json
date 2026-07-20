@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10642,
+    "updated_at": "2026-07-20T23:08:26Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Developer-first LLM/RAG safety audits for CI/CD \u2014 faithfulness, relevancy, prompt injection (BYOK OpenAI/xAI). pip insta",
     "id": "iZenDeveloper/auditai",
     "language": "Python",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23446,
-    "updated_at": "2026-07-20T22:46:10Z",
+    "updated_at": "2026-07-20T23:13:52Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -34,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T21:24:46Z",
     "url": "https://github.com/vitorwilher/copom-rag-service"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10642,
-    "updated_at": "2026-07-20T23:00:00Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -94,7 +94,7 @@
     "id": "NoesisVision/nasde-toolkit",
     "language": "Python",
     "name": "NoesisVision/nasde-toolkit",
-    "stars": 10,
+    "stars": 11,
     "updated_at": "2026-07-20T10:27:42Z",
     "url": "https://github.com/NoesisVision/nasde-toolkit"
   },
