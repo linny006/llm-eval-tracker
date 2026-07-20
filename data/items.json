@@ -5,8 +5,17 @@
     "language": "Rust",
     "name": "Eval-core/evalcore",
     "stars": 5,
-    "updated_at": "2026-07-19T23:20:53Z",
+    "updated_at": "2026-07-20T01:02:21Z",
     "url": "https://github.com/Eval-core/evalcore"
+  },
+  {
+    "description": "Offline-first plant-care assistant and public evaluation harness with cited-corpus answers, calibrated abstention, toxic",
+    "id": "ChelseaKR/sprout",
+    "language": "Python",
+    "name": "ChelseaKR/sprout",
+    "stars": 1,
+    "updated_at": "2026-07-20T00:53:08Z",
+    "url": "https://github.com/ChelseaKR/sprout"
   },
   {
     "description": "Evaluate AI-generated SQL with pytest.",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "monospaceai/evaldata",
     "stars": 2,
-    "updated_at": "2026-07-19T23:20:37Z",
+    "updated_at": "2026-07-20T00:47:51Z",
     "url": "https://github.com/monospaceai/evaldata"
   },
   {
@@ -22,7 +31,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10626,
+    "stars": 10628,
     "updated_at": "2026-07-19T23:07:19Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -40,7 +49,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23415,
+    "stars": 23416,
     "updated_at": "2026-07-19T18:23:56Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -131,7 +140,7 @@
     "language": "HTML",
     "name": "ChelseaKR/fare-policy-assistant",
     "stars": 1,
-    "updated_at": "2026-07-19T04:53:14Z",
+    "updated_at": "2026-07-20T00:48:52Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
@@ -171,21 +180,12 @@
     "url": "https://github.com/pdxlab/trustmodel-mcp-server"
   },
   {
-    "description": "Offline-first plant-care assistant and public evaluation harness with cited-corpus answers, calibrated abstention, toxic",
-    "id": "ChelseaKR/sprout",
-    "language": "Python",
-    "name": "ChelseaKR/sprout",
-    "stars": 1,
-    "updated_at": "2026-07-17T08:55:36Z",
-    "url": "https://github.com/ChelseaKR/sprout"
-  },
-  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 321,
-    "updated_at": "2026-07-19T01:02:39Z",
+    "updated_at": "2026-07-20T01:12:53Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
