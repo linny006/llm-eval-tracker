@@ -1,5 +1,14 @@
 [
   {
+    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
+    "id": "Eval-core/evalcore",
+    "language": "Rust",
+    "name": "Eval-core/evalcore",
+    "stars": 10,
+    "updated_at": "2026-07-20T16:41:01Z",
+    "url": "https://github.com/Eval-core/evalcore"
+  },
+  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
@@ -108,15 +117,6 @@
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
-    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
-    "id": "Eval-core/evalcore",
-    "language": "Rust",
-    "name": "Eval-core/evalcore",
-    "stars": 10,
-    "updated_at": "2026-07-20T01:53:12Z",
-    "url": "https://github.com/Eval-core/evalcore"
-  },
-  {
     "description": "Evaluate AI-generated SQL with pytest.",
     "id": "monospaceai/evaldata",
     "language": "Python",
@@ -203,7 +203,7 @@
     "language": "Ruby",
     "name": "homemade-software-inc/completion-kit",
     "stars": 1,
-    "updated_at": "2026-07-17T18:34:03Z",
+    "updated_at": "2026-07-20T16:36:44Z",
     "url": "https://github.com/homemade-software-inc/completion-kit"
   },
   {
