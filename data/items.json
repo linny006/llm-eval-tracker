@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10642,
-    "updated_at": "2026-07-20T23:08:26Z",
+    "updated_at": "2026-07-20T23:25:24Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -153,6 +153,15 @@
     "url": "https://github.com/lftherios/session-link"
   },
   {
+    "description": "Agent memory backends each publish their own benchmark numbers, on different tests, measured different ways. memtrust ru",
+    "id": "RudrenduPaul/memtrust",
+    "language": "Python",
+    "name": "RudrenduPaul/memtrust",
+    "stars": 0,
+    "updated_at": "2026-07-19T07:11:13Z",
+    "url": "https://github.com/RudrenduPaul/memtrust"
+  },
+  {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
     "id": "saddled-panicattack529/idea-evaluation-pipeline",
     "language": "\u2014",
@@ -187,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-07-19T06:01:43Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking) --",
-    "id": "RudrenduPaul/memtrust",
-    "language": "Python",
-    "name": "RudrenduPaul/memtrust",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:11:13Z",
-    "url": "https://github.com/RudrenduPaul/memtrust"
   },
   {
     "description": "Automated groundedness scoring, hallucination detection, and regression tracking for RAG and agent outputs",
