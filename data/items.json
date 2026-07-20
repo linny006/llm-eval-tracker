@@ -1,5 +1,14 @@
 [
   {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3448,
+    "updated_at": "2026-07-20T15:06:51Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -94,7 +103,7 @@
     "id": "Eval-core/evalcore",
     "language": "Rust",
     "name": "Eval-core/evalcore",
-    "stars": 7,
+    "stars": 8,
     "updated_at": "2026-07-20T01:53:12Z",
     "url": "https://github.com/Eval-core/evalcore"
   },
@@ -268,15 +277,6 @@
     "stars": 16,
     "updated_at": "2026-07-12T14:06:36Z",
     "url": "https://github.com/attogram/ollama-multirun"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3448,
-    "updated_at": "2026-07-11T01:04:48Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "An agent-eval harness that gates and judges testgen's generated test suites via MCP \u2014 deterministic checks plus an LLM-j",
