@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3448,
-    "updated_at": "2026-07-20T20:28:24Z",
+    "updated_at": "2026-07-20T21:02:31Z",
     "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
+    "id": "sammyjdev/gnomon-eval",
+    "language": "Python",
+    "name": "sammyjdev/gnomon-eval",
+    "stars": 0,
+    "updated_at": "2026-07-20T21:02:14Z",
+    "url": "https://github.com/sammyjdev/gnomon-eval"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10642,
-    "updated_at": "2026-07-20T20:59:52Z",
+    "updated_at": "2026-07-20T21:06:46Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -40,7 +49,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23442,
+    "stars": 23443,
     "updated_at": "2026-07-20T18:15:45Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -52,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T16:17:25Z",
     "url": "https://github.com/SFX-TECH/sfx-lead-intelligence"
-  },
-  {
-    "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
-    "id": "sammyjdev/gnomon-eval",
-    "language": "Python",
-    "name": "sammyjdev/gnomon-eval",
-    "stars": 0,
-    "updated_at": "2026-07-20T20:01:34Z",
-    "url": "https://github.com/sammyjdev/gnomon-eval"
   },
   {
     "description": "ckl's personal benchmark for doc writing, infra code, and paper reading \u2014 one-click evaluation of the latest models via ",
