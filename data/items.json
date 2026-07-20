@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23446,
+    "updated_at": "2026-07-20T22:29:44Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
     "id": "Eval-core/evalcore",
     "language": "Rust",
@@ -7,15 +16,6 @@
     "stars": 12,
     "updated_at": "2026-07-20T21:42:10Z",
     "url": "https://github.com/Eval-core/evalcore"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23446,
-    "updated_at": "2026-07-20T22:07:36Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Servi\u00e7o de RAG sobre atas do Copom + boletim Focus, servido como API (FastAPI+Docker), com eval harness (golden set, LLM",
@@ -32,7 +32,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10642,
-    "updated_at": "2026-07-20T21:23:56Z",
+    "updated_at": "2026-07-20T22:19:12Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -59,7 +59,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 321,
-    "updated_at": "2026-07-20T18:37:56Z",
+    "updated_at": "2026-07-20T22:23:31Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
