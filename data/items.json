@@ -1,5 +1,14 @@
 [
   {
+    "description": "ckl's personal benchmark for doc writing, infra code, and paper reading \u2014 one-click evaluation of the latest models via ",
+    "id": "cklxx/ckl-bench",
+    "language": "HTML",
+    "name": "cklxx/ckl-bench",
+    "stars": 1,
+    "updated_at": "2026-07-20T09:03:29Z",
+    "url": "https://github.com/cklxx/ckl-bench"
+  },
+  {
     "description": "Does multi-agent beat single-agent? Benchmarks a planner\u2192workers\u2192critic system vs single-agent on quality/cost/latency \u2014",
     "id": "tkarim45/multi-agent-eval",
     "language": "Python",
@@ -88,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T21:22:45Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
-  },
-  {
-    "description": "ckl's personal benchmark for doc writing, infra code, and paper reading \u2014 one-click evaluation of the latest models via ",
-    "id": "cklxx/ckl-bench",
-    "language": "HTML",
-    "name": "cklxx/ckl-bench",
-    "stars": 1,
-    "updated_at": "2026-07-19T16:06:50Z",
-    "url": "https://github.com/cklxx/ckl-bench"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
