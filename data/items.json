@@ -1,11 +1,20 @@
 [
   {
+    "description": "SFX Lead Intelligence Command Center: local-LLM hub plus lead dashboard, quality lifted 61 to 99 percent via a ground-tr",
+    "id": "SFX-TECH/sfx-lead-intelligence",
+    "language": "\u2014",
+    "name": "SFX-TECH/sfx-lead-intelligence",
+    "stars": 0,
+    "updated_at": "2026-07-20T16:04:04Z",
+    "url": "https://github.com/SFX-TECH/sfx-lead-intelligence"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10641,
-    "updated_at": "2026-07-20T15:59:56Z",
+    "updated_at": "2026-07-20T16:13:29Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -16,15 +25,6 @@
     "stars": 3448,
     "updated_at": "2026-07-20T15:33:16Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "SFX Lead Intelligence Command Center: local-LLM hub plus lead dashboard, quality lifted 61 to 99 percent via a ground-tr",
-    "id": "SFX-TECH/sfx-lead-intelligence",
-    "language": "\u2014",
-    "name": "SFX-TECH/sfx-lead-intelligence",
-    "stars": 0,
-    "updated_at": "2026-07-20T15:24:13Z",
-    "url": "https://github.com/SFX-TECH/sfx-lead-intelligence"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -419,7 +419,7 @@
     "language": "TypeScript",
     "name": "reaatech/agent-eval-harness",
     "stars": 0,
-    "updated_at": "2026-07-13T16:08:25Z",
+    "updated_at": "2026-07-20T16:08:04Z",
     "url": "https://github.com/reaatech/agent-eval-harness"
   },
   {
