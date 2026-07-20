@@ -1,11 +1,20 @@
 [
   {
+    "description": "Developer-first LLM/RAG safety audits for CI/CD \u2014 faithfulness, relevancy, prompt injection (BYOK OpenAI/xAI). pip insta",
+    "id": "iZenDeveloper/auditai",
+    "language": "Python",
+    "name": "iZenDeveloper/auditai",
+    "stars": 0,
+    "updated_at": "2026-07-20T22:42:10Z",
+    "url": "https://github.com/iZenDeveloper/auditai"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23446,
-    "updated_at": "2026-07-20T22:35:14Z",
+    "updated_at": "2026-07-20T22:44:30Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -115,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T07:32:45Z",
     "url": "https://github.com/tkarim45/agent-eval-harness"
-  },
-  {
-    "description": "Developer-first LLM/RAG safety audits for CI/CD \u2014 faithfulness, relevancy, prompt injection (BYOK OpenAI/xAI). pip insta",
-    "id": "iZenDeveloper/auditai",
-    "language": "Python",
-    "name": "iZenDeveloper/auditai",
-    "stars": 0,
-    "updated_at": "2026-07-20T07:11:59Z",
-    "url": "https://github.com/iZenDeveloper/auditai"
   },
   {
     "description": "Evaluate AI-generated SQL with pytest.",
