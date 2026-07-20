@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-20 04:15 UTC
+> ⏰ Last updated: 2026-07-20 04:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -47,7 +47,7 @@ expired items removed — so you can rely on what you see being current.
 | 3 | [monospaceai/evaldata](https://github.com/monospaceai/evaldata) | 3 | Python | 2026-07-20 | Evaluate AI-generated SQL with pytest. |
 | 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10630 | Python | 2026-07-19 | AI Observability & Evaluation |
 | 5 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-07-19 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
-| 6 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23419 | TypeScript | 2026-07-19 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 6 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23420 | TypeScript | 2026-07-19 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 7 | [cklxx/ckl-bench](https://github.com/cklxx/ckl-bench) | 1 | HTML | 2026-07-19 | ckl's personal benchmark for doc writing, infra code, and paper reading — one-click evaluation of the latest models via  |
 | 8 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5656 | Python | 2026-07-19 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 9 | [lftherios/session-link](https://github.com/lftherios/session-link) | 0 | Go | 2026-07-19 | A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit. |
