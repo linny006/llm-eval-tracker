@@ -1,11 +1,20 @@
 [
   {
+    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
+    "id": "Eval-core/evalcore",
+    "language": "Rust",
+    "name": "Eval-core/evalcore",
+    "stars": 10,
+    "updated_at": "2026-07-20T17:43:47Z",
+    "url": "https://github.com/Eval-core/evalcore"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23440,
-    "updated_at": "2026-07-20T17:30:07Z",
+    "updated_at": "2026-07-20T17:31:55Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10642,
-    "updated_at": "2026-07-20T17:30:11Z",
+    "updated_at": "2026-07-20T17:42:50Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -25,15 +34,6 @@
     "stars": 3448,
     "updated_at": "2026-07-20T16:47:28Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
-    "id": "Eval-core/evalcore",
-    "language": "Rust",
-    "name": "Eval-core/evalcore",
-    "stars": 10,
-    "updated_at": "2026-07-20T16:47:06Z",
-    "url": "https://github.com/Eval-core/evalcore"
   },
   {
     "description": "SFX Lead Intelligence Command Center: local-LLM hub plus lead dashboard, quality lifted 61 to 99 percent via a ground-tr",
