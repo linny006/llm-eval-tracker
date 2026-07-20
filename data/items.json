@@ -1,5 +1,14 @@
 [
   {
+    "description": "ckl's personal benchmark for doc writing, infra code, and paper reading \u2014 one-click evaluation of the latest models via ",
+    "id": "cklxx/ckl-bench",
+    "language": "HTML",
+    "name": "cklxx/ckl-bench",
+    "stars": 1,
+    "updated_at": "2026-07-20T11:09:29Z",
+    "url": "https://github.com/cklxx/ckl-bench"
+  },
+  {
     "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
     "id": "NoesisVision/nasde-toolkit",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 10,
     "updated_at": "2026-07-20T10:27:42Z",
     "url": "https://github.com/NoesisVision/nasde-toolkit"
-  },
-  {
-    "description": "ckl's personal benchmark for doc writing, infra code, and paper reading \u2014 one-click evaluation of the latest models via ",
-    "id": "cklxx/ckl-bench",
-    "language": "HTML",
-    "name": "cklxx/ckl-bench",
-    "stars": 1,
-    "updated_at": "2026-07-20T09:03:29Z",
-    "url": "https://github.com/cklxx/ckl-bench"
   },
   {
     "description": "Does multi-agent beat single-agent? Benchmarks a planner\u2192workers\u2192critic system vs single-agent on quality/cost/latency \u2014",
