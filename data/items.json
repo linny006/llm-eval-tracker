@@ -1,11 +1,20 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23440,
+    "updated_at": "2026-07-20T17:30:07Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10642,
-    "updated_at": "2026-07-20T17:10:52Z",
+    "updated_at": "2026-07-20T17:30:11Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -34,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T16:17:25Z",
     "url": "https://github.com/SFX-TECH/sfx-lead-intelligence"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23439,
-    "updated_at": "2026-07-20T17:15:01Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
