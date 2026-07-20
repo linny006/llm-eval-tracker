@@ -1,21 +1,30 @@
 [
   {
-    "description": "Bilingual reduced-fare policy assistant for five California transit agencies, grounded in dated citations and shipped wi",
-    "id": "ChelseaKR/fare-policy-assistant",
-    "language": "HTML",
-    "name": "ChelseaKR/fare-policy-assistant",
-    "stars": 1,
-    "updated_at": "2026-07-20T01:41:57Z",
-    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
-  },
-  {
     "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
     "id": "Eval-core/evalcore",
     "language": "Rust",
     "name": "Eval-core/evalcore",
     "stars": 5,
-    "updated_at": "2026-07-20T01:31:51Z",
+    "updated_at": "2026-07-20T01:53:12Z",
     "url": "https://github.com/Eval-core/evalcore"
+  },
+  {
+    "description": "Offline-first plant-care assistant and public evaluation harness with cited-corpus answers, calibrated abstention, toxic",
+    "id": "ChelseaKR/sprout",
+    "language": "Python",
+    "name": "ChelseaKR/sprout",
+    "stars": 1,
+    "updated_at": "2026-07-20T02:00:18Z",
+    "url": "https://github.com/ChelseaKR/sprout"
+  },
+  {
+    "description": "Bilingual reduced-fare policy assistant for five California transit agencies, grounded in dated citations and shipped wi",
+    "id": "ChelseaKR/fare-policy-assistant",
+    "language": "HTML",
+    "name": "ChelseaKR/fare-policy-assistant",
+    "stars": 1,
+    "updated_at": "2026-07-20T01:46:20Z",
+    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
     "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "sammyjdev/gnomon-eval",
     "stars": 0,
-    "updated_at": "2026-07-20T01:41:34Z",
+    "updated_at": "2026-07-20T01:45:58Z",
     "url": "https://github.com/sammyjdev/gnomon-eval"
   },
   {
@@ -34,15 +43,6 @@
     "stars": 3,
     "updated_at": "2026-07-20T01:40:18Z",
     "url": "https://github.com/monospaceai/evaldata"
-  },
-  {
-    "description": "Offline-first plant-care assistant and public evaluation harness with cited-corpus answers, calibrated abstention, toxic",
-    "id": "ChelseaKR/sprout",
-    "language": "Python",
-    "name": "ChelseaKR/sprout",
-    "stars": 1,
-    "updated_at": "2026-07-20T01:43:36Z",
-    "url": "https://github.com/ChelseaKR/sprout"
   },
   {
     "description": "AI Observability & Evaluation",
