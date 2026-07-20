@@ -1,6 +1,24 @@
 [
   {
-    "description": "Know when your AI gets worse \u2014 before your users do. Records how your LLM apps and agents behave and checks every change",
+    "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
+    "id": "sammyjdev/gnomon-eval",
+    "language": "Python",
+    "name": "sammyjdev/gnomon-eval",
+    "stars": 0,
+    "updated_at": "2026-07-20T01:26:06Z",
+    "url": "https://github.com/sammyjdev/gnomon-eval"
+  },
+  {
+    "description": "Evaluate AI-generated SQL with pytest.",
+    "id": "monospaceai/evaldata",
+    "language": "Python",
+    "name": "monospaceai/evaldata",
+    "stars": 2,
+    "updated_at": "2026-07-20T01:22:16Z",
+    "url": "https://github.com/monospaceai/evaldata"
+  },
+  {
+    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
     "id": "Eval-core/evalcore",
     "language": "Rust",
     "name": "Eval-core/evalcore",
@@ -16,15 +34,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T00:53:08Z",
     "url": "https://github.com/ChelseaKR/sprout"
-  },
-  {
-    "description": "Evaluate AI-generated SQL with pytest.",
-    "id": "monospaceai/evaldata",
-    "language": "Python",
-    "name": "monospaceai/evaldata",
-    "stars": 2,
-    "updated_at": "2026-07-20T00:47:51Z",
-    "url": "https://github.com/monospaceai/evaldata"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -126,15 +135,6 @@
     "url": "https://github.com/RudrenduPaul/memtrust"
   },
   {
-    "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
-    "id": "sammyjdev/gnomon-eval",
-    "language": "Python",
-    "name": "sammyjdev/gnomon-eval",
-    "stars": 0,
-    "updated_at": "2026-07-19T03:22:27Z",
-    "url": "https://github.com/sammyjdev/gnomon-eval"
-  },
-  {
     "description": "Bilingual reduced-fare policy assistant for five California transit agencies, grounded in dated citations and shipped wi",
     "id": "ChelseaKR/fare-policy-assistant",
     "language": "HTML",
@@ -185,7 +185,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 321,
-    "updated_at": "2026-07-20T01:12:53Z",
+    "updated_at": "2026-07-20T01:14:17Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
