@@ -1,5 +1,14 @@
 [
   {
+    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
+    "id": "Eval-core/evalcore",
+    "language": "Rust",
+    "name": "Eval-core/evalcore",
+    "stars": 12,
+    "updated_at": "2026-07-20T21:42:10Z",
+    "url": "https://github.com/Eval-core/evalcore"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -52,15 +61,6 @@
     "stars": 321,
     "updated_at": "2026-07-20T18:37:56Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
-    "id": "Eval-core/evalcore",
-    "language": "Rust",
-    "name": "Eval-core/evalcore",
-    "stars": 12,
-    "updated_at": "2026-07-20T18:16:05Z",
-    "url": "https://github.com/Eval-core/evalcore"
   },
   {
     "description": "SFX Lead Intelligence Command Center: local-LLM hub plus lead dashboard, quality lifted 61 to 99 percent via a ground-tr",
