@@ -1,21 +1,30 @@
 [
   {
-    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
-    "id": "Eval-core/evalcore",
-    "language": "Rust",
-    "name": "Eval-core/evalcore",
-    "stars": 10,
-    "updated_at": "2026-07-20T17:58:48Z",
-    "url": "https://github.com/Eval-core/evalcore"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23440,
-    "updated_at": "2026-07-20T17:31:55Z",
+    "updated_at": "2026-07-20T18:15:16Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 321,
+    "updated_at": "2026-07-20T18:09:58Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
+    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
+    "id": "Eval-core/evalcore",
+    "language": "Rust",
+    "name": "Eval-core/evalcore",
+    "stars": 11,
+    "updated_at": "2026-07-20T18:14:19Z",
+    "url": "https://github.com/Eval-core/evalcore"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10642,
-    "updated_at": "2026-07-20T17:48:21Z",
+    "updated_at": "2026-07-20T18:11:39Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -106,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T07:11:59Z",
     "url": "https://github.com/iZenDeveloper/auditai"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 321,
-    "updated_at": "2026-07-20T10:16:55Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Evaluate AI-generated SQL with pytest.",
