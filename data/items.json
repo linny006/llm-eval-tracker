@@ -1,21 +1,12 @@
 [
   {
-    "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
-    "id": "sammyjdev/gnomon-eval",
-    "language": "Python",
-    "name": "sammyjdev/gnomon-eval",
-    "stars": 0,
-    "updated_at": "2026-07-20T01:26:06Z",
-    "url": "https://github.com/sammyjdev/gnomon-eval"
-  },
-  {
-    "description": "Evaluate AI-generated SQL with pytest.",
-    "id": "monospaceai/evaldata",
-    "language": "Python",
-    "name": "monospaceai/evaldata",
-    "stars": 2,
-    "updated_at": "2026-07-20T01:22:16Z",
-    "url": "https://github.com/monospaceai/evaldata"
+    "description": "Bilingual reduced-fare policy assistant for five California transit agencies, grounded in dated citations and shipped wi",
+    "id": "ChelseaKR/fare-policy-assistant",
+    "language": "HTML",
+    "name": "ChelseaKR/fare-policy-assistant",
+    "stars": 1,
+    "updated_at": "2026-07-20T01:41:57Z",
+    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
     "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
@@ -23,8 +14,26 @@
     "language": "Rust",
     "name": "Eval-core/evalcore",
     "stars": 5,
-    "updated_at": "2026-07-20T01:02:21Z",
+    "updated_at": "2026-07-20T01:31:51Z",
     "url": "https://github.com/Eval-core/evalcore"
+  },
+  {
+    "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
+    "id": "sammyjdev/gnomon-eval",
+    "language": "Python",
+    "name": "sammyjdev/gnomon-eval",
+    "stars": 0,
+    "updated_at": "2026-07-20T01:41:34Z",
+    "url": "https://github.com/sammyjdev/gnomon-eval"
+  },
+  {
+    "description": "Evaluate AI-generated SQL with pytest.",
+    "id": "monospaceai/evaldata",
+    "language": "Python",
+    "name": "monospaceai/evaldata",
+    "stars": 3,
+    "updated_at": "2026-07-20T01:40:18Z",
+    "url": "https://github.com/monospaceai/evaldata"
   },
   {
     "description": "Offline-first plant-care assistant and public evaluation harness with cited-corpus answers, calibrated abstention, toxic",
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "ChelseaKR/sprout",
     "stars": 1,
-    "updated_at": "2026-07-20T00:53:08Z",
+    "updated_at": "2026-07-20T01:43:36Z",
     "url": "https://github.com/ChelseaKR/sprout"
   },
   {
@@ -133,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T07:11:13Z",
     "url": "https://github.com/RudrenduPaul/memtrust"
-  },
-  {
-    "description": "Bilingual reduced-fare policy assistant for five California transit agencies, grounded in dated citations and shipped wi",
-    "id": "ChelseaKR/fare-policy-assistant",
-    "language": "HTML",
-    "name": "ChelseaKR/fare-policy-assistant",
-    "stars": 1,
-    "updated_at": "2026-07-20T00:48:52Z",
-    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
     "description": "Automated groundedness scoring, hallucination detection, and regression tracking for RAG and agent outputs",
