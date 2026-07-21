@@ -1,21 +1,21 @@
 [
   {
-    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
-    "id": "homemade-software-inc/completion-kit",
-    "language": "Ruby",
-    "name": "homemade-software-inc/completion-kit",
-    "stars": 1,
-    "updated_at": "2026-07-21T22:59:58Z",
-    "url": "https://github.com/homemade-software-inc/completion-kit"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10661,
-    "updated_at": "2026-07-21T22:58:12Z",
+    "updated_at": "2026-07-21T23:10:03Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
+    "id": "homemade-software-inc/completion-kit",
+    "language": "Ruby",
+    "name": "homemade-software-inc/completion-kit",
+    "stars": 1,
+    "updated_at": "2026-07-21T23:09:47Z",
+    "url": "https://github.com/homemade-software-inc/completion-kit"
   },
   {
     "description": "Handwritten Text Recognition llm eval tool",
@@ -31,7 +31,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23463,
+    "stars": 23464,
     "updated_at": "2026-07-21T21:27:27Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
