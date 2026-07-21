@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-21 22:00 UTC
+> ⏰ Last updated: 2026-07-21 22:11 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,7 +43,7 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10660 | Python | 2026-07-21 | AI Observability & Evaluation |
-| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23462 | TypeScript | 2026-07-21 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23463 | TypeScript | 2026-07-21 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 3 | [truera/trulens](https://github.com/truera/trulens) | 3451 | Python | 2026-07-21 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 4 | [ipezygj/evalgate](https://github.com/ipezygj/evalgate) | 0 | Python | 2026-07-21 | Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave- |
 | 5 | [UiPath/coder_eval](https://github.com/UiPath/coder_eval) | 105 | Python | 2026-07-21 | Evaluate & benchmark AI coding agents and Claude Code skills — sandboxed, reproducible YAML eval suites for Claude Code, |
