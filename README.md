@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-21 15:00 UTC
+> ⏰ Last updated: 2026-07-21 15:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -49,7 +49,7 @@ expired items removed — so you can rely on what you see being current.
 | 5 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-07-21 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
 | 6 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5674 | Python | 2026-07-21 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 7 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 321 | TypeScript | 2026-07-21 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 8 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23459 | TypeScript | 2026-07-21 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 8 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23460 | TypeScript | 2026-07-21 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 9 | [RudrenduPaul/memtrust](https://github.com/RudrenduPaul/memtrust) | 0 | Python | 2026-07-21 | Agent memory backends each publish their own benchmark numbers, on different tests, measured different ways. memtrust ru |
 | 10 | [iZenDeveloper/auditai](https://github.com/iZenDeveloper/auditai) | 0 | Python | 2026-07-20 | Developer-first LLM/RAG safety audits for CI/CD — faithfulness, relevancy, prompt injection (BYOK OpenAI/xAI). pip insta |
 | 11 | [truera/trulens](https://github.com/truera/trulens) | 3451 | Python | 2026-07-20 | Evaluation and Tracking for LLM Experiments and AI Agents |
