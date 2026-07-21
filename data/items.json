@@ -1,11 +1,20 @@
 [
   {
+    "description": "Handwritten Text Recognition llm eval tool",
+    "id": "lehigh-university-libraries/htr",
+    "language": "Go",
+    "name": "lehigh-university-libraries/htr",
+    "stars": 2,
+    "updated_at": "2026-07-21T22:20:58Z",
+    "url": "https://github.com/lehigh-university-libraries/htr"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10660,
-    "updated_at": "2026-07-21T22:06:35Z",
+    "updated_at": "2026-07-21T22:25:05Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -59,7 +68,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 321,
-    "updated_at": "2026-07-21T19:24:31Z",
+    "updated_at": "2026-07-21T22:30:01Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-30T12:20:42Z",
     "url": "https://github.com/Merchantlee99/myrealtrip-cancel-recovery-eval"
-  },
-  {
-    "description": "End-to-end agent evaluation \u2014 trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w",
-    "id": "reaatech/agent-eval-harness",
-    "language": "TypeScript",
-    "name": "reaatech/agent-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-07-20T16:08:04Z",
-    "url": "https://github.com/reaatech/agent-eval-harness"
   }
 ]
