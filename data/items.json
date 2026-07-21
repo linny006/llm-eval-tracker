@@ -1,5 +1,14 @@
 [
   {
+    "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
+    "id": "valbaudo/awf",
+    "language": "Go",
+    "name": "valbaudo/awf",
+    "stars": 1,
+    "updated_at": "2026-07-21T08:58:46Z",
+    "url": "https://github.com/valbaudo/awf"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -13,7 +22,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10647,
+    "stars": 10648,
     "updated_at": "2026-07-21T07:15:28Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -22,7 +31,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23452,
+    "stars": 23454,
     "updated_at": "2026-07-21T05:26:40Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -223,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T14:06:25Z",
     "url": "https://github.com/pdxlab/trustmodel-mcp-server"
-  },
-  {
-    "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
-    "id": "valbaudo/awf",
-    "language": "Go",
-    "name": "valbaudo/awf",
-    "stars": 1,
-    "updated_at": "2026-07-16T07:28:56Z",
-    "url": "https://github.com/valbaudo/awf"
   },
   {
     "description": "A gym for scientific judgment. AI agents render fatally flawed analyses at publication quality \u2014 we measured whether any",
