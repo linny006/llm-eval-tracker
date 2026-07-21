@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23462,
+    "updated_at": "2026-07-21T18:38:35Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
     "id": "homemade-software-inc/completion-kit",
     "language": "Ruby",
@@ -16,15 +25,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T18:12:20Z",
     "url": "https://github.com/valbaudo/awf"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23461,
-    "updated_at": "2026-07-21T18:16:05Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -95,7 +95,7 @@
     "language": "Python",
     "name": "UiPath/coder_eval",
     "stars": 105,
-    "updated_at": "2026-07-21T13:43:30Z",
+    "updated_at": "2026-07-21T18:44:00Z",
     "url": "https://github.com/UiPath/coder_eval"
   },
   {
@@ -113,7 +113,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 321,
-    "updated_at": "2026-07-21T18:30:09Z",
+    "updated_at": "2026-07-21T18:35:56Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
