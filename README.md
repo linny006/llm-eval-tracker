@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-21 01:45 UTC
+> ⏰ Last updated: 2026-07-21 02:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [RudrenduPaul/memtrust](https://github.com/RudrenduPaul/memtrust) | 0 | Python | 2026-07-21 | Agent memory backends each publish their own benchmark numbers, on different tests, measured different ways. memtrust ru |
-| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23446 | TypeScript | 2026-07-21 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10642 | Python | 2026-07-21 | AI Observability & Evaluation |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23447 | TypeScript | 2026-07-21 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10643 | Python | 2026-07-21 | AI Observability & Evaluation |
+| 3 | [RudrenduPaul/memtrust](https://github.com/RudrenduPaul/memtrust) | 0 | Python | 2026-07-21 | Agent memory backends each publish their own benchmark numbers, on different tests, measured different ways. memtrust ru |
 | 4 | [iZenDeveloper/auditai](https://github.com/iZenDeveloper/auditai) | 0 | Python | 2026-07-20 | Developer-first LLM/RAG safety audits for CI/CD — faithfulness, relevancy, prompt injection (BYOK OpenAI/xAI). pip insta |
-| 5 | [Eval-core/evalcore](https://github.com/Eval-core/evalcore) | 13 | Rust | 2026-07-20 | Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI. |
+| 5 | [Eval-core/evalcore](https://github.com/Eval-core/evalcore) | 13 | Rust | 2026-07-21 | Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI. |
 | 6 | [vitorwilher/copom-rag-service](https://github.com/vitorwilher/copom-rag-service) | 0 | Python | 2026-07-20 | Serviço de RAG sobre atas do Copom + boletim Focus, servido como API (FastAPI+Docker), com eval harness (golden set, LLM |
 | 7 | [truera/trulens](https://github.com/truera/trulens) | 3448 | Python | 2026-07-20 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 8 | [sammyjdev/gnomon-eval](https://github.com/sammyjdev/gnomon-eval) | 0 | Python | 2026-07-20 | Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first. |

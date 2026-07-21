@@ -1,19 +1,10 @@
 [
   {
-    "description": "Agent memory backends each publish their own benchmark numbers, on different tests, measured different ways. memtrust ru",
-    "id": "RudrenduPaul/memtrust",
-    "language": "Python",
-    "name": "RudrenduPaul/memtrust",
-    "stars": 0,
-    "updated_at": "2026-07-21T01:00:32Z",
-    "url": "https://github.com/RudrenduPaul/memtrust"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23446,
+    "stars": 23447,
     "updated_at": "2026-07-21T01:43:00Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -22,9 +13,18 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10642,
+    "stars": 10643,
     "updated_at": "2026-07-21T01:34:03Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Agent memory backends each publish their own benchmark numbers, on different tests, measured different ways. memtrust ru",
+    "id": "RudrenduPaul/memtrust",
+    "language": "Python",
+    "name": "RudrenduPaul/memtrust",
+    "stars": 0,
+    "updated_at": "2026-07-21T01:00:32Z",
+    "url": "https://github.com/RudrenduPaul/memtrust"
   },
   {
     "description": "Developer-first LLM/RAG safety audits for CI/CD \u2014 faithfulness, relevancy, prompt injection (BYOK OpenAI/xAI). pip insta",
@@ -41,7 +41,7 @@
     "language": "Rust",
     "name": "Eval-core/evalcore",
     "stars": 13,
-    "updated_at": "2026-07-20T21:42:10Z",
+    "updated_at": "2026-07-21T01:46:45Z",
     "url": "https://github.com/Eval-core/evalcore"
   },
   {
