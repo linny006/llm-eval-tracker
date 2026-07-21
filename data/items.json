@@ -1,12 +1,12 @@
 [
   {
-    "description": "Handwritten Text Recognition llm eval tool",
-    "id": "lehigh-university-libraries/htr",
-    "language": "Go",
-    "name": "lehigh-university-libraries/htr",
-    "stars": 2,
-    "updated_at": "2026-07-21T22:45:14Z",
-    "url": "https://github.com/lehigh-university-libraries/htr"
+    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
+    "id": "homemade-software-inc/completion-kit",
+    "language": "Ruby",
+    "name": "homemade-software-inc/completion-kit",
+    "stars": 1,
+    "updated_at": "2026-07-21T22:59:58Z",
+    "url": "https://github.com/homemade-software-inc/completion-kit"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10661,
-    "updated_at": "2026-07-21T22:44:47Z",
+    "updated_at": "2026-07-21T22:58:12Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Handwritten Text Recognition llm eval tool",
+    "id": "lehigh-university-libraries/htr",
+    "language": "Go",
+    "name": "lehigh-university-libraries/htr",
+    "stars": 2,
+    "updated_at": "2026-07-21T22:48:34Z",
+    "url": "https://github.com/lehigh-university-libraries/htr"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -81,15 +90,6 @@
     "url": "https://github.com/sammyjdev/gnomon-eval"
   },
   {
-    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
-    "id": "homemade-software-inc/completion-kit",
-    "language": "Ruby",
-    "name": "homemade-software-inc/completion-kit",
-    "stars": 1,
-    "updated_at": "2026-07-21T18:27:55Z",
-    "url": "https://github.com/homemade-software-inc/completion-kit"
-  },
-  {
     "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
     "id": "lftherios/session-link",
     "language": "Go",
@@ -130,7 +130,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5685,
+    "stars": 5686,
     "updated_at": "2026-07-21T09:18:23Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
