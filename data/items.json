@@ -1,10 +1,28 @@
 [
   {
+    "description": "ckl's personal benchmark for doc writing, infra code, and paper reading \u2014 one-click evaluation of the latest models via ",
+    "id": "cklxx/ckl-bench",
+    "language": "HTML",
+    "name": "cklxx/ckl-bench",
+    "stars": 1,
+    "updated_at": "2026-07-21T13:54:29Z",
+    "url": "https://github.com/cklxx/ckl-bench"
+  },
+  {
+    "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
+    "id": "sammyjdev/gnomon-eval",
+    "language": "Python",
+    "name": "sammyjdev/gnomon-eval",
+    "stars": 0,
+    "updated_at": "2026-07-21T13:53:30Z",
+    "url": "https://github.com/sammyjdev/gnomon-eval"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10653,
+    "stars": 10654,
     "updated_at": "2026-07-21T13:37:13Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -22,7 +40,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5669,
+    "stars": 5673,
     "updated_at": "2026-07-21T09:18:23Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
@@ -43,15 +61,6 @@
     "stars": 23459,
     "updated_at": "2026-07-21T05:26:40Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
-    "id": "sammyjdev/gnomon-eval",
-    "language": "Python",
-    "name": "sammyjdev/gnomon-eval",
-    "stars": 0,
-    "updated_at": "2026-07-21T13:17:49Z",
-    "url": "https://github.com/sammyjdev/gnomon-eval"
   },
   {
     "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
@@ -106,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T16:17:25Z",
     "url": "https://github.com/SFX-TECH/sfx-lead-intelligence"
-  },
-  {
-    "description": "ckl's personal benchmark for doc writing, infra code, and paper reading \u2014 one-click evaluation of the latest models via ",
-    "id": "cklxx/ckl-bench",
-    "language": "HTML",
-    "name": "cklxx/ckl-bench",
-    "stars": 1,
-    "updated_at": "2026-07-20T11:43:48Z",
-    "url": "https://github.com/cklxx/ckl-bench"
   },
   {
     "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
