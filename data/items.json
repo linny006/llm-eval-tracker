@@ -1,21 +1,21 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23461,
+    "updated_at": "2026-07-21T17:37:20Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10658,
-    "updated_at": "2026-07-21T17:38:47Z",
+    "updated_at": "2026-07-21T17:54:46Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23460,
-    "updated_at": "2026-07-21T17:37:20Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
@@ -41,7 +41,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3451,
-    "updated_at": "2026-07-21T16:01:39Z",
+    "updated_at": "2026-07-21T17:46:06Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -113,7 +113,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 321,
-    "updated_at": "2026-07-21T17:44:07Z",
+    "updated_at": "2026-07-21T17:51:42Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
