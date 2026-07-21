@@ -1,5 +1,14 @@
 [
   {
+    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
+    "id": "homemade-software-inc/completion-kit",
+    "language": "Ruby",
+    "name": "homemade-software-inc/completion-kit",
+    "stars": 1,
+    "updated_at": "2026-07-21T18:27:55Z",
+    "url": "https://github.com/homemade-software-inc/completion-kit"
+  },
+  {
     "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
     "id": "valbaudo/awf",
     "language": "Go",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23461,
-    "updated_at": "2026-07-21T18:10:05Z",
+    "updated_at": "2026-07-21T18:16:05Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -23,17 +32,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10658,
-    "updated_at": "2026-07-21T17:54:46Z",
+    "updated_at": "2026-07-21T18:29:25Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
-    "id": "homemade-software-inc/completion-kit",
-    "language": "Ruby",
-    "name": "homemade-software-inc/completion-kit",
-    "stars": 1,
-    "updated_at": "2026-07-21T17:06:05Z",
-    "url": "https://github.com/homemade-software-inc/completion-kit"
   },
   {
     "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
@@ -113,7 +113,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 321,
-    "updated_at": "2026-07-21T18:13:53Z",
+    "updated_at": "2026-07-21T18:30:09Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
