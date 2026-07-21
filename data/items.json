@@ -1,5 +1,14 @@
 [
   {
+    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
+    "id": "Eval-core/evalcore",
+    "language": "Rust",
+    "name": "Eval-core/evalcore",
+    "stars": 14,
+    "updated_at": "2026-07-21T14:18:54Z",
+    "url": "https://github.com/Eval-core/evalcore"
+  },
+  {
     "description": "ckl's personal benchmark for doc writing, infra code, and paper reading \u2014 one-click evaluation of the latest models via ",
     "id": "cklxx/ckl-bench",
     "language": "HTML",
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10654,
-    "updated_at": "2026-07-21T13:37:13Z",
+    "updated_at": "2026-07-21T14:28:53Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -61,15 +70,6 @@
     "stars": 23459,
     "updated_at": "2026-07-21T05:26:40Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
-    "id": "Eval-core/evalcore",
-    "language": "Rust",
-    "name": "Eval-core/evalcore",
-    "stars": 14,
-    "updated_at": "2026-07-21T01:46:45Z",
-    "url": "https://github.com/Eval-core/evalcore"
   },
   {
     "description": "Agent memory backends each publish their own benchmark numbers, on different tests, measured different ways. memtrust ru",
