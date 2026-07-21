@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-21 11:51 UTC
+> ⏰ Last updated: 2026-07-21 12:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,7 +43,7 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-07-21 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
-| 2 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5663 | Python | 2026-07-21 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 2 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5665 | Python | 2026-07-21 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 3 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 321 | TypeScript | 2026-07-21 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10652 | Python | 2026-07-21 | AI Observability & Evaluation |
 | 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23457 | TypeScript | 2026-07-21 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
