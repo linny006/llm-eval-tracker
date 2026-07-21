@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-21 00:00 UTC
+> ⏰ Last updated: 2026-07-21 00:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,7 +42,7 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [RudrenduPaul/memtrust](https://github.com/RudrenduPaul/memtrust) | 0 | Python | 2026-07-20 | Agent memory backends each publish their own benchmark numbers, on different tests, measured different ways. memtrust ru |
+| 1 | [RudrenduPaul/memtrust](https://github.com/RudrenduPaul/memtrust) | 0 | Python | 2026-07-21 | Agent memory backends each publish their own benchmark numbers, on different tests, measured different ways. memtrust ru |
 | 2 | [iZenDeveloper/auditai](https://github.com/iZenDeveloper/auditai) | 0 | Python | 2026-07-20 | Developer-first LLM/RAG safety audits for CI/CD — faithfulness, relevancy, prompt injection (BYOK OpenAI/xAI). pip insta |
 | 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10642 | Python | 2026-07-20 | AI Observability & Evaluation |
 | 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23446 | TypeScript | 2026-07-20 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
