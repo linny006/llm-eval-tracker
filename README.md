@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-21 17:00 UTC
+> ⏰ Last updated: 2026-07-21 17:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [sammyjdev/gnomon-eval](https://github.com/sammyjdev/gnomon-eval) | 0 | Python | 2026-07-21 | Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first. |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23460 | TypeScript | 2026-07-21 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 2 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-07-21 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
-| 3 | [truera/trulens](https://github.com/truera/trulens) | 3451 | Python | 2026-07-21 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 4 | [lftherios/session-link](https://github.com/lftherios/session-link) | 0 | Go | 2026-07-21 | A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit. |
-| 5 | [ozlar34/job-match-radar](https://github.com/ozlar34/job-match-radar) | 1 | Python | 2026-07-21 | Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai |
-| 6 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10656 | Python | 2026-07-21 | AI Observability & Evaluation |
-| 7 | [Eval-core/evalcore](https://github.com/Eval-core/evalcore) | 14 | Rust | 2026-07-21 | Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI. |
-| 8 | [cklxx/ckl-bench](https://github.com/cklxx/ckl-bench) | 1 | HTML | 2026-07-21 | ckl's personal benchmark for doc writing, infra code, and paper reading — one-click evaluation of the latest models via  |
-| 9 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-07-21 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
-| 10 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5678 | Python | 2026-07-21 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 11 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 321 | TypeScript | 2026-07-21 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 12 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23460 | TypeScript | 2026-07-21 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 3 | [sammyjdev/gnomon-eval](https://github.com/sammyjdev/gnomon-eval) | 0 | Python | 2026-07-21 | Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first. |
+| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10657 | Python | 2026-07-21 | AI Observability & Evaluation |
+| 5 | [truera/trulens](https://github.com/truera/trulens) | 3451 | Python | 2026-07-21 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 6 | [lftherios/session-link](https://github.com/lftherios/session-link) | 0 | Go | 2026-07-21 | A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit. |
+| 7 | [ozlar34/job-match-radar](https://github.com/ozlar34/job-match-radar) | 1 | Python | 2026-07-21 | Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai |
+| 8 | [Eval-core/evalcore](https://github.com/Eval-core/evalcore) | 14 | Rust | 2026-07-21 | Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI. |
+| 9 | [cklxx/ckl-bench](https://github.com/cklxx/ckl-bench) | 1 | HTML | 2026-07-21 | ckl's personal benchmark for doc writing, infra code, and paper reading — one-click evaluation of the latest models via  |
+| 10 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-07-21 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
+| 11 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5678 | Python | 2026-07-21 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 12 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 321 | TypeScript | 2026-07-21 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 13 | [RudrenduPaul/memtrust](https://github.com/RudrenduPaul/memtrust) | 0 | Python | 2026-07-21 | Agent memory backends each publish their own benchmark numbers, on different tests, measured different ways. memtrust ru |
 | 14 | [iZenDeveloper/auditai](https://github.com/iZenDeveloper/auditai) | 0 | Python | 2026-07-20 | Developer-first LLM/RAG safety audits for CI/CD — faithfulness, relevancy, prompt injection (BYOK OpenAI/xAI). pip insta |
 | 15 | [vitorwilher/copom-rag-service](https://github.com/vitorwilher/copom-rag-service) | 0 | Python | 2026-07-20 | Serviço de RAG sobre atas do Copom + boletim Focus, servido como API (FastAPI+Docker), com eval harness (golden set, LLM |

@@ -1,12 +1,12 @@
 [
   {
-    "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
-    "id": "sammyjdev/gnomon-eval",
-    "language": "Python",
-    "name": "sammyjdev/gnomon-eval",
-    "stars": 0,
-    "updated_at": "2026-07-21T16:59:50Z",
-    "url": "https://github.com/sammyjdev/gnomon-eval"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23460,
+    "updated_at": "2026-07-21T17:11:06Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
@@ -14,8 +14,26 @@
     "language": "Ruby",
     "name": "homemade-software-inc/completion-kit",
     "stars": 1,
-    "updated_at": "2026-07-21T16:22:57Z",
+    "updated_at": "2026-07-21T17:06:05Z",
     "url": "https://github.com/homemade-software-inc/completion-kit"
+  },
+  {
+    "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
+    "id": "sammyjdev/gnomon-eval",
+    "language": "Python",
+    "name": "sammyjdev/gnomon-eval",
+    "stars": 0,
+    "updated_at": "2026-07-21T17:10:38Z",
+    "url": "https://github.com/sammyjdev/gnomon-eval"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10657,
+    "updated_at": "2026-07-21T16:50:40Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -43,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T15:28:12Z",
     "url": "https://github.com/ozlar34/job-match-radar"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10656,
-    "updated_at": "2026-07-21T16:50:40Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
@@ -97,15 +106,6 @@
     "stars": 321,
     "updated_at": "2026-07-21T15:59:01Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23460,
-    "updated_at": "2026-07-21T15:19:50Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Agent memory backends each publish their own benchmark numbers, on different tests, measured different ways. memtrust ru",
