@@ -54,6 +54,15 @@
     "url": "https://github.com/sammyjdev/gnomon-eval"
   },
   {
+    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
+    "id": "Eval-core/evalcore",
+    "language": "Rust",
+    "name": "Eval-core/evalcore",
+    "stars": 14,
+    "updated_at": "2026-07-21T01:46:45Z",
+    "url": "https://github.com/Eval-core/evalcore"
+  },
+  {
     "description": "Agent memory backends each publish their own benchmark numbers, on different tests, measured different ways. memtrust ru",
     "id": "RudrenduPaul/memtrust",
     "language": "Python",
@@ -70,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T23:32:19Z",
     "url": "https://github.com/iZenDeveloper/auditai"
-  },
-  {
-    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
-    "id": "Eval-core/evalcore",
-    "language": "Rust",
-    "name": "Eval-core/evalcore",
-    "stars": 13,
-    "updated_at": "2026-07-21T01:46:45Z",
-    "url": "https://github.com/Eval-core/evalcore"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
