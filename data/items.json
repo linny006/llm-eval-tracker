@@ -1,11 +1,20 @@
 [
   {
+    "description": "Agent memory backends each publish their own benchmark numbers, on different tests, measured different ways. memtrust ru",
+    "id": "RudrenduPaul/memtrust",
+    "language": "Python",
+    "name": "RudrenduPaul/memtrust",
+    "stars": 0,
+    "updated_at": "2026-07-21T00:35:15Z",
+    "url": "https://github.com/RudrenduPaul/memtrust"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23446,
-    "updated_at": "2026-07-21T00:27:50Z",
+    "updated_at": "2026-07-21T00:36:41Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -16,15 +25,6 @@
     "stars": 10642,
     "updated_at": "2026-07-21T00:18:32Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Agent memory backends each publish their own benchmark numbers, on different tests, measured different ways. memtrust ru",
-    "id": "RudrenduPaul/memtrust",
-    "language": "Python",
-    "name": "RudrenduPaul/memtrust",
-    "stars": 0,
-    "updated_at": "2026-07-21T00:06:30Z",
-    "url": "https://github.com/RudrenduPaul/memtrust"
   },
   {
     "description": "Developer-first LLM/RAG safety audits for CI/CD \u2014 faithfulness, relevancy, prompt injection (BYOK OpenAI/xAI). pip insta",
@@ -77,7 +77,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 321,
-    "updated_at": "2026-07-20T22:23:31Z",
+    "updated_at": "2026-07-21T00:32:44Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
