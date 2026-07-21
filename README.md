@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-21 15:15 UTC
+> ⏰ Last updated: 2026-07-21 15:24 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Eval-core/evalcore](https://github.com/Eval-core/evalcore) | 14 | Rust | 2026-07-21 | Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI. |
-| 2 | [cklxx/ckl-bench](https://github.com/cklxx/ckl-bench) | 1 | HTML | 2026-07-21 | ckl's personal benchmark for doc writing, infra code, and paper reading — one-click evaluation of the latest models via  |
-| 3 | [sammyjdev/gnomon-eval](https://github.com/sammyjdev/gnomon-eval) | 0 | Python | 2026-07-21 | Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first. |
-| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10654 | Python | 2026-07-21 | AI Observability & Evaluation |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10655 | Python | 2026-07-21 | AI Observability & Evaluation |
+| 2 | [Eval-core/evalcore](https://github.com/Eval-core/evalcore) | 14 | Rust | 2026-07-21 | Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI. |
+| 3 | [cklxx/ckl-bench](https://github.com/cklxx/ckl-bench) | 1 | HTML | 2026-07-21 | ckl's personal benchmark for doc writing, infra code, and paper reading — one-click evaluation of the latest models via  |
+| 4 | [sammyjdev/gnomon-eval](https://github.com/sammyjdev/gnomon-eval) | 0 | Python | 2026-07-21 | Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first. |
 | 5 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-07-21 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
 | 6 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5674 | Python | 2026-07-21 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 7 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 321 | TypeScript | 2026-07-21 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |

@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10655,
+    "updated_at": "2026-07-21T15:24:11Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
     "id": "Eval-core/evalcore",
     "language": "Rust",
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T15:00:15Z",
     "url": "https://github.com/sammyjdev/gnomon-eval"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10654,
-    "updated_at": "2026-07-21T15:04:37Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
@@ -68,7 +68,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23460,
-    "updated_at": "2026-07-21T05:26:40Z",
+    "updated_at": "2026-07-21T15:19:50Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
