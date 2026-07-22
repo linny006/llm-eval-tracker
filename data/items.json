@@ -1,11 +1,20 @@
 [
   {
+    "description": "ckl's personal benchmark for doc writing, infra code, and paper reading \u2014 one-click evaluation of the latest models via ",
+    "id": "cklxx/ckl-bench",
+    "language": "HTML",
+    "name": "cklxx/ckl-bench",
+    "stars": 1,
+    "updated_at": "2026-07-22T17:10:10Z",
+    "url": "https://github.com/cklxx/ckl-bench"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10675,
-    "updated_at": "2026-07-22T16:57:49Z",
+    "updated_at": "2026-07-22T17:08:44Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23496,
-    "updated_at": "2026-07-22T16:56:09Z",
+    "updated_at": "2026-07-22T17:09:06Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -133,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T15:28:12Z",
     "url": "https://github.com/ozlar34/job-match-radar"
-  },
-  {
-    "description": "ckl's personal benchmark for doc writing, infra code, and paper reading \u2014 one-click evaluation of the latest models via ",
-    "id": "cklxx/ckl-bench",
-    "language": "HTML",
-    "name": "cklxx/ckl-bench",
-    "stars": 1,
-    "updated_at": "2026-07-21T13:54:29Z",
-    "url": "https://github.com/cklxx/ckl-bench"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
