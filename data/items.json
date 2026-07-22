@@ -1,12 +1,12 @@
 [
   {
-    "description": "Evaluate & benchmark AI coding agents and Claude Code skills \u2014 sandboxed, reproducible YAML eval suites for Claude Code,",
-    "id": "UiPath/coder_eval",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "UiPath/coder_eval",
-    "stars": 105,
-    "updated_at": "2026-07-22T22:40:33Z",
-    "url": "https://github.com/UiPath/coder_eval"
+    "name": "Arize-ai/phoenix",
+    "stars": 10681,
+    "updated_at": "2026-07-22T22:55:51Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -14,17 +14,26 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23503,
-    "updated_at": "2026-07-22T22:32:42Z",
+    "updated_at": "2026-07-22T22:55:37Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
+    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
+    "id": "Eval-core/evalcore",
+    "language": "Rust",
+    "name": "Eval-core/evalcore",
+    "stars": 14,
+    "updated_at": "2026-07-22T22:50:19Z",
+    "url": "https://github.com/Eval-core/evalcore"
+  },
+  {
+    "description": "Evaluate & benchmark AI coding agents and Claude Code skills \u2014 sandboxed, reproducible YAML eval suites for Claude Code,",
+    "id": "UiPath/coder_eval",
     "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10681,
-    "updated_at": "2026-07-22T22:29:57Z",
-    "url": "https://github.com/Arize-ai/phoenix"
+    "name": "UiPath/coder_eval",
+    "stars": 105,
+    "updated_at": "2026-07-22T22:40:33Z",
+    "url": "https://github.com/UiPath/coder_eval"
   },
   {
     "description": "Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave-",
@@ -106,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T03:20:53Z",
     "url": "https://github.com/RudrenduPaul/memtrust"
-  },
-  {
-    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
-    "id": "Eval-core/evalcore",
-    "language": "Rust",
-    "name": "Eval-core/evalcore",
-    "stars": 14,
-    "updated_at": "2026-07-22T03:04:07Z",
-    "url": "https://github.com/Eval-core/evalcore"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
