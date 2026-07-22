@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-22 00:30 UTC
+> ⏰ Last updated: 2026-07-22 00:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -56,7 +56,7 @@ expired items removed — so you can rely on what you see being current.
 | 12 | [ozlar34/job-match-radar](https://github.com/ozlar34/job-match-radar) | 1 | Python | 2026-07-21 | Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai |
 | 13 | [Eval-core/evalcore](https://github.com/Eval-core/evalcore) | 14 | Rust | 2026-07-21 | Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI. |
 | 14 | [cklxx/ckl-bench](https://github.com/cklxx/ckl-bench) | 1 | HTML | 2026-07-21 | ckl's personal benchmark for doc writing, infra code, and paper reading — one-click evaluation of the latest models via  |
-| 15 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5687 | Python | 2026-07-21 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 15 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5688 | Python | 2026-07-21 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 16 | [RudrenduPaul/memtrust](https://github.com/RudrenduPaul/memtrust) | 0 | Python | 2026-07-21 | Agent memory backends each publish their own benchmark numbers, on different tests, measured different ways. memtrust ru |
 | 17 | [iZenDeveloper/auditai](https://github.com/iZenDeveloper/auditai) | 0 | Python | 2026-07-20 | Developer-first LLM/RAG safety audits for CI/CD — faithfulness, relevancy, prompt injection (BYOK OpenAI/xAI). pip insta |
 | 18 | [vitorwilher/copom-rag-service](https://github.com/vitorwilher/copom-rag-service) | 0 | Python | 2026-07-20 | Serviço de RAG sobre atas do Copom + boletim Focus, servido como API (FastAPI+Docker), com eval harness (golden set, LLM |
