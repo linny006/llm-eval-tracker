@@ -5,8 +5,17 @@
     "language": "Rust",
     "name": "Eval-core/evalcore",
     "stars": 14,
-    "updated_at": "2026-07-22T02:33:59Z",
+    "updated_at": "2026-07-22T02:57:45Z",
     "url": "https://github.com/Eval-core/evalcore"
+  },
+  {
+    "description": "Agent memory backends each publish their own benchmark numbers, on different tests, measured different ways. memtrust ru",
+    "id": "RudrenduPaul/memtrust",
+    "language": "Python",
+    "name": "RudrenduPaul/memtrust",
+    "stars": 0,
+    "updated_at": "2026-07-22T02:54:34Z",
+    "url": "https://github.com/RudrenduPaul/memtrust"
   },
   {
     "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10664,
-    "updated_at": "2026-07-22T02:42:03Z",
+    "updated_at": "2026-07-22T02:52:59Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -130,18 +139,9 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5691,
+    "stars": 5692,
     "updated_at": "2026-07-21T09:18:23Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Agent memory backends each publish their own benchmark numbers, on different tests, measured different ways. memtrust ru",
-    "id": "RudrenduPaul/memtrust",
-    "language": "Python",
-    "name": "RudrenduPaul/memtrust",
-    "stars": 0,
-    "updated_at": "2026-07-21T01:00:32Z",
-    "url": "https://github.com/RudrenduPaul/memtrust"
   },
   {
     "description": "Developer-first LLM/RAG safety audits for CI/CD \u2014 faithfulness, relevancy, prompt injection (BYOK OpenAI/xAI). pip insta",
