@@ -1,11 +1,20 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10678,
+    "updated_at": "2026-07-22T18:28:19Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23498,
-    "updated_at": "2026-07-22T18:09:36Z",
+    "updated_at": "2026-07-22T18:22:46Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -16,15 +25,6 @@
     "stars": 105,
     "updated_at": "2026-07-22T17:55:24Z",
     "url": "https://github.com/UiPath/coder_eval"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10677,
-    "updated_at": "2026-07-22T18:08:07Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "ckl's personal benchmark for doc writing, infra code, and paper reading \u2014 one-click evaluation of the latest models via ",
