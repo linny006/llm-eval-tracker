@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-22 22:15 UTC
+> ⏰ Last updated: 2026-07-22 22:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10681 | Python | 2026-07-22 | AI Observability & Evaluation |
-| 2 | [ipezygj/evalgate](https://github.com/ipezygj/evalgate) | 1 | Python | 2026-07-22 | Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave- |
-| 3 | [attenlabs/hotato](https://github.com/attenlabs/hotato) | 1 | Python | 2026-07-22 | Local-first testing and observability for AI agents. Trace, evaluate, test, and gate any agent on your machine. Self-hos |
-| 4 | [UiPath/coder_eval](https://github.com/UiPath/coder_eval) | 105 | Python | 2026-07-22 | Evaluate & benchmark AI coding agents and Claude Code skills — sandboxed, reproducible YAML eval suites for Claude Code, |
-| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23502 | TypeScript | 2026-07-22 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 1 | [UiPath/coder_eval](https://github.com/UiPath/coder_eval) | 105 | Python | 2026-07-22 | Evaluate & benchmark AI coding agents and Claude Code skills — sandboxed, reproducible YAML eval suites for Claude Code, |
+| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23503 | TypeScript | 2026-07-22 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10681 | Python | 2026-07-22 | AI Observability & Evaluation |
+| 4 | [ipezygj/evalgate](https://github.com/ipezygj/evalgate) | 1 | Python | 2026-07-22 | Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave- |
+| 5 | [attenlabs/hotato](https://github.com/attenlabs/hotato) | 1 | Python | 2026-07-22 | Local-first testing and observability for AI agents. Trace, evaluate, test, and gate any agent on your machine. Self-hos |
 | 6 | [cklxx/ckl-bench](https://github.com/cklxx/ckl-bench) | 1 | HTML | 2026-07-22 | ckl's personal benchmark for doc writing, infra code, and paper reading — one-click evaluation of the latest models via  |
 | 7 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 322 | TypeScript | 2026-07-22 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 8 | [truera/trulens](https://github.com/truera/trulens) | 3453 | Python | 2026-07-22 | Evaluation and Tracking for LLM Experiments and AI Agents |
@@ -59,7 +59,7 @@ expired items removed — so you can rely on what you see being current.
 | 15 | [lehigh-university-libraries/htr](https://github.com/lehigh-university-libraries/htr) | 2 | Go | 2026-07-21 | Handwritten Text Recognition llm eval tool |
 | 16 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-07-22 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
 | 17 | [ozlar34/job-match-radar](https://github.com/ozlar34/job-match-radar) | 1 | Python | 2026-07-21 | Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai |
-| 18 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5704 | Python | 2026-07-21 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 18 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5705 | Python | 2026-07-21 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 19 | [iZenDeveloper/auditai](https://github.com/iZenDeveloper/auditai) | 0 | Python | 2026-07-20 | Developer-first LLM/RAG safety audits for CI/CD — faithfulness, relevancy, prompt injection (BYOK OpenAI/xAI). pip insta |
 | 20 | [vitorwilher/copom-rag-service](https://github.com/vitorwilher/copom-rag-service) | 0 | Python | 2026-07-20 | Serviço de RAG sobre atas do Copom + boletim Focus, servido como API (FastAPI+Docker), com eval harness (golden set, LLM |
 | 21 | [SFX-TECH/sfx-lead-intelligence](https://github.com/SFX-TECH/sfx-lead-intelligence) | 0 | — | 2026-07-20 | SFX Lead Intelligence Command Center: local-LLM hub plus lead dashboard, quality lifted 61 to 99 percent via a ground-tr |
