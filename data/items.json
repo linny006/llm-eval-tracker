@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23467,
+    "updated_at": "2026-07-22T00:12:37Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
     "id": "homemade-software-inc/completion-kit",
     "language": "Ruby",
@@ -7,15 +16,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T23:58:30Z",
     "url": "https://github.com/homemade-software-inc/completion-kit"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23466,
-    "updated_at": "2026-07-22T00:01:16Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Handwritten Text Recognition llm eval tool",
@@ -32,7 +32,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10661,
-    "updated_at": "2026-07-22T00:00:06Z",
+    "updated_at": "2026-07-22T00:13:04Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -130,7 +130,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5686,
+    "stars": 5687,
     "updated_at": "2026-07-21T09:18:23Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
