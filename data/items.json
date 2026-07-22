@@ -1,21 +1,21 @@
 [
   {
-    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
-    "id": "Eval-core/evalcore",
-    "language": "Rust",
-    "name": "Eval-core/evalcore",
-    "stars": 14,
-    "updated_at": "2026-07-22T02:57:45Z",
-    "url": "https://github.com/Eval-core/evalcore"
-  },
-  {
     "description": "Agent memory backends each publish their own benchmark numbers, on different tests, measured different ways. memtrust ru",
     "id": "RudrenduPaul/memtrust",
     "language": "Python",
     "name": "RudrenduPaul/memtrust",
     "stars": 0,
-    "updated_at": "2026-07-22T02:54:34Z",
+    "updated_at": "2026-07-22T03:12:50Z",
     "url": "https://github.com/RudrenduPaul/memtrust"
+  },
+  {
+    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
+    "id": "Eval-core/evalcore",
+    "language": "Rust",
+    "name": "Eval-core/evalcore",
+    "stars": 14,
+    "updated_at": "2026-07-22T03:04:07Z",
+    "url": "https://github.com/Eval-core/evalcore"
   },
   {
     "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
@@ -23,7 +23,7 @@
     "language": "Python",
     "name": "sammyjdev/gnomon-eval",
     "stars": 0,
-    "updated_at": "2026-07-22T02:03:57Z",
+    "updated_at": "2026-07-22T03:10:35Z",
     "url": "https://github.com/sammyjdev/gnomon-eval"
   },
   {
@@ -49,7 +49,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23473,
+    "stars": 23474,
     "updated_at": "2026-07-22T00:41:23Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
