@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-22 09:15 UTC
+> ⏰ Last updated: 2026-07-22 09:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -54,7 +54,7 @@ expired items removed — so you can rely on what you see being current.
 | 10 | [lehigh-university-libraries/htr](https://github.com/lehigh-university-libraries/htr) | 2 | Go | 2026-07-21 | Handwritten Text Recognition llm eval tool |
 | 11 | [truera/trulens](https://github.com/truera/trulens) | 3451 | Python | 2026-07-21 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 12 | [ipezygj/evalgate](https://github.com/ipezygj/evalgate) | 0 | Python | 2026-07-21 | Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave- |
-| 13 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-07-21 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
+| 13 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-07-22 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
 | 14 | [lftherios/session-link](https://github.com/lftherios/session-link) | 0 | Go | 2026-07-21 | A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit. |
 | 15 | [ozlar34/job-match-radar](https://github.com/ozlar34/job-match-radar) | 1 | Python | 2026-07-21 | Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai |
 | 16 | [cklxx/ckl-bench](https://github.com/cklxx/ckl-bench) | 1 | HTML | 2026-07-21 | ckl's personal benchmark for doc writing, infra code, and paper reading — one-click evaluation of the latest models via  |
