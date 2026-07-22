@@ -4,9 +4,18 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23467,
+    "stars": 23468,
     "updated_at": "2026-07-22T00:41:23Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10662,
+    "updated_at": "2026-07-22T00:26:56Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
@@ -25,15 +34,6 @@
     "stars": 2,
     "updated_at": "2026-07-21T23:37:54Z",
     "url": "https://github.com/lehigh-university-libraries/htr"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10661,
-    "updated_at": "2026-07-22T00:26:56Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
