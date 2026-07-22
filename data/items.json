@@ -1,5 +1,14 @@
 [
   {
+    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
+    "id": "Eval-core/evalcore",
+    "language": "Rust",
+    "name": "Eval-core/evalcore",
+    "stars": 14,
+    "updated_at": "2026-07-22T02:33:59Z",
+    "url": "https://github.com/Eval-core/evalcore"
+  },
+  {
     "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
     "id": "sammyjdev/gnomon-eval",
     "language": "Python",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10664,
-    "updated_at": "2026-07-22T01:59:41Z",
+    "updated_at": "2026-07-22T02:42:03Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -106,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T15:28:12Z",
     "url": "https://github.com/ozlar34/job-match-radar"
-  },
-  {
-    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
-    "id": "Eval-core/evalcore",
-    "language": "Rust",
-    "name": "Eval-core/evalcore",
-    "stars": 14,
-    "updated_at": "2026-07-21T14:18:54Z",
-    "url": "https://github.com/Eval-core/evalcore"
   },
   {
     "description": "ckl's personal benchmark for doc writing, infra code, and paper reading \u2014 one-click evaluation of the latest models via ",
