@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-22 19:45 UTC
+> ⏰ Last updated: 2026-07-22 20:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [attenlabs/hotato](https://github.com/attenlabs/hotato) | 1 | Python | 2026-07-22 | Local-first testing and observability for AI agents. Trace, evaluate, test, and gate any agent on your machine. Self-hos |
-| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23500 | TypeScript | 2026-07-22 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 3 | [UiPath/coder_eval](https://github.com/UiPath/coder_eval) | 105 | Python | 2026-07-22 | Evaluate & benchmark AI coding agents and Claude Code skills — sandboxed, reproducible YAML eval suites for Claude Code, |
-| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10678 | Python | 2026-07-22 | AI Observability & Evaluation |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10679 | Python | 2026-07-22 | AI Observability & Evaluation |
+| 2 | [attenlabs/hotato](https://github.com/attenlabs/hotato) | 1 | Python | 2026-07-22 | Local-first testing and observability for AI agents. Trace, evaluate, test, and gate any agent on your machine. Self-hos |
+| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23500 | TypeScript | 2026-07-22 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 4 | [UiPath/coder_eval](https://github.com/UiPath/coder_eval) | 105 | Python | 2026-07-22 | Evaluate & benchmark AI coding agents and Claude Code skills — sandboxed, reproducible YAML eval suites for Claude Code, |
 | 5 | [cklxx/ckl-bench](https://github.com/cklxx/ckl-bench) | 1 | HTML | 2026-07-22 | ckl's personal benchmark for doc writing, infra code, and paper reading — one-click evaluation of the latest models via  |
 | 6 | [ipezygj/evalgate](https://github.com/ipezygj/evalgate) | 0 | Python | 2026-07-22 | Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave- |
 | 7 | [truera/trulens](https://github.com/truera/trulens) | 3453 | Python | 2026-07-22 | Evaluation and Tracking for LLM Experiments and AI Agents |
