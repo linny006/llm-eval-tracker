@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-22 21:30 UTC
+> ⏰ Last updated: 2026-07-22 21:35 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ipezygj/evalgate](https://github.com/ipezygj/evalgate) | 0 | Python | 2026-07-22 | Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave- |
-| 2 | [attenlabs/hotato](https://github.com/attenlabs/hotato) | 1 | Python | 2026-07-22 | Local-first testing and observability for AI agents. Trace, evaluate, test, and gate any agent on your machine. Self-hos |
-| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10680 | Python | 2026-07-22 | AI Observability & Evaluation |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10680 | Python | 2026-07-22 | AI Observability & Evaluation |
+| 2 | [ipezygj/evalgate](https://github.com/ipezygj/evalgate) | 1 | Python | 2026-07-22 | Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave- |
+| 3 | [attenlabs/hotato](https://github.com/attenlabs/hotato) | 1 | Python | 2026-07-22 | Local-first testing and observability for AI agents. Trace, evaluate, test, and gate any agent on your machine. Self-hos |
 | 4 | [UiPath/coder_eval](https://github.com/UiPath/coder_eval) | 105 | Python | 2026-07-22 | Evaluate & benchmark AI coding agents and Claude Code skills — sandboxed, reproducible YAML eval suites for Claude Code, |
 | 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23502 | TypeScript | 2026-07-22 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 6 | [cklxx/ckl-bench](https://github.com/cklxx/ckl-bench) | 1 | HTML | 2026-07-22 | ckl's personal benchmark for doc writing, infra code, and paper reading — one-click evaluation of the latest models via  |
