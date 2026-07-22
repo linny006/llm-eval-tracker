@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-22 21:15 UTC
+> ⏰ Last updated: 2026-07-22 21:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [UiPath/coder_eval](https://github.com/UiPath/coder_eval) | 105 | Python | 2026-07-22 | Evaluate & benchmark AI coding agents and Claude Code skills — sandboxed, reproducible YAML eval suites for Claude Code, |
-| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10680 | Python | 2026-07-22 | AI Observability & Evaluation |
-| 3 | [attenlabs/hotato](https://github.com/attenlabs/hotato) | 1 | Python | 2026-07-22 | Local-first testing and observability for AI agents. Trace, evaluate, test, and gate any agent on your machine. Self-hos |
-| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23502 | TypeScript | 2026-07-22 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 5 | [cklxx/ckl-bench](https://github.com/cklxx/ckl-bench) | 1 | HTML | 2026-07-22 | ckl's personal benchmark for doc writing, infra code, and paper reading — one-click evaluation of the latest models via  |
-| 6 | [ipezygj/evalgate](https://github.com/ipezygj/evalgate) | 0 | Python | 2026-07-22 | Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave- |
+| 1 | [ipezygj/evalgate](https://github.com/ipezygj/evalgate) | 0 | Python | 2026-07-22 | Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave- |
+| 2 | [attenlabs/hotato](https://github.com/attenlabs/hotato) | 1 | Python | 2026-07-22 | Local-first testing and observability for AI agents. Trace, evaluate, test, and gate any agent on your machine. Self-hos |
+| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10680 | Python | 2026-07-22 | AI Observability & Evaluation |
+| 4 | [UiPath/coder_eval](https://github.com/UiPath/coder_eval) | 105 | Python | 2026-07-22 | Evaluate & benchmark AI coding agents and Claude Code skills — sandboxed, reproducible YAML eval suites for Claude Code, |
+| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23502 | TypeScript | 2026-07-22 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 6 | [cklxx/ckl-bench](https://github.com/cklxx/ckl-bench) | 1 | HTML | 2026-07-22 | ckl's personal benchmark for doc writing, infra code, and paper reading — one-click evaluation of the latest models via  |
 | 7 | [truera/trulens](https://github.com/truera/trulens) | 3453 | Python | 2026-07-22 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 8 | [lftherios/session-link](https://github.com/lftherios/session-link) | 0 | Go | 2026-07-22 | A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit. |
 | 9 | [monospaceai/evaldata](https://github.com/monospaceai/evaldata) | 3 | Python | 2026-07-22 | Evaluate AI-generated SQL with pytest. |
