@@ -1,11 +1,20 @@
 [
   {
+    "description": "Evaluate AI-generated SQL with pytest.",
+    "id": "monospaceai/evaldata",
+    "language": "Python",
+    "name": "monospaceai/evaldata",
+    "stars": 3,
+    "updated_at": "2026-07-22T06:31:18Z",
+    "url": "https://github.com/monospaceai/evaldata"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 321,
-    "updated_at": "2026-07-22T06:21:33Z",
+    "updated_at": "2026-07-22T06:35:16Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23480,
-    "updated_at": "2026-07-22T06:26:52Z",
+    "updated_at": "2026-07-22T06:39:26Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -196,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T07:32:45Z",
     "url": "https://github.com/tkarim45/agent-eval-harness"
-  },
-  {
-    "description": "Evaluate AI-generated SQL with pytest.",
-    "id": "monospaceai/evaldata",
-    "language": "Python",
-    "name": "monospaceai/evaldata",
-    "stars": 3,
-    "updated_at": "2026-07-22T06:22:36Z",
-    "url": "https://github.com/monospaceai/evaldata"
   },
   {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
