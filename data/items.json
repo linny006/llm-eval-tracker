@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10675,
+    "updated_at": "2026-07-22T15:25:09Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 3453,
     "updated_at": "2026-07-22T14:32:18Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10674,
-    "updated_at": "2026-07-22T15:12:26Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
@@ -49,8 +49,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23495,
-    "updated_at": "2026-07-22T06:39:26Z",
+    "stars": 23496,
+    "updated_at": "2026-07-22T15:23:55Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
