@@ -1,5 +1,14 @@
 [
   {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3452,
+    "updated_at": "2026-07-22T13:32:27Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
     "id": "lftherios/session-link",
     "language": "Go",
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10675,
-    "updated_at": "2026-07-22T08:17:52Z",
+    "updated_at": "2026-07-22T13:35:28Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -97,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-07-21T23:37:54Z",
     "url": "https://github.com/lehigh-university-libraries/htr"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3451,
-    "updated_at": "2026-07-21T20:59:47Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave-",
