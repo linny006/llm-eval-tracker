@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10674,
+    "updated_at": "2026-07-22T14:22:30Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
     "id": "lftherios/session-link",
     "language": "Go",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3452,
-    "updated_at": "2026-07-22T14:18:18Z",
+    "updated_at": "2026-07-22T14:32:18Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -34,15 +43,6 @@
     "stars": 3,
     "updated_at": "2026-07-22T10:31:59Z",
     "url": "https://github.com/monospaceai/evaldata"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10675,
-    "updated_at": "2026-07-22T14:22:30Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
