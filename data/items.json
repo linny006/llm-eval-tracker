@@ -1,5 +1,14 @@
 [
   {
+    "description": "Evaluate AI-generated SQL with pytest.",
+    "id": "monospaceai/evaldata",
+    "language": "Python",
+    "name": "monospaceai/evaldata",
+    "stars": 3,
+    "updated_at": "2026-07-22T10:23:56Z",
+    "url": "https://github.com/monospaceai/evaldata"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -18,21 +27,12 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "Evaluate AI-generated SQL with pytest.",
-    "id": "monospaceai/evaldata",
-    "language": "Python",
-    "name": "monospaceai/evaldata",
-    "stars": 3,
-    "updated_at": "2026-07-22T06:31:18Z",
-    "url": "https://github.com/monospaceai/evaldata"
-  },
-  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 321,
-    "updated_at": "2026-07-22T10:15:09Z",
+    "updated_at": "2026-07-22T10:29:41Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
