@@ -9,15 +9,6 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10678,
-    "updated_at": "2026-07-22T18:49:22Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Evaluate & benchmark AI coding agents and Claude Code skills \u2014 sandboxed, reproducible YAML eval suites for Claude Code,",
     "id": "UiPath/coder_eval",
     "language": "Python",
@@ -25,6 +16,15 @@
     "stars": 105,
     "updated_at": "2026-07-22T18:42:38Z",
     "url": "https://github.com/UiPath/coder_eval"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10678,
+    "updated_at": "2026-07-22T19:07:03Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "ckl's personal benchmark for doc writing, infra code, and paper reading \u2014 one-click evaluation of the latest models via ",
