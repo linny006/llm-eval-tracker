@@ -1,5 +1,23 @@
 [
   {
+    "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
+    "id": "valbaudo/awf",
+    "language": "Go",
+    "name": "valbaudo/awf",
+    "stars": 1,
+    "updated_at": "2026-07-23T12:51:33Z",
+    "url": "https://github.com/valbaudo/awf"
+  },
+  {
+    "description": "Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave-",
+    "id": "ipezygj/evalgate",
+    "language": "Python",
+    "name": "ipezygj/evalgate",
+    "stars": 1,
+    "updated_at": "2026-07-23T12:50:43Z",
+    "url": "https://github.com/ipezygj/evalgate"
+  },
+  {
     "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
     "id": "lftherios/session-link",
     "language": "Go",
@@ -9,15 +27,6 @@
     "url": "https://github.com/lftherios/session-link"
   },
   {
-    "description": "Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave-",
-    "id": "ipezygj/evalgate",
-    "language": "Python",
-    "name": "ipezygj/evalgate",
-    "stars": 1,
-    "updated_at": "2026-07-23T12:37:39Z",
-    "url": "https://github.com/ipezygj/evalgate"
-  },
-  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -25,15 +34,6 @@
     "stars": 322,
     "updated_at": "2026-07-23T12:13:37Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
-    "id": "valbaudo/awf",
-    "language": "Go",
-    "name": "valbaudo/awf",
-    "stars": 1,
-    "updated_at": "2026-07-23T07:47:06Z",
-    "url": "https://github.com/valbaudo/awf"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -50,7 +50,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10696,
-    "updated_at": "2026-07-23T06:42:24Z",
+    "updated_at": "2026-07-23T12:47:23Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
