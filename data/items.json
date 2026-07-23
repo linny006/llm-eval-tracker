@@ -1,10 +1,19 @@
 [
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5706,
+    "updated_at": "2026-07-23T07:22:20Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10688,
+    "stars": 10689,
     "updated_at": "2026-07-23T06:42:24Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -86,7 +95,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 322,
-    "updated_at": "2026-07-23T07:09:17Z",
+    "updated_at": "2026-07-23T07:20:18Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -160,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T15:28:12Z",
     "url": "https://github.com/ozlar34/job-match-radar"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5706,
-    "updated_at": "2026-07-23T06:54:29Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Developer-first LLM/RAG safety audits for CI/CD \u2014 faithfulness, relevancy, prompt injection (BYOK OpenAI/xAI). pip insta",
