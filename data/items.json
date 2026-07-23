@@ -1,11 +1,20 @@
 [
   {
+    "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
+    "id": "lftherios/session-link",
+    "language": "Go",
+    "name": "lftherios/session-link",
+    "stars": 0,
+    "updated_at": "2026-07-23T12:39:02Z",
+    "url": "https://github.com/lftherios/session-link"
+  },
+  {
     "description": "Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave-",
     "id": "ipezygj/evalgate",
     "language": "Python",
     "name": "ipezygj/evalgate",
     "stars": 1,
-    "updated_at": "2026-07-23T12:27:05Z",
+    "updated_at": "2026-07-23T12:37:39Z",
     "url": "https://github.com/ipezygj/evalgate"
   },
   {
@@ -49,7 +58,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23522,
+    "stars": 23524,
     "updated_at": "2026-07-23T05:45:45Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -86,7 +95,7 @@
     "language": "Python",
     "name": "attenlabs/hotato",
     "stars": 1,
-    "updated_at": "2026-07-22T23:54:15Z",
+    "updated_at": "2026-07-23T12:43:23Z",
     "url": "https://github.com/attenlabs/hotato"
   },
   {
@@ -106,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T17:10:10Z",
     "url": "https://github.com/cklxx/ckl-bench"
-  },
-  {
-    "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
-    "id": "lftherios/session-link",
-    "language": "Go",
-    "name": "lftherios/session-link",
-    "stars": 0,
-    "updated_at": "2026-07-22T14:15:08Z",
-    "url": "https://github.com/lftherios/session-link"
   },
   {
     "description": "Evaluate AI-generated SQL with pytest.",
