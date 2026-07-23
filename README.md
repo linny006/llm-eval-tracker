@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-23 20:15 UTC
+> ⏰ Last updated: 2026-07-23 20:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [UiPath/coder_eval](https://github.com/UiPath/coder_eval) | 107 | Python | 2026-07-23 | Evaluate & benchmark AI coding agents and Claude Code skills — sandboxed, reproducible YAML eval suites for Claude Code, |
-| 2 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 322 | TypeScript | 2026-07-23 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23535 | TypeScript | 2026-07-23 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23536 | TypeScript | 2026-07-23 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 2 | [UiPath/coder_eval](https://github.com/UiPath/coder_eval) | 107 | Python | 2026-07-23 | Evaluate & benchmark AI coding agents and Claude Code skills — sandboxed, reproducible YAML eval suites for Claude Code, |
+| 3 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 322 | TypeScript | 2026-07-23 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 4 | [attenlabs/hotato](https://github.com/attenlabs/hotato) | 1 | Python | 2026-07-23 | Local-first testing and observability for AI agents. Trace, evaluate, test, and gate any agent on your machine. Self-hos |
 | 5 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-07-23 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 6 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10702 | Python | 2026-07-23 | AI Observability & Evaluation |
