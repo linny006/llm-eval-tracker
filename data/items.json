@@ -1,10 +1,19 @@
 [
   {
+    "description": "Local-first testing and observability for AI agents. Trace, evaluate, test, and gate any agent on your machine. Self-hos",
+    "id": "attenlabs/hotato",
+    "language": "Python",
+    "name": "attenlabs/hotato",
+    "stars": 1,
+    "updated_at": "2026-07-23T18:05:50Z",
+    "url": "https://github.com/attenlabs/hotato"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10700,
+    "stars": 10701,
     "updated_at": "2026-07-23T17:54:30Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -23,7 +32,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 322,
-    "updated_at": "2026-07-23T16:47:26Z",
+    "updated_at": "2026-07-23T18:06:18Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -52,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T15:35:47Z",
     "url": "https://github.com/iZenDeveloper/auditai"
-  },
-  {
-    "description": "Local-first testing and observability for AI agents. Trace, evaluate, test, and gate any agent on your machine. Self-hos",
-    "id": "attenlabs/hotato",
-    "language": "Python",
-    "name": "attenlabs/hotato",
-    "stars": 1,
-    "updated_at": "2026-07-23T17:12:48Z",
-    "url": "https://github.com/attenlabs/hotato"
   },
   {
     "description": "Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave-",
@@ -104,7 +104,7 @@
     "language": "Python",
     "name": "UiPath/coder_eval",
     "stars": 107,
-    "updated_at": "2026-07-23T17:39:07Z",
+    "updated_at": "2026-07-23T18:08:04Z",
     "url": "https://github.com/UiPath/coder_eval"
   },
   {
