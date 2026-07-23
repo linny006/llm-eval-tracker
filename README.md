@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-23 15:15 UTC
+> ⏰ Last updated: 2026-07-23 15:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -86,12 +86,12 @@ expired items removed — so you can rely on what you see being current.
 | 42 | [christianmacion26/judge-harness](https://github.com/christianmacion26/judge-harness) | 0 | Python | 2026-07-08 | LLM-as-judge validated vs humans (Cohen's κ), with position-bias exposed. |
 | 43 | [plwslpld-arch/loopward](https://github.com/plwslpld-arch/loopward) | 1 | TypeScript | 2026-07-07 | Stress-test the tool-routing decision inside an agent loop: audit confusable tools, red-team routing robustness, compare |
 | 44 | [ContextJet-ai/skillvitals](https://github.com/ContextJet-ai/skillvitals) | 1 | Python | 2026-07-06 | Vital signs for your agent skills: measure whether a skill triggers when it should and whether it actually helps, on a c |
-| 45 | [IonDen/mlx-quant-fidelity](https://github.com/IonDen/mlx-quant-fidelity) | 1 | Python | 2026-07-04 | Measure MLX quantization quality loss — KL divergence, perplexity, top-token agreement for KV cache and weights |
-| 46 | [Sushant-Dagar/agent-eval-harness](https://github.com/Sushant-Dagar/agent-eval-harness) | 0 | Python | 2026-07-04 | CI-integrated eval harness for LLM agents — intent accuracy, retrieval precision/recall/MRR, and hallucination detection |
-| 47 | [lokesh75-kank/agenteval](https://github.com/lokesh75-kank/agenteval) | 0 | TypeScript | 2026-07-03 | Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou |
-| 48 | [Ruthwik-Data/finrag-eval](https://github.com/Ruthwik-Data/finrag-eval) | 0 | Python | 2026-07-02 | Local RAG eval on real SEC 10-Ks that catches confident financial hallucinations — and surfaced a metric bug now merged  |
-| 49 | [hydrangeas20/safetylens](https://github.com/hydrangeas20/safetylens) | 0 | Jupyter Notebook | 2026-07-01 | Empirical study of evaluation robustness in large language models. Compares benchmark style evaluation prompts with real |
-| 50 | [kilocommits/campaign-eval-harness](https://github.com/kilocommits/campaign-eval-harness) | 0 | Python | 2026-06-30 | An LLM-as-judge harness that scores AI-generated campaign phone scripts against a weighted quality rubric with a real Ha |
+| 45 | [nikolas-sapa/sigeval](https://github.com/nikolas-sapa/sigeval) | 1 | Python | 2026-07-05 | Statistically rigorous LLM evaluation framework for Python — pytest for LLMs that isn't flaky. Treats every eval as a pr |
+| 46 | [IonDen/mlx-quant-fidelity](https://github.com/IonDen/mlx-quant-fidelity) | 1 | Python | 2026-07-04 | Measure MLX quantization quality loss — KL divergence, perplexity, top-token agreement for KV cache and weights |
+| 47 | [Sushant-Dagar/agent-eval-harness](https://github.com/Sushant-Dagar/agent-eval-harness) | 0 | Python | 2026-07-04 | CI-integrated eval harness for LLM agents — intent accuracy, retrieval precision/recall/MRR, and hallucination detection |
+| 48 | [lokesh75-kank/agenteval](https://github.com/lokesh75-kank/agenteval) | 0 | TypeScript | 2026-07-03 | Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou |
+| 49 | [Ruthwik-Data/finrag-eval](https://github.com/Ruthwik-Data/finrag-eval) | 0 | Python | 2026-07-02 | Local RAG eval on real SEC 10-Ks that catches confident financial hallucinations — and surfaced a metric bug now merged  |
+| 50 | [hydrangeas20/safetylens](https://github.com/hydrangeas20/safetylens) | 0 | Jupyter Notebook | 2026-07-01 | Empirical study of evaluation robustness in large language models. Compares benchmark style evaluation prompts with real |
 <!-- TRACKER_TABLE_END -->
 
 ---

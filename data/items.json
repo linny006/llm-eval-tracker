@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10698,
-    "updated_at": "2026-07-23T15:02:50Z",
+    "updated_at": "2026-07-23T15:23:35Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -14,7 +14,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23529,
-    "updated_at": "2026-07-23T13:16:46Z",
+    "updated_at": "2026-07-23T15:17:53Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -396,6 +396,15 @@
     "url": "https://github.com/ContextJet-ai/skillvitals"
   },
   {
+    "description": "Statistically rigorous LLM evaluation framework for Python \u2014 pytest for LLMs that isn't flaky. Treats every eval as a pr",
+    "id": "nikolas-sapa/sigeval",
+    "language": "Python",
+    "name": "nikolas-sapa/sigeval",
+    "stars": 1,
+    "updated_at": "2026-07-05T04:35:20Z",
+    "url": "https://github.com/nikolas-sapa/sigeval"
+  },
+  {
     "description": "Measure MLX quantization quality loss \u2014 KL divergence, perplexity, top-token agreement for KV cache and weights",
     "id": "IonDen/mlx-quant-fidelity",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-01T06:09:34Z",
     "url": "https://github.com/hydrangeas20/safetylens"
-  },
-  {
-    "description": "An LLM-as-judge harness that scores AI-generated campaign phone scripts against a weighted quality rubric with a real Ha",
-    "id": "kilocommits/campaign-eval-harness",
-    "language": "Python",
-    "name": "kilocommits/campaign-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-06-30T20:59:14Z",
-    "url": "https://github.com/kilocommits/campaign-eval-harness"
   }
 ]
