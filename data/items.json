@@ -1,5 +1,14 @@
 [
   {
+    "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
+    "id": "valbaudo/awf",
+    "language": "Go",
+    "name": "valbaudo/awf",
+    "stars": 1,
+    "updated_at": "2026-07-23T07:47:06Z",
+    "url": "https://github.com/valbaudo/awf"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -151,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-07-21T23:37:54Z",
     "url": "https://github.com/lehigh-university-libraries/htr"
-  },
-  {
-    "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
-    "id": "valbaudo/awf",
-    "language": "Go",
-    "name": "valbaudo/awf",
-    "stars": 1,
-    "updated_at": "2026-07-23T07:47:06Z",
-    "url": "https://github.com/valbaudo/awf"
   },
   {
     "description": "Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai",
