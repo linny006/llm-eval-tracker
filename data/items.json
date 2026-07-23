@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10700,
+    "updated_at": "2026-07-23T17:08:31Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -16,15 +25,6 @@
     "stars": 322,
     "updated_at": "2026-07-23T16:47:26Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10699,
-    "updated_at": "2026-07-23T16:55:12Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
@@ -59,7 +59,7 @@
     "language": "Python",
     "name": "attenlabs/hotato",
     "stars": 1,
-    "updated_at": "2026-07-23T13:03:18Z",
+    "updated_at": "2026-07-23T17:12:48Z",
     "url": "https://github.com/attenlabs/hotato"
   },
   {
