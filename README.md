@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-23 16:15 UTC
+> ⏰ Last updated: 2026-07-23 16:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -46,7 +46,7 @@ expired items removed — so you can rely on what you see being current.
 | 2 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-07-23 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
 | 3 | [iZenDeveloper/auditai](https://github.com/iZenDeveloper/auditai) | 0 | Python | 2026-07-23 | Developer-first LLM/RAG safety audits for CI/CD — faithfulness, relevancy, prompt injection (BYOK OpenAI/xAI). pip insta |
 | 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10699 | Python | 2026-07-23 | AI Observability & Evaluation |
-| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23529 | TypeScript | 2026-07-23 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23530 | TypeScript | 2026-07-23 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 6 | [attenlabs/hotato](https://github.com/attenlabs/hotato) | 1 | Python | 2026-07-23 | Local-first testing and observability for AI agents. Trace, evaluate, test, and gate any agent on your machine. Self-hos |
 | 7 | [ipezygj/evalgate](https://github.com/ipezygj/evalgate) | 1 | Python | 2026-07-23 | Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave- |
 | 8 | [lftherios/session-link](https://github.com/lftherios/session-link) | 0 | Go | 2026-07-23 | A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit. |
