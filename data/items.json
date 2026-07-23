@@ -1,11 +1,20 @@
 [
   {
+    "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
+    "id": "jeremylongshore/j-rig-skill-binary-eval",
+    "language": "TypeScript",
+    "name": "jeremylongshore/j-rig-skill-binary-eval",
+    "stars": 0,
+    "updated_at": "2026-07-23T20:40:45Z",
+    "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23536,
-    "updated_at": "2026-07-23T20:17:39Z",
+    "stars": 23537,
+    "updated_at": "2026-07-23T20:39:28Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -34,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T19:51:30Z",
     "url": "https://github.com/attenlabs/hotato"
-  },
-  {
-    "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
-    "id": "jeremylongshore/j-rig-skill-binary-eval",
-    "language": "TypeScript",
-    "name": "jeremylongshore/j-rig-skill-binary-eval",
-    "stars": 0,
-    "updated_at": "2026-07-23T19:32:08Z",
-    "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -103,7 +103,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5705,
+    "stars": 5706,
     "updated_at": "2026-07-23T07:22:20Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
