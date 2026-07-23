@@ -1,11 +1,20 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10703,
+    "updated_at": "2026-07-23T22:35:35Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 322,
-    "updated_at": "2026-07-23T22:27:38Z",
+    "updated_at": "2026-07-23T22:33:33Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -34,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T22:27:58Z",
     "url": "https://github.com/attenlabs/hotato"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10703,
-    "updated_at": "2026-07-23T22:29:02Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
