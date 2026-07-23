@@ -54,6 +54,15 @@
     "url": "https://github.com/attenlabs/hotato"
   },
   {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3454,
+    "updated_at": "2026-07-22T23:22:28Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave-",
     "id": "ipezygj/evalgate",
     "language": "Python",
@@ -77,17 +86,8 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 322,
-    "updated_at": "2026-07-23T05:45:38Z",
+    "updated_at": "2026-07-23T06:05:21Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3453,
-    "updated_at": "2026-07-22T23:22:28Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
@@ -167,7 +167,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5706,
-    "updated_at": "2026-07-21T09:18:23Z",
+    "updated_at": "2026-07-23T06:03:17Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
