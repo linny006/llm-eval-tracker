@@ -1,11 +1,20 @@
 [
   {
+    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
+    "id": "Eval-core/evalcore",
+    "language": "Rust",
+    "name": "Eval-core/evalcore",
+    "stars": 14,
+    "updated_at": "2026-07-23T01:29:26Z",
+    "url": "https://github.com/Eval-core/evalcore"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10683,
-    "updated_at": "2026-07-23T01:12:45Z",
+    "updated_at": "2026-07-23T01:26:31Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -40,18 +49,9 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23506,
+    "stars": 23507,
     "updated_at": "2026-07-22T23:36:02Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
-    "id": "Eval-core/evalcore",
-    "language": "Rust",
-    "name": "Eval-core/evalcore",
-    "stars": 14,
-    "updated_at": "2026-07-22T22:50:19Z",
-    "url": "https://github.com/Eval-core/evalcore"
   },
   {
     "description": "Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave-",
