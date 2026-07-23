@@ -1,5 +1,23 @@
 [
   {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3456,
+    "updated_at": "2026-07-23T18:41:46Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10702,
+    "updated_at": "2026-07-23T18:43:53Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Local-first testing and observability for AI agents. Trace, evaluate, test, and gate any agent on your machine. Self-hos",
     "id": "attenlabs/hotato",
     "language": "Python",
@@ -16,15 +34,6 @@
     "stars": 322,
     "updated_at": "2026-07-23T18:23:25Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10701,
-    "updated_at": "2026-07-23T17:54:30Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -106,15 +115,6 @@
     "stars": 107,
     "updated_at": "2026-07-23T18:08:04Z",
     "url": "https://github.com/UiPath/coder_eval"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3456,
-    "updated_at": "2026-07-23T18:19:57Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "ckl's personal benchmark for doc writing, infra code, and paper reading \u2014 one-click evaluation of the latest models via ",
