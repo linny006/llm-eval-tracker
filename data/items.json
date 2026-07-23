@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "UiPath/coder_eval",
     "stars": 105,
-    "updated_at": "2026-07-22T23:44:57Z",
+    "updated_at": "2026-07-23T00:00:05Z",
     "url": "https://github.com/UiPath/coder_eval"
+  },
+  {
+    "description": "Local-first testing and observability for AI agents. Trace, evaluate, test, and gate any agent on your machine. Self-hos",
+    "id": "attenlabs/hotato",
+    "language": "Python",
+    "name": "attenlabs/hotato",
+    "stars": 1,
+    "updated_at": "2026-07-22T23:54:15Z",
+    "url": "https://github.com/attenlabs/hotato"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -43,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T21:29:01Z",
     "url": "https://github.com/ipezygj/evalgate"
-  },
-  {
-    "description": "Local-first testing and observability for AI agents. Trace, evaluate, test, and gate any agent on your machine. Self-hos",
-    "id": "attenlabs/hotato",
-    "language": "Python",
-    "name": "attenlabs/hotato",
-    "stars": 1,
-    "updated_at": "2026-07-22T23:33:35Z",
-    "url": "https://github.com/attenlabs/hotato"
   },
   {
     "description": "ckl's personal benchmark for doc writing, infra code, and paper reading \u2014 one-click evaluation of the latest models via ",
