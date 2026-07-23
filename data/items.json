@@ -1,11 +1,20 @@
 [
   {
+    "description": "Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave-",
+    "id": "ipezygj/evalgate",
+    "language": "Python",
+    "name": "ipezygj/evalgate",
+    "stars": 1,
+    "updated_at": "2026-07-23T12:06:12Z",
+    "url": "https://github.com/ipezygj/evalgate"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 322,
-    "updated_at": "2026-07-23T11:55:34Z",
+    "updated_at": "2026-07-23T12:13:37Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -88,15 +97,6 @@
     "stars": 3456,
     "updated_at": "2026-07-22T23:22:28Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave-",
-    "id": "ipezygj/evalgate",
-    "language": "Python",
-    "name": "ipezygj/evalgate",
-    "stars": 1,
-    "updated_at": "2026-07-22T21:29:01Z",
-    "url": "https://github.com/ipezygj/evalgate"
   },
   {
     "description": "ckl's personal benchmark for doc writing, infra code, and paper reading \u2014 one-click evaluation of the latest models via ",
