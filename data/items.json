@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10703,
+    "updated_at": "2026-07-23T21:00:36Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
     "id": "jeremylongshore/j-rig-skill-binary-eval",
     "language": "TypeScript",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23537,
-    "updated_at": "2026-07-23T20:59:32Z",
+    "updated_at": "2026-07-23T21:07:27Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -41,17 +50,8 @@
     "language": "Python",
     "name": "attenlabs/hotato",
     "stars": 1,
-    "updated_at": "2026-07-23T19:51:30Z",
+    "updated_at": "2026-07-23T21:05:55Z",
     "url": "https://github.com/attenlabs/hotato"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10702,
-    "updated_at": "2026-07-23T20:28:44Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
