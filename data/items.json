@@ -1,12 +1,30 @@
 [
   {
+    "description": "Evaluate & benchmark AI coding agents and Claude Code skills \u2014 sandboxed, reproducible YAML eval suites for Claude Code,",
+    "id": "UiPath/coder_eval",
+    "language": "Python",
+    "name": "UiPath/coder_eval",
+    "stars": 107,
+    "updated_at": "2026-07-23T20:13:09Z",
+    "url": "https://github.com/UiPath/coder_eval"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 322,
-    "updated_at": "2026-07-23T19:58:53Z",
+    "updated_at": "2026-07-23T20:12:25Z",
     "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23535,
+    "updated_at": "2026-07-23T20:04:39Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Local-first testing and observability for AI agents. Trace, evaluate, test, and gate any agent on your machine. Self-hos",
@@ -16,15 +34,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T19:51:30Z",
     "url": "https://github.com/attenlabs/hotato"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23534,
-    "updated_at": "2026-07-23T19:48:26Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
@@ -41,7 +50,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10702,
-    "updated_at": "2026-07-23T19:57:19Z",
+    "updated_at": "2026-07-23T20:14:33Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -106,15 +115,6 @@
     "stars": 14,
     "updated_at": "2026-07-23T02:08:56Z",
     "url": "https://github.com/Eval-core/evalcore"
-  },
-  {
-    "description": "Evaluate & benchmark AI coding agents and Claude Code skills \u2014 sandboxed, reproducible YAML eval suites for Claude Code,",
-    "id": "UiPath/coder_eval",
-    "language": "Python",
-    "name": "UiPath/coder_eval",
-    "stars": 107,
-    "updated_at": "2026-07-23T18:08:04Z",
-    "url": "https://github.com/UiPath/coder_eval"
   },
   {
     "description": "ckl's personal benchmark for doc writing, infra code, and paper reading \u2014 one-click evaluation of the latest models via ",
