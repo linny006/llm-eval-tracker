@@ -1,5 +1,14 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 322,
+    "updated_at": "2026-07-23T07:32:48Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -50,7 +59,7 @@
     "language": "Python",
     "name": "UiPath/coder_eval",
     "stars": 107,
-    "updated_at": "2026-07-23T00:00:05Z",
+    "updated_at": "2026-07-23T07:32:29Z",
     "url": "https://github.com/UiPath/coder_eval"
   },
   {
@@ -67,7 +76,7 @@
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3454,
+    "stars": 3455,
     "updated_at": "2026-07-22T23:22:28Z",
     "url": "https://github.com/truera/trulens"
   },
@@ -88,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T17:10:10Z",
     "url": "https://github.com/cklxx/ckl-bench"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 322,
-    "updated_at": "2026-07-23T07:20:18Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
