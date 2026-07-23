@@ -1,11 +1,38 @@
 [
   {
+    "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
+    "id": "jeremylongshore/j-rig-skill-binary-eval",
+    "language": "TypeScript",
+    "name": "jeremylongshore/j-rig-skill-binary-eval",
+    "stars": 0,
+    "updated_at": "2026-07-23T15:40:34Z",
+    "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
+  },
+  {
+    "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
+    "id": "valbaudo/awf",
+    "language": "Go",
+    "name": "valbaudo/awf",
+    "stars": 1,
+    "updated_at": "2026-07-23T15:39:42Z",
+    "url": "https://github.com/valbaudo/awf"
+  },
+  {
+    "description": "Developer-first LLM/RAG safety audits for CI/CD \u2014 faithfulness, relevancy, prompt injection (BYOK OpenAI/xAI). pip insta",
+    "id": "iZenDeveloper/auditai",
+    "language": "Python",
+    "name": "iZenDeveloper/auditai",
+    "stars": 0,
+    "updated_at": "2026-07-23T15:35:47Z",
+    "url": "https://github.com/iZenDeveloper/auditai"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10698,
-    "updated_at": "2026-07-23T15:23:35Z",
+    "stars": 10699,
+    "updated_at": "2026-07-23T15:35:39Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -13,7 +40,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23529,
+    "stars": 23530,
     "updated_at": "2026-07-23T15:17:53Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -25,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T13:03:18Z",
     "url": "https://github.com/attenlabs/hotato"
-  },
-  {
-    "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
-    "id": "valbaudo/awf",
-    "language": "Go",
-    "name": "valbaudo/awf",
-    "stars": 1,
-    "updated_at": "2026-07-23T12:51:33Z",
-    "url": "https://github.com/valbaudo/awf"
   },
   {
     "description": "Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave-",
@@ -67,7 +85,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5706,
+    "stars": 5707,
     "updated_at": "2026-07-23T07:22:20Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
@@ -79,15 +97,6 @@
     "stars": 14,
     "updated_at": "2026-07-23T02:08:56Z",
     "url": "https://github.com/Eval-core/evalcore"
-  },
-  {
-    "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
-    "id": "jeremylongshore/j-rig-skill-binary-eval",
-    "language": "TypeScript",
-    "name": "jeremylongshore/j-rig-skill-binary-eval",
-    "stars": 0,
-    "updated_at": "2026-07-23T14:56:18Z",
-    "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
     "description": "Evaluate & benchmark AI coding agents and Claude Code skills \u2014 sandboxed, reproducible YAML eval suites for Claude Code,",
@@ -104,7 +113,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3456,
-    "updated_at": "2026-07-22T23:22:28Z",
+    "updated_at": "2026-07-23T15:33:25Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -169,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T15:28:12Z",
     "url": "https://github.com/ozlar34/job-match-radar"
-  },
-  {
-    "description": "Developer-first LLM/RAG safety audits for CI/CD \u2014 faithfulness, relevancy, prompt injection (BYOK OpenAI/xAI). pip insta",
-    "id": "iZenDeveloper/auditai",
-    "language": "Python",
-    "name": "iZenDeveloper/auditai",
-    "stars": 0,
-    "updated_at": "2026-07-20T23:32:19Z",
-    "url": "https://github.com/iZenDeveloper/auditai"
   },
   {
     "description": "Servi\u00e7o de RAG sobre atas do Copom + boletim Focus, servido como API (FastAPI+Docker), com eval harness (golden set, LLM",
