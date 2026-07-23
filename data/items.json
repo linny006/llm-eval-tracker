@@ -1,11 +1,20 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 322,
+    "updated_at": "2026-07-23T21:49:41Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "Evaluate & benchmark AI coding agents and Claude Code skills \u2014 sandboxed, reproducible YAML eval suites for Claude Code,",
     "id": "UiPath/coder_eval",
     "language": "Python",
     "name": "UiPath/coder_eval",
     "stars": 107,
-    "updated_at": "2026-07-23T21:44:49Z",
+    "updated_at": "2026-07-23T21:57:05Z",
     "url": "https://github.com/UiPath/coder_eval"
   },
   {
@@ -16,15 +25,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T21:40:43Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 322,
-    "updated_at": "2026-07-23T21:39:17Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Local-first testing and observability for AI agents. Trace, evaluate, test, and gate any agent on your machine. Self-hos",
