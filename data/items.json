@@ -1,11 +1,20 @@
 [
   {
+    "description": "Local-first testing and observability for AI agents. Trace, evaluate, test, and gate any agent on your machine. Self-hos",
+    "id": "attenlabs/hotato",
+    "language": "Python",
+    "name": "attenlabs/hotato",
+    "stars": 1,
+    "updated_at": "2026-07-23T21:26:52Z",
+    "url": "https://github.com/attenlabs/hotato"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 322,
-    "updated_at": "2026-07-23T21:15:23Z",
+    "updated_at": "2026-07-23T21:20:32Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10703,
-    "updated_at": "2026-07-23T21:16:59Z",
+    "updated_at": "2026-07-23T21:20:15Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -41,17 +50,8 @@
     "language": "Python",
     "name": "UiPath/coder_eval",
     "stars": 107,
-    "updated_at": "2026-07-23T20:13:09Z",
+    "updated_at": "2026-07-23T21:29:01Z",
     "url": "https://github.com/UiPath/coder_eval"
-  },
-  {
-    "description": "Local-first testing and observability for AI agents. Trace, evaluate, test, and gate any agent on your machine. Self-hos",
-    "id": "attenlabs/hotato",
-    "language": "Python",
-    "name": "attenlabs/hotato",
-    "stars": 1,
-    "updated_at": "2026-07-23T21:05:55Z",
-    "url": "https://github.com/attenlabs/hotato"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
