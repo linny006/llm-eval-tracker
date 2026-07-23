@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-23 00:00 UTC
+> ⏰ Last updated: 2026-07-23 00:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,31 +42,31 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [UiPath/coder_eval](https://github.com/UiPath/coder_eval) | 105 | Python | 2026-07-23 | Evaluate & benchmark AI coding agents and Claude Code skills — sandboxed, reproducible YAML eval suites for Claude Code, |
-| 2 | [attenlabs/hotato](https://github.com/attenlabs/hotato) | 1 | Python | 2026-07-22 | Local-first testing and observability for AI agents. Trace, evaluate, test, and gate any agent on your machine. Self-hos |
-| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10683 | Python | 2026-07-22 | AI Observability & Evaluation |
-| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23504 | TypeScript | 2026-07-22 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 5 | [Eval-core/evalcore](https://github.com/Eval-core/evalcore) | 14 | Rust | 2026-07-22 | Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI. |
-| 6 | [ipezygj/evalgate](https://github.com/ipezygj/evalgate) | 1 | Python | 2026-07-22 | Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave- |
-| 7 | [cklxx/ckl-bench](https://github.com/cklxx/ckl-bench) | 1 | HTML | 2026-07-22 | ckl's personal benchmark for doc writing, infra code, and paper reading — one-click evaluation of the latest models via  |
-| 8 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 322 | TypeScript | 2026-07-22 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 9 | [truera/trulens](https://github.com/truera/trulens) | 3453 | Python | 2026-07-22 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 10 | [lftherios/session-link](https://github.com/lftherios/session-link) | 0 | Go | 2026-07-22 | A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit. |
-| 11 | [monospaceai/evaldata](https://github.com/monospaceai/evaldata) | 3 | Python | 2026-07-22 | Evaluate AI-generated SQL with pytest. |
-| 12 | [sammyjdev/gnomon-eval](https://github.com/sammyjdev/gnomon-eval) | 0 | Python | 2026-07-22 | Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first. |
-| 13 | [RudrenduPaul/memtrust](https://github.com/RudrenduPaul/memtrust) | 0 | Python | 2026-07-22 | Agent memory backends each publish their own benchmark numbers, on different tests, measured different ways. memtrust ru |
-| 14 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-07-21 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
-| 15 | [lehigh-university-libraries/htr](https://github.com/lehigh-university-libraries/htr) | 2 | Go | 2026-07-21 | Handwritten Text Recognition llm eval tool |
-| 16 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-07-22 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
-| 17 | [ozlar34/job-match-radar](https://github.com/ozlar34/job-match-radar) | 1 | Python | 2026-07-21 | Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai |
-| 18 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5705 | Python | 2026-07-21 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 19 | [iZenDeveloper/auditai](https://github.com/iZenDeveloper/auditai) | 0 | Python | 2026-07-20 | Developer-first LLM/RAG safety audits for CI/CD — faithfulness, relevancy, prompt injection (BYOK OpenAI/xAI). pip insta |
-| 20 | [vitorwilher/copom-rag-service](https://github.com/vitorwilher/copom-rag-service) | 0 | Python | 2026-07-20 | Serviço de RAG sobre atas do Copom + boletim Focus, servido como API (FastAPI+Docker), com eval harness (golden set, LLM |
-| 21 | [SFX-TECH/sfx-lead-intelligence](https://github.com/SFX-TECH/sfx-lead-intelligence) | 0 | — | 2026-07-20 | SFX Lead Intelligence Command Center: local-LLM hub plus lead dashboard, quality lifted 61 to 99 percent via a ground-tr |
-| 22 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 11 | Python | 2026-07-20 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
-| 23 | [tkarim45/multi-agent-eval](https://github.com/tkarim45/multi-agent-eval) | 0 | Python | 2026-07-20 | Does multi-agent beat single-agent? Benchmarks a planner→workers→critic system vs single-agent on quality/cost/latency — |
-| 24 | [tkarim45/agent-eval-harness](https://github.com/tkarim45/agent-eval-harness) | 0 | Python | 2026-07-20 | Agent eval harness — measure task success, tool-call accuracy, step efficiency, and cost for tool-using LLM agents (Clau |
-| 25 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-07-22 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
+| 1 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-07-23 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
+| 2 | [UiPath/coder_eval](https://github.com/UiPath/coder_eval) | 105 | Python | 2026-07-23 | Evaluate & benchmark AI coding agents and Claude Code skills — sandboxed, reproducible YAML eval suites for Claude Code, |
+| 3 | [attenlabs/hotato](https://github.com/attenlabs/hotato) | 1 | Python | 2026-07-22 | Local-first testing and observability for AI agents. Trace, evaluate, test, and gate any agent on your machine. Self-hos |
+| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23505 | TypeScript | 2026-07-22 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 5 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10683 | Python | 2026-07-23 | AI Observability & Evaluation |
+| 6 | [Eval-core/evalcore](https://github.com/Eval-core/evalcore) | 14 | Rust | 2026-07-22 | Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI. |
+| 7 | [ipezygj/evalgate](https://github.com/ipezygj/evalgate) | 1 | Python | 2026-07-22 | Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave- |
+| 8 | [cklxx/ckl-bench](https://github.com/cklxx/ckl-bench) | 1 | HTML | 2026-07-22 | ckl's personal benchmark for doc writing, infra code, and paper reading — one-click evaluation of the latest models via  |
+| 9 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 322 | TypeScript | 2026-07-22 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 10 | [truera/trulens](https://github.com/truera/trulens) | 3453 | Python | 2026-07-22 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 11 | [lftherios/session-link](https://github.com/lftherios/session-link) | 0 | Go | 2026-07-22 | A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit. |
+| 12 | [monospaceai/evaldata](https://github.com/monospaceai/evaldata) | 3 | Python | 2026-07-22 | Evaluate AI-generated SQL with pytest. |
+| 13 | [sammyjdev/gnomon-eval](https://github.com/sammyjdev/gnomon-eval) | 0 | Python | 2026-07-22 | Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first. |
+| 14 | [RudrenduPaul/memtrust](https://github.com/RudrenduPaul/memtrust) | 0 | Python | 2026-07-22 | Agent memory backends each publish their own benchmark numbers, on different tests, measured different ways. memtrust ru |
+| 15 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-07-21 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
+| 16 | [lehigh-university-libraries/htr](https://github.com/lehigh-university-libraries/htr) | 2 | Go | 2026-07-21 | Handwritten Text Recognition llm eval tool |
+| 17 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-07-22 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
+| 18 | [ozlar34/job-match-radar](https://github.com/ozlar34/job-match-radar) | 1 | Python | 2026-07-21 | Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai |
+| 19 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5705 | Python | 2026-07-21 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 20 | [iZenDeveloper/auditai](https://github.com/iZenDeveloper/auditai) | 0 | Python | 2026-07-20 | Developer-first LLM/RAG safety audits for CI/CD — faithfulness, relevancy, prompt injection (BYOK OpenAI/xAI). pip insta |
+| 21 | [vitorwilher/copom-rag-service](https://github.com/vitorwilher/copom-rag-service) | 0 | Python | 2026-07-20 | Serviço de RAG sobre atas do Copom + boletim Focus, servido como API (FastAPI+Docker), com eval harness (golden set, LLM |
+| 22 | [SFX-TECH/sfx-lead-intelligence](https://github.com/SFX-TECH/sfx-lead-intelligence) | 0 | — | 2026-07-20 | SFX Lead Intelligence Command Center: local-LLM hub plus lead dashboard, quality lifted 61 to 99 percent via a ground-tr |
+| 23 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 11 | Python | 2026-07-20 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
+| 24 | [tkarim45/multi-agent-eval](https://github.com/tkarim45/multi-agent-eval) | 0 | Python | 2026-07-20 | Does multi-agent beat single-agent? Benchmarks a planner→workers→critic system vs single-agent on quality/cost/latency — |
+| 25 | [tkarim45/agent-eval-harness](https://github.com/tkarim45/agent-eval-harness) | 0 | Python | 2026-07-20 | Agent eval harness — measure task success, tool-call accuracy, step efficiency, and cost for tool-using LLM agents (Clau |
 | 26 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-07-19 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 27 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-07-19 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 28 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-07-19 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
