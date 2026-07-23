@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "attenlabs/hotato",
     "stars": 1,
-    "updated_at": "2026-07-23T18:05:50Z",
+    "updated_at": "2026-07-23T18:28:36Z",
     "url": "https://github.com/attenlabs/hotato"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 322,
+    "updated_at": "2026-07-23T18:23:25Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -25,15 +34,6 @@
     "stars": 23530,
     "updated_at": "2026-07-23T16:58:36Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 322,
-    "updated_at": "2026-07-23T18:06:18Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
@@ -113,7 +113,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3456,
-    "updated_at": "2026-07-23T15:33:25Z",
+    "updated_at": "2026-07-23T18:19:57Z",
     "url": "https://github.com/truera/trulens"
   },
   {
