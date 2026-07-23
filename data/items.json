@@ -1,10 +1,19 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10697,
+    "updated_at": "2026-07-23T14:20:06Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23527,
+    "stars": 23529,
     "updated_at": "2026-07-23T13:16:46Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -34,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T12:50:43Z",
     "url": "https://github.com/ipezygj/evalgate"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10697,
-    "updated_at": "2026-07-23T14:08:13Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
