@@ -5,8 +5,17 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23550,
-    "updated_at": "2026-07-24T05:44:47Z",
+    "updated_at": "2026-07-24T05:48:06Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10707,
+    "updated_at": "2026-07-24T05:56:29Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Local-first testing and observability for AI agents. Trace, evaluate, test, and gate any agent on your machine. Self-hos",
@@ -25,15 +34,6 @@
     "stars": 107,
     "updated_at": "2026-07-24T03:54:22Z",
     "url": "https://github.com/UiPath/coder_eval"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10708,
-    "updated_at": "2026-07-24T05:14:23Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "LLM-as-judge evaluator for scoring AI agent trajectories on task completion, tool correctness, and efficiency",
