@@ -1,11 +1,29 @@
 [
   {
+    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
+    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "language": "\u2014",
+    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "stars": 0,
+    "updated_at": "2026-07-24T21:27:39Z",
+    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
+  },
+  {
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-07-24T21:26:12Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
     "description": "Evaluate & benchmark AI coding agents and Claude Code skills \u2014 sandboxed, reproducible YAML eval suites for Claude Code,",
     "id": "UiPath/coder_eval",
     "language": "Python",
     "name": "UiPath/coder_eval",
     "stars": 107,
-    "updated_at": "2026-07-24T21:11:55Z",
+    "updated_at": "2026-07-24T21:15:47Z",
     "url": "https://github.com/UiPath/coder_eval"
   },
   {
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10720,
-    "updated_at": "2026-07-24T20:44:00Z",
+    "updated_at": "2026-07-24T21:26:10Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -43,24 +61,6 @@
     "stars": 0,
     "updated_at": "2026-07-24T18:18:02Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-07-24T18:11:23Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
-    "id": "bhavya7995/AI_governance",
-    "language": "PowerShell",
-    "name": "bhavya7995/AI_governance",
-    "stars": 1,
-    "updated_at": "2026-07-24T18:09:51Z",
-    "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
