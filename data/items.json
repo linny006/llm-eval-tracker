@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10705,
-    "updated_at": "2026-07-23T23:39:29Z",
+    "updated_at": "2026-07-23T23:49:39Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -27,6 +27,15 @@
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23536,
+    "updated_at": "2026-07-23T22:06:56Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -43,15 +52,6 @@
     "stars": 107,
     "updated_at": "2026-07-23T23:00:48Z",
     "url": "https://github.com/UiPath/coder_eval"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23537,
-    "updated_at": "2026-07-23T22:06:56Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
