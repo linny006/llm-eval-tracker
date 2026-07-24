@@ -1,11 +1,20 @@
 [
   {
+    "description": "LLM-as-judge evaluator for scoring AI agent trajectories on task completion, tool correctness, and efficiency",
+    "id": "10div10/agent-trajectory-evaluator",
+    "language": "Python",
+    "name": "10div10/agent-trajectory-evaluator",
+    "stars": 0,
+    "updated_at": "2026-07-24T02:47:07Z",
+    "url": "https://github.com/10div10/agent-trajectory-evaluator"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10707,
-    "updated_at": "2026-07-24T02:39:15Z",
+    "updated_at": "2026-07-24T02:56:34Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -13,7 +22,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23541,
+    "stars": 23543,
     "updated_at": "2026-07-24T01:32:14Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-02T05:15:45Z",
     "url": "https://github.com/Ruthwik-Data/finrag-eval"
-  },
-  {
-    "description": "Empirical study of evaluation robustness in large language models. Compares benchmark style evaluation prompts with real",
-    "id": "hydrangeas20/safetylens",
-    "language": "Jupyter Notebook",
-    "name": "hydrangeas20/safetylens",
-    "stars": 0,
-    "updated_at": "2026-07-01T06:09:34Z",
-    "url": "https://github.com/hydrangeas20/safetylens"
   }
 ]
