@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10726,
+    "updated_at": "2026-07-25T07:38:30Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Does multi-agent beat single-agent? Benchmarks a planner\u2192workers\u2192critic system vs single-agent on quality/cost/latency \u2014",
     "id": "tkarim45/multi-agent-eval",
     "language": "Python",
@@ -16,15 +25,6 @@
     "stars": 0,
     "updated_at": "2026-07-25T06:14:28Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10725,
-    "updated_at": "2026-07-25T06:01:52Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
