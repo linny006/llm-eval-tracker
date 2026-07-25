@@ -1,5 +1,23 @@
 [
   {
+    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
+    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "language": "\u2014",
+    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "stars": 0,
+    "updated_at": "2026-07-25T09:00:00Z",
+    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
+  },
+  {
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-07-25T08:58:24Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -34,24 +52,6 @@
     "stars": 0,
     "updated_at": "2026-07-25T05:46:17Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-07-25T05:39:37Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
-    "id": "bhavya7995/AI_governance",
-    "language": "PowerShell",
-    "name": "bhavya7995/AI_governance",
-    "stars": 1,
-    "updated_at": "2026-07-25T05:38:03Z",
-    "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
     "description": "Agent eval harness \u2014 measure task success, tool-call accuracy, step efficiency, and cost for tool-using LLM agents (Clau",
@@ -241,6 +241,15 @@
     "stars": 1,
     "updated_at": "2026-07-21T15:28:12Z",
     "url": "https://github.com/ozlar34/job-match-radar"
+  },
+  {
+    "description": "LLM eval dashboard for multiple choice and open ended prompts. Upload JSON or JSONL eval sets, run against OpenAI, Anthr",
+    "id": "mohanish3/eval-atlas",
+    "language": "TypeScript",
+    "name": "mohanish3/eval-atlas",
+    "stars": 0,
+    "updated_at": "2026-07-21T09:59:15Z",
+    "url": "https://github.com/mohanish3/eval-atlas"
   },
   {
     "description": "Servi\u00e7o de RAG sobre atas do Copom + boletim Focus, servido como API (FastAPI+Docker), com eval harness (golden set, LLM",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-02T05:15:45Z",
     "url": "https://github.com/Ruthwik-Data/finrag-eval"
-  },
-  {
-    "description": "Empirical study of evaluation robustness in large language models. Compares benchmark style evaluation prompts with real",
-    "id": "hydrangeas20/safetylens",
-    "language": "Jupyter Notebook",
-    "name": "hydrangeas20/safetylens",
-    "stars": 0,
-    "updated_at": "2026-07-01T06:09:34Z",
-    "url": "https://github.com/hydrangeas20/safetylens"
   }
 ]
