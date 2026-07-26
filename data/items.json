@@ -9,6 +9,15 @@
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
+    "description": "",
+    "id": "isatimur/mash-core",
+    "language": "Python",
+    "name": "isatimur/mash-core",
+    "stars": 0,
+    "updated_at": "2026-07-26T14:16:14Z",
+    "url": "https://github.com/isatimur/mash-core"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -34,6 +43,15 @@
     "stars": 2,
     "updated_at": "2026-07-26T13:59:55Z",
     "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
+    "description": "",
+    "id": "isatimur/book-mash",
+    "language": "Python",
+    "name": "isatimur/book-mash",
+    "stars": 0,
+    "updated_at": "2026-07-26T13:59:06Z",
+    "url": "https://github.com/isatimur/book-mash"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-05T04:35:20Z",
     "url": "https://github.com/nikolas-sapa/sigeval"
-  },
-  {
-    "description": "CI-integrated eval harness for LLM agents \u2014 intent accuracy, retrieval precision/recall/MRR, and hallucination detection",
-    "id": "Sushant-Dagar/agent-eval-harness",
-    "language": "Python",
-    "name": "Sushant-Dagar/agent-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-07-04T03:55:22Z",
-    "url": "https://github.com/Sushant-Dagar/agent-eval-harness"
-  },
-  {
-    "description": "Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou",
-    "id": "lokesh75-kank/agenteval",
-    "language": "TypeScript",
-    "name": "lokesh75-kank/agenteval",
-    "stars": 0,
-    "updated_at": "2026-07-03T18:43:31Z",
-    "url": "https://github.com/lokesh75-kank/agenteval"
   }
 ]
