@@ -1,10 +1,19 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10747,
+    "updated_at": "2026-07-26T18:02:23Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23620,
+    "stars": 23621,
     "updated_at": "2026-07-26T17:33:06Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -79,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-07-26T10:59:27Z",
     "url": "https://github.com/sammyjdev/gnomon-eval"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10746,
-    "updated_at": "2026-07-26T18:02:23Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
