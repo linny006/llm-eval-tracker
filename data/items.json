@@ -1,5 +1,14 @@
 [
   {
+    "description": "Extract your writing voice from real samples into a reusable agent skill. Captures by diffing, not describing, and ships",
+    "id": "shyam-ganapathy/write-like-me",
+    "language": "\u2014",
+    "name": "shyam-ganapathy/write-like-me",
+    "stars": 0,
+    "updated_at": "2026-07-26T11:08:07Z",
+    "url": "https://github.com/shyam-ganapathy/write-like-me"
+  },
+  {
     "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
     "id": "sammyjdev/gnomon-eval",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 0,
     "updated_at": "2026-07-26T10:59:27Z",
     "url": "https://github.com/sammyjdev/gnomon-eval"
-  },
-  {
-    "description": "Extract your writing voice from real samples into a reusable agent skill \u2014 captures by diffing, not describing, and ship",
-    "id": "shyam-ganapathy/write-like-me",
-    "language": "\u2014",
-    "name": "shyam-ganapathy/write-like-me",
-    "stars": 0,
-    "updated_at": "2026-07-26T10:54:01Z",
-    "url": "https://github.com/shyam-ganapathy/write-like-me"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -58,7 +58,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10736,
+    "stars": 10737,
     "updated_at": "2026-07-26T07:20:41Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
