@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-27 22:30 UTC
+> ⏰ Last updated: 2026-07-27 22:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,7 +42,7 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10766 | Python | 2026-07-27 | AI Observability & Evaluation |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10767 | Python | 2026-07-27 | AI Observability & Evaluation |
 | 2 | [UiPath/coder_eval](https://github.com/UiPath/coder_eval) | 107 | Python | 2026-07-27 | Evaluate & benchmark AI coding agents and Claude Code skills — sandboxed, reproducible YAML eval suites for Claude Code, |
 | 3 | [truera/trulens](https://github.com/truera/trulens) | 3466 | Python | 2026-07-27 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23665 | TypeScript | 2026-07-27 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
