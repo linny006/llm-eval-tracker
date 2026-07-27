@@ -1,10 +1,19 @@
 [
   {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3463,
+    "updated_at": "2026-07-27T16:41:36Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10763,
+    "stars": 10764,
     "updated_at": "2026-07-27T16:03:34Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -162,15 +171,6 @@
     "url": "https://github.com/UiPath/coder_eval"
   },
   {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3463,
-    "updated_at": "2026-07-24T19:24:00Z",
-    "url": "https://github.com/truera/trulens"
-  },
-  {
     "description": "Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave-",
     "id": "ipezygj/evalgate",
     "language": "Python",
@@ -275,7 +275,7 @@
     "language": "Ruby",
     "name": "homemade-software-inc/completion-kit",
     "stars": 1,
-    "updated_at": "2026-07-21T23:58:30Z",
+    "updated_at": "2026-07-27T16:36:35Z",
     "url": "https://github.com/homemade-software-inc/completion-kit"
   },
   {
