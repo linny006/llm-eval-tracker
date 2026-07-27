@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-27 13:30 UTC
+> ⏰ Last updated: 2026-07-27 13:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -61,7 +61,7 @@ expired items removed — so you can rely on what you see being current.
 | 17 | [tkarim45/agent-eval-harness](https://github.com/tkarim45/agent-eval-harness) | 0 | Python | 2026-07-25 | Agent eval harness — measure task success, tool-call accuracy, step efficiency, and cost for tool-using LLM agents (Clau |
 | 18 | [UiPath/coder_eval](https://github.com/UiPath/coder_eval) | 107 | Python | 2026-07-24 | Evaluate & benchmark AI coding agents and Claude Code skills — sandboxed, reproducible YAML eval suites for Claude Code, |
 | 19 | [truera/trulens](https://github.com/truera/trulens) | 3463 | Python | 2026-07-24 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 20 | [ipezygj/evalgate](https://github.com/ipezygj/evalgate) | 2 | Python | 2026-07-24 | Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave- |
+| 20 | [ipezygj/evalgate](https://github.com/ipezygj/evalgate) | 1 | Python | 2026-07-24 | Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave- |
 | 21 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 11 | Python | 2026-07-27 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
 | 22 | [10div10/agent-trajectory-evaluator](https://github.com/10div10/agent-trajectory-evaluator) | 0 | Python | 2026-07-24 | LLM-as-judge evaluator for scoring AI agent trajectories on task completion, tool correctness, and efficiency |
 | 23 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-07-24 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
