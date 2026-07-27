@@ -1,21 +1,39 @@
 [
   {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3464,
-    "updated_at": "2026-07-27T17:53:27Z",
-    "url": "https://github.com/truera/trulens"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10765,
-    "updated_at": "2026-07-27T18:15:05Z",
+    "updated_at": "2026-07-27T18:30:07Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Evaluate & benchmark AI coding agents and Claude Code skills \u2014 sandboxed, reproducible YAML eval suites for Claude Code,",
+    "id": "UiPath/coder_eval",
+    "language": "Python",
+    "name": "UiPath/coder_eval",
+    "stars": 107,
+    "updated_at": "2026-07-27T18:29:01Z",
+    "url": "https://github.com/UiPath/coder_eval"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3465,
+    "updated_at": "2026-07-27T18:17:58Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23662,
+    "updated_at": "2026-07-27T18:13:02Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
@@ -52,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-07-27T10:07:23Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23660,
-    "updated_at": "2026-07-27T18:13:02Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Marketing site for book-mash and mash-core",
@@ -162,15 +171,6 @@
     "url": "https://github.com/tkarim45/agent-eval-harness"
   },
   {
-    "description": "Evaluate & benchmark AI coding agents and Claude Code skills \u2014 sandboxed, reproducible YAML eval suites for Claude Code,",
-    "id": "UiPath/coder_eval",
-    "language": "Python",
-    "name": "UiPath/coder_eval",
-    "stars": 107,
-    "updated_at": "2026-07-27T18:12:20Z",
-    "url": "https://github.com/UiPath/coder_eval"
-  },
-  {
     "description": "Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave-",
     "id": "ipezygj/evalgate",
     "language": "Python",
@@ -185,7 +185,7 @@
     "language": "Python",
     "name": "NoesisVision/nasde-toolkit",
     "stars": 11,
-    "updated_at": "2026-07-27T15:19:14Z",
+    "updated_at": "2026-07-27T18:15:36Z",
     "url": "https://github.com/NoesisVision/nasde-toolkit"
   },
   {
@@ -212,7 +212,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 322,
-    "updated_at": "2026-07-27T17:35:50Z",
+    "updated_at": "2026-07-27T18:25:06Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
