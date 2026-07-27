@@ -5,7 +5,7 @@
     "language": "Ruby",
     "name": "homemade-software-inc/completion-kit",
     "stars": 1,
-    "updated_at": "2026-07-27T22:48:34Z",
+    "updated_at": "2026-07-27T23:07:15Z",
     "url": "https://github.com/homemade-software-inc/completion-kit"
   },
   {
@@ -13,9 +13,18 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10767,
-    "updated_at": "2026-07-27T22:56:41Z",
+    "stars": 10768,
+    "updated_at": "2026-07-27T23:01:46Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23666,
+    "updated_at": "2026-07-27T22:11:50Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Evaluate & benchmark AI coding agents and Claude Code skills \u2014 sandboxed, reproducible YAML eval suites for Claude Code,",
@@ -34,15 +43,6 @@
     "stars": 3466,
     "updated_at": "2026-07-27T19:32:54Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23665,
-    "updated_at": "2026-07-27T22:11:50Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
