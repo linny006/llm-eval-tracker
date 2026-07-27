@@ -1,5 +1,14 @@
 [
   {
+    "description": "Evaluate & benchmark AI coding agents and Claude Code skills \u2014 sandboxed, reproducible YAML eval suites for Claude Code,",
+    "id": "UiPath/coder_eval",
+    "language": "Python",
+    "name": "UiPath/coder_eval",
+    "stars": 107,
+    "updated_at": "2026-07-27T23:39:17Z",
+    "url": "https://github.com/UiPath/coder_eval"
+  },
+  {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
     "id": "homemade-software-inc/completion-kit",
     "language": "Ruby",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10768,
-    "updated_at": "2026-07-27T23:26:36Z",
+    "updated_at": "2026-07-27T23:32:57Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -25,15 +34,6 @@
     "stars": 23666,
     "updated_at": "2026-07-27T22:11:50Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Evaluate & benchmark AI coding agents and Claude Code skills \u2014 sandboxed, reproducible YAML eval suites for Claude Code,",
-    "id": "UiPath/coder_eval",
-    "language": "Python",
-    "name": "UiPath/coder_eval",
-    "stars": 107,
-    "updated_at": "2026-07-27T22:42:44Z",
-    "url": "https://github.com/UiPath/coder_eval"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
