@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-27 00:00 UTC
+> ⏰ Last updated: 2026-07-27 00:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -67,7 +67,7 @@ expired items removed — so you can rely on what you see being current.
 | 23 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-07-23 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
 | 24 | [iZenDeveloper/auditai](https://github.com/iZenDeveloper/auditai) | 0 | Python | 2026-07-23 | Developer-first LLM/RAG safety audits for CI/CD — faithfulness, relevancy, prompt injection (BYOK OpenAI/xAI). pip insta |
 | 25 | [lftherios/session-link](https://github.com/lftherios/session-link) | 0 | Go | 2026-07-23 | A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit. |
-| 26 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5718 | Python | 2026-07-23 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 26 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5719 | Python | 2026-07-23 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 27 | [cklxx/ckl-bench](https://github.com/cklxx/ckl-bench) | 1 | HTML | 2026-07-22 | ckl's personal benchmark for doc writing, infra code, and paper reading — one-click evaluation of the latest models via  |
 | 28 | [monospaceai/evaldata](https://github.com/monospaceai/evaldata) | 2 | Python | 2026-07-22 | Evaluate AI-generated SQL with pytest. |
 | 29 | [RudrenduPaul/memtrust](https://github.com/RudrenduPaul/memtrust) | 0 | Python | 2026-07-22 | Agent memory backends each publish their own benchmark numbers, on different tests, measured different ways. memtrust ru |
