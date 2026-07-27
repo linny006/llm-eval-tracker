@@ -27,6 +27,15 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10757,
+    "updated_at": "2026-07-27T06:44:37Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -43,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-07-27T04:51:14Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10756,
-    "updated_at": "2026-07-27T06:44:37Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Marketing site for book-mash and mash-core",
