@@ -1,11 +1,20 @@
 [
   {
+    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
+    "id": "homemade-software-inc/completion-kit",
+    "language": "Ruby",
+    "name": "homemade-software-inc/completion-kit",
+    "stars": 1,
+    "updated_at": "2026-07-27T22:48:34Z",
+    "url": "https://github.com/homemade-software-inc/completion-kit"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10767,
-    "updated_at": "2026-07-27T22:34:32Z",
+    "updated_at": "2026-07-27T22:56:41Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -268,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T03:20:53Z",
     "url": "https://github.com/RudrenduPaul/memtrust"
-  },
-  {
-    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
-    "id": "homemade-software-inc/completion-kit",
-    "language": "Ruby",
-    "name": "homemade-software-inc/completion-kit",
-    "stars": 1,
-    "updated_at": "2026-07-27T16:36:35Z",
-    "url": "https://github.com/homemade-software-inc/completion-kit"
   },
   {
     "description": "Handwritten Text Recognition llm eval tool",
