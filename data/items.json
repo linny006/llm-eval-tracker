@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10768,
+    "updated_at": "2026-07-28T00:59:47Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Evaluate & benchmark AI coding agents and Claude Code skills \u2014 sandboxed, reproducible YAML eval suites for Claude Code,",
     "id": "UiPath/coder_eval",
     "language": "Python",
@@ -16,15 +25,6 @@
     "stars": 1,
     "updated_at": "2026-07-27T23:07:15Z",
     "url": "https://github.com/homemade-software-inc/completion-kit"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10768,
-    "updated_at": "2026-07-28T00:36:47Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
