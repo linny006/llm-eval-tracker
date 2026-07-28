@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10773,
-    "updated_at": "2026-07-28T05:15:18Z",
+    "updated_at": "2026-07-28T05:36:08Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -25,6 +25,15 @@
     "stars": 107,
     "updated_at": "2026-07-28T01:04:07Z",
     "url": "https://github.com/UiPath/coder_eval"
+  },
+  {
+    "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
+    "id": "jeremylongshore/j-rig-skill-binary-eval",
+    "language": "TypeScript",
+    "name": "jeremylongshore/j-rig-skill-binary-eval",
+    "stars": 1,
+    "updated_at": "2026-07-27T23:56:46Z",
+    "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
@@ -205,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-07-24T02:47:07Z",
     "url": "https://github.com/10div10/agent-trajectory-evaluator"
-  },
-  {
-    "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
-    "id": "jeremylongshore/j-rig-skill-binary-eval",
-    "language": "TypeScript",
-    "name": "jeremylongshore/j-rig-skill-binary-eval",
-    "stars": 0,
-    "updated_at": "2026-07-27T23:56:46Z",
-    "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
