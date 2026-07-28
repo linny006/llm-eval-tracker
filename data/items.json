@@ -1,21 +1,21 @@
 [
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23690,
-    "updated_at": "2026-07-28T15:29:06Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10781,
-    "updated_at": "2026-07-28T15:44:06Z",
+    "updated_at": "2026-07-28T15:52:19Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23690,
+    "updated_at": "2026-07-28T15:48:15Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -23,7 +23,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3469,
-    "updated_at": "2026-07-28T15:30:12Z",
+    "updated_at": "2026-07-28T15:52:48Z",
     "url": "https://github.com/truera/trulens"
   },
   {
