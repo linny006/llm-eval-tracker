@@ -1,5 +1,14 @@
 [
   {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3468,
+    "updated_at": "2026-07-28T13:55:47Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10780,
-    "updated_at": "2026-07-28T13:54:54Z",
+    "updated_at": "2026-07-28T14:07:28Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -52,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-07-27T23:07:15Z",
     "url": "https://github.com/homemade-software-inc/completion-kit"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3468,
-    "updated_at": "2026-07-28T13:55:47Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
