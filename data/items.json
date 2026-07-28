@@ -4,7 +4,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10773,
+    "stars": 10774,
     "updated_at": "2026-07-28T05:54:02Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -54,6 +54,15 @@
     "url": "https://github.com/truera/trulens"
   },
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5722,
+    "updated_at": "2026-07-27T17:42:18Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
     "id": "saddled-panicattack529/idea-evaluation-pipeline",
     "language": "\u2014",
@@ -97,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-27T01:06:15Z",
     "url": "https://github.com/isatimur/mash-site"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5721,
-    "updated_at": "2026-07-27T17:42:18Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
