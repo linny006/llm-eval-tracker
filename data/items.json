@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10780,
+    "updated_at": "2026-07-28T14:27:17Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
@@ -16,15 +25,6 @@
     "stars": 322,
     "updated_at": "2026-07-28T09:05:06Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10780,
-    "updated_at": "2026-07-28T14:07:28Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
