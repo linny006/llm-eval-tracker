@@ -9,6 +9,15 @@
     "url": "https://github.com/isatimur/mash-core"
   },
   {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3473,
+    "updated_at": "2026-07-29T20:11:05Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "Open benchmark: how well can LLMs predict knife-steel properties (edge retention, toughness) from chemical composition, ",
     "id": "Steel-predictor-project/steel-llm-eval",
     "language": "Python",
@@ -52,15 +61,6 @@
     "stars": 322,
     "updated_at": "2026-07-29T18:45:23Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3472,
-    "updated_at": "2026-07-29T20:11:05Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
