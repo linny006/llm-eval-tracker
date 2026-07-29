@@ -1,5 +1,14 @@
 [
   {
+    "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
+    "id": "NoesisVision/nasde-toolkit",
+    "language": "Python",
+    "name": "NoesisVision/nasde-toolkit",
+    "stars": 11,
+    "updated_at": "2026-07-29T11:01:32Z",
+    "url": "https://github.com/NoesisVision/nasde-toolkit"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -22,7 +31,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23719,
+    "stars": 23721,
     "updated_at": "2026-07-29T01:30:49Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -196,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-07-24T17:11:49Z",
     "url": "https://github.com/ipezygj/evalgate"
-  },
-  {
-    "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
-    "id": "NoesisVision/nasde-toolkit",
-    "language": "Python",
-    "name": "NoesisVision/nasde-toolkit",
-    "stars": 11,
-    "updated_at": "2026-07-29T10:12:58Z",
-    "url": "https://github.com/NoesisVision/nasde-toolkit"
   },
   {
     "description": "LLM-as-judge evaluator for scoring AI agent trajectories on task completion, tool correctness, and efficiency",
