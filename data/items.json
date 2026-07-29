@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10796,
-    "updated_at": "2026-07-29T14:05:46Z",
+    "updated_at": "2026-07-29T14:26:33Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5724,
+    "updated_at": "2026-07-29T13:41:14Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -52,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-07-28T23:34:15Z",
     "url": "https://github.com/homemade-software-inc/completion-kit"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5724,
-    "updated_at": "2026-07-29T13:41:14Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
