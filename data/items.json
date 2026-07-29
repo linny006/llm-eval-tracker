@@ -1,5 +1,14 @@
 [
   {
+    "description": "Open benchmark: how well can LLMs predict knife-steel properties (edge retention, toughness) from chemical composition, ",
+    "id": "Steel-predictor-project/steel-llm-eval",
+    "language": "Python",
+    "name": "Steel-predictor-project/steel-llm-eval",
+    "stars": 0,
+    "updated_at": "2026-07-29T19:35:14Z",
+    "url": "https://github.com/Steel-predictor-project/steel-llm-eval"
+  },
+  {
     "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
     "id": "gmitt98/fieldtest",
     "language": "Python",
@@ -41,7 +50,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3472,
-    "updated_at": "2026-07-29T19:28:14Z",
+    "updated_at": "2026-07-29T19:44:28Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -50,7 +59,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5724,
-    "updated_at": "2026-07-29T19:14:49Z",
+    "updated_at": "2026-07-29T19:30:40Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-07T09:16:14Z",
     "url": "https://github.com/plwslpld-arch/loopward"
-  },
-  {
-    "description": "Vital signs for your agent skills: measure whether a skill triggers when it should and whether it actually helps, on a c",
-    "id": "ContextJet-ai/skillvitals",
-    "language": "Python",
-    "name": "ContextJet-ai/skillvitals",
-    "stars": 1,
-    "updated_at": "2026-07-06T06:57:51Z",
-    "url": "https://github.com/ContextJet-ai/skillvitals"
   }
 ]
