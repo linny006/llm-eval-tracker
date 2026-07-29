@@ -1,11 +1,20 @@
 [
   {
+    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
+    "id": "gmitt98/fieldtest",
+    "language": "Python",
+    "name": "gmitt98/fieldtest",
+    "stars": 0,
+    "updated_at": "2026-07-29T19:25:27Z",
+    "url": "https://github.com/gmitt98/fieldtest"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10801,
-    "updated_at": "2026-07-29T18:59:48Z",
+    "updated_at": "2026-07-29T19:18:12Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3472,
-    "updated_at": "2026-07-29T19:05:20Z",
+    "updated_at": "2026-07-29T19:28:14Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-06T06:57:51Z",
     "url": "https://github.com/ContextJet-ai/skillvitals"
-  },
-  {
-    "description": "Statistically rigorous LLM evaluation framework for Python \u2014 pytest for LLMs that isn't flaky. Treats every eval as a pr",
-    "id": "nikolas-sapa/sigeval",
-    "language": "Python",
-    "name": "nikolas-sapa/sigeval",
-    "stars": 1,
-    "updated_at": "2026-07-05T04:35:20Z",
-    "url": "https://github.com/nikolas-sapa/sigeval"
   }
 ]
