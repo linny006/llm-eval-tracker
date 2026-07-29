@@ -1,5 +1,14 @@
 [
   {
+    "description": "",
+    "id": "isatimur/mash-core",
+    "language": "Python",
+    "name": "isatimur/mash-core",
+    "stars": 0,
+    "updated_at": "2026-07-29T20:49:22Z",
+    "url": "https://github.com/isatimur/mash-core"
+  },
+  {
     "description": "Open benchmark: how well can LLMs predict knife-steel properties (edge retention, toughness) from chemical composition, ",
     "id": "Steel-predictor-project/steel-llm-eval",
     "language": "Python",
@@ -142,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-26T22:35:25Z",
     "url": "https://github.com/sammyjdev/gnomon-eval"
-  },
-  {
-    "description": "",
-    "id": "isatimur/mash-core",
-    "language": "Python",
-    "name": "isatimur/mash-core",
-    "stars": 0,
-    "updated_at": "2026-07-26T14:16:14Z",
-    "url": "https://github.com/isatimur/mash-core"
   },
   {
     "description": "",
