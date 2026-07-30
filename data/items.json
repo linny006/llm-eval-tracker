@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10813,
+    "updated_at": "2026-07-30T11:49:33Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
     "id": "lftherios/session-link",
     "language": "Go",
@@ -7,15 +16,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T11:48:57Z",
     "url": "https://github.com/lftherios/session-link"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10812,
-    "updated_at": "2026-07-30T11:49:33Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Free Apache-2.0 skills for Claude Code, plus trigger-probe \u2014 the open-source tool we used to measure all 18 of our paid ",
