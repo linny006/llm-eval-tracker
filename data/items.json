@@ -72,6 +72,15 @@
     "url": "https://github.com/isatimur/mash-core"
   },
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5723,
+    "updated_at": "2026-07-29T19:48:05Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
     "description": "Open benchmark: how well can LLMs predict knife-steel properties (edge retention, toughness) from chemical composition, ",
     "id": "Steel-predictor-project/steel-llm-eval",
     "language": "Python",
@@ -97,15 +106,6 @@
     "stars": 322,
     "updated_at": "2026-07-30T20:45:55Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5724,
-    "updated_at": "2026-07-29T19:48:05Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
