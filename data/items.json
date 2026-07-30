@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10817,
+    "updated_at": "2026-07-30T19:19:32Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
     "id": "homemade-software-inc/completion-kit",
     "language": "Ruby",
@@ -7,15 +16,6 @@
     "stars": 1,
     "updated_at": "2026-07-30T18:36:58Z",
     "url": "https://github.com/homemade-software-inc/completion-kit"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10816,
-    "updated_at": "2026-07-30T19:01:24Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -59,7 +59,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3474,
-    "updated_at": "2026-07-30T18:54:00Z",
+    "updated_at": "2026-07-30T19:15:58Z",
     "url": "https://github.com/truera/trulens"
   },
   {
