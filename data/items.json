@@ -1,6 +1,6 @@
 [
   {
-    "description": "Guildshelf free funnel skills for Claude Code \u2014 Apache-2.0. Try before you subscribe: guildshelf.com",
+    "description": "Free Apache-2.0 skills for Claude Code, plus trigger-probe \u2014 the open-source tool we used to measure all 18 of our paid ",
     "id": "guildshelf/free-skills",
     "language": "Python",
     "name": "guildshelf/free-skills",
@@ -14,7 +14,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10807,
-    "updated_at": "2026-07-30T07:48:29Z",
+    "updated_at": "2026-07-30T08:26:16Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
