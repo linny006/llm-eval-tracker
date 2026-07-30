@@ -1,11 +1,20 @@
 [
   {
+    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
+    "id": "homemade-software-inc/completion-kit",
+    "language": "Ruby",
+    "name": "homemade-software-inc/completion-kit",
+    "stars": 1,
+    "updated_at": "2026-07-30T18:36:58Z",
+    "url": "https://github.com/homemade-software-inc/completion-kit"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10816,
-    "updated_at": "2026-07-30T18:29:28Z",
+    "updated_at": "2026-07-30T18:59:20Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23762,
-    "updated_at": "2026-07-30T18:30:48Z",
+    "updated_at": "2026-07-30T18:59:47Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -50,7 +59,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3474,
-    "updated_at": "2026-07-30T17:59:10Z",
+    "updated_at": "2026-07-30T18:54:00Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -106,15 +115,6 @@
     "stars": 11,
     "updated_at": "2026-07-29T12:18:04Z",
     "url": "https://github.com/NoesisVision/nasde-toolkit"
-  },
-  {
-    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
-    "id": "homemade-software-inc/completion-kit",
-    "language": "Ruby",
-    "name": "homemade-software-inc/completion-kit",
-    "stars": 1,
-    "updated_at": "2026-07-30T18:36:58Z",
-    "url": "https://github.com/homemade-software-inc/completion-kit"
   },
   {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
