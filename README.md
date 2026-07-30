@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-30 22:17 UTC
+> ⏰ Last updated: 2026-07-30 22:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,8 +42,8 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23763 | TypeScript | 2026-07-30 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10817 | Python | 2026-07-30 | AI Observability & Evaluation |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10817 | Python | 2026-07-30 | AI Observability & Evaluation |
+| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23763 | TypeScript | 2026-07-30 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 3 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-07-30 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
 | 4 | [SFX-TECH/sfx-lead-intelligence](https://github.com/SFX-TECH/sfx-lead-intelligence) | 0 | — | 2026-07-30 | SFX Lead Intelligence Command Center: local-LLM hub plus lead dashboard, quality lifted 61 to 99 percent via a ground-tr |
 | 5 | [lftherios/session-link](https://github.com/lftherios/session-link) | 0 | Go | 2026-07-30 | A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit. |
