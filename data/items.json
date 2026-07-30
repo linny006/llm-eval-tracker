@@ -1,21 +1,30 @@
 [
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23746,
-    "updated_at": "2026-07-30T06:04:44Z",
-    "url": "https://github.com/promptfoo/promptfoo"
+    "description": "Guildshelf free funnel skills for Claude Code \u2014 Apache-2.0. Try before you subscribe: guildshelf.com",
+    "id": "guildshelf/free-skills",
+    "language": "Python",
+    "name": "guildshelf/free-skills",
+    "stars": 0,
+    "updated_at": "2026-07-30T07:01:47Z",
+    "url": "https://github.com/guildshelf/free-skills"
   },
   {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10806,
-    "updated_at": "2026-07-30T06:26:48Z",
+    "stars": 10807,
+    "updated_at": "2026-07-30T07:09:09Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23747,
+    "updated_at": "2026-07-30T06:04:44Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-08T18:01:12Z",
     "url": "https://github.com/christianmacion26/judge-harness"
-  },
-  {
-    "description": "Stress-test the tool-routing decision inside an agent loop: audit confusable tools, red-team routing robustness, compare",
-    "id": "plwslpld-arch/loopward",
-    "language": "TypeScript",
-    "name": "plwslpld-arch/loopward",
-    "stars": 1,
-    "updated_at": "2026-07-07T09:16:14Z",
-    "url": "https://github.com/plwslpld-arch/loopward"
   }
 ]
