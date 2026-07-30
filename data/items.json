@@ -1,11 +1,20 @@
 [
   {
+    "description": "SFX Lead Intelligence Command Center: local-LLM hub plus lead dashboard, quality lifted 61 to 99 percent via a ground-tr",
+    "id": "SFX-TECH/sfx-lead-intelligence",
+    "language": "\u2014",
+    "name": "SFX-TECH/sfx-lead-intelligence",
+    "stars": 0,
+    "updated_at": "2026-07-30T17:05:20Z",
+    "url": "https://github.com/SFX-TECH/sfx-lead-intelligence"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10815,
-    "updated_at": "2026-07-30T16:45:53Z",
+    "updated_at": "2026-07-30T17:12:42Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -13,7 +22,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23760,
+    "stars": 23761,
     "updated_at": "2026-07-30T15:20:48Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -322,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T09:59:15Z",
     "url": "https://github.com/mohanish3/eval-atlas"
-  },
-  {
-    "description": "SFX Lead Intelligence Command Center: local-LLM hub plus lead dashboard, quality lifted 61 to 99 percent via a ground-tr",
-    "id": "SFX-TECH/sfx-lead-intelligence",
-    "language": "\u2014",
-    "name": "SFX-TECH/sfx-lead-intelligence",
-    "stars": 0,
-    "updated_at": "2026-07-20T16:17:25Z",
-    "url": "https://github.com/SFX-TECH/sfx-lead-intelligence"
   },
   {
     "description": "Automated groundedness scoring, hallucination detection, and regression tracking for RAG and agent outputs",
