@@ -1,5 +1,14 @@
 [
   {
+    "description": "Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave-",
+    "id": "ipezygj/evalgate",
+    "language": "Python",
+    "name": "ipezygj/evalgate",
+    "stars": 1,
+    "updated_at": "2026-07-31T10:17:38Z",
+    "url": "https://github.com/ipezygj/evalgate"
+  },
+  {
     "description": "Five local QA judges that review B2B and B2C customer-support replies, catch the risky parts, and explain what to fix. ",
     "id": "gititya/Quality-Agency-support",
     "language": "Python",
@@ -18,20 +27,11 @@
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
-    "description": "Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave-",
-    "id": "ipezygj/evalgate",
-    "language": "Python",
-    "name": "ipezygj/evalgate",
-    "stars": 1,
-    "updated_at": "2026-07-31T08:44:35Z",
-    "url": "https://github.com/ipezygj/evalgate"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10825,
+    "stars": 10826,
     "updated_at": "2026-07-31T08:08:04Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -40,7 +40,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23780,
+    "stars": 23781,
     "updated_at": "2026-07-31T03:57:09Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
