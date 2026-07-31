@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "ipezygj/evalgate",
     "stars": 1,
-    "updated_at": "2026-07-31T12:29:19Z",
+    "updated_at": "2026-07-31T12:39:30Z",
     "url": "https://github.com/ipezygj/evalgate"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5726,
+    "updated_at": "2026-07-31T10:06:29Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Five local QA judges that review B2B and B2C customer-support replies, catch the risky parts, and explain what to fix. ",
@@ -97,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T20:49:22Z",
     "url": "https://github.com/isatimur/mash-core"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5725,
-    "updated_at": "2026-07-31T10:06:29Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Open benchmark: how well can LLMs predict knife-steel properties (edge retention, toughness) from chemical composition, ",
