@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-31 06:30 UTC
+> ⏰ Last updated: 2026-07-31 06:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,7 +43,7 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [ipezygj/evalgate](https://github.com/ipezygj/evalgate) | 1 | Python | 2026-07-31 | Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave- |
-| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23774 | TypeScript | 2026-07-31 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23775 | TypeScript | 2026-07-31 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 3 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 323 | TypeScript | 2026-07-31 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10823 | Python | 2026-07-31 | AI Observability & Evaluation |
 | 5 | [truera/trulens](https://github.com/truera/trulens) | 3475 | Python | 2026-07-30 | Evaluation and Tracking for LLM Experiments and AI Agents |
