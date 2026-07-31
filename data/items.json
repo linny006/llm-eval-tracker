@@ -1,14 +1,5 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10825,
-    "updated_at": "2026-07-31T08:08:04Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave-",
     "id": "ipezygj/evalgate",
     "language": "Python",
@@ -18,11 +9,20 @@
     "url": "https://github.com/ipezygj/evalgate"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10826,
+    "updated_at": "2026-07-31T08:08:04Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23779,
+    "stars": 23778,
     "updated_at": "2026-07-31T03:57:09Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -94,7 +94,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5724,
+    "stars": 5725,
     "updated_at": "2026-07-29T19:48:05Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
