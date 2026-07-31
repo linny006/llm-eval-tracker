@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10837,
-    "updated_at": "2026-07-31T23:10:41Z",
+    "updated_at": "2026-07-31T23:15:36Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -16,6 +16,15 @@
     "stars": 23798,
     "updated_at": "2026-07-31T21:27:38Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 324,
+    "updated_at": "2026-07-31T16:32:39Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -52,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T09:49:02Z",
     "url": "https://github.com/gititya/Quality-Agency-support"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 323,
-    "updated_at": "2026-07-31T16:32:39Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
