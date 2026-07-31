@@ -1,5 +1,14 @@
 [
   {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3476,
+    "updated_at": "2026-07-31T13:03:57Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave-",
     "id": "ipezygj/evalgate",
     "language": "Python",
@@ -52,15 +61,6 @@
     "stars": 23786,
     "updated_at": "2026-07-31T03:57:09Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3476,
-    "updated_at": "2026-07-30T20:24:47Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
