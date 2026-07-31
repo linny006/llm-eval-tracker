@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-31 11:15 UTC
+> ⏰ Last updated: 2026-07-31 11:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -45,8 +45,8 @@ expired items removed — so you can rely on what you see being current.
 | 1 | [ipezygj/evalgate](https://github.com/ipezygj/evalgate) | 1 | Python | 2026-07-31 | Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave- |
 | 2 | [gititya/Quality-Agency-support](https://github.com/gititya/Quality-Agency-support) | 0 | Python | 2026-07-31 | Five local QA judges that review B2B and B2C customer-support replies, catch the risky parts, and explain what to fix.  |
 | 3 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 323 | TypeScript | 2026-07-31 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10826 | Python | 2026-07-31 | AI Observability & Evaluation |
-| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23782 | TypeScript | 2026-07-31 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10827 | Python | 2026-07-31 | AI Observability & Evaluation |
+| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23783 | TypeScript | 2026-07-31 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 6 | [truera/trulens](https://github.com/truera/trulens) | 3476 | Python | 2026-07-30 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 7 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-07-30 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
 | 8 | [SFX-TECH/sfx-lead-intelligence](https://github.com/SFX-TECH/sfx-lead-intelligence) | 0 | — | 2026-07-30 | SFX Lead Intelligence Command Center: local-LLM hub plus lead dashboard, quality lifted 61 to 99 percent via a ground-tr |
