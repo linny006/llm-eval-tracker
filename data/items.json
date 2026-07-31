@@ -1,5 +1,14 @@
 [
   {
+    "description": "Five local QA judges that review B2B and B2C customer-support replies, catch the risky parts, and explain what to fix. ",
+    "id": "gititya/Quality-Agency-support",
+    "language": "Python",
+    "name": "gititya/Quality-Agency-support",
+    "stars": 0,
+    "updated_at": "2026-07-31T09:49:02Z",
+    "url": "https://github.com/gititya/Quality-Agency-support"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-09T06:21:22Z",
     "url": "https://github.com/MihirBindu/dynamo-log-report-fix"
-  },
-  {
-    "description": "LLM-as-judge validated vs humans (Cohen's \u03ba), with position-bias exposed.",
-    "id": "christianmacion26/judge-harness",
-    "language": "Python",
-    "name": "christianmacion26/judge-harness",
-    "stars": 0,
-    "updated_at": "2026-07-08T18:01:12Z",
-    "url": "https://github.com/christianmacion26/judge-harness"
   }
 ]
