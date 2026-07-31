@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23790,
+    "updated_at": "2026-07-31T13:58:46Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -50,17 +59,8 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 323,
-    "updated_at": "2026-07-31T09:35:43Z",
+    "updated_at": "2026-07-31T14:18:32Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23788,
-    "updated_at": "2026-07-31T13:58:46Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
