@@ -1,28 +1,28 @@
 [
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23790,
-    "updated_at": "2026-07-31T13:58:46Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10831,
+    "stars": 10832,
     "updated_at": "2026-07-31T14:58:23Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23791,
+    "updated_at": "2026-07-31T15:15:12Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3476,
+    "stars": 3477,
     "updated_at": "2026-07-31T13:03:57Z",
     "url": "https://github.com/truera/trulens"
   },
@@ -59,7 +59,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 323,
-    "updated_at": "2026-07-31T14:18:32Z",
+    "updated_at": "2026-07-31T15:03:55Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
