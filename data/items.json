@@ -1,5 +1,14 @@
 [
   {
+    "description": "Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave-",
+    "id": "ipezygj/evalgate",
+    "language": "Python",
+    "name": "ipezygj/evalgate",
+    "stars": 1,
+    "updated_at": "2026-07-31T00:55:52Z",
+    "url": "https://github.com/ipezygj/evalgate"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -76,7 +85,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5723,
+    "stars": 5724,
     "updated_at": "2026-07-29T19:48:05Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
@@ -241,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-07-25T05:34:22Z",
     "url": "https://github.com/tkarim45/agent-eval-harness"
-  },
-  {
-    "description": "Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave-",
-    "id": "ipezygj/evalgate",
-    "language": "Python",
-    "name": "ipezygj/evalgate",
-    "stars": 1,
-    "updated_at": "2026-07-24T17:11:49Z",
-    "url": "https://github.com/ipezygj/evalgate"
   },
   {
     "description": "LLM-as-judge evaluator for scoring AI agent trajectories on task completion, tool correctness, and efficiency",
