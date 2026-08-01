@@ -1,10 +1,19 @@
 [
   {
+    "description": "Free Apache-2.0 skills for Claude Code, plus trigger-probe \u2014 the open-source tool we used to measure all 18 of our paid ",
+    "id": "guildshelf/free-skills",
+    "language": "Python",
+    "name": "guildshelf/free-skills",
+    "stars": 0,
+    "updated_at": "2026-08-01T12:22:32Z",
+    "url": "https://github.com/guildshelf/free-skills"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23811,
+    "stars": 23812,
     "updated_at": "2026-08-01T08:53:08Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -88,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T11:48:57Z",
     "url": "https://github.com/lftherios/session-link"
-  },
-  {
-    "description": "Free Apache-2.0 skills for Claude Code, plus trigger-probe \u2014 the open-source tool we used to measure all 18 of our paid ",
-    "id": "guildshelf/free-skills",
-    "language": "Python",
-    "name": "guildshelf/free-skills",
-    "stars": 0,
-    "updated_at": "2026-07-30T07:38:13Z",
-    "url": "https://github.com/guildshelf/free-skills"
   },
   {
     "description": "",
