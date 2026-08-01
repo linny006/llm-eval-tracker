@@ -1,19 +1,10 @@
 [
   {
-    "description": "Open benchmark: how well can LLMs predict knife-steel properties (edge retention, toughness) from chemical composition, ",
-    "id": "Steel-predictor-project/steel-llm-eval",
-    "language": "Python",
-    "name": "Steel-predictor-project/steel-llm-eval",
-    "stars": 0,
-    "updated_at": "2026-08-01T18:57:15Z",
-    "url": "https://github.com/Steel-predictor-project/steel-llm-eval"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23820,
+    "stars": 23819,
     "updated_at": "2026-08-01T20:28:58Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -22,9 +13,18 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10850,
-    "updated_at": "2026-08-01T19:31:23Z",
+    "stars": 10851,
+    "updated_at": "2026-08-01T20:38:00Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Open benchmark: how well can LLMs predict knife-steel properties (edge retention, toughness) from chemical composition, ",
+    "id": "Steel-predictor-project/steel-llm-eval",
+    "language": "Python",
+    "name": "Steel-predictor-project/steel-llm-eval",
+    "stars": 0,
+    "updated_at": "2026-08-01T18:57:15Z",
+    "url": "https://github.com/Steel-predictor-project/steel-llm-eval"
   },
   {
     "description": "TrustModel MCP Server \u2014 trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t",
