@@ -1,5 +1,14 @@
 [
   {
+    "description": "Open benchmark: how well can LLMs predict knife-steel properties (edge retention, toughness) from chemical composition, ",
+    "id": "Steel-predictor-project/steel-llm-eval",
+    "language": "Python",
+    "name": "Steel-predictor-project/steel-llm-eval",
+    "stars": 0,
+    "updated_at": "2026-08-01T18:57:15Z",
+    "url": "https://github.com/Steel-predictor-project/steel-llm-eval"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -124,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T20:49:22Z",
     "url": "https://github.com/isatimur/mash-core"
-  },
-  {
-    "description": "Open benchmark: how well can LLMs predict knife-steel properties (edge retention, toughness) from chemical composition, ",
-    "id": "Steel-predictor-project/steel-llm-eval",
-    "language": "Python",
-    "name": "Steel-predictor-project/steel-llm-eval",
-    "stars": 0,
-    "updated_at": "2026-07-29T19:35:14Z",
-    "url": "https://github.com/Steel-predictor-project/steel-llm-eval"
   },
   {
     "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
