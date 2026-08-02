@@ -1,5 +1,14 @@
 [
   {
+    "description": "Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd",
+    "id": "Vishalvk2219/Ringdown",
+    "language": "Python",
+    "name": "Vishalvk2219/Ringdown",
+    "stars": 0,
+    "updated_at": "2026-08-02T02:58:16Z",
+    "url": "https://github.com/Vishalvk2219/Ringdown"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-09T19:45:47Z",
     "url": "https://github.com/ahwurm/localshift"
-  },
-  {
-    "description": "An AI agent that answers questions about U.S. campaign money against real FEC data. Source-cited, graded on a public eva",
-    "id": "coffee-converter/onthemoney",
-    "language": "Python",
-    "name": "coffee-converter/onthemoney",
-    "stars": 0,
-    "updated_at": "2026-07-14T01:42:41Z",
-    "url": "https://github.com/coffee-converter/onthemoney"
   }
 ]
