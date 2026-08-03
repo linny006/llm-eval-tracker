@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-03 06:45 UTC
+> ⏰ Last updated: 2026-08-03 07:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,9 +43,9 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5728 | Python | 2026-08-03 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10863 | Python | 2026-08-03 | AI Observability & Evaluation |
+| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10864 | Python | 2026-08-03 | AI Observability & Evaluation |
 | 3 | [RudrenduPaul/memtrust](https://github.com/RudrenduPaul/memtrust) | 0 | Python | 2026-08-03 | Agent memory backends each publish their own benchmark numbers, on different tests, measured different ways. memtrust ru |
-| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23859 | TypeScript | 2026-08-03 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23860 | TypeScript | 2026-08-03 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 5 | [Vishalvk2219/Ringdown](https://github.com/Vishalvk2219/Ringdown) | 0 | Python | 2026-08-02 | Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd |
 | 6 | [arash9233/phoenix-lua-executor-windows](https://github.com/arash9233/phoenix-lua-executor-windows) | 0 | HTML | 2026-08-02 | Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library |
 | 7 | [Steel-predictor-project/steel-llm-eval](https://github.com/Steel-predictor-project/steel-llm-eval) | 0 | Python | 2026-08-01 | Open benchmark: how well can LLMs predict knife-steel properties (edge retention, toughness) from chemical composition,  |
@@ -77,7 +77,7 @@ expired items removed — so you can rely on what you see being current.
 | 33 | [tkarim45/multi-agent-eval](https://github.com/tkarim45/multi-agent-eval) | 0 | Python | 2026-07-25 | Does multi-agent beat single-agent? Benchmarks a planner→workers→critic system vs single-agent on quality/cost/latency — |
 | 34 | [tkarim45/agent-eval-harness](https://github.com/tkarim45/agent-eval-harness) | 0 | Python | 2026-07-25 | Agent eval harness — measure task success, tool-call accuracy, step efficiency, and cost for tool-using LLM agents (Clau |
 | 35 | [10div10/agent-trajectory-evaluator](https://github.com/10div10/agent-trajectory-evaluator) | 2 | Python | 2026-07-24 | LLM-as-judge evaluator for scoring AI agent trajectories on task completion, tool correctness, and efficiency |
-| 36 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-07-29 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
+| 36 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-08-03 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
 | 37 | [iZenDeveloper/auditai](https://github.com/iZenDeveloper/auditai) | 0 | Python | 2026-07-23 | Developer-first LLM/RAG safety audits for CI/CD — faithfulness, relevancy, prompt injection (BYOK OpenAI/xAI). pip insta |
 | 38 | [cklxx/ckl-bench](https://github.com/cklxx/ckl-bench) | 0 | HTML | 2026-07-22 | ckl's personal benchmark for doc writing, infra code, and paper reading — one-click evaluation of the latest models via  |
 | 39 | [monospaceai/evaldata](https://github.com/monospaceai/evaldata) | 2 | Python | 2026-07-22 | Evaluate AI-generated SQL with pytest. |
