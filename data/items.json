@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5727,
+    "updated_at": "2026-08-03T01:54:57Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
     "description": "Agent memory backends each publish their own benchmark numbers, on different tests, measured different ways. memtrust ru",
     "id": "RudrenduPaul/memtrust",
     "language": "Python",
@@ -9,20 +18,11 @@
     "url": "https://github.com/RudrenduPaul/memtrust"
   },
   {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5727,
-    "updated_at": "2026-08-03T01:18:36Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23853,
+    "stars": 23854,
     "updated_at": "2026-08-03T01:02:23Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -32,7 +32,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10863,
-    "updated_at": "2026-08-03T01:13:42Z",
+    "updated_at": "2026-08-03T01:54:27Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
