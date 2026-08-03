@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-03 16:30 UTC
+> ⏰ Last updated: 2026-08-03 16:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [mac-builds-things/agent-evals-harness](https://github.com/mac-builds-things/agent-evals-harness) | 0 | Python | 2026-08-03 | Stop evaluating agents by feel. Scenario library, scoring rubric, and regression detection. |
-| 2 | [truera/trulens](https://github.com/truera/trulens) | 3482 | Python | 2026-08-03 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10872 | Python | 2026-08-03 | AI Observability & Evaluation |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10872 | Python | 2026-08-03 | AI Observability & Evaluation |
+| 2 | [mac-builds-things/agent-evals-harness](https://github.com/mac-builds-things/agent-evals-harness) | 0 | Python | 2026-08-03 | Stop evaluating agents by feel. Scenario library, scoring rubric, and regression detection. |
+| 3 | [truera/trulens](https://github.com/truera/trulens) | 3482 | Python | 2026-08-03 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23879 | TypeScript | 2026-08-03 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 5 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5729 | Python | 2026-08-03 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 6 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 328 | TypeScript | 2026-08-03 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
@@ -57,7 +57,7 @@ expired items removed — so you can rely on what you see being current.
 | 13 | [guildshelf/free-skills](https://github.com/guildshelf/free-skills) | 0 | Python | 2026-08-01 | Free Apache-2.0 skills for Claude Code, plus trigger-probe — the open-source tool we used to measure all 18 of our paid  |
 | 14 | [ipezygj/evalgate](https://github.com/ipezygj/evalgate) | 1 | Python | 2026-07-31 | Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave- |
 | 15 | [gititya/Quality-Agency-support](https://github.com/gititya/Quality-Agency-support) | 0 | Python | 2026-07-31 | Five local QA judges that review B2B and B2C customer-support replies, catch the risky parts, and explain what to fix.  |
-| 16 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-07-31 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
+| 16 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-08-03 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
 | 17 | [SFX-TECH/sfx-lead-intelligence](https://github.com/SFX-TECH/sfx-lead-intelligence) | 0 | — | 2026-07-30 | SFX Lead Intelligence Command Center: local-LLM hub plus lead dashboard, quality lifted 61 to 99 percent via a ground-tr |
 | 18 | [lftherios/session-link](https://github.com/lftherios/session-link) | 0 | Go | 2026-07-30 | A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit. |
 | 19 | [isatimur/mash-core](https://github.com/isatimur/mash-core) | 0 | Python | 2026-07-29 |  |
