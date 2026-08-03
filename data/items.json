@@ -1,20 +1,11 @@
 [
   {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 328,
-    "updated_at": "2026-08-03T17:52:51Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10875,
-    "updated_at": "2026-08-03T18:13:17Z",
+    "updated_at": "2026-08-03T18:23:53Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -22,9 +13,18 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23880,
+    "stars": 23881,
     "updated_at": "2026-08-03T17:56:41Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 328,
+    "updated_at": "2026-08-03T17:52:51Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Stop evaluating agents by feel. Scenario library, scoring rubric, and regression detection.",
