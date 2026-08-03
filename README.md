@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-03 02:15 UTC
+> ⏰ Last updated: 2026-08-03 02:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -44,7 +44,7 @@ expired items removed — so you can rely on what you see being current.
 |---|------|---|------|---------|-------------|
 | 1 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5727 | Python | 2026-08-03 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 2 | [RudrenduPaul/memtrust](https://github.com/RudrenduPaul/memtrust) | 0 | Python | 2026-08-03 | Agent memory backends each publish their own benchmark numbers, on different tests, measured different ways. memtrust ru |
-| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23854 | TypeScript | 2026-08-03 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23855 | TypeScript | 2026-08-03 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10863 | Python | 2026-08-03 | AI Observability & Evaluation |
 | 5 | [Vishalvk2219/Ringdown](https://github.com/Vishalvk2219/Ringdown) | 0 | Python | 2026-08-02 | Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd |
 | 6 | [arash9233/phoenix-lua-executor-windows](https://github.com/arash9233/phoenix-lua-executor-windows) | 0 | HTML | 2026-08-02 | Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library |
