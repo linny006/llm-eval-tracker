@@ -1,11 +1,20 @@
 [
   {
+    "description": "Agent memory backends each publish their own benchmark numbers, on different tests, measured different ways. memtrust ru",
+    "id": "RudrenduPaul/memtrust",
+    "language": "Python",
+    "name": "RudrenduPaul/memtrust",
+    "stars": 0,
+    "updated_at": "2026-08-03T01:27:04Z",
+    "url": "https://github.com/RudrenduPaul/memtrust"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5727,
-    "updated_at": "2026-08-03T01:14:26Z",
+    "updated_at": "2026-08-03T01:18:36Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -86,7 +95,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 328,
-    "updated_at": "2026-08-03T01:14:21Z",
+    "updated_at": "2026-08-03T01:16:07Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -340,15 +349,6 @@
     "stars": 2,
     "updated_at": "2026-07-22T10:31:59Z",
     "url": "https://github.com/monospaceai/evaldata"
-  },
-  {
-    "description": "Agent memory backends each publish their own benchmark numbers, on different tests, measured different ways. memtrust ru",
-    "id": "RudrenduPaul/memtrust",
-    "language": "Python",
-    "name": "RudrenduPaul/memtrust",
-    "stars": 0,
-    "updated_at": "2026-08-03T00:40:07Z",
-    "url": "https://github.com/RudrenduPaul/memtrust"
   },
   {
     "description": "Handwritten Text Recognition llm eval tool",
