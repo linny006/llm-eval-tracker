@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10866,
+    "updated_at": "2026-08-03T13:45:07Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -18,15 +27,6 @@
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10866,
-    "updated_at": "2026-08-03T13:16:23Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Agent memory backends each publish their own benchmark numbers, on different tests, measured different ways. memtrust ru",
     "id": "RudrenduPaul/memtrust",
     "language": "Python",
@@ -40,8 +40,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23875,
-    "updated_at": "2026-08-03T01:02:23Z",
+    "stars": 23876,
+    "updated_at": "2026-08-03T13:44:50Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -103,7 +103,7 @@
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3481,
+    "stars": 3482,
     "updated_at": "2026-07-31T15:25:44Z",
     "url": "https://github.com/truera/trulens"
   },
