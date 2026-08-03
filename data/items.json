@@ -4,9 +4,18 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10874,
-    "updated_at": "2026-08-03T17:03:34Z",
+    "stars": 10875,
+    "updated_at": "2026-08-03T17:34:05Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23880,
+    "updated_at": "2026-08-03T16:52:01Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Stop evaluating agents by feel. Scenario library, scoring rubric, and regression detection.",
@@ -27,20 +36,11 @@
     "url": "https://github.com/truera/trulens"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23879,
-    "updated_at": "2026-08-03T16:52:01Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5729,
+    "stars": 5730,
     "updated_at": "2026-08-03T12:58:44Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
@@ -50,7 +50,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 328,
-    "updated_at": "2026-08-03T17:27:35Z",
+    "updated_at": "2026-08-03T17:30:42Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
