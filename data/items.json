@@ -1,11 +1,20 @@
 [
   {
+    "description": "Stop evaluating agents by feel. Scenario library, scoring rubric, and regression detection.",
+    "id": "mac-builds-things/agent-evals-harness",
+    "language": "Python",
+    "name": "mac-builds-things/agent-evals-harness",
+    "stars": 0,
+    "updated_at": "2026-08-03T15:30:07Z",
+    "url": "https://github.com/mac-builds-things/agent-evals-harness"
+  },
+  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3482,
-    "updated_at": "2026-08-03T15:27:54Z",
+    "updated_at": "2026-08-03T15:42:01Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -22,7 +31,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23877,
+    "stars": 23878,
     "updated_at": "2026-08-03T13:44:50Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -439,14 +448,5 @@
     "stars": 16,
     "updated_at": "2026-07-12T14:06:36Z",
     "url": "https://github.com/attogram/ollama-multirun"
-  },
-  {
-    "description": "An agent-eval harness that gates and judges testgen's generated test suites via MCP \u2014 deterministic checks plus an LLM-j",
-    "id": "nishant20/testgen-eval",
-    "language": "TypeScript",
-    "name": "nishant20/testgen-eval",
-    "stars": 0,
-    "updated_at": "2026-07-10T21:27:57Z",
-    "url": "https://github.com/nishant20/testgen-eval"
   }
 ]
