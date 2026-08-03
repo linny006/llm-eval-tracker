@@ -1,5 +1,14 @@
 [
   {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3482,
+    "updated_at": "2026-08-03T15:27:54Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -97,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T12:22:32Z",
     "url": "https://github.com/guildshelf/free-skills"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3482,
-    "updated_at": "2026-07-31T15:25:44Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave-",
