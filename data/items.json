@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10892,
-    "updated_at": "2026-08-04T14:41:56Z",
+    "updated_at": "2026-08-04T14:48:06Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 329,
+    "updated_at": "2026-08-04T14:48:54Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -61,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T21:21:07Z",
     "url": "https://github.com/homemade-software-inc/completion-kit"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 328,
-    "updated_at": "2026-08-04T12:00:18Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Stop evaluating agents by feel. Scenario library, scoring rubric, and regression detection.",
