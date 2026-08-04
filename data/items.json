@@ -1,11 +1,20 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23917,
+    "updated_at": "2026-08-04T15:25:03Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10894,
-    "updated_at": "2026-08-04T14:48:06Z",
+    "stars": 10895,
+    "updated_at": "2026-08-04T15:22:11Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -14,17 +23,8 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 329,
-    "updated_at": "2026-08-04T14:48:54Z",
+    "updated_at": "2026-08-04T15:19:51Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23917,
-    "updated_at": "2026-08-04T15:14:43Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
