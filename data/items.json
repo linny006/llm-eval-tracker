@@ -1,5 +1,23 @@
 [
   {
+    "description": "Use local Large Language Models for production use cases, and perform benchmarking for task-specific performance evaluat",
+    "id": "ajmeese7/local-llms",
+    "language": "Python",
+    "name": "ajmeese7/local-llms",
+    "stars": 1,
+    "updated_at": "2026-08-04T15:49:13Z",
+    "url": "https://github.com/ajmeese7/local-llms"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10896,
+    "updated_at": "2026-08-04T15:55:37Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -9,21 +27,12 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10895,
-    "updated_at": "2026-08-04T15:38:22Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 329,
-    "updated_at": "2026-08-04T15:19:51Z",
+    "updated_at": "2026-08-04T15:45:54Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -59,7 +68,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3483,
-    "updated_at": "2026-08-04T15:12:30Z",
+    "updated_at": "2026-08-04T15:54:07Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 97,
     "updated_at": "2026-07-14T16:19:30Z",
     "url": "https://github.com/QuesmaOrg/BinaryAudit"
-  },
-  {
-    "description": "An graph-eval framework for LLM's ",
-    "id": "harnexa/nexa-gauge",
-    "language": "Python",
-    "name": "harnexa/nexa-gauge",
-    "stars": 40,
-    "updated_at": "2026-08-03T09:25:37Z",
-    "url": "https://github.com/harnexa/nexa-gauge"
   }
 ]
