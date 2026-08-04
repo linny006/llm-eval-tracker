@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23899,
+    "updated_at": "2026-08-04T07:14:54Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Automated eval harness for AI agents \u2014 gold set + scoring + CI that fails the build on regressions. Self-contained, no A",
     "id": "junju523/agent-eval-harness-demo",
     "language": "JavaScript",
@@ -7,15 +16,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T06:58:46Z",
     "url": "https://github.com/junju523/agent-eval-harness-demo"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23899,
-    "updated_at": "2026-08-04T07:00:03Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Statistically rigorous LLM evaluation for pytest \u2014 treats every eval as a proportion with a Wilson confidence interval, ",
@@ -81,12 +81,12 @@
     "url": "https://github.com/mac-builds-things/agent-evals-harness"
   },
   {
-    "description": "Agent memory backends each publish their own benchmark numbers, on different tests, measured different ways. memtrust ru",
+    "description": "Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking): r",
     "id": "RudrenduPaul/memtrust",
     "language": "Python",
     "name": "RudrenduPaul/memtrust",
     "stars": 0,
-    "updated_at": "2026-08-03T01:27:04Z",
+    "updated_at": "2026-08-04T07:12:18Z",
     "url": "https://github.com/RudrenduPaul/memtrust"
   },
   {
