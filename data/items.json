@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23910,
+    "updated_at": "2026-08-04T10:11:08Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -16,15 +25,6 @@
     "stars": 1,
     "updated_at": "2026-08-04T08:30:05Z",
     "url": "https://github.com/nikolas-sapa/sigeval"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23909,
-    "updated_at": "2026-08-04T10:11:08Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Automated eval harness for AI agents \u2014 gold set + scoring + CI that fails the build on regressions. Self-contained, no A",
@@ -68,7 +68,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 328,
-    "updated_at": "2026-08-04T09:12:11Z",
+    "updated_at": "2026-08-04T10:45:19Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
