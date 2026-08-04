@@ -1,11 +1,20 @@
 [
   {
+    "description": "Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library",
+    "id": "arash9233/phoenix-lua-executor-windows",
+    "language": "HTML",
+    "name": "arash9233/phoenix-lua-executor-windows",
+    "stars": 0,
+    "updated_at": "2026-08-04T18:12:05Z",
+    "url": "https://github.com/arash9233/phoenix-lua-executor-windows"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10897,
-    "updated_at": "2026-08-04T17:57:55Z",
+    "updated_at": "2026-08-04T18:10:48Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -25,15 +34,6 @@
     "stars": 3483,
     "updated_at": "2026-08-04T17:27:23Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library",
-    "id": "arash9233/phoenix-lua-executor-windows",
-    "language": "HTML",
-    "name": "arash9233/phoenix-lua-executor-windows",
-    "stars": 0,
-    "updated_at": "2026-08-04T16:48:35Z",
-    "url": "https://github.com/arash9233/phoenix-lua-executor-windows"
   },
   {
     "description": "Use local Large Language Models for production use cases, and perform benchmarking for task-specific performance evaluat",
