@@ -1,11 +1,20 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10897,
+    "updated_at": "2026-08-04T17:44:51Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23921,
-    "updated_at": "2026-08-04T17:19:28Z",
+    "updated_at": "2026-08-04T17:45:22Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T16:48:35Z",
     "url": "https://github.com/arash9233/phoenix-lua-executor-windows"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10896,
-    "updated_at": "2026-08-04T17:28:54Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Use local Large Language Models for production use cases, and perform benchmarking for task-specific performance evaluat",
@@ -414,7 +414,7 @@
     "url": "https://github.com/mohanish3/eval-atlas"
   },
   {
-    "description": "Agent and LLM evaluation harness, golden datasets, multi-scorer execution, regression detection across model versions, c",
+    "description": "Agent and LLM evaluation harness: golden datasets, multi-scorer execution, regression detection across model versions, c",
     "id": "mizcausevic-dev/agent-eval-arena",
     "language": "TypeScript",
     "name": "mizcausevic-dev/agent-eval-arena",
