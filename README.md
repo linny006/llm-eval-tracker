@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-04 19:00 UTC
+> ⏰ Last updated: 2026-08-04 19:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10898 | Python | 2026-08-04 | AI Observability & Evaluation |
-| 2 | [arash9233/phoenix-lua-executor-windows](https://github.com/arash9233/phoenix-lua-executor-windows) | 0 | HTML | 2026-08-04 | Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library |
-| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23922 | TypeScript | 2026-08-04 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 4 | [truera/trulens](https://github.com/truera/trulens) | 3483 | Python | 2026-08-04 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 1 | [truera/trulens](https://github.com/truera/trulens) | 3483 | Python | 2026-08-04 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10898 | Python | 2026-08-04 | AI Observability & Evaluation |
+| 3 | [arash9233/phoenix-lua-executor-windows](https://github.com/arash9233/phoenix-lua-executor-windows) | 0 | HTML | 2026-08-04 | Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library |
+| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23922 | TypeScript | 2026-08-04 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 5 | [ajmeese7/local-llms](https://github.com/ajmeese7/local-llms) | 1 | Python | 2026-08-04 | Use local Large Language Models for production use cases, and perform benchmarking for task-specific performance evaluat |
 | 6 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 329 | TypeScript | 2026-08-04 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 7 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5737 | Python | 2026-08-04 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
