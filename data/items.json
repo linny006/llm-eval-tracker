@@ -1,11 +1,20 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23921,
+    "updated_at": "2026-08-04T17:19:28Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3483,
-    "updated_at": "2026-08-04T17:14:30Z",
+    "updated_at": "2026-08-04T17:27:23Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10896,
-    "updated_at": "2026-08-04T17:14:25Z",
+    "updated_at": "2026-08-04T17:28:54Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -34,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-08-04T15:49:13Z",
     "url": "https://github.com/ajmeese7/local-llms"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23920,
-    "updated_at": "2026-08-04T16:28:45Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
@@ -414,6 +414,15 @@
     "url": "https://github.com/mohanish3/eval-atlas"
   },
   {
+    "description": "Agent and LLM evaluation harness, golden datasets, multi-scorer execution, regression detection across model versions, c",
+    "id": "mizcausevic-dev/agent-eval-arena",
+    "language": "TypeScript",
+    "name": "mizcausevic-dev/agent-eval-arena",
+    "stars": 0,
+    "updated_at": "2026-07-20T11:35:22Z",
+    "url": "https://github.com/mizcausevic-dev/agent-eval-arena"
+  },
+  {
     "description": "Automated groundedness scoring, hallucination detection, and regression tracking for RAG and agent outputs",
     "id": "AshC2004/llm-eval-harness",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-14T23:23:00Z",
     "url": "https://github.com/vijayarjun7/flipcheck"
-  },
-  {
-    "description": "An open-source benchmark for evaluating AI agents' ability to find backdoors hidden in compiled binaries.",
-    "id": "QuesmaOrg/BinaryAudit",
-    "language": "Shell",
-    "name": "QuesmaOrg/BinaryAudit",
-    "stars": 97,
-    "updated_at": "2026-07-14T16:19:30Z",
-    "url": "https://github.com/QuesmaOrg/BinaryAudit"
   }
 ]
