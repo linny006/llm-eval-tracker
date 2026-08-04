@@ -1,5 +1,14 @@
 [
   {
+    "description": "Statistically rigorous LLM evaluation for pytest \u2014 treats every eval as a proportion with a Wilson confidence interval, ",
+    "id": "nikolas-sapa/sigeval",
+    "language": "Python",
+    "name": "nikolas-sapa/sigeval",
+    "stars": 1,
+    "updated_at": "2026-08-04T08:30:05Z",
+    "url": "https://github.com/nikolas-sapa/sigeval"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -27,20 +36,11 @@
     "url": "https://github.com/junju523/agent-eval-harness-demo"
   },
   {
-    "description": "Statistically rigorous LLM evaluation for pytest \u2014 treats every eval as a proportion with a Wilson confidence interval, ",
-    "id": "nikolas-sapa/sigeval",
-    "language": "Python",
-    "name": "nikolas-sapa/sigeval",
-    "stars": 1,
-    "updated_at": "2026-08-04T06:29:31Z",
-    "url": "https://github.com/nikolas-sapa/sigeval"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10885,
+    "stars": 10887,
     "updated_at": "2026-08-04T06:07:15Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
