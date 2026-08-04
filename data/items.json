@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10892,
+    "updated_at": "2026-08-04T13:58:45Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -13,7 +22,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5734,
+    "stars": 5735,
     "updated_at": "2026-08-04T09:28:07Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
@@ -34,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T06:58:46Z",
     "url": "https://github.com/junju523/agent-eval-harness-demo"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10892,
-    "updated_at": "2026-08-04T13:43:08Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -122,7 +122,7 @@
     "language": "TypeScript",
     "name": "pdxlab/trustmodel-mcp-server",
     "stars": 0,
-    "updated_at": "2026-08-04T11:13:09Z",
+    "updated_at": "2026-08-04T13:55:56Z",
     "url": "https://github.com/pdxlab/trustmodel-mcp-server"
   },
   {
