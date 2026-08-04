@@ -1,11 +1,20 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23897,
+    "updated_at": "2026-08-04T05:54:29Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10883,
-    "updated_at": "2026-08-04T05:44:56Z",
+    "stars": 10885,
+    "updated_at": "2026-08-04T05:52:45Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -14,17 +23,8 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5733,
-    "updated_at": "2026-08-04T05:19:47Z",
+    "updated_at": "2026-08-04T05:57:53Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23896,
-    "updated_at": "2026-08-04T02:32:14Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
