@@ -1,11 +1,38 @@
 [
   {
+    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
+    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "language": "\u2014",
+    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "stars": 0,
+    "updated_at": "2026-08-05T22:56:29Z",
+    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
+  },
+  {
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-08-05T22:56:01Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
+    "description": "Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai",
+    "id": "ozlar34/job-match-radar",
+    "language": "Python",
+    "name": "ozlar34/job-match-radar",
+    "stars": 1,
+    "updated_at": "2026-08-05T22:51:48Z",
+    "url": "https://github.com/ozlar34/job-match-radar"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10909,
-    "updated_at": "2026-08-05T22:40:17Z",
+    "updated_at": "2026-08-05T22:48:45Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -16,33 +43,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T22:18:55Z",
     "url": "https://github.com/ommiles/compton-eval-analysis"
-  },
-  {
-    "description": "Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai",
-    "id": "ozlar34/job-match-radar",
-    "language": "Python",
-    "name": "ozlar34/job-match-radar",
-    "stars": 1,
-    "updated_at": "2026-08-05T22:10:47Z",
-    "url": "https://github.com/ozlar34/job-match-radar"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-08-05T21:08:07Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
-    "id": "bhavya7995/AI_governance",
-    "language": "PowerShell",
-    "name": "bhavya7995/AI_governance",
-    "stars": 1,
-    "updated_at": "2026-08-05T21:07:34Z",
-    "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
