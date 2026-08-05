@@ -1,5 +1,14 @@
 [
   {
+    "description": "Use local Large Language Models for production use cases, and perform benchmarking for task-specific performance evaluat",
+    "id": "ajmeese7/local-llms",
+    "language": "Python",
+    "name": "ajmeese7/local-llms",
+    "stars": 1,
+    "updated_at": "2026-08-05T11:43:46Z",
+    "url": "https://github.com/ajmeese7/local-llms"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -40,7 +49,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23944,
+    "stars": 23946,
     "updated_at": "2026-08-05T03:21:40Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -70,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T18:12:05Z",
     "url": "https://github.com/arash9233/phoenix-lua-executor-windows"
-  },
-  {
-    "description": "Use local Large Language Models for production use cases, and perform benchmarking for task-specific performance evaluat",
-    "id": "ajmeese7/local-llms",
-    "language": "Python",
-    "name": "ajmeese7/local-llms",
-    "stars": 1,
-    "updated_at": "2026-08-05T01:16:22Z",
-    "url": "https://github.com/ajmeese7/local-llms"
   },
   {
     "description": "Statistically rigorous LLM evaluation for pytest \u2014 treats every eval as a proportion with a Wilson confidence interval, ",
