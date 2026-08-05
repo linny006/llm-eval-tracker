@@ -1,5 +1,14 @@
 [
   {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3486,
+    "updated_at": "2026-08-05T13:18:38Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "Agent and LLM evaluation harness: golden datasets, multi-scorer execution, regression detection across model versions, c",
     "id": "mizcausevic-dev/agent-eval-arena",
     "language": "TypeScript",
@@ -31,7 +40,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10904,
+    "stars": 10905,
     "updated_at": "2026-08-05T09:00:43Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -70,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-08-05T02:48:08Z",
     "url": "https://github.com/homemade-software-inc/completion-kit"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3486,
-    "updated_at": "2026-08-04T19:40:00Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library",
