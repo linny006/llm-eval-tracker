@@ -1,5 +1,14 @@
 [
   {
+    "description": "Agent and LLM evaluation harness: golden datasets, multi-scorer execution, regression detection across model versions, c",
+    "id": "mizcausevic-dev/agent-eval-arena",
+    "language": "TypeScript",
+    "name": "mizcausevic-dev/agent-eval-arena",
+    "stars": 0,
+    "updated_at": "2026-08-05T11:56:55Z",
+    "url": "https://github.com/mizcausevic-dev/agent-eval-arena"
+  },
+  {
     "description": "Use local Large Language Models for production use cases, and perform benchmarking for task-specific performance evaluat",
     "id": "ajmeese7/local-llms",
     "language": "Python",
@@ -49,7 +58,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23946,
+    "stars": 23950,
     "updated_at": "2026-08-05T03:21:40Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -412,15 +421,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T09:59:15Z",
     "url": "https://github.com/mohanish3/eval-atlas"
-  },
-  {
-    "description": "Agent and LLM evaluation harness: golden datasets, multi-scorer execution, regression detection across model versions, c",
-    "id": "mizcausevic-dev/agent-eval-arena",
-    "language": "TypeScript",
-    "name": "mizcausevic-dev/agent-eval-arena",
-    "stars": 0,
-    "updated_at": "2026-07-20T11:35:22Z",
-    "url": "https://github.com/mizcausevic-dev/agent-eval-arena"
   },
   {
     "description": "Automated groundedness scoring, hallucination detection, and regression tracking for RAG and agent outputs",
