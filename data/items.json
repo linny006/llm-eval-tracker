@@ -1,5 +1,14 @@
 [
   {
+    "description": "Statistical analysis for LLM eval runs \u2014 bootstrap CIs, paired significance testing, judge reliability, and power analys",
+    "id": "ommiles/compton-eval-analysis",
+    "language": "Python",
+    "name": "ommiles/compton-eval-analysis",
+    "stars": 0,
+    "updated_at": "2026-08-05T21:17:36Z",
+    "url": "https://github.com/ommiles/compton-eval-analysis"
+  },
+  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -27,15 +36,6 @@
     "url": "https://github.com/truera/trulens"
   },
   {
-    "description": "Statistical analysis for LLM eval runs \u2014 bootstrap CIs, paired significance testing, judge reliability, and power analys",
-    "id": "ommiles/compton-eval-analysis",
-    "language": "Python",
-    "name": "ommiles/compton-eval-analysis",
-    "stars": 0,
-    "updated_at": "2026-08-05T20:45:09Z",
-    "url": "https://github.com/ommiles/compton-eval-analysis"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -50,7 +50,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10909,
-    "updated_at": "2026-08-05T21:14:13Z",
+    "updated_at": "2026-08-05T21:24:42Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
