@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-05 02:30 UTC
+> ⏰ Last updated: 2026-08-05 02:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,13 +43,13 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-08-05 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
-| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23933 | TypeScript | 2026-08-05 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23932 | TypeScript | 2026-08-05 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10901 | Python | 2026-08-04 | AI Observability & Evaluation |
 | 4 | [truera/trulens](https://github.com/truera/trulens) | 3484 | Python | 2026-08-04 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 5 | [arash9233/phoenix-lua-executor-windows](https://github.com/arash9233/phoenix-lua-executor-windows) | 0 | HTML | 2026-08-04 | Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library |
 | 6 | [ajmeese7/local-llms](https://github.com/ajmeese7/local-llms) | 1 | Python | 2026-08-05 | Use local Large Language Models for production use cases, and perform benchmarking for task-specific performance evaluat |
 | 7 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 329 | TypeScript | 2026-08-04 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 8 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5737 | Python | 2026-08-04 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 8 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5737 | Python | 2026-08-05 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 9 | [nikolas-sapa/sigeval](https://github.com/nikolas-sapa/sigeval) | 1 | Python | 2026-08-04 | Statistically rigorous LLM evaluation for pytest — treats every eval as a proportion with a Wilson confidence interval,  |
 | 10 | [junju523/agent-eval-harness-demo](https://github.com/junju523/agent-eval-harness-demo) | 0 | JavaScript | 2026-08-04 | Automated eval harness for AI agents — gold set + scoring + CI that fails the build on regressions. Self-contained, no A |
 | 11 | [mac-builds-things/agent-evals-harness](https://github.com/mac-builds-things/agent-evals-harness) | 0 | Python | 2026-08-03 | Stop evaluating agents by feel. Scenario library, scoring rubric, and regression detection. |
