@@ -1,11 +1,20 @@
 [
   {
+    "description": "Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai",
+    "id": "ozlar34/job-match-radar",
+    "language": "Python",
+    "name": "ozlar34/job-match-radar",
+    "stars": 1,
+    "updated_at": "2026-08-05T22:10:47Z",
+    "url": "https://github.com/ozlar34/job-match-radar"
+  },
+  {
     "description": "Statistical analysis for LLM eval runs: bootstrap CIs, paired significance testing, judge reliability, and power analysi",
     "id": "ommiles/compton-eval-analysis",
     "language": "Python",
     "name": "ommiles/compton-eval-analysis",
     "stars": 0,
-    "updated_at": "2026-08-05T21:37:45Z",
+    "updated_at": "2026-08-05T22:05:58Z",
     "url": "https://github.com/ommiles/compton-eval-analysis"
   },
   {
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3487,
-    "updated_at": "2026-08-05T20:49:09Z",
+    "updated_at": "2026-08-05T22:07:49Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -50,7 +59,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10909,
-    "updated_at": "2026-08-05T21:55:03Z",
+    "updated_at": "2026-08-05T22:03:11Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -412,15 +421,6 @@
     "stars": 2,
     "updated_at": "2026-07-29T01:01:05Z",
     "url": "https://github.com/lehigh-university-libraries/htr"
-  },
-  {
-    "description": "Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai",
-    "id": "ozlar34/job-match-radar",
-    "language": "Python",
-    "name": "ozlar34/job-match-radar",
-    "stars": 1,
-    "updated_at": "2026-07-21T15:28:12Z",
-    "url": "https://github.com/ozlar34/job-match-radar"
   },
   {
     "description": "LLM eval dashboard for multiple choice and open ended prompts. Upload JSON or JSONL eval sets, run against OpenAI, Anthr",
