@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-05 05:30 UTC
+> ⏰ Last updated: 2026-08-05 05:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -45,7 +45,7 @@ expired items removed — so you can rely on what you see being current.
 | 1 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5737 | Python | 2026-08-05 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10902 | Python | 2026-08-05 | AI Observability & Evaluation |
 | 3 | [junju523/agent-eval-harness-demo](https://github.com/junju523/agent-eval-harness-demo) | 0 | JavaScript | 2026-08-05 | Automated eval harness for AI agents — gold set + scoring + CI that fails the build on regressions. Self-contained, no A |
-| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23935 | TypeScript | 2026-08-05 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23936 | TypeScript | 2026-08-05 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 5 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-08-05 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
 | 6 | [truera/trulens](https://github.com/truera/trulens) | 3484 | Python | 2026-08-04 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 7 | [arash9233/phoenix-lua-executor-windows](https://github.com/arash9233/phoenix-lua-executor-windows) | 0 | HTML | 2026-08-04 | Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library |
