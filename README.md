@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-05 08:15 UTC
+> ⏰ Last updated: 2026-08-05 08:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5737 | Python | 2026-08-05 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 2 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 329 | TypeScript | 2026-08-05 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10903 | Python | 2026-08-05 | AI Observability & Evaluation |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10904 | Python | 2026-08-05 | AI Observability & Evaluation |
+| 2 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5737 | Python | 2026-08-05 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 3 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 329 | TypeScript | 2026-08-05 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 4 | [junju523/agent-eval-harness-demo](https://github.com/junju523/agent-eval-harness-demo) | 0 | JavaScript | 2026-08-05 | Automated eval harness for AI agents — gold set + scoring + CI that fails the build on regressions. Self-contained, no A |
 | 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23938 | TypeScript | 2026-08-05 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 6 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-08-05 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
