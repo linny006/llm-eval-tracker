@@ -1,6 +1,6 @@
 [
   {
-    "description": "Statistical analysis for LLM eval runs \u2014 bootstrap CIs, paired significance testing, judge reliability, and power analys",
+    "description": "Statistical analysis for LLM eval runs: bootstrap CIs, paired significance testing, judge reliability, and power analysi",
     "id": "ommiles/compton-eval-analysis",
     "language": "Python",
     "name": "ommiles/compton-eval-analysis",
@@ -40,7 +40,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23971,
+    "stars": 23972,
     "updated_at": "2026-08-05T19:57:30Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -50,7 +50,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10909,
-    "updated_at": "2026-08-05T21:41:15Z",
+    "updated_at": "2026-08-05T21:55:03Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -95,7 +95,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 329,
-    "updated_at": "2026-08-05T18:45:21Z",
+    "updated_at": "2026-08-05T21:52:22Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
