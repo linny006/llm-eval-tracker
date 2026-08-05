@@ -1,11 +1,20 @@
 [
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5737,
+    "updated_at": "2026-08-05T05:26:42Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10902,
-    "updated_at": "2026-08-05T05:13:15Z",
+    "updated_at": "2026-08-05T05:23:06Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -70,15 +79,6 @@
     "stars": 329,
     "updated_at": "2026-08-04T22:17:36Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5737,
-    "updated_at": "2026-08-05T02:32:15Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Statistically rigorous LLM evaluation for pytest \u2014 treats every eval as a proportion with a Wilson confidence interval, ",
