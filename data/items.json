@@ -1,5 +1,14 @@
 [
   {
+    "description": "Automated eval harness for AI agents \u2014 gold set + scoring + CI that fails the build on regressions. Self-contained, no A",
+    "id": "junju523/agent-eval-harness-demo",
+    "language": "JavaScript",
+    "name": "junju523/agent-eval-harness-demo",
+    "stars": 0,
+    "updated_at": "2026-08-05T03:27:45Z",
+    "url": "https://github.com/junju523/agent-eval-harness-demo"
+  },
+  {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
     "id": "homemade-software-inc/completion-kit",
     "language": "Ruby",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23932,
-    "updated_at": "2026-08-05T01:28:20Z",
+    "updated_at": "2026-08-05T03:21:40Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -79,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-08-04T08:30:05Z",
     "url": "https://github.com/nikolas-sapa/sigeval"
-  },
-  {
-    "description": "Automated eval harness for AI agents \u2014 gold set + scoring + CI that fails the build on regressions. Self-contained, no A",
-    "id": "junju523/agent-eval-harness-demo",
-    "language": "JavaScript",
-    "name": "junju523/agent-eval-harness-demo",
-    "stars": 0,
-    "updated_at": "2026-08-04T06:58:46Z",
-    "url": "https://github.com/junju523/agent-eval-harness-demo"
   },
   {
     "description": "Stop evaluating agents by feel. Scenario library, scoring rubric, and regression detection.",
