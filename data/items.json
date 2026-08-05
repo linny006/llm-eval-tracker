@@ -1,5 +1,14 @@
 [
   {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3487,
+    "updated_at": "2026-08-05T18:04:26Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
     "id": "homemade-software-inc/completion-kit",
     "language": "Ruby",
@@ -16,15 +25,6 @@
     "stars": 10908,
     "updated_at": "2026-08-05T17:43:20Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3487,
-    "updated_at": "2026-08-05T13:45:11Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Agent and LLM evaluation harness: golden datasets, multi-scorer execution, regression detection across model versions, c",
