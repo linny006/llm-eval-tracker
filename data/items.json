@@ -1,5 +1,14 @@
 [
   {
+    "description": "Statistical analysis for LLM eval runs \u2014 bootstrap CIs, paired significance testing, judge reliability, and power analys",
+    "id": "ommiles/compton-eval-analysis",
+    "language": "\u2014",
+    "name": "ommiles/compton-eval-analysis",
+    "stars": 0,
+    "updated_at": "2026-08-05T20:45:09Z",
+    "url": "https://github.com/ommiles/compton-eval-analysis"
+  },
+  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3487,
-    "updated_at": "2026-08-05T20:28:05Z",
+    "updated_at": "2026-08-05T20:41:17Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-15T16:37:12Z",
     "url": "https://github.com/sahuno/confounded"
-  },
-  {
-    "description": "LLM self-consistency and sycophancy diagnostic \u2014 catches contradictions and false-premise acceptance hiding behind confi",
-    "id": "vijayarjun7/flipcheck",
-    "language": "TypeScript",
-    "name": "vijayarjun7/flipcheck",
-    "stars": 0,
-    "updated_at": "2026-07-14T23:23:00Z",
-    "url": "https://github.com/vijayarjun7/flipcheck"
   }
 ]
