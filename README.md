@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-05 13:45 UTC
+> ⏰ Last updated: 2026-08-05 14:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,8 +42,8 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10906 | Python | 2026-08-05 | AI Observability & Evaluation |
-| 2 | [truera/trulens](https://github.com/truera/trulens) | 3486 | Python | 2026-08-05 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 1 | [truera/trulens](https://github.com/truera/trulens) | 3487 | Python | 2026-08-05 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10906 | Python | 2026-08-05 | AI Observability & Evaluation |
 | 3 | [mizcausevic-dev/agent-eval-arena](https://github.com/mizcausevic-dev/agent-eval-arena) | 0 | TypeScript | 2026-08-05 | Agent and LLM evaluation harness: golden datasets, multi-scorer execution, regression detection across model versions, c |
 | 4 | [ajmeese7/local-llms](https://github.com/ajmeese7/local-llms) | 1 | Python | 2026-08-05 | Use local Large Language Models for production use cases, and perform benchmarking for task-specific performance evaluat |
 | 5 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5737 | Python | 2026-08-05 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
