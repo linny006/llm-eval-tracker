@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10902,
+    "updated_at": "2026-08-05T04:21:42Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Automated eval harness for AI agents \u2014 gold set + scoring + CI that fails the build on regressions. Self-contained, no A",
     "id": "junju523/agent-eval-harness-demo",
     "language": "JavaScript",
@@ -25,15 +34,6 @@
     "stars": 1,
     "updated_at": "2026-08-05T02:48:08Z",
     "url": "https://github.com/homemade-software-inc/completion-kit"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10902,
-    "updated_at": "2026-08-05T04:11:47Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
