@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10906,
+    "updated_at": "2026-08-05T14:21:24Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 3487,
     "updated_at": "2026-08-05T13:45:11Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10906,
-    "updated_at": "2026-08-05T14:13:08Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Agent and LLM evaluation harness: golden datasets, multi-scorer execution, regression detection across model versions, c",
@@ -40,7 +40,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5737,
+    "stars": 5738,
     "updated_at": "2026-08-05T09:16:18Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
@@ -67,7 +67,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23957,
+    "stars": 23958,
     "updated_at": "2026-08-05T03:21:40Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
