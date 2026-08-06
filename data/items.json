@@ -1,21 +1,12 @@
 [
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24004,
-    "updated_at": "2026-08-06T15:10:46Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10921,
-    "updated_at": "2026-08-06T15:14:17Z",
-    "url": "https://github.com/Arize-ai/phoenix"
+    "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
+    "id": "goldbarth/chartula-evals",
+    "language": "\u2014",
+    "name": "goldbarth/chartula-evals",
+    "stars": 0,
+    "updated_at": "2026-08-06T17:43:54Z",
+    "url": "https://github.com/goldbarth/chartula-evals"
   },
   {
     "description": "Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library",
@@ -23,8 +14,17 @@
     "language": "HTML",
     "name": "arash9233/phoenix-lua-executor-windows",
     "stars": 0,
-    "updated_at": "2026-08-06T14:54:08Z",
+    "updated_at": "2026-08-06T17:40:51Z",
     "url": "https://github.com/arash9233/phoenix-lua-executor-windows"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24008,
+    "updated_at": "2026-08-06T17:40:32Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
@@ -32,8 +32,26 @@
     "language": "\u2014",
     "name": "saddled-panicattack529/idea-evaluation-pipeline",
     "stars": 0,
-    "updated_at": "2026-08-06T14:38:40Z",
+    "updated_at": "2026-08-06T17:25:30Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
+  },
+  {
+    "description": "Production-grade evaluation framework and automated guardrails for enterprise LLM applications, RAG pipelines, and agent",
+    "id": "eliasfeitan-pixel/llm-eval-framework",
+    "language": "\u2014",
+    "name": "eliasfeitan-pixel/llm-eval-framework",
+    "stars": 0,
+    "updated_at": "2026-08-06T17:24:51Z",
+    "url": "https://github.com/eliasfeitan-pixel/llm-eval-framework"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10921,
+    "updated_at": "2026-08-06T17:55:20Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -41,7 +59,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3487,
-    "updated_at": "2026-08-06T14:21:50Z",
+    "updated_at": "2026-08-06T17:26:01Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -122,7 +140,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 329,
-    "updated_at": "2026-08-06T11:01:41Z",
+    "updated_at": "2026-08-06T17:39:49Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T09:59:15Z",
     "url": "https://github.com/mohanish3/eval-atlas"
-  },
-  {
-    "description": "Automated groundedness scoring, hallucination detection, and regression tracking for RAG and agent outputs",
-    "id": "AshC2004/llm-eval-harness",
-    "language": "Python",
-    "name": "AshC2004/llm-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-07-18T14:53:47Z",
-    "url": "https://github.com/AshC2004/llm-eval-harness"
-  },
-  {
-    "description": "A gym for scientific judgment. AI agents render fatally flawed analyses at publication quality \u2014 we measured whether any",
-    "id": "sahuno/confounded",
-    "language": "R",
-    "name": "sahuno/confounded",
-    "stars": 0,
-    "updated_at": "2026-07-15T16:37:12Z",
-    "url": "https://github.com/sahuno/confounded"
   }
 ]
