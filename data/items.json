@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10912,
+    "updated_at": "2026-08-06T05:33:02Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -25,15 +34,6 @@
     "stars": 5739,
     "updated_at": "2026-08-06T04:11:10Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10911,
-    "updated_at": "2026-08-06T05:33:02Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Statistical analysis for LLM eval runs: bootstrap CIs, paired significance testing, judge reliability, and power analysi",
