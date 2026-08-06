@@ -1,5 +1,23 @@
 [
   {
+    "description": "Trace-grounded agent eval: YAML scenarios, evidence detectors, uncertainty-aware group diagnostics, exit-code CI gate.",
+    "id": "homayoun-safarpour/agent-eval-workbench",
+    "language": "Python",
+    "name": "homayoun-safarpour/agent-eval-workbench",
+    "stars": 0,
+    "updated_at": "2026-08-06T22:26:41Z",
+    "url": "https://github.com/homayoun-safarpour/agent-eval-workbench"
+  },
+  {
+    "description": "Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library",
+    "id": "arash9233/phoenix-lua-executor-windows",
+    "language": "HTML",
+    "name": "arash9233/phoenix-lua-executor-windows",
+    "stars": 0,
+    "updated_at": "2026-08-06T22:21:37Z",
+    "url": "https://github.com/arash9233/phoenix-lua-executor-windows"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -34,15 +52,6 @@
     "stars": 3488,
     "updated_at": "2026-08-06T20:52:26Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library",
-    "id": "arash9233/phoenix-lua-executor-windows",
-    "language": "HTML",
-    "name": "arash9233/phoenix-lua-executor-windows",
-    "stars": 0,
-    "updated_at": "2026-08-06T20:32:15Z",
-    "url": "https://github.com/arash9233/phoenix-lua-executor-windows"
   },
   {
     "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-29T01:01:05Z",
     "url": "https://github.com/lehigh-university-libraries/htr"
-  },
-  {
-    "description": "LLM eval dashboard for multiple choice and open ended prompts. Upload JSON or JSONL eval sets, run against OpenAI, Anthr",
-    "id": "mohanish3/eval-atlas",
-    "language": "TypeScript",
-    "name": "mohanish3/eval-atlas",
-    "stars": 0,
-    "updated_at": "2026-07-21T09:59:15Z",
-    "url": "https://github.com/mohanish3/eval-atlas"
   }
 ]
