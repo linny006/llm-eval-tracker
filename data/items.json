@@ -1,11 +1,20 @@
 [
   {
+    "description": "Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library",
+    "id": "arash9233/phoenix-lua-executor-windows",
+    "language": "HTML",
+    "name": "arash9233/phoenix-lua-executor-windows",
+    "stars": 0,
+    "updated_at": "2026-08-06T13:59:54Z",
+    "url": "https://github.com/arash9233/phoenix-lua-executor-windows"
+  },
+  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3487,
-    "updated_at": "2026-08-06T13:49:35Z",
+    "updated_at": "2026-08-06T14:09:47Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -18,20 +27,11 @@
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
-    "description": "Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library",
-    "id": "arash9233/phoenix-lua-executor-windows",
-    "language": "HTML",
-    "name": "arash9233/phoenix-lua-executor-windows",
-    "stars": 0,
-    "updated_at": "2026-08-06T13:59:54Z",
-    "url": "https://github.com/arash9233/phoenix-lua-executor-windows"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24000,
+    "stars": 24001,
     "updated_at": "2026-08-06T09:13:24Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
