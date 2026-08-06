@@ -1,11 +1,20 @@
 [
   {
+    "description": "Statistical analysis for LLM eval runs: bootstrap CIs, paired significance testing, judge reliability, and power analysi",
+    "id": "ommiles/compton-eval-analysis",
+    "language": "Python",
+    "name": "ommiles/compton-eval-analysis",
+    "stars": 0,
+    "updated_at": "2026-08-06T00:15:22Z",
+    "url": "https://github.com/ommiles/compton-eval-analysis"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10910,
-    "updated_at": "2026-08-05T23:47:51Z",
+    "updated_at": "2026-08-06T00:25:39Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -25,15 +34,6 @@
     "stars": 1,
     "updated_at": "2026-08-05T23:46:54Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "Statistical analysis for LLM eval runs: bootstrap CIs, paired significance testing, judge reliability, and power analysi",
-    "id": "ommiles/compton-eval-analysis",
-    "language": "Python",
-    "name": "ommiles/compton-eval-analysis",
-    "stars": 0,
-    "updated_at": "2026-08-06T00:15:22Z",
-    "url": "https://github.com/ommiles/compton-eval-analysis"
   },
   {
     "description": "Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai",
