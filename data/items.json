@@ -1,5 +1,59 @@
 [
   {
+    "description": "Fail CI when agent trajectory scores regress against a frozen baseline (exit 0 or 2).",
+    "id": "homayoun-safarpour/trace-gate",
+    "language": "Python",
+    "name": "homayoun-safarpour/trace-gate",
+    "stars": 0,
+    "updated_at": "2026-08-06T23:26:28Z",
+    "url": "https://github.com/homayoun-safarpour/trace-gate"
+  },
+  {
+    "description": "FastAPI RAG eval with Qdrant Compose, offline lexical judge, and a frozen hit@k/MRR regression gate.",
+    "id": "homayoun-safarpour/rag-eval-service",
+    "language": "Python",
+    "name": "homayoun-safarpour/rag-eval-service",
+    "stars": 0,
+    "updated_at": "2026-08-06T23:26:09Z",
+    "url": "https://github.com/homayoun-safarpour/rag-eval-service"
+  },
+  {
+    "description": "Trace-grounded agent eval: YAML scenarios, evidence detectors, uncertainty-aware group diagnostics, exit-code CI gate.",
+    "id": "homayoun-safarpour/agent-eval-workbench",
+    "language": "Python",
+    "name": "homayoun-safarpour/agent-eval-workbench",
+    "stars": 0,
+    "updated_at": "2026-08-06T23:25:58Z",
+    "url": "https://github.com/homayoun-safarpour/agent-eval-workbench"
+  },
+  {
+    "description": "Diagnose whether a low-kappa LLM judge panel fails from item ambiguity or rubric underspecification.",
+    "id": "homayoun-safarpour/judge-reliability-kit",
+    "language": "Python",
+    "name": "homayoun-safarpour/judge-reliability-kit",
+    "stars": 0,
+    "updated_at": "2026-08-06T23:24:52Z",
+    "url": "https://github.com/homayoun-safarpour/judge-reliability-kit"
+  },
+  {
+    "description": "Attribute eval-score movement to the system or the LLM judge using a frozen human anchor set and kappa.",
+    "id": "homayoun-safarpour/judge-drift-sentinel",
+    "language": "Python",
+    "name": "homayoun-safarpour/judge-drift-sentinel",
+    "stars": 0,
+    "updated_at": "2026-08-06T23:20:23Z",
+    "url": "https://github.com/homayoun-safarpour/judge-drift-sentinel"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10927,
+    "updated_at": "2026-08-06T23:23:38Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library",
     "id": "arash9233/phoenix-lua-executor-windows",
     "language": "HTML",
@@ -18,42 +72,6 @@
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
-    "description": "Trace-grounded agent eval: YAML scenarios, evidence detectors, uncertainty-aware group diagnostics, exit-code CI gate.",
-    "id": "homayoun-safarpour/agent-eval-workbench",
-    "language": "Python",
-    "name": "homayoun-safarpour/agent-eval-workbench",
-    "stars": 0,
-    "updated_at": "2026-08-06T22:49:55Z",
-    "url": "https://github.com/homayoun-safarpour/agent-eval-workbench"
-  },
-  {
-    "description": "Attribute eval-score movement to the system or the LLM judge using a frozen human anchor set and kappa.",
-    "id": "homayoun-safarpour/judge-drift-sentinel",
-    "language": "Python",
-    "name": "homayoun-safarpour/judge-drift-sentinel",
-    "stars": 0,
-    "updated_at": "2026-08-06T22:24:54Z",
-    "url": "https://github.com/homayoun-safarpour/judge-drift-sentinel"
-  },
-  {
-    "description": "FastAPI RAG eval with Qdrant Compose, offline lexical judge, and a frozen hit@k/MRR regression gate.",
-    "id": "homayoun-safarpour/rag-eval-service",
-    "language": "Python",
-    "name": "homayoun-safarpour/rag-eval-service",
-    "stars": 0,
-    "updated_at": "2026-08-06T22:18:45Z",
-    "url": "https://github.com/homayoun-safarpour/rag-eval-service"
-  },
-  {
-    "description": "Fail CI when agent trajectory scores regress against a frozen baseline (exit 0 or 2).",
-    "id": "homayoun-safarpour/trace-gate",
-    "language": "Python",
-    "name": "homayoun-safarpour/trace-gate",
-    "stars": 0,
-    "updated_at": "2026-08-06T22:14:35Z",
-    "url": "https://github.com/homayoun-safarpour/trace-gate"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -61,24 +79,6 @@
     "stars": 24016,
     "updated_at": "2026-08-06T22:09:41Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10926,
-    "updated_at": "2026-08-06T23:11:21Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Diagnose whether a low-kappa LLM judge panel fails from item ambiguity or rubric underspecification.",
-    "id": "homayoun-safarpour/judge-reliability-kit",
-    "language": "Python",
-    "name": "homayoun-safarpour/judge-reliability-kit",
-    "stars": 0,
-    "updated_at": "2026-08-06T22:03:34Z",
-    "url": "https://github.com/homayoun-safarpour/judge-reliability-kit"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
