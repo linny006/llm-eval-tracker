@@ -1,20 +1,11 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10912,
-    "updated_at": "2026-08-06T05:33:02Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
     "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "stars": 0,
-    "updated_at": "2026-08-06T05:08:29Z",
+    "updated_at": "2026-08-06T06:01:18Z",
     "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
   },
   {
@@ -23,8 +14,17 @@
     "language": "PowerShell",
     "name": "bhavya7995/AI_governance",
     "stars": 1,
-    "updated_at": "2026-08-06T05:07:53Z",
+    "updated_at": "2026-08-06T06:00:49Z",
     "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10913,
+    "updated_at": "2026-08-06T05:33:02Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -67,7 +67,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23982,
+    "stars": 23983,
     "updated_at": "2026-08-05T19:57:30Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -104,7 +104,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 329,
-    "updated_at": "2026-08-06T02:35:25Z",
+    "updated_at": "2026-08-06T06:10:58Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
