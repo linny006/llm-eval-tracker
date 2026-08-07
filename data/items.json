@@ -1,21 +1,30 @@
 [
   {
-    "description": "Production-grade evaluation framework and automated guardrails for enterprise LLM applications, RAG pipelines, and agent",
-    "id": "eliasfeitan-pixel/llm-eval-framework",
-    "language": "\u2014",
-    "name": "eliasfeitan-pixel/llm-eval-framework",
-    "stars": 1,
-    "updated_at": "2026-08-07T06:28:40Z",
-    "url": "https://github.com/eliasfeitan-pixel/llm-eval-framework"
-  },
-  {
     "description": "Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd",
     "id": "Vishalvk2219/Ringdown",
     "language": "Python",
     "name": "Vishalvk2219/Ringdown",
     "stars": 0,
-    "updated_at": "2026-08-07T06:22:18Z",
+    "updated_at": "2026-08-07T06:45:16Z",
     "url": "https://github.com/Vishalvk2219/Ringdown"
+  },
+  {
+    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
+    "id": "saddled-panicattack529/idea-evaluation-pipeline",
+    "language": "\u2014",
+    "name": "saddled-panicattack529/idea-evaluation-pipeline",
+    "stars": 0,
+    "updated_at": "2026-08-07T06:42:02Z",
+    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
+  },
+  {
+    "description": "Production-grade evaluation framework and automated guardrails for enterprise LLM applications, RAG pipelines, and agent",
+    "id": "eliasfeitan-pixel/llm-eval-framework",
+    "language": "\u2014",
+    "name": "eliasfeitan-pixel/llm-eval-framework",
+    "stars": 1,
+    "updated_at": "2026-08-07T06:34:31Z",
+    "url": "https://github.com/eliasfeitan-pixel/llm-eval-framework"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10928,
-    "updated_at": "2026-08-07T06:14:41Z",
+    "updated_at": "2026-08-07T06:41:50Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -34,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T05:08:21Z",
     "url": "https://github.com/arash9233/phoenix-lua-executor-windows"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-08-07T04:54:01Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
