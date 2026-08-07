@@ -1,11 +1,20 @@
 [
   {
+    "description": "Multi-arm evaluation and self-healing guardrails for MCP servers & CLIs",
+    "id": "asavs/mcp-cocktail",
+    "language": "Python",
+    "name": "asavs/mcp-cocktail",
+    "stars": 0,
+    "updated_at": "2026-08-07T23:19:22Z",
+    "url": "https://github.com/asavs/mcp-cocktail"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10938,
-    "updated_at": "2026-08-07T23:09:20Z",
+    "updated_at": "2026-08-07T23:25:45Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -34,15 +43,6 @@
     "stars": 24059,
     "updated_at": "2026-08-07T21:57:10Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Multi-arm evaluation and self-healing guardrails for MCP servers & CLIs",
-    "id": "asavs/mcp-cocktail",
-    "language": "Python",
-    "name": "asavs/mcp-cocktail",
-    "stars": 0,
-    "updated_at": "2026-08-07T21:32:44Z",
-    "url": "https://github.com/asavs/mcp-cocktail"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
