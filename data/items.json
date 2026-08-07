@@ -1,5 +1,14 @@
 [
   {
+    "description": "Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd",
+    "id": "Vishalvk2219/Ringdown",
+    "language": "Python",
+    "name": "Vishalvk2219/Ringdown",
+    "stars": 0,
+    "updated_at": "2026-08-07T16:14:18Z",
+    "url": "https://github.com/Vishalvk2219/Ringdown"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -25,15 +34,6 @@
     "stars": 3489,
     "updated_at": "2026-08-07T14:21:57Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd",
-    "id": "Vishalvk2219/Ringdown",
-    "language": "Python",
-    "name": "Vishalvk2219/Ringdown",
-    "stars": 0,
-    "updated_at": "2026-08-07T16:14:18Z",
-    "url": "https://github.com/Vishalvk2219/Ringdown"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
