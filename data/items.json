@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10933,
+    "updated_at": "2026-08-07T16:54:56Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd",
     "id": "Vishalvk2219/Ringdown",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T16:14:18Z",
     "url": "https://github.com/Vishalvk2219/Ringdown"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10932,
-    "updated_at": "2026-08-07T16:38:19Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Statistical analysis for LLM eval runs: bootstrap CIs, paired significance testing, judge reliability, and power analysi",
