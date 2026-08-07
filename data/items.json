@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "homayoun-safarpour/judge-drift-sentinel",
     "stars": 0,
-    "updated_at": "2026-08-06T23:40:38Z",
+    "updated_at": "2026-08-06T23:58:55Z",
     "url": "https://github.com/homayoun-safarpour/judge-drift-sentinel"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10927,
+    "updated_at": "2026-08-06T23:59:54Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24014,
+    "updated_at": "2026-08-06T23:52:20Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
+    "id": "saddled-panicattack529/idea-evaluation-pipeline",
+    "language": "\u2014",
+    "name": "saddled-panicattack529/idea-evaluation-pipeline",
+    "stars": 0,
+    "updated_at": "2026-08-06T23:47:41Z",
+    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
     "description": "Fail CI when agent trajectory scores regress against a frozen baseline (exit 0 or 2).",
@@ -63,15 +90,6 @@
     "url": "https://github.com/homayoun-safarpour/judge-reliability-kit"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10927,
-    "updated_at": "2026-08-06T23:42:04Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library",
     "id": "arash9233/phoenix-lua-executor-windows",
     "language": "HTML",
@@ -79,24 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-06T23:11:53Z",
     "url": "https://github.com/arash9233/phoenix-lua-executor-windows"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-08-06T22:57:40Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24015,
-    "updated_at": "2026-08-06T22:09:41Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
