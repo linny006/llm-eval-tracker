@@ -1,5 +1,23 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24033,
+    "updated_at": "2026-08-07T08:26:08Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
+    "id": "Kondwani10/Origin-Continuum",
+    "language": "\u2014",
+    "name": "Kondwani10/Origin-Continuum",
+    "stars": 0,
+    "updated_at": "2026-08-07T08:16:13Z",
+    "url": "https://github.com/Kondwani10/Origin-Continuum"
+  },
+  {
     "description": "Graded AI-engineering skill range: 56 skills, 24 katas, deterministic exit-code graders.",
     "id": "homayoun-safarpour/ai-eng-skill-range",
     "language": "Python",
@@ -13,8 +31,8 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10928,
-    "updated_at": "2026-08-07T07:55:55Z",
+    "stars": 10929,
+    "updated_at": "2026-08-07T08:25:52Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -70,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T00:05:08Z",
     "url": "https://github.com/homayoun-safarpour/judge-drift-sentinel"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24032,
-    "updated_at": "2026-08-07T00:03:59Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Fail CI when agent trajectory scores regress against a frozen baseline (exit 0 or 2).",
@@ -358,15 +367,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T23:55:15Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
-  },
-  {
-    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
-    "id": "Kondwani10/Origin-Continuum",
-    "language": "\u2014",
-    "name": "Kondwani10/Origin-Continuum",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:15:44Z",
-    "url": "https://github.com/Kondwani10/Origin-Continuum"
   },
   {
     "description": "Marketing site for book-mash and mash-core",
