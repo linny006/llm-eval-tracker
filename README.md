@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-07 06:15 UTC
+> ⏰ Last updated: 2026-08-07 06:18 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -69,7 +69,7 @@ expired items removed — so you can rely on what you see being current.
 | 25 | [nikolas-sapa/sigeval](https://github.com/nikolas-sapa/sigeval) | 1 | Python | 2026-08-04 | Statistically rigorous LLM evaluation for pytest — treats every eval as a proportion with a Wilson confidence interval,  |
 | 26 | [mac-builds-things/agent-evals-harness](https://github.com/mac-builds-things/agent-evals-harness) | 0 | Python | 2026-08-03 | Stop evaluating agents by feel. Scenario library, scoring rubric, and regression detection. |
 | 27 | [RudrenduPaul/memtrust](https://github.com/RudrenduPaul/memtrust) | 0 | Python | 2026-08-04 | Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking): r |
-| 28 | [Vishalvk2219/Ringdown](https://github.com/Vishalvk2219/Ringdown) | 0 | Python | 2026-08-02 | Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd |
+| 28 | [Vishalvk2219/Ringdown](https://github.com/Vishalvk2219/Ringdown) | 0 | Python | 2026-08-07 | Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd |
 | 29 | [Steel-predictor-project/steel-llm-eval](https://github.com/Steel-predictor-project/steel-llm-eval) | 0 | Python | 2026-08-01 | Open benchmark: how well can LLMs predict knife-steel properties (edge retention, toughness) from chemical composition,  |
 | 30 | [pdxlab/trustmodel-mcp-server](https://github.com/pdxlab/trustmodel-mcp-server) | 0 | TypeScript | 2026-08-05 | TrustModel MCP Server — trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t |
 | 31 | [karlmehta/trustmodel-mcp](https://github.com/karlmehta/trustmodel-mcp) | 0 | TypeScript | 2026-08-01 | TrustModel MCP Server — trust evaluation, red-team & governance for AI agents via the Model Context Protocol. Public can |
