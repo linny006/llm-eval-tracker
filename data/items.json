@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10938,
+    "updated_at": "2026-08-07T23:44:14Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Multi-arm evaluation and self-healing guardrails for MCP servers & CLIs",
     "id": "asavs/mcp-cocktail",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T23:19:22Z",
     "url": "https://github.com/asavs/mcp-cocktail"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10938,
-    "updated_at": "2026-08-07T23:25:45Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Attribute eval-score movement to the system or the LLM judge using a frozen human anchor set and kappa.",
@@ -40,7 +40,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24059,
+    "stars": 24058,
     "updated_at": "2026-08-07T21:57:10Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
