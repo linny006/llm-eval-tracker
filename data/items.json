@@ -1,5 +1,14 @@
 [
   {
+    "description": "Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library",
+    "id": "arash9233/phoenix-lua-executor-windows",
+    "language": "HTML",
+    "name": "arash9233/phoenix-lua-executor-windows",
+    "stars": 0,
+    "updated_at": "2026-08-07T07:47:46Z",
+    "url": "https://github.com/arash9233/phoenix-lua-executor-windows"
+  },
+  {
     "description": "Graded AI-engineering skill range: 56 skills, 24 katas, deterministic exit-code graders.",
     "id": "homayoun-safarpour/ai-eng-skill-range",
     "language": "Python",
@@ -16,15 +25,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T07:33:13Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library",
-    "id": "arash9233/phoenix-lua-executor-windows",
-    "language": "HTML",
-    "name": "arash9233/phoenix-lua-executor-windows",
-    "stars": 0,
-    "updated_at": "2026-08-07T06:56:31Z",
-    "url": "https://github.com/arash9233/phoenix-lua-executor-windows"
   },
   {
     "description": "Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd",
@@ -76,7 +76,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24030,
+    "stars": 24031,
     "updated_at": "2026-08-07T00:03:59Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
