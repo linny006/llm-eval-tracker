@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "homayoun-safarpour/judge-drift-sentinel",
     "stars": 0,
-    "updated_at": "2026-08-06T23:58:55Z",
+    "updated_at": "2026-08-07T00:05:08Z",
     "url": "https://github.com/homayoun-safarpour/judge-drift-sentinel"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24015,
+    "updated_at": "2026-08-07T00:03:59Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library",
+    "id": "arash9233/phoenix-lua-executor-windows",
+    "language": "HTML",
+    "name": "arash9233/phoenix-lua-executor-windows",
+    "stars": 0,
+    "updated_at": "2026-08-07T00:01:32Z",
+    "url": "https://github.com/arash9233/phoenix-lua-executor-windows"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -16,15 +34,6 @@
     "stars": 10927,
     "updated_at": "2026-08-06T23:59:54Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24014,
-    "updated_at": "2026-08-06T23:52:20Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
@@ -88,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-06T23:24:52Z",
     "url": "https://github.com/homayoun-safarpour/judge-reliability-kit"
-  },
-  {
-    "description": "Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library",
-    "id": "arash9233/phoenix-lua-executor-windows",
-    "language": "HTML",
-    "name": "arash9233/phoenix-lua-executor-windows",
-    "stars": 0,
-    "updated_at": "2026-08-06T23:11:53Z",
-    "url": "https://github.com/arash9233/phoenix-lua-executor-windows"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
