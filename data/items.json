@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10928,
+    "updated_at": "2026-08-07T07:55:55Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library",
     "id": "arash9233/phoenix-lua-executor-windows",
     "language": "HTML",
@@ -45,15 +54,6 @@
     "url": "https://github.com/eliasfeitan-pixel/llm-eval-framework"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10928,
-    "updated_at": "2026-08-07T07:39:54Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -76,7 +76,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24031,
+    "stars": 24032,
     "updated_at": "2026-08-07T00:03:59Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
