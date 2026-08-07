@@ -1,11 +1,20 @@
 [
   {
+    "description": "Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library",
+    "id": "arash9233/phoenix-lua-executor-windows",
+    "language": "HTML",
+    "name": "arash9233/phoenix-lua-executor-windows",
+    "stars": 0,
+    "updated_at": "2026-08-07T06:56:31Z",
+    "url": "https://github.com/arash9233/phoenix-lua-executor-windows"
+  },
+  {
     "description": "Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd",
     "id": "Vishalvk2219/Ringdown",
     "language": "Python",
     "name": "Vishalvk2219/Ringdown",
     "stars": 0,
-    "updated_at": "2026-08-07T06:45:16Z",
+    "updated_at": "2026-08-07T06:45:19Z",
     "url": "https://github.com/Vishalvk2219/Ringdown"
   },
   {
@@ -34,15 +43,6 @@
     "stars": 10928,
     "updated_at": "2026-08-07T06:41:50Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library",
-    "id": "arash9233/phoenix-lua-executor-windows",
-    "language": "HTML",
-    "name": "arash9233/phoenix-lua-executor-windows",
-    "stars": 0,
-    "updated_at": "2026-08-07T05:08:21Z",
-    "url": "https://github.com/arash9233/phoenix-lua-executor-windows"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
