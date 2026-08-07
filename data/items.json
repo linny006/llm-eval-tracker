@@ -1,5 +1,14 @@
 [
   {
+    "description": "Production-grade evaluation framework and automated guardrails for enterprise LLM applications, RAG pipelines, and agent",
+    "id": "eliasfeitan-pixel/llm-eval-framework",
+    "language": "\u2014",
+    "name": "eliasfeitan-pixel/llm-eval-framework",
+    "stars": 1,
+    "updated_at": "2026-08-07T05:57:02Z",
+    "url": "https://github.com/eliasfeitan-pixel/llm-eval-framework"
+  },
+  {
     "description": "Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library",
     "id": "arash9233/phoenix-lua-executor-windows",
     "language": "HTML",
@@ -16,15 +25,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T04:54:01Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Production-grade evaluation framework and automated guardrails for enterprise LLM applications, RAG pipelines, and agent",
-    "id": "eliasfeitan-pixel/llm-eval-framework",
-    "language": "\u2014",
-    "name": "eliasfeitan-pixel/llm-eval-framework",
-    "stars": 1,
-    "updated_at": "2026-08-07T04:46:29Z",
-    "url": "https://github.com/eliasfeitan-pixel/llm-eval-framework"
   },
   {
     "description": "AI Observability & Evaluation",
