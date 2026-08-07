@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10932,
+    "updated_at": "2026-08-07T15:14:06Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Statistical analysis for LLM eval runs: bootstrap CIs, paired significance testing, judge reliability, and power analysi",
     "id": "ommiles/compton-eval-analysis",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T14:37:43Z",
     "url": "https://github.com/ommiles/compton-eval-analysis"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10931,
-    "updated_at": "2026-08-07T14:40:40Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
