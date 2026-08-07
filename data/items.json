@@ -1,12 +1,12 @@
 [
   {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
+    "description": "Statistical analysis for LLM eval runs: bootstrap CIs, paired significance testing, judge reliability, and power analysi",
+    "id": "ommiles/compton-eval-analysis",
     "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3489,
-    "updated_at": "2026-08-07T14:21:57Z",
-    "url": "https://github.com/truera/trulens"
+    "name": "ommiles/compton-eval-analysis",
+    "stars": 0,
+    "updated_at": "2026-08-07T14:37:43Z",
+    "url": "https://github.com/ommiles/compton-eval-analysis"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10931,
-    "updated_at": "2026-08-07T14:28:29Z",
+    "updated_at": "2026-08-07T14:40:40Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3489,
+    "updated_at": "2026-08-07T14:21:57Z",
+    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd",
@@ -178,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-08-06T06:00:49Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "Statistical analysis for LLM eval runs: bootstrap CIs, paired significance testing, judge reliability, and power analysi",
-    "id": "ommiles/compton-eval-analysis",
-    "language": "Python",
-    "name": "ommiles/compton-eval-analysis",
-    "stars": 0,
-    "updated_at": "2026-08-06T02:14:02Z",
-    "url": "https://github.com/ommiles/compton-eval-analysis"
   },
   {
     "description": "Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai",
