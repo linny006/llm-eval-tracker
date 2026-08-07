@@ -1,5 +1,14 @@
 [
   {
+    "description": "Multi-arm evaluation and self-healing guardrails for MCP servers & CLIs",
+    "id": "asavs/mcp-cocktail",
+    "language": "Python",
+    "name": "asavs/mcp-cocktail",
+    "stars": 0,
+    "updated_at": "2026-08-07T20:34:26Z",
+    "url": "https://github.com/asavs/mcp-cocktail"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10937,
-    "updated_at": "2026-08-07T20:22:34Z",
+    "updated_at": "2026-08-07T20:35:48Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-25T05:34:22Z",
     "url": "https://github.com/tkarim45/agent-eval-harness"
-  },
-  {
-    "description": "LLM-as-judge evaluator for scoring AI agent trajectories on task completion, tool correctness, and efficiency",
-    "id": "10div10/agent-trajectory-evaluator",
-    "language": "Python",
-    "name": "10div10/agent-trajectory-evaluator",
-    "stars": 2,
-    "updated_at": "2026-07-24T02:47:07Z",
-    "url": "https://github.com/10div10/agent-trajectory-evaluator"
   }
 ]
