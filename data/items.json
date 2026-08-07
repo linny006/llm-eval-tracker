@@ -1,5 +1,14 @@
 [
   {
+    "description": "Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd",
+    "id": "Vishalvk2219/Ringdown",
+    "language": "Python",
+    "name": "Vishalvk2219/Ringdown",
+    "stars": 0,
+    "updated_at": "2026-08-07T12:33:49Z",
+    "url": "https://github.com/Vishalvk2219/Ringdown"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -63,13 +72,13 @@
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
-    "description": "Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd",
-    "id": "Vishalvk2219/Ringdown",
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
     "language": "Python",
-    "name": "Vishalvk2219/Ringdown",
-    "stars": 0,
-    "updated_at": "2026-08-07T08:31:20Z",
-    "url": "https://github.com/Vishalvk2219/Ringdown"
+    "name": "truera/trulens",
+    "stars": 3489,
+    "updated_at": "2026-08-07T07:19:42Z",
+    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Production-grade evaluation framework and automated guardrails for enterprise LLM applications, RAG pipelines, and agent",
@@ -133,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-06T23:24:52Z",
     "url": "https://github.com/homayoun-safarpour/judge-reliability-kit"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3488,
-    "updated_at": "2026-08-07T07:19:42Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
