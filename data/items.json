@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10932,
-    "updated_at": "2026-08-07T15:14:06Z",
+    "updated_at": "2026-08-07T15:29:13Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -70,15 +70,6 @@
     "stars": 24052,
     "updated_at": "2026-08-07T08:26:08Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library",
-    "id": "arash9233/phoenix-lua-executor-windows",
-    "language": "HTML",
-    "name": "arash9233/phoenix-lua-executor-windows",
-    "stars": 0,
-    "updated_at": "2026-08-07T07:47:46Z",
-    "url": "https://github.com/arash9233/phoenix-lua-executor-windows"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
@@ -448,5 +439,14 @@
     "stars": 0,
     "updated_at": "2026-07-25T05:34:22Z",
     "url": "https://github.com/tkarim45/agent-eval-harness"
+  },
+  {
+    "description": "LLM-as-judge evaluator for scoring AI agent trajectories on task completion, tool correctness, and efficiency",
+    "id": "10div10/agent-trajectory-evaluator",
+    "language": "Python",
+    "name": "10div10/agent-trajectory-evaluator",
+    "stars": 2,
+    "updated_at": "2026-07-24T02:47:07Z",
+    "url": "https://github.com/10div10/agent-trajectory-evaluator"
   }
 ]
