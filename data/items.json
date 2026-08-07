@@ -1,5 +1,32 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10938,
+    "updated_at": "2026-08-07T21:59:47Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Attribute eval-score movement to the system or the LLM judge using a frozen human anchor set and kappa.",
+    "id": "homayoun-safarpour/judge-drift-sentinel",
+    "language": "Python",
+    "name": "homayoun-safarpour/judge-drift-sentinel",
+    "stars": 0,
+    "updated_at": "2026-08-07T21:59:30Z",
+    "url": "https://github.com/homayoun-safarpour/judge-drift-sentinel"
+  },
+  {
+    "description": "Diagnose whether a low-kappa LLM judge panel fails from item ambiguity or rubric underspecification.",
+    "id": "homayoun-safarpour/judge-reliability-kit",
+    "language": "Python",
+    "name": "homayoun-safarpour/judge-reliability-kit",
+    "stars": 0,
+    "updated_at": "2026-08-07T21:59:24Z",
+    "url": "https://github.com/homayoun-safarpour/judge-reliability-kit"
+  },
+  {
     "description": "Multi-arm evaluation and self-healing guardrails for MCP servers & CLIs",
     "id": "asavs/mcp-cocktail",
     "language": "Python",
@@ -18,21 +45,12 @@
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10937,
-    "updated_at": "2026-08-07T21:52:41Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24056,
-    "updated_at": "2026-08-07T18:45:50Z",
+    "updated_at": "2026-08-07T21:57:10Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -58,7 +76,7 @@
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3490,
+    "stars": 3491,
     "updated_at": "2026-08-07T14:21:57Z",
     "url": "https://github.com/truera/trulens"
   },
@@ -117,15 +135,6 @@
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
-    "description": "Attribute eval-score movement to the system or the LLM judge using a frozen human anchor set and kappa.",
-    "id": "homayoun-safarpour/judge-drift-sentinel",
-    "language": "Python",
-    "name": "homayoun-safarpour/judge-drift-sentinel",
-    "stars": 0,
-    "updated_at": "2026-08-07T00:05:08Z",
-    "url": "https://github.com/homayoun-safarpour/judge-drift-sentinel"
-  },
-  {
     "description": "Fail CI when agent trajectory scores regress against a frozen baseline (exit 0 or 2).",
     "id": "homayoun-safarpour/trace-gate",
     "language": "Python",
@@ -151,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-06T23:25:58Z",
     "url": "https://github.com/homayoun-safarpour/agent-eval-workbench"
-  },
-  {
-    "description": "Diagnose whether a low-kappa LLM judge panel fails from item ambiguity or rubric underspecification.",
-    "id": "homayoun-safarpour/judge-reliability-kit",
-    "language": "Python",
-    "name": "homayoun-safarpour/judge-reliability-kit",
-    "stars": 0,
-    "updated_at": "2026-08-06T23:24:52Z",
-    "url": "https://github.com/homayoun-safarpour/judge-reliability-kit"
   },
   {
     "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
