@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-07 06:18 UTC
+> ⏰ Last updated: 2026-08-07 06:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,33 +43,33 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [eliasfeitan-pixel/llm-eval-framework](https://github.com/eliasfeitan-pixel/llm-eval-framework) | 1 | — | 2026-08-07 | Production-grade evaluation framework and automated guardrails for enterprise LLM applications, RAG pipelines, and agent |
-| 2 | [arash9233/phoenix-lua-executor-windows](https://github.com/arash9233/phoenix-lua-executor-windows) | 0 | HTML | 2026-08-07 | Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library |
-| 3 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-08-07 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10927 | Python | 2026-08-07 | AI Observability & Evaluation |
-| 5 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5739 | Python | 2026-08-07 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 6 | [homayoun-safarpour/judge-drift-sentinel](https://github.com/homayoun-safarpour/judge-drift-sentinel) | 0 | Python | 2026-08-07 | Attribute eval-score movement to the system or the LLM judge using a frozen human anchor set and kappa. |
-| 7 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24027 | TypeScript | 2026-08-07 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 8 | [homayoun-safarpour/trace-gate](https://github.com/homayoun-safarpour/trace-gate) | 0 | Python | 2026-08-06 | Fail CI when agent trajectory scores regress against a frozen baseline (exit 0 or 2). |
-| 9 | [homayoun-safarpour/ai-eng-skill-range](https://github.com/homayoun-safarpour/ai-eng-skill-range) | 0 | Python | 2026-08-06 | Graded AI-engineering skill range: 56 skills, 24 katas, deterministic exit-code graders. |
-| 10 | [homayoun-safarpour/homayoun-safarpour](https://github.com/homayoun-safarpour/homayoun-safarpour) | 0 | — | 2026-08-06 | Profile README: evaluation, reliability, and trust instruments for LLM/agent systems (not a product repo). |
-| 11 | [homayoun-safarpour/rag-eval-service](https://github.com/homayoun-safarpour/rag-eval-service) | 0 | Python | 2026-08-06 | FastAPI RAG eval with Qdrant Compose, offline lexical judge, and a frozen hit@k/MRR regression gate. |
-| 12 | [homayoun-safarpour/agent-eval-workbench](https://github.com/homayoun-safarpour/agent-eval-workbench) | 0 | Python | 2026-08-06 | Trace-grounded agent eval: YAML scenarios, evidence detectors, uncertainty-aware group diagnostics, exit-code CI gate. |
-| 13 | [homayoun-safarpour/judge-reliability-kit](https://github.com/homayoun-safarpour/judge-reliability-kit) | 0 | Python | 2026-08-06 | Diagnose whether a low-kappa LLM judge panel fails from item ambiguity or rubric underspecification. |
-| 14 | [truera/trulens](https://github.com/truera/trulens) | 3488 | Python | 2026-08-06 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 15 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | — | 2026-08-06 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
-| 16 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 330 | TypeScript | 2026-08-06 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 17 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-08-06 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
-| 18 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-08-06 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
-| 19 | [ommiles/compton-eval-analysis](https://github.com/ommiles/compton-eval-analysis) | 0 | Python | 2026-08-06 | Statistical analysis for LLM eval runs: bootstrap CIs, paired significance testing, judge reliability, and power analysi |
-| 20 | [ozlar34/job-match-radar](https://github.com/ozlar34/job-match-radar) | 1 | Python | 2026-08-05 | Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai |
-| 21 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-08-05 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
-| 22 | [mizcausevic-dev/agent-eval-arena](https://github.com/mizcausevic-dev/agent-eval-arena) | 0 | TypeScript | 2026-08-05 | Agent and LLM evaluation harness: golden datasets, multi-scorer execution, regression detection across model versions, c |
-| 23 | [ajmeese7/local-llms](https://github.com/ajmeese7/local-llms) | 1 | Python | 2026-08-05 | Use local Large Language Models for production use cases, and perform benchmarking for task-specific performance evaluat |
-| 24 | [junju523/agent-eval-harness-demo](https://github.com/junju523/agent-eval-harness-demo) | 0 | JavaScript | 2026-08-05 | Automated eval harness for AI agents — gold set + scoring + CI that fails the build on regressions. Self-contained, no A |
-| 25 | [nikolas-sapa/sigeval](https://github.com/nikolas-sapa/sigeval) | 1 | Python | 2026-08-04 | Statistically rigorous LLM evaluation for pytest — treats every eval as a proportion with a Wilson confidence interval,  |
-| 26 | [mac-builds-things/agent-evals-harness](https://github.com/mac-builds-things/agent-evals-harness) | 0 | Python | 2026-08-03 | Stop evaluating agents by feel. Scenario library, scoring rubric, and regression detection. |
-| 27 | [RudrenduPaul/memtrust](https://github.com/RudrenduPaul/memtrust) | 0 | Python | 2026-08-04 | Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking): r |
-| 28 | [Vishalvk2219/Ringdown](https://github.com/Vishalvk2219/Ringdown) | 0 | Python | 2026-08-07 | Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd |
+| 2 | [Vishalvk2219/Ringdown](https://github.com/Vishalvk2219/Ringdown) | 0 | Python | 2026-08-07 | Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd |
+| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10928 | Python | 2026-08-07 | AI Observability & Evaluation |
+| 4 | [arash9233/phoenix-lua-executor-windows](https://github.com/arash9233/phoenix-lua-executor-windows) | 0 | HTML | 2026-08-07 | Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library |
+| 5 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-08-07 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
+| 6 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5739 | Python | 2026-08-07 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 7 | [homayoun-safarpour/judge-drift-sentinel](https://github.com/homayoun-safarpour/judge-drift-sentinel) | 0 | Python | 2026-08-07 | Attribute eval-score movement to the system or the LLM judge using a frozen human anchor set and kappa. |
+| 8 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24027 | TypeScript | 2026-08-07 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 9 | [homayoun-safarpour/trace-gate](https://github.com/homayoun-safarpour/trace-gate) | 0 | Python | 2026-08-06 | Fail CI when agent trajectory scores regress against a frozen baseline (exit 0 or 2). |
+| 10 | [homayoun-safarpour/ai-eng-skill-range](https://github.com/homayoun-safarpour/ai-eng-skill-range) | 0 | Python | 2026-08-06 | Graded AI-engineering skill range: 56 skills, 24 katas, deterministic exit-code graders. |
+| 11 | [homayoun-safarpour/homayoun-safarpour](https://github.com/homayoun-safarpour/homayoun-safarpour) | 0 | — | 2026-08-06 | Profile README: evaluation, reliability, and trust instruments for LLM/agent systems (not a product repo). |
+| 12 | [homayoun-safarpour/rag-eval-service](https://github.com/homayoun-safarpour/rag-eval-service) | 0 | Python | 2026-08-06 | FastAPI RAG eval with Qdrant Compose, offline lexical judge, and a frozen hit@k/MRR regression gate. |
+| 13 | [homayoun-safarpour/agent-eval-workbench](https://github.com/homayoun-safarpour/agent-eval-workbench) | 0 | Python | 2026-08-06 | Trace-grounded agent eval: YAML scenarios, evidence detectors, uncertainty-aware group diagnostics, exit-code CI gate. |
+| 14 | [homayoun-safarpour/judge-reliability-kit](https://github.com/homayoun-safarpour/judge-reliability-kit) | 0 | Python | 2026-08-06 | Diagnose whether a low-kappa LLM judge panel fails from item ambiguity or rubric underspecification. |
+| 15 | [truera/trulens](https://github.com/truera/trulens) | 3488 | Python | 2026-08-06 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 16 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | — | 2026-08-06 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
+| 17 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 330 | TypeScript | 2026-08-06 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 18 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-08-06 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
+| 19 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-08-06 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
+| 20 | [ommiles/compton-eval-analysis](https://github.com/ommiles/compton-eval-analysis) | 0 | Python | 2026-08-06 | Statistical analysis for LLM eval runs: bootstrap CIs, paired significance testing, judge reliability, and power analysi |
+| 21 | [ozlar34/job-match-radar](https://github.com/ozlar34/job-match-radar) | 1 | Python | 2026-08-05 | Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai |
+| 22 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-08-05 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
+| 23 | [mizcausevic-dev/agent-eval-arena](https://github.com/mizcausevic-dev/agent-eval-arena) | 0 | TypeScript | 2026-08-05 | Agent and LLM evaluation harness: golden datasets, multi-scorer execution, regression detection across model versions, c |
+| 24 | [ajmeese7/local-llms](https://github.com/ajmeese7/local-llms) | 1 | Python | 2026-08-05 | Use local Large Language Models for production use cases, and perform benchmarking for task-specific performance evaluat |
+| 25 | [junju523/agent-eval-harness-demo](https://github.com/junju523/agent-eval-harness-demo) | 0 | JavaScript | 2026-08-05 | Automated eval harness for AI agents — gold set + scoring + CI that fails the build on regressions. Self-contained, no A |
+| 26 | [nikolas-sapa/sigeval](https://github.com/nikolas-sapa/sigeval) | 1 | Python | 2026-08-04 | Statistically rigorous LLM evaluation for pytest — treats every eval as a proportion with a Wilson confidence interval,  |
+| 27 | [mac-builds-things/agent-evals-harness](https://github.com/mac-builds-things/agent-evals-harness) | 0 | Python | 2026-08-03 | Stop evaluating agents by feel. Scenario library, scoring rubric, and regression detection. |
+| 28 | [RudrenduPaul/memtrust](https://github.com/RudrenduPaul/memtrust) | 0 | Python | 2026-08-04 | Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking): r |
 | 29 | [Steel-predictor-project/steel-llm-eval](https://github.com/Steel-predictor-project/steel-llm-eval) | 0 | Python | 2026-08-01 | Open benchmark: how well can LLMs predict knife-steel properties (edge retention, toughness) from chemical composition,  |
 | 30 | [pdxlab/trustmodel-mcp-server](https://github.com/pdxlab/trustmodel-mcp-server) | 0 | TypeScript | 2026-08-05 | TrustModel MCP Server — trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t |
 | 31 | [karlmehta/trustmodel-mcp](https://github.com/karlmehta/trustmodel-mcp) | 0 | TypeScript | 2026-08-01 | TrustModel MCP Server — trust evaluation, red-team & governance for AI agents via the Model Context Protocol. Public can |

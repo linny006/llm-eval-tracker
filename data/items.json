@@ -5,8 +5,26 @@
     "language": "\u2014",
     "name": "eliasfeitan-pixel/llm-eval-framework",
     "stars": 1,
-    "updated_at": "2026-08-07T05:57:02Z",
+    "updated_at": "2026-08-07T06:28:40Z",
     "url": "https://github.com/eliasfeitan-pixel/llm-eval-framework"
+  },
+  {
+    "description": "Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd",
+    "id": "Vishalvk2219/Ringdown",
+    "language": "Python",
+    "name": "Vishalvk2219/Ringdown",
+    "stars": 0,
+    "updated_at": "2026-08-07T06:22:18Z",
+    "url": "https://github.com/Vishalvk2219/Ringdown"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10928,
+    "updated_at": "2026-08-07T06:14:41Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library",
@@ -25,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T04:54:01Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10927,
-    "updated_at": "2026-08-07T06:14:41Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -241,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T07:12:18Z",
     "url": "https://github.com/RudrenduPaul/memtrust"
-  },
-  {
-    "description": "Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd",
-    "id": "Vishalvk2219/Ringdown",
-    "language": "Python",
-    "name": "Vishalvk2219/Ringdown",
-    "stars": 0,
-    "updated_at": "2026-08-07T06:18:19Z",
-    "url": "https://github.com/Vishalvk2219/Ringdown"
   },
   {
     "description": "Open benchmark: how well can LLMs predict knife-steel properties (edge retention, toughness) from chemical composition, ",
