@@ -1,10 +1,28 @@
 [
   {
+    "description": "Index of projects: judge-drift-sentinel, judge-reliability-kit, agent-loop-engine, trace-gate, skill-range (not a produc",
+    "id": "homayoun-safarpour/homayoun-safarpour",
+    "language": "\u2014",
+    "name": "homayoun-safarpour/homayoun-safarpour",
+    "stars": 0,
+    "updated_at": "2026-08-07T08:39:10Z",
+    "url": "https://github.com/homayoun-safarpour/homayoun-safarpour"
+  },
+  {
+    "description": "Graded AI-engineering skill range: 56 skills, 24 katas, deterministic exit-code graders.",
+    "id": "homayoun-safarpour/ai-eng-skill-range",
+    "language": "Python",
+    "name": "homayoun-safarpour/ai-eng-skill-range",
+    "stars": 0,
+    "updated_at": "2026-08-07T08:35:24Z",
+    "url": "https://github.com/homayoun-safarpour/ai-eng-skill-range"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24033,
+    "stars": 24034,
     "updated_at": "2026-08-07T08:26:08Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -16,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T08:16:13Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
-    "description": "Graded AI-engineering skill range: 56 skills, 24 katas, deterministic exit-code graders.",
-    "id": "homayoun-safarpour/ai-eng-skill-range",
-    "language": "Python",
-    "name": "homayoun-safarpour/ai-eng-skill-range",
-    "stars": 0,
-    "updated_at": "2026-08-07T08:05:47Z",
-    "url": "https://github.com/homayoun-safarpour/ai-eng-skill-range"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -59,7 +68,7 @@
     "language": "Python",
     "name": "Vishalvk2219/Ringdown",
     "stars": 0,
-    "updated_at": "2026-08-07T06:45:19Z",
+    "updated_at": "2026-08-07T08:31:20Z",
     "url": "https://github.com/Vishalvk2219/Ringdown"
   },
   {
@@ -97,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-06T23:34:41Z",
     "url": "https://github.com/homayoun-safarpour/trace-gate"
-  },
-  {
-    "description": "Profile README: evaluation, reliability, and trust instruments for LLM/agent systems (not a product repo).",
-    "id": "homayoun-safarpour/homayoun-safarpour",
-    "language": "\u2014",
-    "name": "homayoun-safarpour/homayoun-safarpour",
-    "stars": 0,
-    "updated_at": "2026-08-06T23:28:38Z",
-    "url": "https://github.com/homayoun-safarpour/homayoun-safarpour"
   },
   {
     "description": "FastAPI RAG eval with Qdrant Compose, offline lexical judge, and a frozen hit@k/MRR regression gate.",

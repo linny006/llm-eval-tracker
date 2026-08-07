@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-07 08:30 UTC
+> ⏰ Last updated: 2026-08-07 08:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24033 | TypeScript | 2026-08-07 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 2 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-08-07 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
-| 3 | [homayoun-safarpour/ai-eng-skill-range](https://github.com/homayoun-safarpour/ai-eng-skill-range) | 0 | Python | 2026-08-07 | Graded AI-engineering skill range: 56 skills, 24 katas, deterministic exit-code graders. |
-| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10929 | Python | 2026-08-07 | AI Observability & Evaluation |
-| 5 | [arash9233/phoenix-lua-executor-windows](https://github.com/arash9233/phoenix-lua-executor-windows) | 0 | HTML | 2026-08-07 | Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library |
-| 6 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-08-07 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 7 | [Vishalvk2219/Ringdown](https://github.com/Vishalvk2219/Ringdown) | 0 | Python | 2026-08-07 | Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd |
-| 8 | [eliasfeitan-pixel/llm-eval-framework](https://github.com/eliasfeitan-pixel/llm-eval-framework) | 1 | — | 2026-08-07 | Production-grade evaluation framework and automated guardrails for enterprise LLM applications, RAG pipelines, and agent |
-| 9 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5739 | Python | 2026-08-07 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 10 | [homayoun-safarpour/judge-drift-sentinel](https://github.com/homayoun-safarpour/judge-drift-sentinel) | 0 | Python | 2026-08-07 | Attribute eval-score movement to the system or the LLM judge using a frozen human anchor set and kappa. |
-| 11 | [homayoun-safarpour/trace-gate](https://github.com/homayoun-safarpour/trace-gate) | 0 | Python | 2026-08-06 | Fail CI when agent trajectory scores regress against a frozen baseline (exit 0 or 2). |
-| 12 | [homayoun-safarpour/homayoun-safarpour](https://github.com/homayoun-safarpour/homayoun-safarpour) | 0 | — | 2026-08-06 | Profile README: evaluation, reliability, and trust instruments for LLM/agent systems (not a product repo). |
+| 1 | [homayoun-safarpour/homayoun-safarpour](https://github.com/homayoun-safarpour/homayoun-safarpour) | 0 | — | 2026-08-07 | Index of projects: judge-drift-sentinel, judge-reliability-kit, agent-loop-engine, trace-gate, skill-range (not a produc |
+| 2 | [homayoun-safarpour/ai-eng-skill-range](https://github.com/homayoun-safarpour/ai-eng-skill-range) | 0 | Python | 2026-08-07 | Graded AI-engineering skill range: 56 skills, 24 katas, deterministic exit-code graders. |
+| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24034 | TypeScript | 2026-08-07 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 4 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-08-07 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
+| 5 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10929 | Python | 2026-08-07 | AI Observability & Evaluation |
+| 6 | [arash9233/phoenix-lua-executor-windows](https://github.com/arash9233/phoenix-lua-executor-windows) | 0 | HTML | 2026-08-07 | Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library |
+| 7 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-08-07 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
+| 8 | [Vishalvk2219/Ringdown](https://github.com/Vishalvk2219/Ringdown) | 0 | Python | 2026-08-07 | Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd |
+| 9 | [eliasfeitan-pixel/llm-eval-framework](https://github.com/eliasfeitan-pixel/llm-eval-framework) | 1 | — | 2026-08-07 | Production-grade evaluation framework and automated guardrails for enterprise LLM applications, RAG pipelines, and agent |
+| 10 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5739 | Python | 2026-08-07 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 11 | [homayoun-safarpour/judge-drift-sentinel](https://github.com/homayoun-safarpour/judge-drift-sentinel) | 0 | Python | 2026-08-07 | Attribute eval-score movement to the system or the LLM judge using a frozen human anchor set and kappa. |
+| 12 | [homayoun-safarpour/trace-gate](https://github.com/homayoun-safarpour/trace-gate) | 0 | Python | 2026-08-06 | Fail CI when agent trajectory scores regress against a frozen baseline (exit 0 or 2). |
 | 13 | [homayoun-safarpour/rag-eval-service](https://github.com/homayoun-safarpour/rag-eval-service) | 0 | Python | 2026-08-06 | FastAPI RAG eval with Qdrant Compose, offline lexical judge, and a frozen hit@k/MRR regression gate. |
 | 14 | [homayoun-safarpour/agent-eval-workbench](https://github.com/homayoun-safarpour/agent-eval-workbench) | 0 | Python | 2026-08-06 | Trace-grounded agent eval: YAML scenarios, evidence detectors, uncertainty-aware group diagnostics, exit-code CI gate. |
 | 15 | [homayoun-safarpour/judge-reliability-kit](https://github.com/homayoun-safarpour/judge-reliability-kit) | 0 | Python | 2026-08-06 | Diagnose whether a low-kappa LLM judge panel fails from item ambiguity or rubric underspecification. |
