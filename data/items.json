@@ -1,5 +1,14 @@
 [
   {
+    "description": "Attribute eval-score movement to the system or the LLM judge using a frozen human anchor set and kappa.",
+    "id": "homayoun-safarpour/judge-drift-sentinel",
+    "language": "Python",
+    "name": "homayoun-safarpour/judge-drift-sentinel",
+    "stars": 0,
+    "updated_at": "2026-08-08T10:04:19Z",
+    "url": "https://github.com/homayoun-safarpour/judge-drift-sentinel"
+  },
+  {
     "description": "Trace-grounded agent eval: YAML scenarios, evidence detectors, uncertainty-aware group diagnostics, exit-code CI gate.",
     "id": "homayoun-safarpour/agent-eval-workbench",
     "language": "Python",
@@ -61,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T03:12:48Z",
     "url": "https://github.com/lokesh75-kank/agenteval"
-  },
-  {
-    "description": "Attribute eval-score movement to the system or the LLM judge using a frozen human anchor set and kappa.",
-    "id": "homayoun-safarpour/judge-drift-sentinel",
-    "language": "Python",
-    "name": "homayoun-safarpour/judge-drift-sentinel",
-    "stars": 0,
-    "updated_at": "2026-08-07T21:59:30Z",
-    "url": "https://github.com/homayoun-safarpour/judge-drift-sentinel"
   },
   {
     "description": "Diagnose whether a low-kappa LLM judge panel fails from item ambiguity or rubric underspecification.",
