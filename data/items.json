@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10939,
+    "updated_at": "2026-08-08T05:55:07Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Multi-arm evaluation and self-healing guardrails for MCP servers & CLIs",
     "id": "asavs/mcp-cocktail",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T05:20:53Z",
     "url": "https://github.com/asavs/mcp-cocktail"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10939,
-    "updated_at": "2026-08-08T03:44:33Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou",
