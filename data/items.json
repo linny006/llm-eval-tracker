@@ -1,5 +1,14 @@
 [
   {
+    "description": "FastAPI RAG eval with Qdrant Compose, offline lexical judge, and a frozen hit@k/MRR regression gate.",
+    "id": "homayoun-safarpour/rag-eval-service",
+    "language": "Python",
+    "name": "homayoun-safarpour/rag-eval-service",
+    "stars": 0,
+    "updated_at": "2026-08-08T10:55:37Z",
+    "url": "https://github.com/homayoun-safarpour/rag-eval-service"
+  },
+  {
     "description": "Trace-grounded agent eval: YAML scenarios, evidence detectors, uncertainty-aware group diagnostics, exit-code CI gate.",
     "id": "homayoun-safarpour/agent-eval-workbench",
     "language": "Python",
@@ -34,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T10:04:19Z",
     "url": "https://github.com/homayoun-safarpour/judge-drift-sentinel"
-  },
-  {
-    "description": "FastAPI RAG eval with Qdrant Compose, offline lexical judge, and a frozen hit@k/MRR regression gate.",
-    "id": "homayoun-safarpour/rag-eval-service",
-    "language": "Python",
-    "name": "homayoun-safarpour/rag-eval-service",
-    "stars": 0,
-    "updated_at": "2026-08-08T09:52:10Z",
-    "url": "https://github.com/homayoun-safarpour/rag-eval-service"
   },
   {
     "description": "AI Observability & Evaluation",
