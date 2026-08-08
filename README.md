@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-08 15:00 UTC
+> ⏰ Last updated: 2026-08-08 15:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,7 +43,7 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [homayoun-safarpour/homayoun-safarpour](https://github.com/homayoun-safarpour/homayoun-safarpour) | 0 | — | 2026-08-08 | judge-drift-sentinel · judge-reliability-kit · agent-loop-engine · trace-gate · ai-eng-skill-range |
-| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10942 | Python | 2026-08-08 | AI Observability & Evaluation |
+| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10943 | Python | 2026-08-08 | AI Observability & Evaluation |
 | 3 | [asavs/mcp-cocktail](https://github.com/asavs/mcp-cocktail) | 0 | Python | 2026-08-08 | Multi-arm evaluation and self-healing guardrails for MCP servers & CLIs |
 | 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24069 | TypeScript | 2026-08-08 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 5 | [lokesh75-kank/agenteval](https://github.com/lokesh75-kank/agenteval) | 0 | TypeScript | 2026-08-08 | Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou |
