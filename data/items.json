@@ -1,5 +1,14 @@
 [
   {
+    "description": "Diagnose whether a low-kappa LLM judge panel fails from item ambiguity or rubric underspecification.",
+    "id": "homayoun-safarpour/judge-reliability-kit",
+    "language": "Python",
+    "name": "homayoun-safarpour/judge-reliability-kit",
+    "stars": 0,
+    "updated_at": "2026-08-08T10:25:06Z",
+    "url": "https://github.com/homayoun-safarpour/judge-reliability-kit"
+  },
+  {
     "description": "Attribute eval-score movement to the system or the LLM judge using a frozen human anchor set and kappa.",
     "id": "homayoun-safarpour/judge-drift-sentinel",
     "language": "Python",
@@ -58,7 +67,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24066,
+    "stars": 24067,
     "updated_at": "2026-08-08T05:10:43Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -70,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T03:12:48Z",
     "url": "https://github.com/lokesh75-kank/agenteval"
-  },
-  {
-    "description": "Diagnose whether a low-kappa LLM judge panel fails from item ambiguity or rubric underspecification.",
-    "id": "homayoun-safarpour/judge-reliability-kit",
-    "language": "Python",
-    "name": "homayoun-safarpour/judge-reliability-kit",
-    "stars": 0,
-    "updated_at": "2026-08-07T21:59:24Z",
-    "url": "https://github.com/homayoun-safarpour/judge-reliability-kit"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
@@ -112,7 +112,7 @@
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3491,
+    "stars": 3492,
     "updated_at": "2026-08-07T14:21:57Z",
     "url": "https://github.com/truera/trulens"
   },
