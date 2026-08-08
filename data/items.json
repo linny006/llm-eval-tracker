@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10939,
-    "updated_at": "2026-08-08T06:16:33Z",
+    "updated_at": "2026-08-08T06:34:54Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -18,6 +18,15 @@
     "url": "https://github.com/asavs/mcp-cocktail"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24065,
+    "updated_at": "2026-08-08T05:10:43Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou",
     "id": "lokesh75-kank/agenteval",
     "language": "TypeScript",
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T03:12:48Z",
     "url": "https://github.com/lokesh75-kank/agenteval"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24063,
-    "updated_at": "2026-08-08T05:10:43Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Attribute eval-score movement to the system or the LLM judge using a frozen human anchor set and kappa.",
