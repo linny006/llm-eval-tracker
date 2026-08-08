@@ -1,5 +1,23 @@
 [
   {
+    "description": "Public-safe agent evaluation write-ups: harness gates, multi-path coding screens, task-family transfer, RAG routes, agen",
+    "id": "camerontjs-dot/agent-eval-notes",
+    "language": "CSS",
+    "name": "camerontjs-dot/agent-eval-notes",
+    "stars": 0,
+    "updated_at": "2026-08-08T20:47:53Z",
+    "url": "https://github.com/camerontjs-dot/agent-eval-notes"
+  },
+  {
+    "description": "Does done mean done? Coding-agent honesty demo: verified pass vs false completion vs scope violation. Public demo split ",
+    "id": "camerontjs-dot/verified-done",
+    "language": "Python",
+    "name": "camerontjs-dot/verified-done",
+    "stars": 0,
+    "updated_at": "2026-08-08T20:47:39Z",
+    "url": "https://github.com/camerontjs-dot/verified-done"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-05T09:24:29Z",
     "url": "https://github.com/valbaudo/awf"
-  },
-  {
-    "description": "Developer-first LLM/RAG safety audits for CI/CD \u2014 faithfulness, relevancy, prompt injection (BYOK OpenAI/xAI). pip insta",
-    "id": "iZenDeveloper/auditai",
-    "language": "Python",
-    "name": "iZenDeveloper/auditai",
-    "stars": 0,
-    "updated_at": "2026-07-23T15:35:47Z",
-    "url": "https://github.com/iZenDeveloper/auditai"
-  },
-  {
-    "description": "ckl's personal benchmark for doc writing, infra code, and paper reading \u2014 one-click evaluation of the latest models via ",
-    "id": "cklxx/ckl-bench",
-    "language": "HTML",
-    "name": "cklxx/ckl-bench",
-    "stars": 0,
-    "updated_at": "2026-07-22T17:10:10Z",
-    "url": "https://github.com/cklxx/ckl-bench"
   }
 ]
