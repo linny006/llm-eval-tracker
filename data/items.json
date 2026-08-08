@@ -9,6 +9,15 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
+    "description": "Turn real traffic/traces into a versioned, deduped, coverage-tracked LLM regression suite \u2014 a curation accelerator with ",
+    "id": "AshwinUgale/goldset",
+    "language": "Python",
+    "name": "AshwinUgale/goldset",
+    "stars": 1,
+    "updated_at": "2026-08-08T17:43:01Z",
+    "url": "https://github.com/AshwinUgale/goldset"
+  },
+  {
     "description": "judge-drift-sentinel \u00b7 judge-reliability-kit \u00b7 agent-loop-engine \u00b7 trace-gate \u00b7 ai-eng-skill-range",
     "id": "homayoun-safarpour/homayoun-safarpour",
     "language": "\u2014",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-22T17:10:10Z",
     "url": "https://github.com/cklxx/ckl-bench"
-  },
-  {
-    "description": "Evaluate AI-generated SQL with pytest.",
-    "id": "monospaceai/evaldata",
-    "language": "Python",
-    "name": "monospaceai/evaldata",
-    "stars": 2,
-    "updated_at": "2026-07-22T10:31:59Z",
-    "url": "https://github.com/monospaceai/evaldata"
   }
 ]
