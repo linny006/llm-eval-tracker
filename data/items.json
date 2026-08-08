@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10939,
+    "updated_at": "2026-08-08T03:44:33Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou",
     "id": "lokesh75-kank/agenteval",
     "language": "TypeScript",
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T00:35:09Z",
     "url": "https://github.com/asavs/mcp-cocktail"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10939,
-    "updated_at": "2026-08-08T03:18:36Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Attribute eval-score movement to the system or the LLM judge using a frozen human anchor set and kappa.",
@@ -139,7 +139,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5740,
+    "stars": 5741,
     "updated_at": "2026-08-07T03:44:03Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
