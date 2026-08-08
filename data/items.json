@@ -1,5 +1,32 @@
 [
   {
+    "description": "Trace-grounded agent eval: YAML scenarios, evidence detectors, uncertainty-aware group diagnostics, exit-code CI gate.",
+    "id": "homayoun-safarpour/agent-eval-workbench",
+    "language": "Python",
+    "name": "homayoun-safarpour/agent-eval-workbench",
+    "stars": 0,
+    "updated_at": "2026-08-08T09:53:59Z",
+    "url": "https://github.com/homayoun-safarpour/agent-eval-workbench"
+  },
+  {
+    "description": "FastAPI RAG eval with Qdrant Compose, offline lexical judge, and a frozen hit@k/MRR regression gate.",
+    "id": "homayoun-safarpour/rag-eval-service",
+    "language": "Python",
+    "name": "homayoun-safarpour/rag-eval-service",
+    "stars": 0,
+    "updated_at": "2026-08-08T09:52:10Z",
+    "url": "https://github.com/homayoun-safarpour/rag-eval-service"
+  },
+  {
+    "description": "Fail CI when agent trajectory scores regress against a frozen baseline (exit 0 or 2).",
+    "id": "homayoun-safarpour/trace-gate",
+    "language": "Python",
+    "name": "homayoun-safarpour/trace-gate",
+    "stars": 0,
+    "updated_at": "2026-08-08T09:50:55Z",
+    "url": "https://github.com/homayoun-safarpour/trace-gate"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -142,33 +169,6 @@
     "stars": 5741,
     "updated_at": "2026-08-07T03:44:03Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Fail CI when agent trajectory scores regress against a frozen baseline (exit 0 or 2).",
-    "id": "homayoun-safarpour/trace-gate",
-    "language": "Python",
-    "name": "homayoun-safarpour/trace-gate",
-    "stars": 0,
-    "updated_at": "2026-08-06T23:34:41Z",
-    "url": "https://github.com/homayoun-safarpour/trace-gate"
-  },
-  {
-    "description": "FastAPI RAG eval with Qdrant Compose, offline lexical judge, and a frozen hit@k/MRR regression gate.",
-    "id": "homayoun-safarpour/rag-eval-service",
-    "language": "Python",
-    "name": "homayoun-safarpour/rag-eval-service",
-    "stars": 0,
-    "updated_at": "2026-08-06T23:26:09Z",
-    "url": "https://github.com/homayoun-safarpour/rag-eval-service"
-  },
-  {
-    "description": "Trace-grounded agent eval: YAML scenarios, evidence detectors, uncertainty-aware group diagnostics, exit-code CI gate.",
-    "id": "homayoun-safarpour/agent-eval-workbench",
-    "language": "Python",
-    "name": "homayoun-safarpour/agent-eval-workbench",
-    "stars": 0,
-    "updated_at": "2026-08-06T23:25:58Z",
-    "url": "https://github.com/homayoun-safarpour/agent-eval-workbench"
   },
   {
     "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
