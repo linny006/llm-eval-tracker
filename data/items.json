@@ -1,59 +1,5 @@
 [
   {
-    "description": "Graded AI-engineering skill range: 56 skills, 24 katas, deterministic exit-code graders.",
-    "id": "homayoun-safarpour/ai-eng-skill-range",
-    "language": "Python",
-    "name": "homayoun-safarpour/ai-eng-skill-range",
-    "stars": 0,
-    "updated_at": "2026-08-08T11:25:37Z",
-    "url": "https://github.com/homayoun-safarpour/ai-eng-skill-range"
-  },
-  {
-    "description": "FastAPI RAG eval with Qdrant Compose, offline lexical judge, and a frozen hit@k/MRR regression gate.",
-    "id": "homayoun-safarpour/rag-eval-service",
-    "language": "Python",
-    "name": "homayoun-safarpour/rag-eval-service",
-    "stars": 0,
-    "updated_at": "2026-08-08T10:55:37Z",
-    "url": "https://github.com/homayoun-safarpour/rag-eval-service"
-  },
-  {
-    "description": "Trace-grounded agent eval: YAML scenarios, evidence detectors, uncertainty-aware group diagnostics, exit-code CI gate.",
-    "id": "homayoun-safarpour/agent-eval-workbench",
-    "language": "Python",
-    "name": "homayoun-safarpour/agent-eval-workbench",
-    "stars": 0,
-    "updated_at": "2026-08-08T10:45:35Z",
-    "url": "https://github.com/homayoun-safarpour/agent-eval-workbench"
-  },
-  {
-    "description": "Fail CI when agent trajectory scores regress against a frozen baseline (exit 0 or 2).",
-    "id": "homayoun-safarpour/trace-gate",
-    "language": "Python",
-    "name": "homayoun-safarpour/trace-gate",
-    "stars": 0,
-    "updated_at": "2026-08-08T10:36:20Z",
-    "url": "https://github.com/homayoun-safarpour/trace-gate"
-  },
-  {
-    "description": "Diagnose whether a low-kappa LLM judge panel fails from item ambiguity or rubric underspecification.",
-    "id": "homayoun-safarpour/judge-reliability-kit",
-    "language": "Python",
-    "name": "homayoun-safarpour/judge-reliability-kit",
-    "stars": 0,
-    "updated_at": "2026-08-08T10:25:06Z",
-    "url": "https://github.com/homayoun-safarpour/judge-reliability-kit"
-  },
-  {
-    "description": "Attribute eval-score movement to the system or the LLM judge using a frozen human anchor set and kappa.",
-    "id": "homayoun-safarpour/judge-drift-sentinel",
-    "language": "Python",
-    "name": "homayoun-safarpour/judge-drift-sentinel",
-    "stars": 0,
-    "updated_at": "2026-08-08T10:04:19Z",
-    "url": "https://github.com/homayoun-safarpour/judge-drift-sentinel"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -448,5 +394,59 @@
     "stars": 0,
     "updated_at": "2026-07-25T07:08:25Z",
     "url": "https://github.com/tkarim45/multi-agent-eval"
+  },
+  {
+    "description": "Agent eval harness \u2014 measure task success, tool-call accuracy, step efficiency, and cost for tool-using LLM agents (Clau",
+    "id": "tkarim45/agent-eval-harness",
+    "language": "Python",
+    "name": "tkarim45/agent-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-07-25T05:34:22Z",
+    "url": "https://github.com/tkarim45/agent-eval-harness"
+  },
+  {
+    "description": "LLM-as-judge evaluator for scoring AI agent trajectories on task completion, tool correctness, and efficiency",
+    "id": "10div10/agent-trajectory-evaluator",
+    "language": "Python",
+    "name": "10div10/agent-trajectory-evaluator",
+    "stars": 2,
+    "updated_at": "2026-07-24T02:47:07Z",
+    "url": "https://github.com/10div10/agent-trajectory-evaluator"
+  },
+  {
+    "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
+    "id": "valbaudo/awf",
+    "language": "Go",
+    "name": "valbaudo/awf",
+    "stars": 1,
+    "updated_at": "2026-08-05T09:24:29Z",
+    "url": "https://github.com/valbaudo/awf"
+  },
+  {
+    "description": "Developer-first LLM/RAG safety audits for CI/CD \u2014 faithfulness, relevancy, prompt injection (BYOK OpenAI/xAI). pip insta",
+    "id": "iZenDeveloper/auditai",
+    "language": "Python",
+    "name": "iZenDeveloper/auditai",
+    "stars": 0,
+    "updated_at": "2026-07-23T15:35:47Z",
+    "url": "https://github.com/iZenDeveloper/auditai"
+  },
+  {
+    "description": "ckl's personal benchmark for doc writing, infra code, and paper reading \u2014 one-click evaluation of the latest models via ",
+    "id": "cklxx/ckl-bench",
+    "language": "HTML",
+    "name": "cklxx/ckl-bench",
+    "stars": 0,
+    "updated_at": "2026-07-22T17:10:10Z",
+    "url": "https://github.com/cklxx/ckl-bench"
+  },
+  {
+    "description": "Evaluate AI-generated SQL with pytest.",
+    "id": "monospaceai/evaldata",
+    "language": "Python",
+    "name": "monospaceai/evaldata",
+    "stars": 2,
+    "updated_at": "2026-07-22T10:31:59Z",
+    "url": "https://github.com/monospaceai/evaldata"
   }
 ]
