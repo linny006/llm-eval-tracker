@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-08 10:45 UTC
+> ⏰ Last updated: 2026-08-08 10:50 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [homayoun-safarpour/trace-gate](https://github.com/homayoun-safarpour/trace-gate) | 0 | Python | 2026-08-08 | Fail CI when agent trajectory scores regress against a frozen baseline (exit 0 or 2). |
-| 2 | [homayoun-safarpour/judge-reliability-kit](https://github.com/homayoun-safarpour/judge-reliability-kit) | 0 | Python | 2026-08-08 | Diagnose whether a low-kappa LLM judge panel fails from item ambiguity or rubric underspecification. |
-| 3 | [homayoun-safarpour/judge-drift-sentinel](https://github.com/homayoun-safarpour/judge-drift-sentinel) | 0 | Python | 2026-08-08 | Attribute eval-score movement to the system or the LLM judge using a frozen human anchor set and kappa. |
-| 4 | [homayoun-safarpour/agent-eval-workbench](https://github.com/homayoun-safarpour/agent-eval-workbench) | 0 | Python | 2026-08-08 | Trace-grounded agent eval: YAML scenarios, evidence detectors, uncertainty-aware group diagnostics, exit-code CI gate. |
+| 1 | [homayoun-safarpour/agent-eval-workbench](https://github.com/homayoun-safarpour/agent-eval-workbench) | 0 | Python | 2026-08-08 | Trace-grounded agent eval: YAML scenarios, evidence detectors, uncertainty-aware group diagnostics, exit-code CI gate. |
+| 2 | [homayoun-safarpour/trace-gate](https://github.com/homayoun-safarpour/trace-gate) | 0 | Python | 2026-08-08 | Fail CI when agent trajectory scores regress against a frozen baseline (exit 0 or 2). |
+| 3 | [homayoun-safarpour/judge-reliability-kit](https://github.com/homayoun-safarpour/judge-reliability-kit) | 0 | Python | 2026-08-08 | Diagnose whether a low-kappa LLM judge panel fails from item ambiguity or rubric underspecification. |
+| 4 | [homayoun-safarpour/judge-drift-sentinel](https://github.com/homayoun-safarpour/judge-drift-sentinel) | 0 | Python | 2026-08-08 | Attribute eval-score movement to the system or the LLM judge using a frozen human anchor set and kappa. |
 | 5 | [homayoun-safarpour/rag-eval-service](https://github.com/homayoun-safarpour/rag-eval-service) | 0 | Python | 2026-08-08 | FastAPI RAG eval with Qdrant Compose, offline lexical judge, and a frozen hit@k/MRR regression gate. |
 | 6 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10940 | Python | 2026-08-08 | AI Observability & Evaluation |
 | 7 | [asavs/mcp-cocktail](https://github.com/asavs/mcp-cocktail) | 0 | Python | 2026-08-08 | Multi-arm evaluation and self-healing guardrails for MCP servers & CLIs |

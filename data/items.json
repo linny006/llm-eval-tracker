@@ -1,5 +1,14 @@
 [
   {
+    "description": "Trace-grounded agent eval: YAML scenarios, evidence detectors, uncertainty-aware group diagnostics, exit-code CI gate.",
+    "id": "homayoun-safarpour/agent-eval-workbench",
+    "language": "Python",
+    "name": "homayoun-safarpour/agent-eval-workbench",
+    "stars": 0,
+    "updated_at": "2026-08-08T10:45:35Z",
+    "url": "https://github.com/homayoun-safarpour/agent-eval-workbench"
+  },
+  {
     "description": "Fail CI when agent trajectory scores regress against a frozen baseline (exit 0 or 2).",
     "id": "homayoun-safarpour/trace-gate",
     "language": "Python",
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T10:04:19Z",
     "url": "https://github.com/homayoun-safarpour/judge-drift-sentinel"
-  },
-  {
-    "description": "Trace-grounded agent eval: YAML scenarios, evidence detectors, uncertainty-aware group diagnostics, exit-code CI gate.",
-    "id": "homayoun-safarpour/agent-eval-workbench",
-    "language": "Python",
-    "name": "homayoun-safarpour/agent-eval-workbench",
-    "stars": 0,
-    "updated_at": "2026-08-08T09:53:59Z",
-    "url": "https://github.com/homayoun-safarpour/agent-eval-workbench"
   },
   {
     "description": "FastAPI RAG eval with Qdrant Compose, offline lexical judge, and a frozen hit@k/MRR regression gate.",
