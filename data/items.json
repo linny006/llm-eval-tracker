@@ -1,5 +1,14 @@
 [
   {
+    "description": "Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou",
+    "id": "lokesh75-kank/agenteval",
+    "language": "TypeScript",
+    "name": "lokesh75-kank/agenteval",
+    "stars": 0,
+    "updated_at": "2026-08-08T03:12:48Z",
+    "url": "https://github.com/lokesh75-kank/agenteval"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-25T07:08:25Z",
     "url": "https://github.com/tkarim45/multi-agent-eval"
-  },
-  {
-    "description": "Agent eval harness \u2014 measure task success, tool-call accuracy, step efficiency, and cost for tool-using LLM agents (Clau",
-    "id": "tkarim45/agent-eval-harness",
-    "language": "Python",
-    "name": "tkarim45/agent-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-07-25T05:34:22Z",
-    "url": "https://github.com/tkarim45/agent-eval-harness"
   }
 ]
