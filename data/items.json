@@ -1,5 +1,14 @@
 [
   {
+    "description": "Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking): r",
+    "id": "RudrenduPaul/memtrust",
+    "language": "Python",
+    "name": "RudrenduPaul/memtrust",
+    "stars": 0,
+    "updated_at": "2026-08-09T09:10:20Z",
+    "url": "https://github.com/RudrenduPaul/memtrust"
+  },
+  {
     "description": "A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance?",
     "id": "sx4im/skillcheck",
     "language": "TypeScript",
@@ -7,15 +16,6 @@
     "stars": 21,
     "updated_at": "2026-08-09T09:03:57Z",
     "url": "https://github.com/sx4im/skillcheck"
-  },
-  {
-    "description": "Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking): r",
-    "id": "RudrenduPaul/memtrust",
-    "language": "Python",
-    "name": "RudrenduPaul/memtrust",
-    "stars": 0,
-    "updated_at": "2026-08-09T07:08:38Z",
-    "url": "https://github.com/RudrenduPaul/memtrust"
   },
   {
     "description": "AI Observability & Evaluation",
