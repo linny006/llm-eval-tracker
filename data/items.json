@@ -1,5 +1,23 @@
 [
   {
+    "description": "Independent CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep, OpenViking); publishes raw eval logs.",
+    "id": "RudrenduPaul/memtrust",
+    "language": "Python",
+    "name": "RudrenduPaul/memtrust",
+    "stars": 0,
+    "updated_at": "2026-08-09T22:13:41Z",
+    "url": "https://github.com/RudrenduPaul/memtrust"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10960,
+    "updated_at": "2026-08-09T21:36:04Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Run Roblox Lua scripts on Windows with 500+ keyless scripts, a built-in database, and a minimal UI\u2014Phoenix Executor v4.2",
     "id": "Tessiecorrupt733/phoenix-script-executor-v4",
     "language": "HTML",
@@ -43,24 +61,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T20:42:31Z",
     "url": "https://github.com/lokesh75-kank/agenteval"
-  },
-  {
-    "description": "Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking): r",
-    "id": "RudrenduPaul/memtrust",
-    "language": "Python",
-    "name": "RudrenduPaul/memtrust",
-    "stars": 0,
-    "updated_at": "2026-08-09T20:41:32Z",
-    "url": "https://github.com/RudrenduPaul/memtrust"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10959,
-    "updated_at": "2026-08-09T21:36:04Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance?",
