@@ -1,5 +1,14 @@
 [
   {
+    "description": "CLI for AI agent skill testing and prompt A/B testing \u2014 measure whether a SKILL.md improves LLM task performance.",
+    "id": "sx4im/skillcheck",
+    "language": "TypeScript",
+    "name": "sx4im/skillcheck",
+    "stars": 21,
+    "updated_at": "2026-08-09T07:44:58Z",
+    "url": "https://github.com/sx4im/skillcheck"
+  },
+  {
     "description": "Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking): r",
     "id": "RudrenduPaul/memtrust",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-25T12:54:15Z",
     "url": "https://github.com/vitorwilher/copom-rag-service"
-  },
-  {
-    "description": "Does multi-agent beat single-agent? Benchmarks a planner\u2192workers\u2192critic system vs single-agent on quality/cost/latency \u2014",
-    "id": "tkarim45/multi-agent-eval",
-    "language": "Python",
-    "name": "tkarim45/multi-agent-eval",
-    "stars": 0,
-    "updated_at": "2026-07-25T07:08:25Z",
-    "url": "https://github.com/tkarim45/multi-agent-eval"
   }
 ]
