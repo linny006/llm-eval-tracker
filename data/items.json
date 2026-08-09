@@ -1,5 +1,23 @@
 [
   {
+    "description": "Execute and manage Roblox Lua scripts on Windows with a lightweight, feature-rich executor supporting 500+ scripts, queu",
+    "id": "derivational-doubletime597/phoenix-script-executor-win",
+    "language": "HTML",
+    "name": "derivational-doubletime597/phoenix-script-executor-win",
+    "stars": 0,
+    "updated_at": "2026-08-09T18:38:25Z",
+    "url": "https://github.com/derivational-doubletime597/phoenix-script-executor-win"
+  },
+  {
+    "description": "Run Roblox Lua scripts on Windows with 500+ keyless scripts, a built-in database, and a minimal UI\u2014Phoenix Executor v4.2",
+    "id": "Tessiecorrupt733/phoenix-script-executor-v4",
+    "language": "HTML",
+    "name": "Tessiecorrupt733/phoenix-script-executor-v4",
+    "stars": 0,
+    "updated_at": "2026-08-09T18:38:17Z",
+    "url": "https://github.com/Tessiecorrupt733/phoenix-script-executor-v4"
+  },
+  {
     "description": "Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking): r",
     "id": "RudrenduPaul/memtrust",
     "language": "Python",
@@ -16,24 +34,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T18:21:36Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Execute and manage Roblox Lua scripts on Windows with a lightweight, feature-rich executor supporting 500+ scripts, queu",
-    "id": "derivational-doubletime597/phoenix-script-executor-win",
-    "language": "HTML",
-    "name": "derivational-doubletime597/phoenix-script-executor-win",
-    "stars": 0,
-    "updated_at": "2026-08-09T17:25:04Z",
-    "url": "https://github.com/derivational-doubletime597/phoenix-script-executor-win"
-  },
-  {
-    "description": "Run Roblox Lua scripts on Windows with 500+ keyless scripts, a built-in database, and a minimal UI\u2014Phoenix Executor v4.2",
-    "id": "Tessiecorrupt733/phoenix-script-executor-v4",
-    "language": "HTML",
-    "name": "Tessiecorrupt733/phoenix-script-executor-v4",
-    "stars": 0,
-    "updated_at": "2026-08-09T17:09:23Z",
-    "url": "https://github.com/Tessiecorrupt733/phoenix-script-executor-v4"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -315,15 +315,6 @@
     "url": "https://github.com/guildshelf/free-skills"
   },
   {
-    "description": "Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave-",
-    "id": "ipezygj/evalgate",
-    "language": "Python",
-    "name": "ipezygj/evalgate",
-    "stars": 1,
-    "updated_at": "2026-07-31T12:48:11Z",
-    "url": "https://github.com/ipezygj/evalgate"
-  },
-  {
     "description": "Five local QA judges that review B2B and B2C customer-support replies, catch the risky parts, and explain what to fix. ",
     "id": "gititya/Quality-Agency-support",
     "language": "Python",
@@ -448,5 +439,14 @@
     "stars": 1,
     "updated_at": "2026-07-25T12:54:15Z",
     "url": "https://github.com/vitorwilher/copom-rag-service"
+  },
+  {
+    "description": "Does multi-agent beat single-agent? Benchmarks a planner\u2192workers\u2192critic system vs single-agent on quality/cost/latency \u2014",
+    "id": "tkarim45/multi-agent-eval",
+    "language": "Python",
+    "name": "tkarim45/multi-agent-eval",
+    "stars": 0,
+    "updated_at": "2026-07-25T07:08:25Z",
+    "url": "https://github.com/tkarim45/multi-agent-eval"
   }
 ]
