@@ -1,11 +1,11 @@
 [
   {
-    "description": "CLI for AI agent skill testing and prompt A/B testing \u2014 measure whether a SKILL.md improves LLM task performance.",
+    "description": "A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance?",
     "id": "sx4im/skillcheck",
     "language": "TypeScript",
     "name": "sx4im/skillcheck",
     "stars": 21,
-    "updated_at": "2026-08-09T07:55:00Z",
+    "updated_at": "2026-08-09T08:41:01Z",
     "url": "https://github.com/sx4im/skillcheck"
   },
   {

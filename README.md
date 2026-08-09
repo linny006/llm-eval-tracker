@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-09 08:30 UTC
+> ⏰ Last updated: 2026-08-09 08:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,7 +42,7 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 21 | TypeScript | 2026-08-09 | CLI for AI agent skill testing and prompt A/B testing — measure whether a SKILL.md improves LLM task performance. |
+| 1 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 21 | TypeScript | 2026-08-09 | A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance? |
 | 2 | [RudrenduPaul/memtrust](https://github.com/RudrenduPaul/memtrust) | 0 | Python | 2026-08-09 | Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking): r |
 | 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10955 | Python | 2026-08-09 | AI Observability & Evaluation |
 | 4 | [camerontjs-dot/agent-eval-notes](https://github.com/camerontjs-dot/agent-eval-notes) | 0 | CSS | 2026-08-09 | Public-safe agent evaluation write-ups: harness gates, multi-path coding screens, task-family transfer, RAG routes, agen |
