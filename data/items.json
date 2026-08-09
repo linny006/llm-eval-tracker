@@ -1,5 +1,14 @@
 [
   {
+    "description": "Public-safe agent evaluation write-ups: harness gates, multi-path coding screens, task-family transfer, RAG routes, agen",
+    "id": "camerontjs-dot/agent-eval-notes",
+    "language": "CSS",
+    "name": "camerontjs-dot/agent-eval-notes",
+    "stars": 0,
+    "updated_at": "2026-08-09T04:12:17Z",
+    "url": "https://github.com/camerontjs-dot/agent-eval-notes"
+  },
+  {
     "description": "Di\u00e1rio alimentar com IA: eval do pipeline de LLM versionado junto do c\u00f3digo",
     "id": "gabriel-ngrs/CalorIA",
     "language": "Python",
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T02:35:34Z",
     "url": "https://github.com/derivational-doubletime597/phoenix-script-executor-win"
-  },
-  {
-    "description": "Public-safe agent evaluation write-ups: harness gates, multi-path coding screens, task-family transfer, RAG routes, agen",
-    "id": "camerontjs-dot/agent-eval-notes",
-    "language": "CSS",
-    "name": "camerontjs-dot/agent-eval-notes",
-    "stars": 0,
-    "updated_at": "2026-08-09T02:34:17Z",
-    "url": "https://github.com/camerontjs-dot/agent-eval-notes"
   },
   {
     "description": "Does done mean done? Coding-agent honesty demo: verified pass vs false completion vs scope violation. Public demo split ",
@@ -76,7 +76,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10953,
+    "stars": 10954,
     "updated_at": "2026-08-08T19:05:30Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
