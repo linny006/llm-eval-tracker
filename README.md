@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-09 21:46 UTC
+> ⏰ Last updated: 2026-08-09 22:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -59,7 +59,7 @@ expired items removed — so you can rely on what you see being current.
 | 15 | [asavs/mcp-cocktail](https://github.com/asavs/mcp-cocktail) | 0 | Python | 2026-08-08 | Multi-arm evaluation and self-healing guardrails for MCP servers & CLIs |
 | 16 | [Vishalvk2219/Ringdown](https://github.com/Vishalvk2219/Ringdown) | 0 | Python | 2026-08-07 | Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd |
 | 17 | [ommiles/compton-eval-analysis](https://github.com/ommiles/compton-eval-analysis) | 0 | Python | 2026-08-07 | Statistical analysis for LLM eval runs: bootstrap CIs, paired significance testing, judge reliability, and power analysi |
-| 18 | [truera/trulens](https://github.com/truera/trulens) | 3495 | Python | 2026-08-07 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 18 | [truera/trulens](https://github.com/truera/trulens) | 3496 | Python | 2026-08-07 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 19 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-08-07 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 20 | [eliasfeitan-pixel/llm-eval-framework](https://github.com/eliasfeitan-pixel/llm-eval-framework) | 1 | — | 2026-08-07 | Production-grade evaluation framework and automated guardrails for enterprise LLM applications, RAG pipelines, and agent |
 | 21 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5741 | Python | 2026-08-07 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
