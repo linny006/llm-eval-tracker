@@ -1,5 +1,14 @@
 [
   {
+    "description": "Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking): r",
+    "id": "RudrenduPaul/memtrust",
+    "language": "Python",
+    "name": "RudrenduPaul/memtrust",
+    "stars": 0,
+    "updated_at": "2026-08-09T02:57:06Z",
+    "url": "https://github.com/RudrenduPaul/memtrust"
+  },
+  {
     "description": "Execute and manage Roblox Lua scripts on Windows with a lightweight, feature-rich executor supporting 500+ scripts, queu",
     "id": "derivational-doubletime597/phoenix-script-executor-win",
     "language": "HTML",
@@ -58,7 +67,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10951,
+    "stars": 10952,
     "updated_at": "2026-08-08T19:05:30Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -250,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T16:32:25Z",
     "url": "https://github.com/mac-builds-things/agent-evals-harness"
-  },
-  {
-    "description": "Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking): r",
-    "id": "RudrenduPaul/memtrust",
-    "language": "Python",
-    "name": "RudrenduPaul/memtrust",
-    "stars": 0,
-    "updated_at": "2026-08-04T07:12:18Z",
-    "url": "https://github.com/RudrenduPaul/memtrust"
   },
   {
     "description": "Open benchmark: how well can LLMs predict knife-steel properties (edge retention, toughness) from chemical composition, ",
