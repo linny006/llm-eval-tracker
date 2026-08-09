@@ -1,5 +1,14 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 330,
+    "updated_at": "2026-08-09T01:06:13Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "Run Roblox Lua scripts on Windows with 500+ keyless scripts, a built-in database, and a minimal UI\u2014Phoenix Executor v4.2",
     "id": "Tessiecorrupt733/phoenix-script-executor-v4",
     "language": "HTML",
@@ -40,7 +49,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10949,
+    "stars": 10951,
     "updated_at": "2026-08-08T19:05:30Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -79,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T03:12:48Z",
     "url": "https://github.com/lokesh75-kank/agenteval"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 330,
-    "updated_at": "2026-08-09T00:56:02Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd",
