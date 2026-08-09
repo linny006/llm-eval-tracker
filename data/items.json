@@ -1,5 +1,14 @@
 [
   {
+    "description": "Di\u00e1rio alimentar com IA: eval do pipeline de LLM versionado junto do c\u00f3digo",
+    "id": "gabriel-ngrs/CalorIA",
+    "language": "Python",
+    "name": "gabriel-ngrs/CalorIA",
+    "stars": 1,
+    "updated_at": "2026-08-09T03:45:45Z",
+    "url": "https://github.com/gabriel-ngrs/CalorIA"
+  },
+  {
     "description": "Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking): r",
     "id": "RudrenduPaul/memtrust",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-25T07:08:25Z",
     "url": "https://github.com/tkarim45/multi-agent-eval"
-  },
-  {
-    "description": "Agent eval harness \u2014 measure task success, tool-call accuracy, step efficiency, and cost for tool-using LLM agents (Clau",
-    "id": "tkarim45/agent-eval-harness",
-    "language": "Python",
-    "name": "tkarim45/agent-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-07-25T05:34:22Z",
-    "url": "https://github.com/tkarim45/agent-eval-harness"
   }
 ]
