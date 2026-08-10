@@ -5,7 +5,7 @@
     "language": "\u2014",
     "name": "Kondwani10/Origin-Continuum",
     "stars": 0,
-    "updated_at": "2026-08-10T08:29:09Z",
+    "updated_at": "2026-08-10T10:18:49Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
   },
   {
@@ -76,7 +76,7 @@
     "id": "sx4im/skillcheck",
     "language": "TypeScript",
     "name": "sx4im/skillcheck",
-    "stars": 22,
+    "stars": 23,
     "updated_at": "2026-08-09T09:03:57Z",
     "url": "https://github.com/sx4im/skillcheck"
   },
@@ -430,5 +430,23 @@
     "stars": 0,
     "updated_at": "2026-07-25T07:08:25Z",
     "url": "https://github.com/tkarim45/multi-agent-eval"
+  },
+  {
+    "description": "Agent eval harness \u2014 measure task success, tool-call accuracy, step efficiency, and cost for tool-using LLM agents (Clau",
+    "id": "tkarim45/agent-eval-harness",
+    "language": "Python",
+    "name": "tkarim45/agent-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-07-25T05:34:22Z",
+    "url": "https://github.com/tkarim45/agent-eval-harness"
+  },
+  {
+    "description": "LLM-as-judge evaluator for scoring AI agent trajectories on task completion, tool correctness, and efficiency",
+    "id": "10div10/agent-trajectory-evaluator",
+    "language": "Python",
+    "name": "10div10/agent-trajectory-evaluator",
+    "stars": 2,
+    "updated_at": "2026-07-24T02:47:07Z",
+    "url": "https://github.com/10div10/agent-trajectory-evaluator"
   }
 ]
