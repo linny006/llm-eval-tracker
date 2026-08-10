@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-10 09:00 UTC
+> ⏰ Last updated: 2026-08-10 09:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -47,7 +47,7 @@ expired items removed — so you can rely on what you see being current.
 | 3 | [Tessiecorrupt733/phoenix-script-executor-v4](https://github.com/Tessiecorrupt733/phoenix-script-executor-v4) | 0 | HTML | 2026-08-10 | Run Roblox Lua scripts on Windows with 500+ keyless scripts, a built-in database, and a minimal UI—Phoenix Executor v4.2 |
 | 4 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-08-10 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 5 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 332 | TypeScript | 2026-08-10 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 6 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5742 | Python | 2026-08-10 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 6 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5743 | Python | 2026-08-10 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 7 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10967 | Python | 2026-08-10 | AI Observability & Evaluation |
 | 8 | [RudrenduPaul/memtrust](https://github.com/RudrenduPaul/memtrust) | 0 | Python | 2026-08-09 | Independent CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep, OpenViking); publishes raw eval logs. |
 | 9 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24096 | TypeScript | 2026-08-09 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
