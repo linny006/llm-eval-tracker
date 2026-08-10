@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-10 10:00 UTC
+> ⏰ Last updated: 2026-08-10 10:14 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -50,7 +50,7 @@ expired items removed — so you can rely on what you see being current.
 | 6 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5743 | Python | 2026-08-10 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 7 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10968 | Python | 2026-08-10 | AI Observability & Evaluation |
 | 8 | [RudrenduPaul/memtrust](https://github.com/RudrenduPaul/memtrust) | 0 | Python | 2026-08-09 | Independent CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep, OpenViking); publishes raw eval logs. |
-| 9 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24099 | TypeScript | 2026-08-09 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 9 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24100 | TypeScript | 2026-08-09 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 10 | [lokesh75-kank/agenteval](https://github.com/lokesh75-kank/agenteval) | 0 | TypeScript | 2026-08-09 | Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou |
 | 11 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 22 | TypeScript | 2026-08-09 | A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance? |
 | 12 | [camerontjs-dot/agent-eval-notes](https://github.com/camerontjs-dot/agent-eval-notes) | 0 | CSS | 2026-08-09 | Public-safe agent evaluation write-ups: harness gates, multi-path coding screens, task-family transfer, RAG routes, agen |
@@ -61,7 +61,7 @@ expired items removed — so you can rely on what you see being current.
 | 17 | [asavs/mcp-cocktail](https://github.com/asavs/mcp-cocktail) | 0 | Python | 2026-08-08 | Multi-arm evaluation and self-healing guardrails for MCP servers & CLIs |
 | 18 | [Vishalvk2219/Ringdown](https://github.com/Vishalvk2219/Ringdown) | 0 | Python | 2026-08-07 | Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd |
 | 19 | [ommiles/compton-eval-analysis](https://github.com/ommiles/compton-eval-analysis) | 0 | Python | 2026-08-07 | Statistical analysis for LLM eval runs: bootstrap CIs, paired significance testing, judge reliability, and power analysi |
-| 20 | [truera/trulens](https://github.com/truera/trulens) | 3497 | Python | 2026-08-07 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 20 | [truera/trulens](https://github.com/truera/trulens) | 3498 | Python | 2026-08-07 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 21 | [eliasfeitan-pixel/llm-eval-framework](https://github.com/eliasfeitan-pixel/llm-eval-framework) | 1 | — | 2026-08-07 | Production-grade evaluation framework and automated guardrails for enterprise LLM applications, RAG pipelines, and agent |
 | 22 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | — | 2026-08-06 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
 | 23 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-08-06 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
