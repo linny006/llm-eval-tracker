@@ -1,5 +1,14 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 331,
+    "updated_at": "2026-08-10T06:14:54Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "Execute and manage Roblox Lua scripts on Windows with a lightweight, feature-rich executor supporting 500+ scripts, queu",
     "id": "derivational-doubletime597/phoenix-script-executor-win",
     "language": "HTML",
@@ -40,18 +49,9 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10962,
+    "stars": 10963,
     "updated_at": "2026-08-10T03:46:16Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 331,
-    "updated_at": "2026-08-10T01:15:21Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Independent CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep, OpenViking); publishes raw eval logs.",
