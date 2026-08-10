@@ -1,21 +1,21 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10976,
-    "updated_at": "2026-08-10T20:05:02Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Independent CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep, OpenViking); publishes raw eval logs.",
     "id": "RudrenduPaul/memtrust",
     "language": "Python",
     "name": "RudrenduPaul/memtrust",
     "stars": 0,
-    "updated_at": "2026-08-10T19:48:35Z",
+    "updated_at": "2026-08-10T20:18:47Z",
     "url": "https://github.com/RudrenduPaul/memtrust"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10976,
+    "updated_at": "2026-08-10T20:20:20Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
