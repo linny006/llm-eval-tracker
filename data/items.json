@@ -1,5 +1,14 @@
 [
   {
+    "description": "ISP helpdesk RAG assistant: eval-first take-home with measured v1/v2 regression, two-gate no-answer, diagnostic flow. bg",
+    "id": "KolyaSotnichenko/webitel-tz",
+    "language": "Python",
+    "name": "KolyaSotnichenko/webitel-tz",
+    "stars": 0,
+    "updated_at": "2026-08-10T10:37:25Z",
+    "url": "https://github.com/KolyaSotnichenko/webitel-tz"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -58,7 +67,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24100,
+    "stars": 24101,
     "updated_at": "2026-08-09T21:11:49Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-25T05:34:22Z",
     "url": "https://github.com/tkarim45/agent-eval-harness"
-  },
-  {
-    "description": "LLM-as-judge evaluator for scoring AI agent trajectories on task completion, tool correctness, and efficiency",
-    "id": "10div10/agent-trajectory-evaluator",
-    "language": "Python",
-    "name": "10div10/agent-trajectory-evaluator",
-    "stars": 2,
-    "updated_at": "2026-07-24T02:47:07Z",
-    "url": "https://github.com/10div10/agent-trajectory-evaluator"
   }
 ]
