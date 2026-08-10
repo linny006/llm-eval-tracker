@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-10 07:00 UTC
+> ⏰ Last updated: 2026-08-10 07:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -47,9 +47,9 @@ expired items removed — so you can rely on what you see being current.
 | 3 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-08-10 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 4 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 332 | TypeScript | 2026-08-10 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 5 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5742 | Python | 2026-08-10 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 6 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10965 | Python | 2026-08-10 | AI Observability & Evaluation |
+| 6 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10966 | Python | 2026-08-10 | AI Observability & Evaluation |
 | 7 | [RudrenduPaul/memtrust](https://github.com/RudrenduPaul/memtrust) | 0 | Python | 2026-08-09 | Independent CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep, OpenViking); publishes raw eval logs. |
-| 8 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24094 | TypeScript | 2026-08-09 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 8 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24095 | TypeScript | 2026-08-09 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 9 | [lokesh75-kank/agenteval](https://github.com/lokesh75-kank/agenteval) | 0 | TypeScript | 2026-08-09 | Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou |
 | 10 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 22 | TypeScript | 2026-08-09 | A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance? |
 | 11 | [camerontjs-dot/agent-eval-notes](https://github.com/camerontjs-dot/agent-eval-notes) | 0 | CSS | 2026-08-09 | Public-safe agent evaluation write-ups: harness gates, multi-path coding screens, task-family transfer, RAG routes, agen |
