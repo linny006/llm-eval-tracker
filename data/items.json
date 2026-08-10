@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10968,
+    "updated_at": "2026-08-10T12:28:12Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "ckl's personal benchmark for doc writing, infra code, and paper reading \u2014 one-click evaluation of the latest models via ",
     "id": "cklxx/ckl-bench",
     "language": "HTML",
@@ -54,15 +63,6 @@
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10969,
-    "updated_at": "2026-08-10T12:10:09Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Independent CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep, OpenViking); publishes raw eval logs.",
     "id": "RudrenduPaul/memtrust",
     "language": "Python",
@@ -76,7 +76,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24102,
+    "stars": 24103,
     "updated_at": "2026-08-09T21:11:49Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
