@@ -1,5 +1,23 @@
 [
   {
+    "description": "Execute and manage Roblox Lua scripts on Windows with a lightweight, feature-rich executor supporting 500+ scripts, queu",
+    "id": "derivational-doubletime597/phoenix-script-executor-win",
+    "language": "HTML",
+    "name": "derivational-doubletime597/phoenix-script-executor-win",
+    "stars": 0,
+    "updated_at": "2026-08-10T05:53:51Z",
+    "url": "https://github.com/derivational-doubletime597/phoenix-script-executor-win"
+  },
+  {
+    "description": "Run Roblox Lua scripts on Windows with 500+ keyless scripts, a built-in database, and a minimal UI\u2014Phoenix Executor v4.2",
+    "id": "Tessiecorrupt733/phoenix-script-executor-v4",
+    "language": "HTML",
+    "name": "Tessiecorrupt733/phoenix-script-executor-v4",
+    "stars": 0,
+    "updated_at": "2026-08-10T05:53:50Z",
+    "url": "https://github.com/Tessiecorrupt733/phoenix-script-executor-v4"
+  },
+  {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
     "id": "saddled-panicattack529/idea-evaluation-pipeline",
     "language": "\u2014",
@@ -16,24 +34,6 @@
     "stars": 5742,
     "updated_at": "2026-08-10T04:18:47Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Execute and manage Roblox Lua scripts on Windows with a lightweight, feature-rich executor supporting 500+ scripts, queu",
-    "id": "derivational-doubletime597/phoenix-script-executor-win",
-    "language": "HTML",
-    "name": "derivational-doubletime597/phoenix-script-executor-win",
-    "stars": 0,
-    "updated_at": "2026-08-10T04:05:54Z",
-    "url": "https://github.com/derivational-doubletime597/phoenix-script-executor-win"
-  },
-  {
-    "description": "Run Roblox Lua scripts on Windows with 500+ keyless scripts, a built-in database, and a minimal UI\u2014Phoenix Executor v4.2",
-    "id": "Tessiecorrupt733/phoenix-script-executor-v4",
-    "language": "HTML",
-    "name": "Tessiecorrupt733/phoenix-script-executor-v4",
-    "stars": 0,
-    "updated_at": "2026-08-10T04:05:54Z",
-    "url": "https://github.com/Tessiecorrupt733/phoenix-script-executor-v4"
   },
   {
     "description": "AI Observability & Evaluation",
