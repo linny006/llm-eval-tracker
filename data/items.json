@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5742,
+    "updated_at": "2026-08-10T03:17:57Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
     "description": "Execute and manage Roblox Lua scripts on Windows with a lightweight, feature-rich executor supporting 500+ scripts, queu",
     "id": "derivational-doubletime597/phoenix-script-executor-win",
     "language": "HTML",
@@ -49,7 +58,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24090,
+    "stars": 24091,
     "updated_at": "2026-08-09T21:11:49Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -178,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-08-07T06:34:31Z",
     "url": "https://github.com/eliasfeitan-pixel/llm-eval-framework"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5741,
-    "updated_at": "2026-08-10T03:17:57Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
