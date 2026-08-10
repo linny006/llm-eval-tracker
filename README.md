@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-10 17:15 UTC
+> ⏰ Last updated: 2026-08-10 17:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -45,7 +45,7 @@ expired items removed — so you can rely on what you see being current.
 | 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10975 | Python | 2026-08-10 | AI Observability & Evaluation |
 | 2 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-08-10 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 3 | [IonDen/mlx-quant-fidelity](https://github.com/IonDen/mlx-quant-fidelity) | 2 | Python | 2026-08-10 | Measure MLX quantization quality loss — KL divergence, perplexity, top-token agreement for KV cache and weights |
-| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24109 | TypeScript | 2026-08-10 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24110 | TypeScript | 2026-08-10 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 5 | [cklxx/ckl-bench](https://github.com/cklxx/ckl-bench) | 0 | HTML | 2026-08-10 | ckl's personal benchmark for doc writing, infra code, and paper reading — one-click evaluation of the latest models via  |
 | 6 | [KolyaSotnichenko/webitel-tz](https://github.com/KolyaSotnichenko/webitel-tz) | 0 | Python | 2026-08-10 | ISP helpdesk RAG assistant: eval-first take-home with measured v1/v2 regression, two-gate no-answer, diagnostic flow. bg |
 | 7 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-08-10 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
