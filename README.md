@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-11 20:00 UTC
+> ⏰ Last updated: 2026-08-11 20:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [lordbasilaiassistant-sudo/company-bench](https://github.com/lordbasilaiassistant-sudo/company-bench) | 1 | JavaScript | 2026-08-11 | Can your agent hold a job? A 25-chair benchmark that measures whether an AI agent can be trusted with real work — dirty  |
-| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10996 | Python | 2026-08-11 | AI Observability & Evaluation |
-| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24135 | TypeScript | 2026-08-11 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 4 | [truera/trulens](https://github.com/truera/trulens) | 3501 | Python | 2026-08-11 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 5 | [RudrenduPaul/memtrust](https://github.com/RudrenduPaul/memtrust) | 0 | Python | 2026-08-11 | Independent CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep, OpenViking); publishes raw eval logs. |
-| 6 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-08-11 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
-| 7 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-08-11 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
+| 1 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-08-11 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
+| 2 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-08-11 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
+| 3 | [lordbasilaiassistant-sudo/company-bench](https://github.com/lordbasilaiassistant-sudo/company-bench) | 1 | JavaScript | 2026-08-11 | Can your agent hold a job? A 25-chair benchmark that measures whether an AI agent can be trusted with real work — dirty  |
+| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10996 | Python | 2026-08-11 | AI Observability & Evaluation |
+| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24135 | TypeScript | 2026-08-11 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 6 | [truera/trulens](https://github.com/truera/trulens) | 3501 | Python | 2026-08-11 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 7 | [RudrenduPaul/memtrust](https://github.com/RudrenduPaul/memtrust) | 0 | Python | 2026-08-11 | Independent CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep, OpenViking); publishes raw eval logs. |
 | 8 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 332 | TypeScript | 2026-08-11 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 9 | [cklxx/ckl-bench](https://github.com/cklxx/ckl-bench) | 0 | HTML | 2026-08-11 | ckl's personal benchmark for doc writing, infra code, and paper reading — one-click evaluation of the latest models via  |
 | 10 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5747 | Python | 2026-08-11 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
