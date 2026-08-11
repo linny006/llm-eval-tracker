@@ -1,5 +1,14 @@
 [
   {
+    "description": "Independent CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep, OpenViking); publishes raw eval logs.",
+    "id": "RudrenduPaul/memtrust",
+    "language": "Python",
+    "name": "RudrenduPaul/memtrust",
+    "stars": 0,
+    "updated_at": "2026-08-11T14:25:10Z",
+    "url": "https://github.com/RudrenduPaul/memtrust"
+  },
+  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10993,
-    "updated_at": "2026-08-11T14:10:36Z",
+    "updated_at": "2026-08-11T14:29:34Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -79,15 +88,6 @@
     "stars": 3500,
     "updated_at": "2026-08-10T23:11:02Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Independent CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep, OpenViking); publishes raw eval logs.",
-    "id": "RudrenduPaul/memtrust",
-    "language": "Python",
-    "name": "RudrenduPaul/memtrust",
-    "stars": 0,
-    "updated_at": "2026-08-10T23:06:25Z",
-    "url": "https://github.com/RudrenduPaul/memtrust"
   },
   {
     "description": "Measure MLX quantization quality loss \u2014 KL divergence, perplexity, top-token agreement for KV cache and weights",
