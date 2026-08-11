@@ -1,11 +1,20 @@
 [
   {
+    "description": "Can your agent hold a job? A 25-chair benchmark that measures whether an AI agent can be trusted with real work \u2014 dirty ",
+    "id": "lordbasilaiassistant-sudo/company-bench",
+    "language": "JavaScript",
+    "name": "lordbasilaiassistant-sudo/company-bench",
+    "stars": 0,
+    "updated_at": "2026-08-11T19:39:47Z",
+    "url": "https://github.com/lordbasilaiassistant-sudo/company-bench"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10996,
-    "updated_at": "2026-08-11T19:17:12Z",
+    "updated_at": "2026-08-11T19:42:54Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-25T12:54:15Z",
     "url": "https://github.com/vitorwilher/copom-rag-service"
-  },
-  {
-    "description": "Does multi-agent beat single-agent? Benchmarks a planner\u2192workers\u2192critic system vs single-agent on quality/cost/latency \u2014",
-    "id": "tkarim45/multi-agent-eval",
-    "language": "Python",
-    "name": "tkarim45/multi-agent-eval",
-    "stars": 0,
-    "updated_at": "2026-07-25T07:08:25Z",
-    "url": "https://github.com/tkarim45/multi-agent-eval"
   }
 ]
