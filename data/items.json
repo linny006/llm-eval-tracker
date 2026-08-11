@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10980,
+    "updated_at": "2026-08-11T05:02:00Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "ckl's personal benchmark for doc writing, infra code, and paper reading \u2014 one-click evaluation of the latest models via ",
     "id": "cklxx/ckl-bench",
     "language": "HTML",
@@ -16,15 +25,6 @@
     "stars": 24118,
     "updated_at": "2026-08-11T03:10:26Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10980,
-    "updated_at": "2026-08-11T03:27:36Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
