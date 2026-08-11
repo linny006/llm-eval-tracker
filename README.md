@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-11 06:30 UTC
+> ⏰ Last updated: 2026-08-11 06:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [cklxx/ckl-bench](https://github.com/cklxx/ckl-bench) | 0 | HTML | 2026-08-11 | ckl's personal benchmark for doc writing, infra code, and paper reading — one-click evaluation of the latest models via  |
-| 2 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5745 | Python | 2026-08-11 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 3 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-08-11 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
-| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24120 | TypeScript | 2026-08-11 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24120 | TypeScript | 2026-08-11 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 2 | [cklxx/ckl-bench](https://github.com/cklxx/ckl-bench) | 0 | HTML | 2026-08-11 | ckl's personal benchmark for doc writing, infra code, and paper reading — one-click evaluation of the latest models via  |
+| 3 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5745 | Python | 2026-08-11 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 4 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-08-11 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 5 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10982 | Python | 2026-08-11 | AI Observability & Evaluation |
 | 6 | [truera/trulens](https://github.com/truera/trulens) | 3499 | Python | 2026-08-10 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 7 | [RudrenduPaul/memtrust](https://github.com/RudrenduPaul/memtrust) | 0 | Python | 2026-08-10 | Independent CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep, OpenViking); publishes raw eval logs. |

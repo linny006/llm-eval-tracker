@@ -1,11 +1,20 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24120,
+    "updated_at": "2026-08-11T06:37:16Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "ckl's personal benchmark for doc writing, infra code, and paper reading \u2014 one-click evaluation of the latest models via ",
     "id": "cklxx/ckl-bench",
     "language": "HTML",
     "name": "cklxx/ckl-bench",
     "stars": 0,
-    "updated_at": "2026-08-11T06:22:06Z",
+    "updated_at": "2026-08-11T06:32:55Z",
     "url": "https://github.com/cklxx/ckl-bench"
   },
   {
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T05:37:07Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24120,
-    "updated_at": "2026-08-11T05:54:37Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AI Observability & Evaluation",
