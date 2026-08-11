@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10996,
+    "updated_at": "2026-08-11T21:09:03Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Can your AI agent hold a job? Open-source benchmark for AI agent trustworthiness, not capability: 29 chairs, 7 departmen",
     "id": "lordbasilaiassistant-sudo/company-bench",
     "language": "JavaScript",
@@ -14,17 +23,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24136,
-    "updated_at": "2026-08-11T21:00:09Z",
+    "updated_at": "2026-08-11T21:11:29Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10996,
-    "updated_at": "2026-08-11T20:59:12Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
