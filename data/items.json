@@ -1,14 +1,5 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11018,
-    "updated_at": "2026-08-12T20:40:06Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -16,6 +7,15 @@
     "stars": 24180,
     "updated_at": "2026-08-12T20:38:16Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11018,
+    "updated_at": "2026-08-12T21:11:04Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Multi-arm evaluation and self-healing guardrails for MCP servers & CLIs",
@@ -41,7 +41,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 332,
-    "updated_at": "2026-08-12T16:12:06Z",
+    "updated_at": "2026-08-12T21:06:17Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
