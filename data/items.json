@@ -1,11 +1,20 @@
 [
   {
+    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
+    "id": "homemade-software-inc/completion-kit",
+    "language": "Ruby",
+    "name": "homemade-software-inc/completion-kit",
+    "stars": 1,
+    "updated_at": "2026-08-12T00:13:46Z",
+    "url": "https://github.com/homemade-software-inc/completion-kit"
+  },
+  {
     "description": "Can your AI agent hold a job? Open-source benchmark for AI agent trustworthiness, not capability: 29 chairs, 7 departmen",
     "id": "lordbasilaiassistant-sudo/company-bench",
     "language": "JavaScript",
     "name": "lordbasilaiassistant-sudo/company-bench",
     "stars": 1,
-    "updated_at": "2026-08-11T23:46:25Z",
+    "updated_at": "2026-08-12T00:02:36Z",
     "url": "https://github.com/lordbasilaiassistant-sudo/company-bench"
   },
   {
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10997,
-    "updated_at": "2026-08-11T23:51:48Z",
+    "updated_at": "2026-08-12T00:02:22Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -68,7 +77,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 332,
-    "updated_at": "2026-08-11T23:58:56Z",
+    "updated_at": "2026-08-12T00:03:17Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -241,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-08-05T22:51:48Z",
     "url": "https://github.com/ozlar34/job-match-radar"
-  },
-  {
-    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
-    "id": "homemade-software-inc/completion-kit",
-    "language": "Ruby",
-    "name": "homemade-software-inc/completion-kit",
-    "stars": 1,
-    "updated_at": "2026-08-05T16:13:30Z",
-    "url": "https://github.com/homemade-software-inc/completion-kit"
   },
   {
     "description": "Agent and LLM evaluation harness: golden datasets, multi-scorer execution, regression detection across model versions, c",
