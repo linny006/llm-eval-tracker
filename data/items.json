@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10998,
+    "updated_at": "2026-08-12T01:43:50Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Can your AI agent hold a job? Open-source benchmark for AI agent trustworthiness, not capability: 29 chairs, 7 departmen",
     "id": "lordbasilaiassistant-sudo/company-bench",
     "language": "JavaScript",
@@ -7,15 +16,6 @@
     "stars": 1,
     "updated_at": "2026-08-12T00:57:35Z",
     "url": "https://github.com/lordbasilaiassistant-sudo/company-bench"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10998,
-    "updated_at": "2026-08-12T01:19:04Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
