@@ -1,21 +1,21 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24173,
+    "updated_at": "2026-08-12T18:08:12Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11016,
-    "updated_at": "2026-08-12T17:53:35Z",
+    "updated_at": "2026-08-12T18:13:36Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24172,
-    "updated_at": "2026-08-12T17:52:52Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Multi-arm evaluation and self-healing guardrails for MCP servers & CLIs",
