@@ -1,20 +1,11 @@
 [
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24173,
-    "updated_at": "2026-08-12T18:08:12Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11016,
-    "updated_at": "2026-08-12T18:13:36Z",
+    "updated_at": "2026-08-12T18:29:23Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -23,8 +14,17 @@
     "language": "Python",
     "name": "asavs/mcp-cocktail",
     "stars": 0,
-    "updated_at": "2026-08-12T17:13:49Z",
+    "updated_at": "2026-08-12T18:21:42Z",
     "url": "https://github.com/asavs/mcp-cocktail"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24174,
+    "updated_at": "2026-08-12T18:26:59Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Can your AI agent hold a job? Open-source benchmark for AI agent trustworthiness, not capability: 29 chairs, 7 departmen",
