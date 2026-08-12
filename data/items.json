@@ -1,21 +1,30 @@
 [
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24140,
-    "updated_at": "2026-08-12T00:44:48Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Can your AI agent hold a job? Open-source benchmark for AI agent trustworthiness, not capability: 29 chairs, 7 departmen",
     "id": "lordbasilaiassistant-sudo/company-bench",
     "language": "JavaScript",
     "name": "lordbasilaiassistant-sudo/company-bench",
     "stars": 1,
-    "updated_at": "2026-08-12T00:25:13Z",
+    "updated_at": "2026-08-12T00:57:35Z",
     "url": "https://github.com/lordbasilaiassistant-sudo/company-bench"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10998,
+    "updated_at": "2026-08-12T00:46:35Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24140,
+    "updated_at": "2026-08-12T00:49:51Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
@@ -25,15 +34,6 @@
     "stars": 1,
     "updated_at": "2026-08-12T00:15:59Z",
     "url": "https://github.com/homemade-software-inc/completion-kit"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10997,
-    "updated_at": "2026-08-12T00:02:22Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
