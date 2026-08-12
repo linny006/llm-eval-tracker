@@ -1,11 +1,20 @@
 [
   {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3506,
+    "updated_at": "2026-08-12T15:14:53Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 332,
-    "updated_at": "2026-08-12T14:59:19Z",
+    "updated_at": "2026-08-12T15:28:18Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11014,
-    "updated_at": "2026-08-12T14:59:49Z",
+    "updated_at": "2026-08-12T15:29:03Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -23,7 +32,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24167,
-    "updated_at": "2026-08-12T15:13:53Z",
+    "updated_at": "2026-08-12T15:17:01Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -79,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-08-12T00:57:35Z",
     "url": "https://github.com/lordbasilaiassistant-sudo/company-bench"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3506,
-    "updated_at": "2026-08-12T15:14:53Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Independent CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep, OpenViking); publishes raw eval logs.",
