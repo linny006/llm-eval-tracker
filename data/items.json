@@ -1,5 +1,23 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11019,
+    "updated_at": "2026-08-12T21:35:38Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3507,
+    "updated_at": "2026-08-12T21:35:20Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -9,21 +27,12 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11018,
-    "updated_at": "2026-08-12T21:20:38Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Multi-arm evaluation and self-healing guardrails for MCP servers & CLIs",
     "id": "asavs/mcp-cocktail",
     "language": "Python",
     "name": "asavs/mcp-cocktail",
     "stars": 0,
-    "updated_at": "2026-08-12T20:25:50Z",
+    "updated_at": "2026-08-12T21:35:36Z",
     "url": "https://github.com/asavs/mcp-cocktail"
   },
   {
@@ -52,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T16:01:03Z",
     "url": "https://github.com/goldbarth/chartula-evals"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3507,
-    "updated_at": "2026-08-12T19:51:30Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
