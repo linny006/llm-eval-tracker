@@ -1,11 +1,20 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11014,
+    "updated_at": "2026-08-12T13:31:39Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 332,
-    "updated_at": "2026-08-12T11:46:54Z",
+    "updated_at": "2026-08-12T13:52:08Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -16,15 +25,6 @@
     "stars": 5749,
     "updated_at": "2026-08-12T12:27:38Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11013,
-    "updated_at": "2026-08-12T13:31:39Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
@@ -40,7 +40,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24164,
+    "stars": 24165,
     "updated_at": "2026-08-12T05:08:50Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
