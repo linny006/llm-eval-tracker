@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11001,
-    "updated_at": "2026-08-12T04:08:53Z",
+    "updated_at": "2026-08-12T04:26:34Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -16,6 +16,15 @@
     "stars": 24147,
     "updated_at": "2026-08-12T04:17:51Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5748,
+    "updated_at": "2026-08-12T04:02:28Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
@@ -88,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T06:32:55Z",
     "url": "https://github.com/cklxx/ckl-bench"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5748,
-    "updated_at": "2026-08-12T04:02:28Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
