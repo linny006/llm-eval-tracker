@@ -1,11 +1,29 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 332,
+    "updated_at": "2026-08-12T16:12:06Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
+    "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
+    "id": "goldbarth/chartula-evals",
+    "language": "\u2014",
+    "name": "goldbarth/chartula-evals",
+    "stars": 0,
+    "updated_at": "2026-08-12T16:01:03Z",
+    "url": "https://github.com/goldbarth/chartula-evals"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24170,
-    "updated_at": "2026-08-12T15:17:01Z",
+    "updated_at": "2026-08-12T16:13:09Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -16,15 +34,6 @@
     "stars": 3506,
     "updated_at": "2026-08-12T15:14:53Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 332,
-    "updated_at": "2026-08-12T15:51:03Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -43,15 +52,6 @@
     "stars": 5749,
     "updated_at": "2026-08-12T12:27:38Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
-    "id": "goldbarth/chartula-evals",
-    "language": "\u2014",
-    "name": "goldbarth/chartula-evals",
-    "stars": 0,
-    "updated_at": "2026-08-12T09:04:41Z",
-    "url": "https://github.com/goldbarth/chartula-evals"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
