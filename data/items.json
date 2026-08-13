@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24212,
+    "updated_at": "2026-08-13T22:25:28Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Tool-calling eval harness + pre-execution safety gate for voice agents: scores whether the right tool was called with th",
     "id": "rithvik-bk/voiceos-eval",
     "language": "JavaScript",
@@ -25,15 +34,6 @@
     "stars": 1,
     "updated_at": "2026-08-13T20:03:11Z",
     "url": "https://github.com/KazKozDev/prompt-playoff"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24211,
-    "updated_at": "2026-08-13T22:09:57Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
