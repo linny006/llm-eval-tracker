@@ -1,11 +1,20 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24186,
+    "updated_at": "2026-08-13T05:14:22Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Bilingual reduced-fare policy assistant for six California transit agencies, grounded in dated citations and shipped wit",
     "id": "ChelseaKR/fare-policy-assistant",
     "language": "HTML",
     "name": "ChelseaKR/fare-policy-assistant",
     "stars": 1,
-    "updated_at": "2026-08-13T04:57:24Z",
+    "updated_at": "2026-08-13T05:12:02Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
@@ -13,18 +22,9 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5749,
+    "stars": 5748,
     "updated_at": "2026-08-13T04:56:53Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24186,
-    "updated_at": "2026-08-13T05:00:21Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Multi-arm evaluation and self-healing guardrails for MCP servers & CLIs",
