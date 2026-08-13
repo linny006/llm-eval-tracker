@@ -5,17 +5,8 @@
     "language": "HTML",
     "name": "ChelseaKR/fare-policy-assistant",
     "stars": 1,
-    "updated_at": "2026-08-13T04:30:52Z",
+    "updated_at": "2026-08-13T04:57:24Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24185,
-    "updated_at": "2026-08-13T04:39:03Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -23,8 +14,17 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5749,
-    "updated_at": "2026-08-13T04:18:51Z",
+    "updated_at": "2026-08-13T04:56:53Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24186,
+    "updated_at": "2026-08-13T05:00:21Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Multi-arm evaluation and self-healing guardrails for MCP servers & CLIs",
