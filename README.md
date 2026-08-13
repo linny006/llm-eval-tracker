@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-13 15:30 UTC
+> ⏰ Last updated: 2026-08-13 15:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,15 +43,15 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11033 | Python | 2026-08-13 | AI Observability & Evaluation |
-| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24204 | TypeScript | 2026-08-13 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 3 | [KazKozDev/prompt-playoff](https://github.com/KazKozDev/prompt-playoff) | 0 | Python | 2026-08-13 | Prompt optimization and LLM evaluation for local LLMs — deterministic prompt-technique selection |
-| 4 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-08-13 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
-| 5 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-08-13 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
-| 6 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-08-13 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 7 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5748 | Python | 2026-08-13 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 8 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-08-13 | Bilingual reduced-fare policy assistant for six California transit agencies, grounded in dated citations and shipped wit |
-| 9 | [asavs/mcp-cocktail](https://github.com/asavs/mcp-cocktail) | 0 | Python | 2026-08-13 | Multi-arm evaluation and self-healing guardrails for MCP servers & CLIs |
-| 10 | [truera/trulens](https://github.com/truera/trulens) | 3508 | Python | 2026-08-12 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 2 | [truera/trulens](https://github.com/truera/trulens) | 3508 | Python | 2026-08-13 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24204 | TypeScript | 2026-08-13 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 4 | [KazKozDev/prompt-playoff](https://github.com/KazKozDev/prompt-playoff) | 0 | Python | 2026-08-13 | Prompt optimization and LLM evaluation for local LLMs — deterministic prompt-technique selection |
+| 5 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-08-13 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
+| 6 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-08-13 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
+| 7 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-08-13 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
+| 8 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5748 | Python | 2026-08-13 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 9 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-08-13 | Bilingual reduced-fare policy assistant for six California transit agencies, grounded in dated citations and shipped wit |
+| 10 | [asavs/mcp-cocktail](https://github.com/asavs/mcp-cocktail) | 0 | Python | 2026-08-13 | Multi-arm evaluation and self-healing guardrails for MCP servers & CLIs |
 | 11 | [lordbasilaiassistant-sudo/company-bench](https://github.com/lordbasilaiassistant-sudo/company-bench) | 1 | JavaScript | 2026-08-12 | Can your AI agent hold a job? Open-source benchmark for AI agent trustworthiness, not capability: 29 chairs, 7 departmen |
 | 12 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 332 | TypeScript | 2026-08-13 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 13 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | — | 2026-08-12 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |

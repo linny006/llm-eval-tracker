@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11033,
-    "updated_at": "2026-08-13T15:27:22Z",
+    "updated_at": "2026-08-13T15:43:01Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3508,
+    "updated_at": "2026-08-13T15:32:27Z",
+    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -79,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T01:54:01Z",
     "url": "https://github.com/asavs/mcp-cocktail"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3508,
-    "updated_at": "2026-08-12T21:35:20Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Can your AI agent hold a job? Open-source benchmark for AI agent trustworthiness, not capability: 29 chairs, 7 departmen",
