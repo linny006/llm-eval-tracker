@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-13 14:00 UTC
+> ⏰ Last updated: 2026-08-13 14:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24200 | TypeScript | 2026-08-13 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 2 | [KazKozDev/prompt-playoff](https://github.com/KazKozDev/prompt-playoff) | 0 | Python | 2026-08-13 | Prompt optimization and LLM evaluation for local LLMs — deterministic prompt-technique selection |
-| 3 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-08-13 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
-| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11031 | Python | 2026-08-13 | AI Observability & Evaluation |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11032 | Python | 2026-08-13 | AI Observability & Evaluation |
+| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24200 | TypeScript | 2026-08-13 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 3 | [KazKozDev/prompt-playoff](https://github.com/KazKozDev/prompt-playoff) | 0 | Python | 2026-08-13 | Prompt optimization and LLM evaluation for local LLMs — deterministic prompt-technique selection |
+| 4 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-08-13 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
 | 5 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-08-13 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 6 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-08-13 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 7 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5748 | Python | 2026-08-13 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
