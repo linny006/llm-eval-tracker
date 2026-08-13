@@ -1,5 +1,23 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24200,
+    "updated_at": "2026-08-13T13:52:49Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Prompt optimization and LLM evaluation for local LLMs \u2014 deterministic prompt-technique selection",
+    "id": "KazKozDev/prompt-playoff",
+    "language": "Python",
+    "name": "KazKozDev/prompt-playoff",
+    "stars": 0,
+    "updated_at": "2026-08-13T13:50:18Z",
+    "url": "https://github.com/KazKozDev/prompt-playoff"
+  },
+  {
     "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
     "id": "valbaudo/awf",
     "language": "Go",
@@ -14,17 +32,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11031,
-    "updated_at": "2026-08-13T13:42:52Z",
+    "updated_at": "2026-08-13T13:57:43Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24199,
-    "updated_at": "2026-08-13T13:39:17Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-29T01:01:05Z",
     "url": "https://github.com/lehigh-university-libraries/htr"
-  },
-  {
-    "description": "Open, domain-specific evaluation datasets and binary judges for Retail & CPG generative-AI tasks. ",
-    "id": "j-newcom/retail-cpg-eval-datasets",
-    "language": "Python",
-    "name": "j-newcom/retail-cpg-eval-datasets",
-    "stars": 0,
-    "updated_at": "2026-07-28T15:48:18Z",
-    "url": "https://github.com/j-newcom/retail-cpg-eval-datasets"
   }
 ]
