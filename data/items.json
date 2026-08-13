@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5749,
+    "updated_at": "2026-08-13T02:06:01Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
     "description": "Multi-arm evaluation and self-healing guardrails for MCP servers & CLIs",
     "id": "asavs/mcp-cocktail",
     "language": "Python",
@@ -23,7 +32,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24184,
-    "updated_at": "2026-08-13T01:58:03Z",
+    "updated_at": "2026-08-13T02:05:06Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -70,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T16:01:03Z",
     "url": "https://github.com/goldbarth/chartula-evals"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5749,
-    "updated_at": "2026-08-12T12:27:38Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
