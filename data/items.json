@@ -1,20 +1,11 @@
 [
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24199,
-    "updated_at": "2026-08-13T13:30:21Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
     "id": "valbaudo/awf",
     "language": "Go",
     "name": "valbaudo/awf",
     "stars": 1,
-    "updated_at": "2026-08-13T13:02:19Z",
+    "updated_at": "2026-08-13T13:37:30Z",
     "url": "https://github.com/valbaudo/awf"
   },
   {
@@ -23,8 +14,17 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11031,
-    "updated_at": "2026-08-13T12:36:23Z",
+    "updated_at": "2026-08-13T13:42:52Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24199,
+    "updated_at": "2026-08-13T13:39:17Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
