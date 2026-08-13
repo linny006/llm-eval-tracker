@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11033,
+    "updated_at": "2026-08-13T20:31:17Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Prompt optimization and LLM evaluation for local LLMs \u2014 deterministic prompt-technique selection",
     "id": "KazKozDev/prompt-playoff",
     "language": "Python",
@@ -13,7 +22,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24208,
+    "stars": 24209,
     "updated_at": "2026-08-13T19:23:31Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -43,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T15:51:38Z",
     "url": "https://github.com/j-newcom/retail-cpg-eval-datasets"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11033,
-    "updated_at": "2026-08-13T20:25:29Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
