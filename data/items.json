@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24206,
+    "updated_at": "2026-08-13T18:10:17Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Bilingual reduced-fare policy assistant for six California transit agencies, grounded in dated citations and shipped wit",
     "id": "ChelseaKR/fare-policy-assistant",
     "language": "HTML",
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11033,
-    "updated_at": "2026-08-13T17:20:21Z",
+    "updated_at": "2026-08-13T18:03:59Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -43,15 +52,6 @@
     "stars": 3508,
     "updated_at": "2026-08-13T17:02:46Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24206,
-    "updated_at": "2026-08-13T14:30:55Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
