@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-13 01:45 UTC
+> ⏰ Last updated: 2026-08-13 02:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11021 | Python | 2026-08-13 | AI Observability & Evaluation |
-| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24184 | TypeScript | 2026-08-13 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 3 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-08-12 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 4 | [truera/trulens](https://github.com/truera/trulens) | 3507 | Python | 2026-08-12 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 5 | [asavs/mcp-cocktail](https://github.com/asavs/mcp-cocktail) | 0 | Python | 2026-08-12 | Multi-arm evaluation and self-healing guardrails for MCP servers & CLIs |
+| 1 | [asavs/mcp-cocktail](https://github.com/asavs/mcp-cocktail) | 0 | Python | 2026-08-13 | Multi-arm evaluation and self-healing guardrails for MCP servers & CLIs |
+| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11021 | Python | 2026-08-13 | AI Observability & Evaluation |
+| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24184 | TypeScript | 2026-08-13 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 4 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-08-12 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
+| 5 | [truera/trulens](https://github.com/truera/trulens) | 3507 | Python | 2026-08-12 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 6 | [lordbasilaiassistant-sudo/company-bench](https://github.com/lordbasilaiassistant-sudo/company-bench) | 1 | JavaScript | 2026-08-12 | Can your AI agent hold a job? Open-source benchmark for AI agent trustworthiness, not capability: 29 chairs, 7 departmen |
 | 7 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 332 | TypeScript | 2026-08-12 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 8 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | — | 2026-08-12 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |

@@ -1,11 +1,20 @@
 [
   {
+    "description": "Multi-arm evaluation and self-healing guardrails for MCP servers & CLIs",
+    "id": "asavs/mcp-cocktail",
+    "language": "Python",
+    "name": "asavs/mcp-cocktail",
+    "stars": 0,
+    "updated_at": "2026-08-13T01:54:01Z",
+    "url": "https://github.com/asavs/mcp-cocktail"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11021,
-    "updated_at": "2026-08-13T01:42:32Z",
+    "updated_at": "2026-08-13T01:52:22Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24184,
-    "updated_at": "2026-08-13T01:44:59Z",
+    "updated_at": "2026-08-13T01:58:03Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -34,15 +43,6 @@
     "stars": 3507,
     "updated_at": "2026-08-12T21:35:20Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Multi-arm evaluation and self-healing guardrails for MCP servers & CLIs",
-    "id": "asavs/mcp-cocktail",
-    "language": "Python",
-    "name": "asavs/mcp-cocktail",
-    "stars": 0,
-    "updated_at": "2026-08-12T21:35:36Z",
-    "url": "https://github.com/asavs/mcp-cocktail"
   },
   {
     "description": "Can your AI agent hold a job? Open-source benchmark for AI agent trustworthiness, not capability: 29 chairs, 7 departmen",
