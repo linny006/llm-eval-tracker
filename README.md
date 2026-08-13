@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-13 04:00 UTC
+> ⏰ Last updated: 2026-08-13 04:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -46,7 +46,7 @@ expired items removed — so you can rely on what you see being current.
 | 2 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5749 | Python | 2026-08-13 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24185 | TypeScript | 2026-08-13 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 4 | [asavs/mcp-cocktail](https://github.com/asavs/mcp-cocktail) | 0 | Python | 2026-08-13 | Multi-arm evaluation and self-healing guardrails for MCP servers & CLIs |
-| 5 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11022 | Python | 2026-08-13 | AI Observability & Evaluation |
+| 5 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11023 | Python | 2026-08-13 | AI Observability & Evaluation |
 | 6 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-08-12 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 7 | [truera/trulens](https://github.com/truera/trulens) | 3507 | Python | 2026-08-12 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 8 | [lordbasilaiassistant-sudo/company-bench](https://github.com/lordbasilaiassistant-sudo/company-bench) | 1 | JavaScript | 2026-08-12 | Can your AI agent hold a job? Open-source benchmark for AI agent trustworthiness, not capability: 29 chairs, 7 departmen |
