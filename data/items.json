@@ -1,5 +1,14 @@
 [
   {
+    "description": "Tool-calling eval harness + pre-execution safety gate for voice agents: scores whether the right tool was called with th",
+    "id": "rithvik-bk/voiceos-eval",
+    "language": "JavaScript",
+    "name": "rithvik-bk/voiceos-eval",
+    "stars": 0,
+    "updated_at": "2026-08-13T21:32:22Z",
+    "url": "https://github.com/rithvik-bk/voiceos-eval"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -22,7 +31,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24211,
+    "stars": 24212,
     "updated_at": "2026-08-13T19:23:31Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-29T19:25:27Z",
     "url": "https://github.com/gmitt98/fieldtest"
-  },
-  {
-    "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
-    "id": "NoesisVision/nasde-toolkit",
-    "language": "Python",
-    "name": "NoesisVision/nasde-toolkit",
-    "stars": 11,
-    "updated_at": "2026-07-29T12:18:04Z",
-    "url": "https://github.com/NoesisVision/nasde-toolkit"
   }
 ]
