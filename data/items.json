@@ -1,11 +1,20 @@
 [
   {
+    "description": "Open, domain-specific evaluation datasets and binary judges for Retail & CPG generative-AI tasks. ",
+    "id": "j-newcom/retail-cpg-eval-datasets",
+    "language": "Python",
+    "name": "j-newcom/retail-cpg-eval-datasets",
+    "stars": 0,
+    "updated_at": "2026-08-14T16:46:16Z",
+    "url": "https://github.com/j-newcom/retail-cpg-eval-datasets"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11052,
-    "updated_at": "2026-08-14T16:19:53Z",
+    "updated_at": "2026-08-14T16:36:34Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24232,
-    "updated_at": "2026-08-14T16:06:29Z",
+    "updated_at": "2026-08-14T16:45:11Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -97,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T21:32:22Z",
     "url": "https://github.com/rithvik-bk/voiceos-eval"
-  },
-  {
-    "description": "Open, domain-specific evaluation datasets and binary judges for Retail & CPG generative-AI tasks. ",
-    "id": "j-newcom/retail-cpg-eval-datasets",
-    "language": "Python",
-    "name": "j-newcom/retail-cpg-eval-datasets",
-    "stars": 0,
-    "updated_at": "2026-08-13T15:51:38Z",
-    "url": "https://github.com/j-newcom/retail-cpg-eval-datasets"
   },
   {
     "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
