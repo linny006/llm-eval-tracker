@@ -1,10 +1,19 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11043,
+    "updated_at": "2026-08-14T06:39:49Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24222,
+    "stars": 24223,
     "updated_at": "2026-08-14T05:13:22Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -52,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T21:32:22Z",
     "url": "https://github.com/rithvik-bk/voiceos-eval"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11042,
-    "updated_at": "2026-08-13T20:46:38Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Prompt optimization and LLM evaluation for local LLMs \u2014 deterministic prompt-technique selection",

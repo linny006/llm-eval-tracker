@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-14 06:30 UTC
+> ⏰ Last updated: 2026-08-14 06:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24222 | TypeScript | 2026-08-14 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 2 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5750 | Python | 2026-08-14 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 3 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-08-14 | Bilingual reduced-fare policy assistant for six California transit agencies, grounded in dated citations and shipped wit |
-| 4 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 333 | TypeScript | 2026-08-14 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 5 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-08-14 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
-| 6 | [rithvik-bk/voiceos-eval](https://github.com/rithvik-bk/voiceos-eval) | 0 | JavaScript | 2026-08-13 | Tool-calling eval harness + pre-execution safety gate for voice agents: scores whether the right tool was called with th |
-| 7 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11042 | Python | 2026-08-13 | AI Observability & Evaluation |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11043 | Python | 2026-08-14 | AI Observability & Evaluation |
+| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24223 | TypeScript | 2026-08-14 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 3 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5750 | Python | 2026-08-14 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 4 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-08-14 | Bilingual reduced-fare policy assistant for six California transit agencies, grounded in dated citations and shipped wit |
+| 5 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 333 | TypeScript | 2026-08-14 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 6 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-08-14 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
+| 7 | [rithvik-bk/voiceos-eval](https://github.com/rithvik-bk/voiceos-eval) | 0 | JavaScript | 2026-08-13 | Tool-calling eval harness + pre-execution safety gate for voice agents: scores whether the right tool was called with th |
 | 8 | [KazKozDev/prompt-playoff](https://github.com/KazKozDev/prompt-playoff) | 1 | Python | 2026-08-13 | Prompt optimization and LLM evaluation for local LLMs — deterministic prompt-technique selection |
 | 9 | [j-newcom/retail-cpg-eval-datasets](https://github.com/j-newcom/retail-cpg-eval-datasets) | 0 | Python | 2026-08-13 | Open, domain-specific evaluation datasets and binary judges for Retail & CPG generative-AI tasks.  |
 | 10 | [truera/trulens](https://github.com/truera/trulens) | 3508 | Python | 2026-08-13 | Evaluation and Tracking for LLM Experiments and AI Agents |
