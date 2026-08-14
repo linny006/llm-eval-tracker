@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24234,
+    "updated_at": "2026-08-14T17:05:27Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Open, domain-specific evaluation datasets and binary judges for Retail & CPG generative-AI tasks. ",
     "id": "j-newcom/retail-cpg-eval-datasets",
     "language": "Python",
@@ -14,17 +23,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11052,
-    "updated_at": "2026-08-14T16:55:57Z",
+    "updated_at": "2026-08-14T17:04:13Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24232,
-    "updated_at": "2026-08-14T16:48:39Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Bilingual reduced-fare policy assistant for six California transit agencies, grounded in dated citations and shipped wit",
