@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-14 21:20 UTC
+> ⏰ Last updated: 2026-08-14 21:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,7 +42,7 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11053 | Python | 2026-08-14 | AI Observability & Evaluation |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11054 | Python | 2026-08-14 | AI Observability & Evaluation |
 | 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24235 | TypeScript | 2026-08-14 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 3 | [j-newcom/retail-cpg-eval-datasets](https://github.com/j-newcom/retail-cpg-eval-datasets) | 0 | Python | 2026-08-14 | Open, domain-specific evaluation datasets and binary judges for Retail & CPG generative-AI tasks.  |
 | 4 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-08-14 | Bilingual reduced-fare policy assistant for six California transit agencies, grounded in dated citations and shipped wit |
