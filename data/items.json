@@ -22,7 +22,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11047,
+    "stars": 11048,
     "updated_at": "2026-08-14T07:00:32Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -61,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T21:32:22Z",
     "url": "https://github.com/rithvik-bk/voiceos-eval"
-  },
-  {
-    "description": "Prompt optimization and LLM evaluation for local LLMs \u2014 deterministic prompt-technique selection",
-    "id": "KazKozDev/prompt-playoff",
-    "language": "Python",
-    "name": "KazKozDev/prompt-playoff",
-    "stars": 1,
-    "updated_at": "2026-08-13T20:03:11Z",
-    "url": "https://github.com/KazKozDev/prompt-playoff"
   },
   {
     "description": "Open, domain-specific evaluation datasets and binary judges for Retail & CPG generative-AI tasks. ",
@@ -448,5 +439,14 @@
     "stars": 0,
     "updated_at": "2026-07-29T19:25:27Z",
     "url": "https://github.com/gmitt98/fieldtest"
+  },
+  {
+    "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
+    "id": "NoesisVision/nasde-toolkit",
+    "language": "Python",
+    "name": "NoesisVision/nasde-toolkit",
+    "stars": 11,
+    "updated_at": "2026-07-29T12:18:04Z",
+    "url": "https://github.com/NoesisVision/nasde-toolkit"
   }
 ]
