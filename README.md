@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-14 00:30 UTC
+> ⏰ Last updated: 2026-08-14 00:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -48,7 +48,7 @@ expired items removed — so you can rely on what you see being current.
 | 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11034 | Python | 2026-08-13 | AI Observability & Evaluation |
 | 5 | [KazKozDev/prompt-playoff](https://github.com/KazKozDev/prompt-playoff) | 1 | Python | 2026-08-13 | Prompt optimization and LLM evaluation for local LLMs — deterministic prompt-technique selection |
 | 6 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-08-13 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
-| 7 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-08-13 | Bilingual reduced-fare policy assistant for six California transit agencies, grounded in dated citations and shipped wit |
+| 7 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-08-14 | Bilingual reduced-fare policy assistant for six California transit agencies, grounded in dated citations and shipped wit |
 | 8 | [j-newcom/retail-cpg-eval-datasets](https://github.com/j-newcom/retail-cpg-eval-datasets) | 0 | Python | 2026-08-13 | Open, domain-specific evaluation datasets and binary judges for Retail & CPG generative-AI tasks.  |
 | 9 | [truera/trulens](https://github.com/truera/trulens) | 3508 | Python | 2026-08-13 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 10 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-08-13 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
