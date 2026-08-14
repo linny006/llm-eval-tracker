@@ -5,8 +5,17 @@
     "language": "HTML",
     "name": "ChelseaKR/fare-policy-assistant",
     "stars": 1,
-    "updated_at": "2026-08-14T02:28:15Z",
+    "updated_at": "2026-08-14T02:43:31Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5748,
+    "updated_at": "2026-08-14T02:38:31Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -18,20 +27,11 @@
     "url": "https://github.com/Kondwani10/Origin-Continuum"
   },
   {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5748,
-    "updated_at": "2026-08-14T01:21:40Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24216,
+    "stars": 24218,
     "updated_at": "2026-08-13T23:24:33Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -122,7 +122,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 332,
-    "updated_at": "2026-08-13T23:03:19Z",
+    "updated_at": "2026-08-14T02:30:44Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
