@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11048,
+    "updated_at": "2026-08-14T13:50:10Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "TrustModel MCP Server \u2014 trust evaluation, red-team & governance for AI agents via the Model Context Protocol. Public can",
     "id": "karlmehta/trustmodel-mcp",
     "language": "TypeScript",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3508,
-    "updated_at": "2026-08-14T13:37:29Z",
+    "updated_at": "2026-08-14T13:56:05Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -34,15 +43,6 @@
     "stars": 5749,
     "updated_at": "2026-08-14T13:38:27Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11048,
-    "updated_at": "2026-08-14T13:29:55Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
