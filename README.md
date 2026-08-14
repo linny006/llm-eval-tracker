@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-14 07:17 UTC
+> ⏰ Last updated: 2026-08-14 07:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,7 +42,7 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11043 | Python | 2026-08-14 | AI Observability & Evaluation |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11044 | Python | 2026-08-14 | AI Observability & Evaluation |
 | 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24223 | TypeScript | 2026-08-14 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 3 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5750 | Python | 2026-08-14 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 4 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-08-14 | Bilingual reduced-fare policy assistant for six California transit agencies, grounded in dated citations and shipped wit |
