@@ -13,7 +13,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24222,
+    "stars": 24225,
     "updated_at": "2026-08-14T05:13:22Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -41,7 +41,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 333,
-    "updated_at": "2026-08-14T07:42:11Z",
+    "updated_at": "2026-08-14T08:11:48Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -162,6 +162,15 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
+    "description": "A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance?",
+    "id": "sx4im/skillcheck",
+    "language": "TypeScript",
+    "name": "sx4im/skillcheck",
+    "stars": 23,
+    "updated_at": "2026-08-11T16:45:58Z",
+    "url": "https://github.com/sx4im/skillcheck"
+  },
+  {
     "description": "Independent CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep, OpenViking); publishes raw eval logs.",
     "id": "RudrenduPaul/memtrust",
     "language": "Python",
@@ -214,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T20:42:31Z",
     "url": "https://github.com/lokesh75-kank/agenteval"
-  },
-  {
-    "description": "A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance?",
-    "id": "sx4im/skillcheck",
-    "language": "TypeScript",
-    "name": "sx4im/skillcheck",
-    "stars": 23,
-    "updated_at": "2026-08-11T16:45:58Z",
-    "url": "https://github.com/sx4im/skillcheck"
   },
   {
     "description": "Public-safe agent evaluation write-ups: harness gates, multi-path coding screens, task-family transfer, RAG routes, agen",
