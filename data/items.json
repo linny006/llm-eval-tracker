@@ -18,21 +18,12 @@
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
-    "description": "Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd",
-    "id": "Vishalvk2219/Ringdown",
-    "language": "Python",
-    "name": "Vishalvk2219/Ringdown",
-    "stars": 0,
-    "updated_at": "2026-08-15T17:04:13Z",
-    "url": "https://github.com/Vishalvk2219/Ringdown"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24256,
-    "updated_at": "2026-08-15T15:50:19Z",
+    "updated_at": "2026-08-15T18:10:36Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -43,6 +34,15 @@
     "stars": 1,
     "updated_at": "2026-08-15T15:48:53Z",
     "url": "https://github.com/valbaudo/awf"
+  },
+  {
+    "description": "Bilingual reduced-fare policy assistant for eighteen California transit agencies, grounded in dated citations and shippe",
+    "id": "ChelseaKR/fare-policy-assistant",
+    "language": "HTML",
+    "name": "ChelseaKR/fare-policy-assistant",
+    "stars": 1,
+    "updated_at": "2026-08-15T14:57:16Z",
+    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
     "description": "Does done mean done? Coding-agent honesty demo: verified pass vs false completion vs scope violation. Public demo split ",
@@ -97,15 +97,6 @@
     "stars": 3510,
     "updated_at": "2026-08-14T16:08:33Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Bilingual reduced-fare policy assistant for six California transit agencies, grounded in dated citations and shipped wit",
-    "id": "ChelseaKR/fare-policy-assistant",
-    "language": "HTML",
-    "name": "ChelseaKR/fare-policy-assistant",
-    "stars": 1,
-    "updated_at": "2026-08-15T14:57:16Z",
-    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -448,5 +439,14 @@
     "stars": 11,
     "updated_at": "2026-07-29T12:18:04Z",
     "url": "https://github.com/NoesisVision/nasde-toolkit"
+  },
+  {
+    "description": "Handwritten Text Recognition llm eval tool",
+    "id": "lehigh-university-libraries/htr",
+    "language": "Go",
+    "name": "lehigh-university-libraries/htr",
+    "stars": 2,
+    "updated_at": "2026-07-29T01:01:05Z",
+    "url": "https://github.com/lehigh-university-libraries/htr"
   }
 ]
