@@ -1,21 +1,21 @@
 [
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24241,
-    "updated_at": "2026-08-15T03:29:15Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11055,
+    "stars": 11056,
     "updated_at": "2026-08-15T04:07:17Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24242,
+    "updated_at": "2026-08-15T03:29:15Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
@@ -49,7 +49,7 @@
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3509,
+    "stars": 3510,
     "updated_at": "2026-08-14T16:08:33Z",
     "url": "https://github.com/truera/trulens"
   },
@@ -67,7 +67,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5750,
+    "stars": 5751,
     "updated_at": "2026-08-14T13:38:27Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
