@@ -1,21 +1,30 @@
 [
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24254,
-    "updated_at": "2026-08-15T15:37:20Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd",
     "id": "Vishalvk2219/Ringdown",
     "language": "Python",
     "name": "Vishalvk2219/Ringdown",
     "stars": 0,
-    "updated_at": "2026-08-15T15:35:01Z",
+    "updated_at": "2026-08-15T15:52:36Z",
     "url": "https://github.com/Vishalvk2219/Ringdown"
+  },
+  {
+    "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
+    "id": "valbaudo/awf",
+    "language": "Go",
+    "name": "valbaudo/awf",
+    "stars": 1,
+    "updated_at": "2026-08-15T15:48:53Z",
+    "url": "https://github.com/valbaudo/awf"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24254,
+    "updated_at": "2026-08-15T15:50:19Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Does done mean done? Coding-agent honesty demo: verified pass vs false completion vs scope violation. Public demo split ",
@@ -113,7 +122,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 334,
-    "updated_at": "2026-08-15T15:28:09Z",
+    "updated_at": "2026-08-15T15:53:13Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -133,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T21:32:22Z",
     "url": "https://github.com/rithvik-bk/voiceos-eval"
-  },
-  {
-    "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
-    "id": "valbaudo/awf",
-    "language": "Go",
-    "name": "valbaudo/awf",
-    "stars": 1,
-    "updated_at": "2026-08-13T13:37:30Z",
-    "url": "https://github.com/valbaudo/awf"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
