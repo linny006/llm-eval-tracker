@@ -1,5 +1,14 @@
 [
   {
+    "description": "An open reference implementation for accessible, evaluated, multilingual, production-grade public-sector RAG chatbots \u2014 ",
+    "id": "ChelseaKR/civic-rag-starter-kit",
+    "language": "Python",
+    "name": "ChelseaKR/civic-rag-starter-kit",
+    "stars": 1,
+    "updated_at": "2026-08-15T18:51:21Z",
+    "url": "https://github.com/ChelseaKR/civic-rag-starter-kit"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 11,
     "updated_at": "2026-07-29T12:18:04Z",
     "url": "https://github.com/NoesisVision/nasde-toolkit"
-  },
-  {
-    "description": "Handwritten Text Recognition llm eval tool",
-    "id": "lehigh-university-libraries/htr",
-    "language": "Go",
-    "name": "lehigh-university-libraries/htr",
-    "stars": 2,
-    "updated_at": "2026-07-29T01:01:05Z",
-    "url": "https://github.com/lehigh-university-libraries/htr"
   }
 ]
