@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-16 14:17 UTC
+> ⏰ Last updated: 2026-08-16 14:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-08-16 | Bilingual reduced-fare policy assistant for eighteen California transit agencies, grounded in dated citations and shippe |
-| 2 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-08-16 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
-| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24270 | TypeScript | 2026-08-16 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 4 | [sinakazemnezhad/agent-security-bench](https://github.com/sinakazemnezhad/agent-security-bench) | 0 | Python | 2026-08-16 | Open bench for AI coding-agent ML eval + agent security (prompt injection, jailbreak, tool overreach) with machine-reada |
-| 5 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 25 | TypeScript | 2026-08-16 | A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance? |
-| 6 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11071 | Python | 2026-08-16 | AI Observability & Evaluation |
-| 7 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-08-16 | Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python callable |
-| 8 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-08-16 | Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdicts |
+| 1 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-08-16 | Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdicts |
+| 2 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-08-16 | Bilingual reduced-fare policy assistant for eighteen California transit agencies, grounded in dated citations and shippe |
+| 3 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-08-16 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
+| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24270 | TypeScript | 2026-08-16 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 5 | [sinakazemnezhad/agent-security-bench](https://github.com/sinakazemnezhad/agent-security-bench) | 0 | Python | 2026-08-16 | Open bench for AI coding-agent ML eval + agent security (prompt injection, jailbreak, tool overreach) with machine-reada |
+| 6 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 25 | TypeScript | 2026-08-16 | A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance? |
+| 7 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11071 | Python | 2026-08-16 | AI Observability & Evaluation |
+| 8 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-08-16 | Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python callable |
 | 9 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-08-16 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 10 | [multivon-ai/multivon-eval](https://github.com/multivon-ai/multivon-eval) | 8 | Python | 2026-08-16 | Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI |
 | 11 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 335 | TypeScript | 2026-08-16 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
