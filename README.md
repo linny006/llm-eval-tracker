@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-16 15:00 UTC
+> ⏰ Last updated: 2026-08-16 15:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-08-16 | Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdicts |
-| 2 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-08-16 | Bilingual reduced-fare policy assistant for eighteen California transit agencies, grounded in dated citations and shippe |
-| 3 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-08-16 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
-| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24272 | TypeScript | 2026-08-16 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24272 | TypeScript | 2026-08-16 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 2 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-08-16 | Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdicts |
+| 3 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-08-16 | Bilingual reduced-fare policy assistant for eighteen California transit agencies, grounded in dated citations and shippe |
+| 4 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-08-16 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
 | 5 | [sinakazemnezhad/agent-security-bench](https://github.com/sinakazemnezhad/agent-security-bench) | 0 | Python | 2026-08-16 | Open bench for AI coding-agent ML eval + agent security (prompt injection, jailbreak, tool overreach) with machine-reada |
 | 6 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 25 | TypeScript | 2026-08-16 | A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance? |
 | 7 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11071 | Python | 2026-08-16 | AI Observability & Evaluation |
