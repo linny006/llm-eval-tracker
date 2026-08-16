@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-16 17:15 UTC
+> ⏰ Last updated: 2026-08-16 17:25 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -45,7 +45,7 @@ expired items removed — so you can rely on what you see being current.
 | 1 | [gabriel-ngrs/CalorIA](https://github.com/gabriel-ngrs/CalorIA) | 1 | Python | 2026-08-16 | Diário alimentar com IA: eval do pipeline de LLM versionado junto do código |
 | 2 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-08-16 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 3 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-08-16 | Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdicts |
-| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24274 | TypeScript | 2026-08-16 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24275 | TypeScript | 2026-08-16 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 5 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-08-16 | Bilingual reduced-fare policy assistant for eighteen California transit agencies, grounded in dated citations and shippe |
 | 6 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-08-16 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
 | 7 | [sinakazemnezhad/agent-security-bench](https://github.com/sinakazemnezhad/agent-security-bench) | 0 | Python | 2026-08-16 | Open bench for AI coding-agent ML eval + agent security (prompt injection, jailbreak, tool overreach) with machine-reada |
