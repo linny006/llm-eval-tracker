@@ -1,5 +1,14 @@
 [
   {
+    "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
+    "id": "cannonade-ai/cannonade",
+    "language": "TypeScript",
+    "name": "cannonade-ai/cannonade",
+    "stars": 0,
+    "updated_at": "2026-08-16T17:32:46Z",
+    "url": "https://github.com/cannonade-ai/cannonade"
+  },
+  {
     "description": "Di\u00e1rio alimentar com IA: eval do pipeline de LLM versionado junto do c\u00f3digo",
     "id": "gabriel-ngrs/CalorIA",
     "language": "Python",
@@ -77,7 +86,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11072,
-    "updated_at": "2026-08-16T17:03:41Z",
+    "updated_at": "2026-08-16T17:47:36Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-30T17:05:20Z",
     "url": "https://github.com/SFX-TECH/sfx-lead-intelligence"
-  },
-  {
-    "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
-    "id": "lftherios/session-link",
-    "language": "Go",
-    "name": "lftherios/session-link",
-    "stars": 0,
-    "updated_at": "2026-07-30T11:48:57Z",
-    "url": "https://github.com/lftherios/session-link"
   }
 ]
