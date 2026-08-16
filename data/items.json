@@ -1,5 +1,14 @@
 [
   {
+    "description": "A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance?",
+    "id": "sx4im/skillcheck",
+    "language": "TypeScript",
+    "name": "sx4im/skillcheck",
+    "stars": 25,
+    "updated_at": "2026-08-16T06:57:42Z",
+    "url": "https://github.com/sx4im/skillcheck"
+  },
+  {
     "description": "Open bench for AI coding-agent ML eval + agent security (prompt injection, jailbreak, tool overreach) with machine-reada",
     "id": "sinakazemnezhad/agent-security-bench",
     "language": "Python",
@@ -67,7 +76,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24262,
+    "stars": 24263,
     "updated_at": "2026-08-15T23:18:51Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -139,7 +148,7 @@
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3510,
+    "stars": 3511,
     "updated_at": "2026-08-14T16:08:33Z",
     "url": "https://github.com/truera/trulens"
   },
@@ -214,15 +223,6 @@
     "stars": 3,
     "updated_at": "2026-08-12T03:20:12Z",
     "url": "https://github.com/homemade-software-inc/completion-kit"
-  },
-  {
-    "description": "A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance?",
-    "id": "sx4im/skillcheck",
-    "language": "TypeScript",
-    "name": "sx4im/skillcheck",
-    "stars": 25,
-    "updated_at": "2026-08-16T05:25:39Z",
-    "url": "https://github.com/sx4im/skillcheck"
   },
   {
     "description": "Independent CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep, OpenViking); publishes raw eval logs.",
