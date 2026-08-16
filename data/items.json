@@ -1,5 +1,23 @@
 [
   {
+    "description": "Di\u00e1rio alimentar com IA: eval do pipeline de LLM versionado junto do c\u00f3digo",
+    "id": "gabriel-ngrs/CalorIA",
+    "language": "Python",
+    "name": "gabriel-ngrs/CalorIA",
+    "stars": 1,
+    "updated_at": "2026-08-16T16:29:39Z",
+    "url": "https://github.com/gabriel-ngrs/CalorIA"
+  },
+  {
+    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
+    "id": "Kondwani10/Origin-Continuum",
+    "language": "\u2014",
+    "name": "Kondwani10/Origin-Continuum",
+    "stars": 0,
+    "updated_at": "2026-08-16T16:19:59Z",
+    "url": "https://github.com/Kondwani10/Origin-Continuum"
+  },
+  {
     "description": "Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdicts",
     "id": "ChelseaKR/plumbline",
     "language": "Python",
@@ -171,15 +189,6 @@
     "url": "https://github.com/karlmehta/trustmodel-mcp"
   },
   {
-    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
-    "id": "Kondwani10/Origin-Continuum",
-    "language": "\u2014",
-    "name": "Kondwani10/Origin-Continuum",
-    "stars": 0,
-    "updated_at": "2026-08-14T01:59:38Z",
-    "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
     "description": "Tool-calling eval harness + pre-execution safety gate for voice agents: scores whether the right tool was called with th",
     "id": "rithvik-bk/voiceos-eval",
     "language": "JavaScript",
@@ -277,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T04:12:17Z",
     "url": "https://github.com/camerontjs-dot/agent-eval-notes"
-  },
-  {
-    "description": "Di\u00e1rio alimentar com IA: eval do pipeline de LLM versionado junto do c\u00f3digo",
-    "id": "gabriel-ngrs/CalorIA",
-    "language": "Python",
-    "name": "gabriel-ngrs/CalorIA",
-    "stars": 1,
-    "updated_at": "2026-08-16T16:02:58Z",
-    "url": "https://github.com/gabriel-ngrs/CalorIA"
   },
   {
     "description": "Turn real traffic/traces into a versioned, deduped, coverage-tracked LLM regression suite \u2014 a curation accelerator with ",
