@@ -1,11 +1,20 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24276,
+    "updated_at": "2026-08-16T18:05:51Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
     "id": "cannonade-ai/cannonade",
     "language": "TypeScript",
     "name": "cannonade-ai/cannonade",
     "stars": 0,
-    "updated_at": "2026-08-16T17:32:46Z",
+    "updated_at": "2026-08-16T18:40:19Z",
     "url": "https://github.com/cannonade-ai/cannonade"
   },
   {
@@ -36,21 +45,12 @@
     "url": "https://github.com/ChelseaKR/plumbline"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24275,
-    "updated_at": "2026-08-16T18:05:51Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Bilingual reduced-fare policy assistant for eighteen California transit agencies, grounded in dated citations and shippe",
     "id": "ChelseaKR/fare-policy-assistant",
     "language": "HTML",
     "name": "ChelseaKR/fare-policy-assistant",
     "stars": 1,
-    "updated_at": "2026-08-16T13:50:51Z",
+    "updated_at": "2026-08-16T18:39:13Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
