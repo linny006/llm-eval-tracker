@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "ChelseaKR/plumbline",
     "stars": 1,
-    "updated_at": "2026-08-16T00:54:14Z",
+    "updated_at": "2026-08-16T01:15:12Z",
     "url": "https://github.com/ChelseaKR/plumbline"
   },
   {
@@ -14,7 +14,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11065,
-    "updated_at": "2026-08-16T00:51:55Z",
+    "updated_at": "2026-08-16T01:00:47Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -50,7 +50,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 334,
-    "updated_at": "2026-08-15T17:49:08Z",
+    "updated_at": "2026-08-16T01:03:38Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -270,6 +270,15 @@
     "url": "https://github.com/gabriel-ngrs/CalorIA"
   },
   {
+    "description": "Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python callable",
+    "id": "ChelseaKR/gauntlet",
+    "language": "Python",
+    "name": "ChelseaKR/gauntlet",
+    "stars": 1,
+    "updated_at": "2026-08-08T22:29:01Z",
+    "url": "https://github.com/ChelseaKR/gauntlet"
+  },
+  {
     "description": "Turn real traffic/traces into a versioned, deduped, coverage-tracked LLM regression suite \u2014 a curation accelerator with ",
     "id": "AshwinUgale/goldset",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-29T20:49:22Z",
     "url": "https://github.com/isatimur/mash-core"
-  },
-  {
-    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
-    "id": "gmitt98/fieldtest",
-    "language": "Python",
-    "name": "gmitt98/fieldtest",
-    "stars": 0,
-    "updated_at": "2026-07-29T19:25:27Z",
-    "url": "https://github.com/gmitt98/fieldtest"
   }
 ]
