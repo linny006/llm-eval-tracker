@@ -1,5 +1,14 @@
 [
   {
+    "description": "Open bench for AI coding-agent ML eval + agent security (prompt injection, jailbreak, tool overreach) with machine-reada",
+    "id": "sinakazemnezhad/agent-security-bench",
+    "language": "Python",
+    "name": "sinakazemnezhad/agent-security-bench",
+    "stars": 0,
+    "updated_at": "2026-08-16T07:33:12Z",
+    "url": "https://github.com/sinakazemnezhad/agent-security-bench"
+  },
+  {
     "description": "A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance?",
     "id": "sx4im/skillcheck",
     "language": "TypeScript",
@@ -7,15 +16,6 @@
     "stars": 25,
     "updated_at": "2026-08-16T07:16:32Z",
     "url": "https://github.com/sx4im/skillcheck"
-  },
-  {
-    "description": "Open bench for AI coding-agent ML eval + agent security (prompt injection, jailbreak, tool overreach) with machine-reada",
-    "id": "sinakazemnezhad/agent-security-bench",
-    "language": "Python",
-    "name": "sinakazemnezhad/agent-security-bench",
-    "stars": 0,
-    "updated_at": "2026-08-16T06:06:49Z",
-    "url": "https://github.com/sinakazemnezhad/agent-security-bench"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -76,7 +76,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24264,
+    "stars": 24265,
     "updated_at": "2026-08-15T23:18:51Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
