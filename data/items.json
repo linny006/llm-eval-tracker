@@ -1,5 +1,14 @@
 [
   {
+    "description": "Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python callable",
+    "id": "ChelseaKR/gauntlet",
+    "language": "Python",
+    "name": "ChelseaKR/gauntlet",
+    "stars": 1,
+    "updated_at": "2026-08-16T04:49:33Z",
+    "url": "https://github.com/ChelseaKR/gauntlet"
+  },
+  {
     "description": "Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdicts",
     "id": "ChelseaKR/plumbline",
     "language": "Python",
@@ -268,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-08-09T06:28:45Z",
     "url": "https://github.com/gabriel-ngrs/CalorIA"
-  },
-  {
-    "description": "Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python callable",
-    "id": "ChelseaKR/gauntlet",
-    "language": "Python",
-    "name": "ChelseaKR/gauntlet",
-    "stars": 1,
-    "updated_at": "2026-08-08T22:29:01Z",
-    "url": "https://github.com/ChelseaKR/gauntlet"
   },
   {
     "description": "Turn real traffic/traces into a versioned, deduped, coverage-tracked LLM regression suite \u2014 a curation accelerator with ",
