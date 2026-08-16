@@ -49,9 +49,18 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24279,
+    "stars": 24280,
     "updated_at": "2026-08-16T18:05:51Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11073,
+    "updated_at": "2026-08-16T17:47:36Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Di\u00e1rio alimentar com IA: eval do pipeline de LLM versionado junto do c\u00f3digo",
@@ -97,15 +106,6 @@
     "stars": 25,
     "updated_at": "2026-08-16T07:16:32Z",
     "url": "https://github.com/sx4im/skillcheck"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11072,
-    "updated_at": "2026-08-16T17:47:36Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python callable",
