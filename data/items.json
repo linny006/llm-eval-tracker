@@ -1,5 +1,14 @@
 [
   {
+    "description": "Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdicts",
+    "id": "ChelseaKR/plumbline",
+    "language": "Python",
+    "name": "ChelseaKR/plumbline",
+    "stars": 1,
+    "updated_at": "2026-08-16T00:37:41Z",
+    "url": "https://github.com/ChelseaKR/plumbline"
+  },
+  {
     "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
     "id": "multivon-ai/multivon-eval",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-29T19:25:27Z",
     "url": "https://github.com/gmitt98/fieldtest"
-  },
-  {
-    "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
-    "id": "NoesisVision/nasde-toolkit",
-    "language": "Python",
-    "name": "NoesisVision/nasde-toolkit",
-    "stars": 11,
-    "updated_at": "2026-07-29T12:18:04Z",
-    "url": "https://github.com/NoesisVision/nasde-toolkit"
   }
 ]
