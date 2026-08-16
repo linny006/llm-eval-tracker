@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24265,
+    "updated_at": "2026-08-16T08:52:48Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Open bench for AI coding-agent ML eval + agent security (prompt injection, jailbreak, tool overreach) with machine-reada",
     "id": "sinakazemnezhad/agent-security-bench",
     "language": "Python",
@@ -22,7 +31,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11070,
+    "stars": 11071,
     "updated_at": "2026-08-16T06:02:05Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -70,15 +79,6 @@
     "stars": 335,
     "updated_at": "2026-08-16T01:03:38Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24264,
-    "updated_at": "2026-08-16T08:52:48Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
