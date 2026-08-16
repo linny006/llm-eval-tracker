@@ -1,5 +1,23 @@
 [
   {
+    "description": "Open bench for AI coding-agent ML eval + agent security (prompt injection, jailbreak, tool overreach) with machine-reada",
+    "id": "sinakazemnezhad/agent-security-bench",
+    "language": "Python",
+    "name": "sinakazemnezhad/agent-security-bench",
+    "stars": 0,
+    "updated_at": "2026-08-16T06:06:49Z",
+    "url": "https://github.com/sinakazemnezhad/agent-security-bench"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11068,
+    "updated_at": "2026-08-16T06:02:05Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python callable",
     "id": "ChelseaKR/gauntlet",
     "language": "Python",
@@ -27,15 +45,6 @@
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11067,
-    "updated_at": "2026-08-16T05:40:37Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
     "id": "multivon-ai/multivon-eval",
     "language": "Python",
@@ -45,22 +54,22 @@
     "url": "https://github.com/multivon-ai/multivon-eval"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24260,
-    "updated_at": "2026-08-15T23:18:51Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
-    "stars": 334,
+    "stars": 335,
     "updated_at": "2026-08-16T01:03:38Z",
     "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24261,
+    "updated_at": "2026-08-15T23:18:51Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-30T11:48:57Z",
     "url": "https://github.com/lftherios/session-link"
-  },
-  {
-    "description": "",
-    "id": "isatimur/mash-core",
-    "language": "Python",
-    "name": "isatimur/mash-core",
-    "stars": 0,
-    "updated_at": "2026-07-29T20:49:22Z",
-    "url": "https://github.com/isatimur/mash-core"
   }
 ]
