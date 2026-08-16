@@ -1,5 +1,14 @@
 [
   {
+    "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
+    "id": "valbaudo/awf",
+    "language": "Go",
+    "name": "valbaudo/awf",
+    "stars": 1,
+    "updated_at": "2026-08-16T09:55:59Z",
+    "url": "https://github.com/valbaudo/awf"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -79,15 +88,6 @@
     "stars": 335,
     "updated_at": "2026-08-16T01:03:38Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
-    "id": "valbaudo/awf",
-    "language": "Go",
-    "name": "valbaudo/awf",
-    "stars": 1,
-    "updated_at": "2026-08-15T15:48:53Z",
-    "url": "https://github.com/valbaudo/awf"
   },
   {
     "description": "Bilingual reduced-fare policy assistant for eighteen California transit agencies, grounded in dated citations and shippe",
