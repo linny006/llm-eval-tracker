@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5755,
+    "updated_at": "2026-08-17T01:44:03Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -196,15 +205,6 @@
     "stars": 3511,
     "updated_at": "2026-08-14T16:08:33Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5755,
-    "updated_at": "2026-08-17T01:25:08Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "TrustModel MCP Server \u2014 trust evaluation, red-team & governance for AI agents via the Model Context Protocol. Public can",
