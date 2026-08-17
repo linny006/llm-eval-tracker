@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-17 05:06 UTC
+> ⏰ Last updated: 2026-08-17 05:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -90,7 +90,7 @@ expired items removed — so you can rely on what you see being current.
 | 46 | [mac-builds-things/agent-evals-harness](https://github.com/mac-builds-things/agent-evals-harness) | 0 | Python | 2026-08-03 | Stop evaluating agents by feel. Scenario library, scoring rubric, and regression detection. |
 | 47 | [harnexa/nexa-gauge](https://github.com/harnexa/nexa-gauge) | 40 | Python | 2026-08-03 | An graph-eval framework for LLM's  |
 | 48 | [Steel-predictor-project/steel-llm-eval](https://github.com/Steel-predictor-project/steel-llm-eval) | 0 | Python | 2026-08-01 | Open benchmark: how well can LLMs predict knife-steel properties (edge retention, toughness) from chemical composition,  |
-| 49 | [pdxlab/trustmodel-mcp-server](https://github.com/pdxlab/trustmodel-mcp-server) | 0 | TypeScript | 2026-08-12 | TrustModel MCP Server — trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t |
+| 49 | [pdxlab/trustmodel-mcp-server](https://github.com/pdxlab/trustmodel-mcp-server) | 0 | TypeScript | 2026-08-17 | TrustModel MCP Server — trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t |
 | 50 | [guildshelf/free-skills](https://github.com/guildshelf/free-skills) | 0 | Python | 2026-08-01 | Free Apache-2.0 skills for Claude Code, plus trigger-probe — the open-source tool we used to measure all 18 of our paid  |
 <!-- TRACKER_TABLE_END -->
 
