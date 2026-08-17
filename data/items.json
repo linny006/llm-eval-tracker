@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-08-17T13:05:31Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -13,7 +22,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24307,
+    "stars": 24308,
     "updated_at": "2026-08-17T09:00:11Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5755,
-    "updated_at": "2026-08-17T08:05:07Z",
+    "updated_at": "2026-08-17T13:02:48Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -43,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-08-17T06:26:25Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
-    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-08-17T05:41:26Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "Independent CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep, OpenViking); publishes raw eval logs.",
@@ -194,7 +194,7 @@
     "language": "\u2014",
     "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "stars": 0,
-    "updated_at": "2026-08-15T05:41:10Z",
+    "updated_at": "2026-08-17T13:15:02Z",
     "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
   },
   {
@@ -203,7 +203,7 @@
     "language": "PowerShell",
     "name": "bhavya7995/AI_governance",
     "stars": 1,
-    "updated_at": "2026-08-15T05:39:56Z",
+    "updated_at": "2026-08-17T13:14:32Z",
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
