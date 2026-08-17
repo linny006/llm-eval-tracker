@@ -1,5 +1,14 @@
 [
   {
+    "description": "Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python callable",
+    "id": "ChelseaKR/gauntlet",
+    "language": "Python",
+    "name": "ChelseaKR/gauntlet",
+    "stars": 1,
+    "updated_at": "2026-08-17T04:13:04Z",
+    "url": "https://github.com/ChelseaKR/gauntlet"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "gabriel-ngrs/CalorIA",
     "stars": 1,
-    "updated_at": "2026-08-17T02:34:37Z",
+    "updated_at": "2026-08-17T04:06:26Z",
     "url": "https://github.com/gabriel-ngrs/CalorIA"
   },
   {
@@ -94,7 +103,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11074,
+    "stars": 11075,
     "updated_at": "2026-08-16T17:47:36Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -115,15 +124,6 @@
     "stars": 25,
     "updated_at": "2026-08-16T07:16:32Z",
     "url": "https://github.com/sx4im/skillcheck"
-  },
-  {
-    "description": "Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python callable",
-    "id": "ChelseaKR/gauntlet",
-    "language": "Python",
-    "name": "ChelseaKR/gauntlet",
-    "stars": 1,
-    "updated_at": "2026-08-17T03:15:36Z",
-    "url": "https://github.com/ChelseaKR/gauntlet"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
