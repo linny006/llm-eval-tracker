@@ -1,11 +1,20 @@
 [
   {
+    "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
+    "id": "valbaudo/awf",
+    "language": "Go",
+    "name": "valbaudo/awf",
+    "stars": 1,
+    "updated_at": "2026-08-17T02:23:21Z",
+    "url": "https://github.com/valbaudo/awf"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5755,
-    "updated_at": "2026-08-17T01:50:49Z",
+    "updated_at": "2026-08-17T02:25:05Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -88,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T16:29:39Z",
     "url": "https://github.com/gabriel-ngrs/CalorIA"
-  },
-  {
-    "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
-    "id": "valbaudo/awf",
-    "language": "Go",
-    "name": "valbaudo/awf",
-    "stars": 1,
-    "updated_at": "2026-08-16T12:18:46Z",
-    "url": "https://github.com/valbaudo/awf"
   },
   {
     "description": "Open bench for AI coding-agent ML eval + agent security (prompt injection, jailbreak, tool overreach) with machine-reada",
