@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24313,
+    "updated_at": "2026-08-17T19:17:22Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdicts, byte",
     "id": "ChelseaKR/plumbline",
     "language": "Python",
@@ -9,20 +18,11 @@
     "url": "https://github.com/ChelseaKR/plumbline"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24313,
-    "updated_at": "2026-08-17T19:15:02Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11088,
+    "stars": 11087,
     "updated_at": "2026-08-17T18:09:40Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
