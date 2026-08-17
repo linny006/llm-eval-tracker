@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24317,
+    "updated_at": "2026-08-17T21:44:20Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Di\u00e1rio alimentar com IA: eval do pipeline de LLM versionado junto do c\u00f3digo",
     "id": "gabriel-ngrs/CalorIA",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 1,
     "updated_at": "2026-08-17T20:42:11Z",
     "url": "https://github.com/gabriel-ngrs/CalorIA"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24316,
-    "updated_at": "2026-08-17T20:15:10Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
@@ -50,7 +50,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11088,
-    "updated_at": "2026-08-17T20:34:37Z",
+    "updated_at": "2026-08-17T21:41:29Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
