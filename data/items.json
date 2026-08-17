@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 0,
+    "updated_at": "2026-08-17T05:41:26Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -7,6 +16,15 @@
     "stars": 5755,
     "updated_at": "2026-08-17T05:29:24Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24288,
+    "updated_at": "2026-08-17T04:55:42Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Independent CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep, OpenViking); publishes raw eval logs.",
@@ -18,6 +36,15 @@
     "url": "https://github.com/RudrenduPaul/memtrust"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11076,
+    "updated_at": "2026-08-17T04:22:53Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python callable",
     "id": "ChelseaKR/gauntlet",
     "language": "Python",
@@ -25,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-08-17T04:13:04Z",
     "url": "https://github.com/ChelseaKR/gauntlet"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24287,
-    "updated_at": "2026-08-17T04:55:42Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Di\u00e1rio alimentar com IA: eval do pipeline de LLM versionado junto do c\u00f3digo",
@@ -106,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T19:59:52Z",
     "url": "https://github.com/ChelseaKR/sprout"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11075,
-    "updated_at": "2026-08-17T04:22:53Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Open bench for AI coding-agent ML eval + agent security (prompt injection, jailbreak, tool overreach) with machine-reada",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-17T05:14:57Z",
     "url": "https://github.com/pdxlab/trustmodel-mcp-server"
-  },
-  {
-    "description": "Free Apache-2.0 skills for Claude Code, plus trigger-probe \u2014 the open-source tool we used to measure all 18 of our paid ",
-    "id": "guildshelf/free-skills",
-    "language": "Python",
-    "name": "guildshelf/free-skills",
-    "stars": 0,
-    "updated_at": "2026-08-01T12:22:32Z",
-    "url": "https://github.com/guildshelf/free-skills"
   }
 ]
