@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-17 01:01 UTC
+> ⏰ Last updated: 2026-08-17 01:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -57,7 +57,7 @@ expired items removed — so you can rely on what you see being current.
 | 13 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-08-16 | Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python callable |
 | 14 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-08-16 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 15 | [multivon-ai/multivon-eval](https://github.com/multivon-ai/multivon-eval) | 8 | Python | 2026-08-16 | Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI |
-| 16 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 335 | TypeScript | 2026-08-16 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 16 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 335 | TypeScript | 2026-08-17 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 17 | [camerontjs-dot/verified-done](https://github.com/camerontjs-dot/verified-done) | 0 | Python | 2026-08-15 | Does done mean done? Coding-agent honesty demo: verified pass vs false completion vs scope violation. Public demo split  |
 | 18 | [IonDen/mlx-quant-fidelity](https://github.com/IonDen/mlx-quant-fidelity) | 3 | Python | 2026-08-15 | Measure MLX quantization quality loss — KL divergence, perplexity, top-token agreement for KV cache and weights |
 | 19 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-08-15 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
