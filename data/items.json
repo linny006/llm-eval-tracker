@@ -1,5 +1,23 @@
 [
   {
+    "description": "Di\u00e1rio alimentar com IA: eval do pipeline de LLM versionado junto do c\u00f3digo",
+    "id": "gabriel-ngrs/CalorIA",
+    "language": "Python",
+    "name": "gabriel-ngrs/CalorIA",
+    "stars": 1,
+    "updated_at": "2026-08-17T20:42:11Z",
+    "url": "https://github.com/gabriel-ngrs/CalorIA"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24315,
+    "updated_at": "2026-08-17T20:15:10Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -27,21 +45,12 @@
     "url": "https://github.com/ChelseaKR/plumbline"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24314,
-    "updated_at": "2026-08-17T20:15:10Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11088,
-    "updated_at": "2026-08-17T18:09:40Z",
+    "updated_at": "2026-08-17T20:34:37Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -97,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-17T12:05:36Z",
     "url": "https://github.com/ChelseaKR/gauntlet"
-  },
-  {
-    "description": "Di\u00e1rio alimentar com IA: eval do pipeline de LLM versionado junto do c\u00f3digo",
-    "id": "gabriel-ngrs/CalorIA",
-    "language": "Python",
-    "name": "gabriel-ngrs/CalorIA",
-    "stars": 1,
-    "updated_at": "2026-08-17T20:30:06Z",
-    "url": "https://github.com/gabriel-ngrs/CalorIA"
   },
   {
     "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
