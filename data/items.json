@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24287,
+    "updated_at": "2026-08-17T03:11:48Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Di\u00e1rio alimentar com IA: eval do pipeline de LLM versionado junto do c\u00f3digo",
     "id": "gabriel-ngrs/CalorIA",
     "language": "Python",
@@ -25,15 +34,6 @@
     "stars": 5755,
     "updated_at": "2026-08-17T02:25:05Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24287,
-    "updated_at": "2026-08-17T02:57:25Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -149,7 +149,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 335,
-    "updated_at": "2026-08-17T01:18:54Z",
+    "updated_at": "2026-08-17T03:05:44Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
