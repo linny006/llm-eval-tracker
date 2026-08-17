@@ -1,10 +1,19 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11088,
+    "updated_at": "2026-08-17T12:22:17Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24305,
+    "stars": 24307,
     "updated_at": "2026-08-17T09:00:11Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -52,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-08-17T04:46:19Z",
     "url": "https://github.com/RudrenduPaul/memtrust"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11087,
-    "updated_at": "2026-08-17T12:22:17Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python callable",
