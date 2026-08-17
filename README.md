@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-17 11:15 UTC
+> ⏰ Last updated: 2026-08-17 11:29 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -48,7 +48,7 @@ expired items removed — so you can rely on what you see being current.
 | 4 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-08-17 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 5 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-08-17 | 📐 Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
 | 6 | [RudrenduPaul/memtrust](https://github.com/RudrenduPaul/memtrust) | 0 | Python | 2026-08-17 | Independent CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep, OpenViking); publishes raw eval logs. |
-| 7 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11085 | Python | 2026-08-17 | AI Observability & Evaluation |
+| 7 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11086 | Python | 2026-08-17 | AI Observability & Evaluation |
 | 8 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-08-17 | Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python callable |
 | 9 | [gabriel-ngrs/CalorIA](https://github.com/gabriel-ngrs/CalorIA) | 1 | Python | 2026-08-17 | Diário alimentar com IA: eval do pipeline de LLM versionado junto do código |
 | 10 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-08-17 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
