@@ -1,5 +1,14 @@
 [
   {
+    "description": "LLM Agent Evaluation Platform",
+    "id": "modwin/agent-eval-framework",
+    "language": "Python",
+    "name": "modwin/agent-eval-framework",
+    "stars": 0,
+    "updated_at": "2026-08-18T12:59:38Z",
+    "url": "https://github.com/modwin/agent-eval-framework"
+  },
+  {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
     "id": "ahmedmoha9088/PhoenixFish",
     "language": "Java",
@@ -58,7 +67,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24338,
+    "stars": 24340,
     "updated_at": "2026-08-18T03:57:47Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -439,14 +448,5 @@
     "stars": 40,
     "updated_at": "2026-08-03T09:25:37Z",
     "url": "https://github.com/harnexa/nexa-gauge"
-  },
-  {
-    "description": "Open benchmark: how well can LLMs predict knife-steel properties (edge retention, toughness) from chemical composition, ",
-    "id": "Steel-predictor-project/steel-llm-eval",
-    "language": "Python",
-    "name": "Steel-predictor-project/steel-llm-eval",
-    "stars": 0,
-    "updated_at": "2026-08-01T18:57:15Z",
-    "url": "https://github.com/Steel-predictor-project/steel-llm-eval"
   }
 ]
