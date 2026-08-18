@@ -1,10 +1,19 @@
 [
   {
+    "description": "Open, domain-specific evaluation datasets and binary judges for Retail & CPG generative-AI tasks. ",
+    "id": "j-newcom/retail-cpg-eval-datasets",
+    "language": "Python",
+    "name": "j-newcom/retail-cpg-eval-datasets",
+    "stars": 0,
+    "updated_at": "2026-08-18T14:15:39Z",
+    "url": "https://github.com/j-newcom/retail-cpg-eval-datasets"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11094,
+    "stars": 11095,
     "updated_at": "2026-08-18T13:50:20Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -223,15 +232,6 @@
     "stars": 3,
     "updated_at": "2026-08-18T07:17:33Z",
     "url": "https://github.com/IonDen/mlx-quant-fidelity"
-  },
-  {
-    "description": "Open, domain-specific evaluation datasets and binary judges for Retail & CPG generative-AI tasks. ",
-    "id": "j-newcom/retail-cpg-eval-datasets",
-    "language": "Python",
-    "name": "j-newcom/retail-cpg-eval-datasets",
-    "stars": 0,
-    "updated_at": "2026-08-14T16:54:13Z",
-    "url": "https://github.com/j-newcom/retail-cpg-eval-datasets"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
