@@ -1,11 +1,20 @@
 [
   {
+    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-08-18T15:09:12Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24343,
-    "updated_at": "2026-08-18T15:13:24Z",
+    "updated_at": "2026-08-18T15:29:56Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11095,
-    "updated_at": "2026-08-18T14:40:10Z",
+    "updated_at": "2026-08-18T15:30:11Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -70,15 +79,6 @@
     "stars": 337,
     "updated_at": "2026-08-18T09:52:16Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-08-18T15:09:12Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
