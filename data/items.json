@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11094,
+    "updated_at": "2026-08-18T13:50:20Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "LLM Agent Evaluation Platform",
     "id": "modwin/agent-eval-framework",
     "language": "Python",
@@ -45,15 +54,6 @@
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11093,
-    "updated_at": "2026-08-18T08:51:26Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
     "id": "decimal-labs/decimalai-python",
     "language": "Python",
@@ -67,8 +67,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24340,
-    "updated_at": "2026-08-18T03:57:47Z",
+    "stars": 24342,
+    "updated_at": "2026-08-18T13:59:23Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
