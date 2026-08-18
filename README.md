@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-18 09:45 UTC
+> ⏰ Last updated: 2026-08-18 09:57 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [sunxin-ai/dsh-design-qa](https://github.com/sunxin-ai/dsh-design-qa) | 1 | JavaScript | 2026-08-18 | Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches  |
-| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11092 | Python | 2026-08-18 | AI Observability & Evaluation |
-| 3 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 337 | TypeScript | 2026-08-18 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 1 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 337 | TypeScript | 2026-08-18 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 2 | [sunxin-ai/dsh-design-qa](https://github.com/sunxin-ai/dsh-design-qa) | 1 | JavaScript | 2026-08-18 | Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches  |
+| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11092 | Python | 2026-08-18 | AI Observability & Evaluation |
 | 4 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-08-18 | 📐 Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
-| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24332 | TypeScript | 2026-08-18 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24331 | TypeScript | 2026-08-18 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 6 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5757 | Python | 2026-08-18 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 7 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-08-18 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
 | 8 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-08-18 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
