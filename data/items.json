@@ -1,5 +1,14 @@
 [
   {
+    "description": "Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring AI ",
+    "id": "fabio-barboza/logistic-platform",
+    "language": "Java",
+    "name": "fabio-barboza/logistic-platform",
+    "stars": 0,
+    "updated_at": "2026-08-18T22:47:18Z",
+    "url": "https://github.com/fabio-barboza/logistic-platform"
+  },
+  {
     "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
     "id": "cannonade-ai/cannonade",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T16:32:25Z",
     "url": "https://github.com/mac-builds-things/agent-evals-harness"
-  },
-  {
-    "description": "An graph-eval framework for LLM's ",
-    "id": "harnexa/nexa-gauge",
-    "language": "Python",
-    "name": "harnexa/nexa-gauge",
-    "stars": 40,
-    "updated_at": "2026-08-03T09:25:37Z",
-    "url": "https://github.com/harnexa/nexa-gauge"
   }
 ]
