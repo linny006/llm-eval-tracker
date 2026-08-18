@@ -1,11 +1,20 @@
 [
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5755,
+    "updated_at": "2026-08-18T01:43:36Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11087,
-    "updated_at": "2026-08-18T00:47:07Z",
+    "updated_at": "2026-08-18T01:44:15Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -79,15 +88,6 @@
     "stars": 336,
     "updated_at": "2026-08-17T19:32:54Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5755,
-    "updated_at": "2026-08-18T01:23:58Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
