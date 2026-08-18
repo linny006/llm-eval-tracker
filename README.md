@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-18 18:15 UTC
+> ⏰ Last updated: 2026-08-18 18:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -61,7 +61,7 @@ expired items removed — so you can rely on what you see being current.
 | 17 | [RudrenduPaul/memtrust](https://github.com/RudrenduPaul/memtrust) | 0 | Python | 2026-08-17 | Independent CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep, OpenViking); publishes raw eval logs. |
 | 18 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-08-17 | Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python callable |
 | 19 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-08-17 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
-| 20 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-08-16 | Bilingual reduced-fare policy assistant for eighteen California transit agencies, grounded in dated citations and shippe |
+| 20 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-08-18 | Bilingual reduced-fare policy assistant for eighteen California transit agencies, grounded in dated citations and shippe |
 | 21 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-08-17 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
 | 22 | [sinakazemnezhad/agent-security-bench](https://github.com/sinakazemnezhad/agent-security-bench) | 0 | Python | 2026-08-16 | Open bench for AI coding-agent ML eval + agent security (prompt injection, jailbreak, tool overreach) with machine-reada |
 | 23 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 25 | TypeScript | 2026-08-18 | A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance? |
