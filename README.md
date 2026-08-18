@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-18 05:00 UTC
+> ⏰ Last updated: 2026-08-18 05:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-08-18 | 📐 Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
-| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24320 | TypeScript | 2026-08-18 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 3 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5755 | Python | 2026-08-18 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11090 | Python | 2026-08-18 | AI Observability & Evaluation |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11091 | Python | 2026-08-18 | AI Observability & Evaluation |
+| 2 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-08-18 | 📐 Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
+| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24320 | TypeScript | 2026-08-18 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 4 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5755 | Python | 2026-08-18 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 5 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-08-18 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
 | 6 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-08-18 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
 | 7 | [cannonade-ai/cannonade](https://github.com/cannonade-ai/cannonade) | 0 | TypeScript | 2026-08-17 | Local-first desktop app for building LLM test suites and running them against many local or cloud models at once |
