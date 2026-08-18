@@ -1,12 +1,12 @@
 [
   {
-    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-08-18T15:09:12Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
+    "name": "Arize-ai/phoenix",
+    "stars": 11095,
+    "updated_at": "2026-08-18T15:30:11Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -14,8 +14,17 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24343,
-    "updated_at": "2026-08-18T15:29:56Z",
+    "updated_at": "2026-08-18T15:43:32Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-08-18T15:40:49Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "Open, domain-specific evaluation datasets and binary judges for Retail & CPG generative-AI tasks. ",
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T14:15:39Z",
     "url": "https://github.com/j-newcom/retail-cpg-eval-datasets"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11095,
-    "updated_at": "2026-08-18T15:30:11Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "LLM Agent Evaluation Platform",
