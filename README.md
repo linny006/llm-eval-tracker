@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-18 22:48 UTC
+> ⏰ Last updated: 2026-08-18 23:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,7 +43,7 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [fabio-barboza/logistic-platform](https://github.com/fabio-barboza/logistic-platform) | 0 | Java | 2026-08-18 | Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring AI  |
-| 2 | [cannonade-ai/cannonade](https://github.com/cannonade-ai/cannonade) | 0 | TypeScript | 2026-08-18 | Local-first desktop app for building LLM test suites and running them against many local or cloud models at once |
+| 2 | [cannonade-ai/cannonade](https://github.com/cannonade-ai/cannonade) | 1 | TypeScript | 2026-08-18 | Local-first desktop app for building LLM test suites and running them against many local or cloud models at once |
 | 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11096 | Python | 2026-08-18 | AI Observability & Evaluation |
 | 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24349 | TypeScript | 2026-08-18 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 5 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-08-18 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
