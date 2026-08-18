@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11096,
+    "updated_at": "2026-08-18T17:17:09Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -16,15 +25,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T17:03:18Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11096,
-    "updated_at": "2026-08-18T17:12:08Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -59,7 +59,7 @@
     "language": "Java",
     "name": "ahmedmoha9088/PhoenixFish",
     "stars": 0,
-    "updated_at": "2026-08-18T10:26:50Z",
+    "updated_at": "2026-08-18T17:20:31Z",
     "url": "https://github.com/ahmedmoha9088/PhoenixFish"
   },
   {
