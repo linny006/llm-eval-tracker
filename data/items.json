@@ -1,12 +1,12 @@
 [
   {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 337,
-    "updated_at": "2026-08-18T09:52:16Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
+    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
+    "id": "saddled-panicattack529/idea-evaluation-pipeline",
+    "language": "\u2014",
+    "name": "saddled-panicattack529/idea-evaluation-pipeline",
+    "stars": 0,
+    "updated_at": "2026-08-18T10:09:49Z",
+    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
     "description": "Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches ",
@@ -14,8 +14,17 @@
     "language": "JavaScript",
     "name": "sunxin-ai/dsh-design-qa",
     "stars": 1,
-    "updated_at": "2026-08-18T09:42:21Z",
+    "updated_at": "2026-08-18T10:03:24Z",
     "url": "https://github.com/sunxin-ai/dsh-design-qa"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 337,
+    "updated_at": "2026-08-18T09:52:16Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -178,15 +187,6 @@
     "stars": 25,
     "updated_at": "2026-08-16T07:16:32Z",
     "url": "https://github.com/sx4im/skillcheck"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-08-16T04:13:26Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
     "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
