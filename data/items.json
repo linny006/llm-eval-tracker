@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24343,
+    "updated_at": "2026-08-18T15:13:24Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Open, domain-specific evaluation datasets and binary judges for Retail & CPG generative-AI tasks. ",
     "id": "j-newcom/retail-cpg-eval-datasets",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T14:15:39Z",
     "url": "https://github.com/j-newcom/retail-cpg-eval-datasets"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24342,
-    "updated_at": "2026-08-18T14:59:32Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -77,7 +77,7 @@
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-08-18T05:22:39Z",
+    "updated_at": "2026-08-18T15:09:12Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
