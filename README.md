@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-19 17:49 UTC
+> ⏰ Last updated: 2026-08-19 18:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,8 +42,8 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [fabio-barboza/logistic-platform](https://github.com/fabio-barboza/logistic-platform) | 0 | Java | 2026-08-19 | Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring AI  |
-| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11112 | Python | 2026-08-19 | AI Observability & Evaluation |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11113 | Python | 2026-08-19 | AI Observability & Evaluation |
+| 2 | [fabio-barboza/logistic-platform](https://github.com/fabio-barboza/logistic-platform) | 0 | Java | 2026-08-19 | Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring AI  |
 | 3 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-08-19 | Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdicts, byte |
 | 4 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-08-19 | Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python callable |
 | 5 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-08-19 | Bilingual reduced-fare policy assistant for eighteen California transit agencies, grounded in dated citations and shippe |
@@ -72,7 +72,7 @@ expired items removed — so you can rely on what you see being current.
 | 28 | [camerontjs-dot/verified-done](https://github.com/camerontjs-dot/verified-done) | 0 | Python | 2026-08-15 | Does done mean done? Coding-agent honesty demo: verified pass vs false completion vs scope violation. Public demo split  |
 | 29 | [IonDen/mlx-quant-fidelity](https://github.com/IonDen/mlx-quant-fidelity) | 3 | Python | 2026-08-18 | Measure MLX quantization quality loss — KL divergence, perplexity, top-token agreement for KV cache and weights |
 | 30 | [AshwinUgale/goldset](https://github.com/AshwinUgale/goldset) | 3 | Python | 2026-08-15 | Turn real traffic/traces into a versioned, deduped, coverage-tracked LLM regression suite — a curation accelerator with  |
-| 31 | [truera/trulens](https://github.com/truera/trulens) | 3515 | Python | 2026-08-14 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 31 | [truera/trulens](https://github.com/truera/trulens) | 3515 | Python | 2026-08-19 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 32 | [karlmehta/trustmodel-mcp](https://github.com/karlmehta/trustmodel-mcp) | 1 | TypeScript | 2026-08-14 | TrustModel MCP Server — trust evaluation, red-team & governance for AI agents via the Model Context Protocol. Public can |
 | 33 | [rithvik-bk/voiceos-eval](https://github.com/rithvik-bk/voiceos-eval) | 0 | JavaScript | 2026-08-13 | Tool-calling eval harness + pre-execution safety gate for voice agents: scores whether the right tool was called with th |
 | 34 | [asavs/mcp-cocktail](https://github.com/asavs/mcp-cocktail) | 0 | Python | 2026-08-13 | Multi-arm evaluation and self-healing guardrails for MCP servers & CLIs |

@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11113,
+    "updated_at": "2026-08-19T17:56:02Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring AI ",
     "id": "fabio-barboza/logistic-platform",
     "language": "Java",
@@ -7,15 +16,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T17:30:02Z",
     "url": "https://github.com/fabio-barboza/logistic-platform"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11112,
-    "updated_at": "2026-08-19T17:36:50Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdicts, byte",
@@ -275,7 +275,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3515,
-    "updated_at": "2026-08-14T16:08:33Z",
+    "updated_at": "2026-08-19T17:58:35Z",
     "url": "https://github.com/truera/trulens"
   },
   {
