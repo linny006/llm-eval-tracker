@@ -1,5 +1,14 @@
 [
   {
+    "description": "Production-grade evaluation framework and automated guardrails for enterprise LLM applications, RAG pipelines, and agent",
+    "id": "eliasfeitan-pixel/llm-eval-framework",
+    "language": "\u2014",
+    "name": "eliasfeitan-pixel/llm-eval-framework",
+    "stars": 1,
+    "updated_at": "2026-08-19T08:28:37Z",
+    "url": "https://github.com/eliasfeitan-pixel/llm-eval-framework"
+  },
+  {
     "description": "Local Outcome lab for agent workflows. Import yours, Run N, judge with validate(output) or human Pass/Fail, export trace",
     "id": "Player-YN/TokSight",
     "language": "Python",
@@ -32,7 +41,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 337,
-    "updated_at": "2026-08-19T08:04:56Z",
+    "updated_at": "2026-08-19T08:16:34Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -76,7 +85,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24361,
+    "stars": 24363,
     "updated_at": "2026-08-18T22:33:59Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -385,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T14:37:43Z",
     "url": "https://github.com/ommiles/compton-eval-analysis"
-  },
-  {
-    "description": "Production-grade evaluation framework and automated guardrails for enterprise LLM applications, RAG pipelines, and agent",
-    "id": "eliasfeitan-pixel/llm-eval-framework",
-    "language": "\u2014",
-    "name": "eliasfeitan-pixel/llm-eval-framework",
-    "stars": 1,
-    "updated_at": "2026-08-07T06:34:31Z",
-    "url": "https://github.com/eliasfeitan-pixel/llm-eval-framework"
   },
   {
     "description": "Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai",
