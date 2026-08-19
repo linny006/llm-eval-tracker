@@ -1,11 +1,20 @@
 [
   {
+    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
+    "id": "multivon-ai/multivon-eval",
+    "language": "Python",
+    "name": "multivon-ai/multivon-eval",
+    "stars": 14,
+    "updated_at": "2026-08-19T18:26:14Z",
+    "url": "https://github.com/multivon-ai/multivon-eval"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11113,
-    "updated_at": "2026-08-19T18:08:55Z",
+    "updated_at": "2026-08-19T18:26:10Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -232,15 +241,6 @@
     "stars": 25,
     "updated_at": "2026-08-18T16:47:07Z",
     "url": "https://github.com/sx4im/skillcheck"
-  },
-  {
-    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
-    "id": "multivon-ai/multivon-eval",
-    "language": "Python",
-    "name": "multivon-ai/multivon-eval",
-    "stars": 14,
-    "updated_at": "2026-08-16T02:05:27Z",
-    "url": "https://github.com/multivon-ai/multivon-eval"
   },
   {
     "description": "Does done mean done? Coding-agent honesty demo: verified pass vs false completion vs scope violation. Public demo split ",
