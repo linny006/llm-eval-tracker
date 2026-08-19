@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-19 09:18 UTC
+> ⏰ Last updated: 2026-08-19 09:28 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -63,7 +63,7 @@ expired items removed — so you can rely on what you see being current.
 | 19 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-08-17 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 20 | [RudrenduPaul/memtrust](https://github.com/RudrenduPaul/memtrust) | 0 | Python | 2026-08-17 | Independent CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep, OpenViking); publishes raw eval logs. |
 | 21 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-08-19 | Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python callable |
-| 22 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-08-17 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
+| 22 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-08-19 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
 | 23 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-08-19 | Bilingual reduced-fare policy assistant for eighteen California transit agencies, grounded in dated citations and shippe |
 | 24 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-08-19 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
 | 25 | [sinakazemnezhad/agent-security-bench](https://github.com/sinakazemnezhad/agent-security-bench) | 0 | Python | 2026-08-16 | Open bench for AI coding-agent ML eval + agent security (prompt injection, jailbreak, tool overreach) with machine-reada |
