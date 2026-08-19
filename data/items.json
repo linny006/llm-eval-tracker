@@ -1,5 +1,14 @@
 [
   {
+    "description": "Local Outcome lab for agent workflows. Import yours, Run N, judge with validate(output) or human Pass/Fail, export trace",
+    "id": "Player-YN/TokSight",
+    "language": "Python",
+    "name": "Player-YN/TokSight",
+    "stars": 0,
+    "updated_at": "2026-08-19T07:46:37Z",
+    "url": "https://github.com/Player-YN/TokSight"
+  },
+  {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
     "id": "ahmedmoha9088/PhoenixFish",
     "language": "Java",
@@ -67,7 +76,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24359,
+    "stars": 24361,
     "updated_at": "2026-08-18T22:33:59Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-04T08:30:05Z",
     "url": "https://github.com/nikolas-sapa/sigeval"
-  },
-  {
-    "description": "Stop evaluating agents by feel. Scenario library, scoring rubric, and regression detection.",
-    "id": "mac-builds-things/agent-evals-harness",
-    "language": "Python",
-    "name": "mac-builds-things/agent-evals-harness",
-    "stars": 0,
-    "updated_at": "2026-08-03T16:32:25Z",
-    "url": "https://github.com/mac-builds-things/agent-evals-harness"
   }
 ]
