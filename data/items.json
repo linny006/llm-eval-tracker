@@ -1,5 +1,14 @@
 [
   {
+    "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
+    "id": "cannonade-ai/cannonade",
+    "language": "TypeScript",
+    "name": "cannonade-ai/cannonade",
+    "stars": 2,
+    "updated_at": "2026-08-19T21:09:16Z",
+    "url": "https://github.com/cannonade-ai/cannonade"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -58,7 +67,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24379,
+    "stars": 24380,
     "updated_at": "2026-08-19T14:23:18Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -86,7 +95,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 338,
-    "updated_at": "2026-08-19T08:31:56Z",
+    "updated_at": "2026-08-19T21:07:23Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -124,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T00:20:48Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
-    "id": "cannonade-ai/cannonade",
-    "language": "TypeScript",
-    "name": "cannonade-ai/cannonade",
-    "stars": 1,
-    "updated_at": "2026-08-19T20:32:56Z",
-    "url": "https://github.com/cannonade-ai/cannonade"
   },
   {
     "description": "Open, domain-specific evaluation datasets and binary judges for Retail & CPG generative-AI tasks. ",
@@ -202,7 +202,7 @@
     "id": "RudrenduPaul/memtrust",
     "language": "Python",
     "name": "RudrenduPaul/memtrust",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-17T04:46:19Z",
     "url": "https://github.com/RudrenduPaul/memtrust"
   },
