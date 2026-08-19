@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-19 16:00 UTC
+> ⏰ Last updated: 2026-08-19 16:10 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -44,7 +44,7 @@ expired items removed — so you can rely on what you see being current.
 |---|------|---|------|---------|-------------|
 | 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11112 | Python | 2026-08-19 | AI Observability & Evaluation |
 | 2 | [fabio-barboza/logistic-platform](https://github.com/fabio-barboza/logistic-platform) | 0 | Java | 2026-08-19 | Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring AI  |
-| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24376 | TypeScript | 2026-08-19 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24377 | TypeScript | 2026-08-19 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 4 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5759 | Python | 2026-08-19 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 5 | [eliasfeitan-pixel/llm-eval-framework](https://github.com/eliasfeitan-pixel/llm-eval-framework) | 1 | — | 2026-08-19 | Production-grade evaluation framework and automated guardrails for enterprise LLM applications, RAG pipelines, and agent |
 | 6 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 338 | TypeScript | 2026-08-19 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
@@ -71,7 +71,7 @@ expired items removed — so you can rely on what you see being current.
 | 27 | [multivon-ai/multivon-eval](https://github.com/multivon-ai/multivon-eval) | 12 | Python | 2026-08-16 | Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI |
 | 28 | [camerontjs-dot/verified-done](https://github.com/camerontjs-dot/verified-done) | 0 | Python | 2026-08-15 | Does done mean done? Coding-agent honesty demo: verified pass vs false completion vs scope violation. Public demo split  |
 | 29 | [IonDen/mlx-quant-fidelity](https://github.com/IonDen/mlx-quant-fidelity) | 3 | Python | 2026-08-18 | Measure MLX quantization quality loss — KL divergence, perplexity, top-token agreement for KV cache and weights |
-| 30 | [AshwinUgale/goldset](https://github.com/AshwinUgale/goldset) | 2 | Python | 2026-08-15 | Turn real traffic/traces into a versioned, deduped, coverage-tracked LLM regression suite — a curation accelerator with  |
+| 30 | [AshwinUgale/goldset](https://github.com/AshwinUgale/goldset) | 3 | Python | 2026-08-15 | Turn real traffic/traces into a versioned, deduped, coverage-tracked LLM regression suite — a curation accelerator with  |
 | 31 | [truera/trulens](https://github.com/truera/trulens) | 3515 | Python | 2026-08-14 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 32 | [karlmehta/trustmodel-mcp](https://github.com/karlmehta/trustmodel-mcp) | 1 | TypeScript | 2026-08-14 | TrustModel MCP Server — trust evaluation, red-team & governance for AI agents via the Model Context Protocol. Public can |
 | 33 | [rithvik-bk/voiceos-eval](https://github.com/rithvik-bk/voiceos-eval) | 0 | JavaScript | 2026-08-13 | Tool-calling eval harness + pre-execution safety gate for voice agents: scores whether the right tool was called with th |
