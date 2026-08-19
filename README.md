@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-19 12:30 UTC
+> ⏰ Last updated: 2026-08-19 12:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,7 +42,7 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24371 | TypeScript | 2026-08-19 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24373 | TypeScript | 2026-08-19 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 2 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5758 | Python | 2026-08-19 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11108 | Python | 2026-08-19 | AI Observability & Evaluation |
 | 4 | [eliasfeitan-pixel/llm-eval-framework](https://github.com/eliasfeitan-pixel/llm-eval-framework) | 1 | — | 2026-08-19 | Production-grade evaluation framework and automated guardrails for enterprise LLM applications, RAG pipelines, and agent |
