@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11108,
+    "updated_at": "2026-08-19T10:58:26Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Production-grade evaluation framework and automated guardrails for enterprise LLM applications, RAG pipelines, and agent",
     "id": "eliasfeitan-pixel/llm-eval-framework",
     "language": "\u2014",
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T07:26:41Z",
     "url": "https://github.com/ahmedmoha9088/PhoenixFish"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11107,
-    "updated_at": "2026-08-19T10:58:26Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
@@ -85,7 +85,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24368,
+    "stars": 24369,
     "updated_at": "2026-08-18T22:33:59Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
