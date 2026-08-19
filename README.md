@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-19 04:21 UTC
+> ⏰ Last updated: 2026-08-19 04:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -60,7 +60,7 @@ expired items removed — so you can rely on what you see being current.
 | 16 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-08-19 | Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdicts, byte |
 | 17 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-08-17 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 18 | [RudrenduPaul/memtrust](https://github.com/RudrenduPaul/memtrust) | 0 | Python | 2026-08-17 | Independent CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep, OpenViking); publishes raw eval logs. |
-| 19 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-08-17 | Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python callable |
+| 19 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-08-19 | Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python callable |
 | 20 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-08-17 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
 | 21 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-08-18 | Bilingual reduced-fare policy assistant for eighteen California transit agencies, grounded in dated citations and shippe |
 | 22 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-08-17 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
