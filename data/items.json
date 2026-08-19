@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11114,
+    "updated_at": "2026-08-19T19:14:04Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
     "id": "multivon-ai/multivon-eval",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 14,
     "updated_at": "2026-08-19T19:01:27Z",
     "url": "https://github.com/multivon-ai/multivon-eval"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11113,
-    "updated_at": "2026-08-19T18:26:10Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring AI ",
@@ -58,7 +58,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24378,
+    "stars": 24379,
     "updated_at": "2026-08-19T14:23:18Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
