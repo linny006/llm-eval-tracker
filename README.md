@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-19 09:28 UTC
+> ⏰ Last updated: 2026-08-19 09:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -45,7 +45,7 @@ expired items removed — so you can rely on what you see being current.
 | 1 | [eliasfeitan-pixel/llm-eval-framework](https://github.com/eliasfeitan-pixel/llm-eval-framework) | 1 | — | 2026-08-19 | Production-grade evaluation framework and automated guardrails for enterprise LLM applications, RAG pipelines, and agent |
 | 2 | [Player-YN/TokSight](https://github.com/Player-YN/TokSight) | 0 | Python | 2026-08-19 | Local Outcome lab for agent workflows. Import yours, Run N, judge with validate(output) or human Pass/Fail, export trace |
 | 3 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-08-19 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
-| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11105 | Python | 2026-08-19 | AI Observability & Evaluation |
+| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11106 | Python | 2026-08-19 | AI Observability & Evaluation |
 | 5 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 337 | TypeScript | 2026-08-19 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 6 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-08-19 | 📐 Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
 | 7 | [fabio-barboza/logistic-platform](https://github.com/fabio-barboza/logistic-platform) | 0 | Java | 2026-08-19 | Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring AI  |
