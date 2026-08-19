@@ -40,7 +40,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11101,
+    "stars": 11102,
     "updated_at": "2026-08-18T23:49:12Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -243,6 +243,15 @@
     "url": "https://github.com/IonDen/mlx-quant-fidelity"
   },
   {
+    "description": "Turn real traffic/traces into a versioned, deduped, coverage-tracked LLM regression suite \u2014 a curation accelerator with ",
+    "id": "AshwinUgale/goldset",
+    "language": "Python",
+    "name": "AshwinUgale/goldset",
+    "stars": 2,
+    "updated_at": "2026-08-15T09:43:29Z",
+    "url": "https://github.com/AshwinUgale/goldset"
+  },
+  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
@@ -349,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T04:12:17Z",
     "url": "https://github.com/camerontjs-dot/agent-eval-notes"
-  },
-  {
-    "description": "Turn real traffic/traces into a versioned, deduped, coverage-tracked LLM regression suite \u2014 a curation accelerator with ",
-    "id": "AshwinUgale/goldset",
-    "language": "Python",
-    "name": "AshwinUgale/goldset",
-    "stars": 1,
-    "updated_at": "2026-08-15T09:43:29Z",
-    "url": "https://github.com/AshwinUgale/goldset"
   },
   {
     "description": "judge-drift-sentinel \u00b7 judge-reliability-kit \u00b7 agent-loop-engine \u00b7 trace-gate \u00b7 ai-eng-skill-range",
