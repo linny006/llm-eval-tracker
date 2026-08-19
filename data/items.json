@@ -1,12 +1,30 @@
 [
   {
+    "description": "Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdicts, byte",
+    "id": "ChelseaKR/plumbline",
+    "language": "Python",
+    "name": "ChelseaKR/plumbline",
+    "stars": 1,
+    "updated_at": "2026-08-19T17:02:50Z",
+    "url": "https://github.com/ChelseaKR/plumbline"
+  },
+  {
     "description": "Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python callable",
     "id": "ChelseaKR/gauntlet",
     "language": "Python",
     "name": "ChelseaKR/gauntlet",
     "stars": 1,
-    "updated_at": "2026-08-19T16:59:58Z",
+    "updated_at": "2026-08-19T17:00:24Z",
     "url": "https://github.com/ChelseaKR/gauntlet"
+  },
+  {
+    "description": "Bilingual reduced-fare policy assistant for eighteen California transit agencies, grounded in dated citations and shippe",
+    "id": "ChelseaKR/fare-policy-assistant",
+    "language": "HTML",
+    "name": "ChelseaKR/fare-policy-assistant",
+    "stars": 1,
+    "updated_at": "2026-08-19T16:59:47Z",
+    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11112,
-    "updated_at": "2026-08-19T16:30:52Z",
+    "updated_at": "2026-08-19T17:15:20Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -162,15 +180,6 @@
     "url": "https://github.com/gabriel-ngrs/CalorIA"
   },
   {
-    "description": "Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdicts, byte",
-    "id": "ChelseaKR/plumbline",
-    "language": "Python",
-    "name": "ChelseaKR/plumbline",
-    "stars": 1,
-    "updated_at": "2026-08-19T04:10:01Z",
-    "url": "https://github.com/ChelseaKR/plumbline"
-  },
-  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -196,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T09:24:26Z",
     "url": "https://github.com/valbaudo/awf"
-  },
-  {
-    "description": "Bilingual reduced-fare policy assistant for eighteen California transit agencies, grounded in dated citations and shippe",
-    "id": "ChelseaKR/fare-policy-assistant",
-    "language": "HTML",
-    "name": "ChelseaKR/fare-policy-assistant",
-    "stars": 1,
-    "updated_at": "2026-08-19T16:59:47Z",
-    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
     "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
