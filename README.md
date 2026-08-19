@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-19 15:15 UTC
+> ⏰ Last updated: 2026-08-19 15:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -68,7 +68,7 @@ expired items removed — so you can rely on what you see being current.
 | 24 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-08-19 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
 | 25 | [sinakazemnezhad/agent-security-bench](https://github.com/sinakazemnezhad/agent-security-bench) | 0 | Python | 2026-08-16 | Open bench for AI coding-agent ML eval + agent security (prompt injection, jailbreak, tool overreach) with machine-reada |
 | 26 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 25 | TypeScript | 2026-08-18 | A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance? |
-| 27 | [multivon-ai/multivon-eval](https://github.com/multivon-ai/multivon-eval) | 10 | Python | 2026-08-16 | Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI |
+| 27 | [multivon-ai/multivon-eval](https://github.com/multivon-ai/multivon-eval) | 11 | Python | 2026-08-16 | Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI |
 | 28 | [camerontjs-dot/verified-done](https://github.com/camerontjs-dot/verified-done) | 0 | Python | 2026-08-15 | Does done mean done? Coding-agent honesty demo: verified pass vs false completion vs scope violation. Public demo split  |
 | 29 | [IonDen/mlx-quant-fidelity](https://github.com/IonDen/mlx-quant-fidelity) | 3 | Python | 2026-08-18 | Measure MLX quantization quality loss — KL divergence, perplexity, top-token agreement for KV cache and weights |
 | 30 | [AshwinUgale/goldset](https://github.com/AshwinUgale/goldset) | 2 | Python | 2026-08-15 | Turn real traffic/traces into a versioned, deduped, coverage-tracked LLM regression suite — a curation accelerator with  |
