@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11127,
+    "updated_at": "2026-08-20T12:53:08Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
     "id": "izam-mohammed/ragrank",
     "language": "Python",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24403,
-    "updated_at": "2026-08-20T10:55:50Z",
+    "updated_at": "2026-08-20T12:57:54Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -52,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T10:11:22Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11128,
-    "updated_at": "2026-08-20T08:39:51Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
