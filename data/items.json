@@ -1,11 +1,20 @@
 [
   {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3516,
+    "updated_at": "2026-08-20T13:54:30Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11127,
-    "updated_at": "2026-08-20T13:33:42Z",
+    "updated_at": "2026-08-20T13:58:48Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -25,15 +34,6 @@
     "stars": 24403,
     "updated_at": "2026-08-20T13:02:34Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3516,
-    "updated_at": "2026-08-20T13:43:17Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
