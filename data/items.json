@@ -1,28 +1,28 @@
 [
   {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 338,
-    "updated_at": "2026-08-20T21:04:36Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
     "id": "ahmedmoha9088/PhoenixFish",
     "language": "Java",
     "name": "ahmedmoha9088/PhoenixFish",
     "stars": 0,
-    "updated_at": "2026-08-20T20:22:04Z",
+    "updated_at": "2026-08-20T21:17:52Z",
     "url": "https://github.com/ahmedmoha9088/PhoenixFish"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 338,
+    "updated_at": "2026-08-20T21:25:05Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24410,
+    "stars": 24411,
     "updated_at": "2026-08-20T20:17:41Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -41,7 +41,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11129,
-    "updated_at": "2026-08-20T21:09:16Z",
+    "updated_at": "2026-08-20T21:30:18Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -266,7 +266,7 @@
     "language": "Python",
     "name": "ChelseaKR/sprout",
     "stars": 1,
-    "updated_at": "2026-08-19T05:09:05Z",
+    "updated_at": "2026-08-20T21:17:05Z",
     "url": "https://github.com/ChelseaKR/sprout"
   },
   {
