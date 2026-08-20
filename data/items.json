@@ -1,5 +1,14 @@
 [
   {
+    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
+    "id": "HaileyStorm/Creative-Writing-Rubrics",
+    "language": "Python",
+    "name": "HaileyStorm/Creative-Writing-Rubrics",
+    "stars": 0,
+    "updated_at": "2026-08-20T04:57:22Z",
+    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
     "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
     "id": "multivon-ai/multivon-eval",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-05T03:27:45Z",
     "url": "https://github.com/junju523/agent-eval-harness-demo"
-  },
-  {
-    "description": "Statistically rigorous LLM evaluation for pytest \u2014 treats every eval as a proportion with a Wilson confidence interval, ",
-    "id": "nikolas-sapa/sigeval",
-    "language": "Python",
-    "name": "nikolas-sapa/sigeval",
-    "stars": 1,
-    "updated_at": "2026-08-04T08:30:05Z",
-    "url": "https://github.com/nikolas-sapa/sigeval"
   }
 ]
