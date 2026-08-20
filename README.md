@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-20 16:45 UTC
+> ⏰ Last updated: 2026-08-20 17:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -47,13 +47,13 @@ expired items removed — so you can rely on what you see being current.
 | 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11128 | Python | 2026-08-20 | AI Observability & Evaluation |
 | 4 | [truera/trulens](https://github.com/truera/trulens) | 3516 | Python | 2026-08-20 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 5 | [tainguyen07/llm-eval-harness](https://github.com/tainguyen07/llm-eval-harness) | 0 | — | 2026-08-20 | Evaluation harness for LLM apps: prompt versioning, dataset runners, LLM-as-judge scoring, regression tracking, and HTML |
-| 6 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24407 | TypeScript | 2026-08-20 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 6 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24408 | TypeScript | 2026-08-20 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 7 | [izam-mohammed/ragrank](https://github.com/izam-mohammed/ragrank) | 47 | Python | 2026-08-20 | 🎯 Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an |
 | 8 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-08-20 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
 | 9 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-08-20 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
 | 10 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 338 | TypeScript | 2026-08-20 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 11 | [IonDen/mlx-quant-fidelity](https://github.com/IonDen/mlx-quant-fidelity) | 3 | Python | 2026-08-20 | Measure quantization quality loss on Apple Silicon MLX — KL divergence, top-token flip rate and perplexity delta for KV- |
-| 12 | [multivon-ai/multivon-eval](https://github.com/multivon-ai/multivon-eval) | 18 | Python | 2026-08-20 | Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI |
+| 12 | [multivon-ai/multivon-eval](https://github.com/multivon-ai/multivon-eval) | 19 | Python | 2026-08-20 | Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI |
 | 13 | [sunxin-ai/dsh-design-qa](https://github.com/sunxin-ai/dsh-design-qa) | 1 | JavaScript | 2026-08-20 | Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches  |
 | 14 | [eliasfeitan-pixel/llm-eval-framework](https://github.com/eliasfeitan-pixel/llm-eval-framework) | 1 | — | 2026-08-20 | Production-grade evaluation framework and automated guardrails for enterprise LLM applications, RAG pipelines, and agent |
 | 15 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-08-20 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
