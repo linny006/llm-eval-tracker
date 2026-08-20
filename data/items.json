@@ -1,21 +1,21 @@
 [
   {
-    "description": "Evaluation harness for LLM apps: prompt versioning, dataset runners, LLM-as-judge scoring, regression tracking, and HTML",
-    "id": "tainguyen07/llm-eval-harness",
-    "language": "\u2014",
-    "name": "tainguyen07/llm-eval-harness",
+    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
+    "id": "HaileyStorm/Creative-Writing-Rubrics",
+    "language": "Python",
+    "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-08-20T16:22:15Z",
-    "url": "https://github.com/tainguyen07/llm-eval-harness"
+    "updated_at": "2026-08-20T16:42:53Z",
+    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3516,
-    "updated_at": "2026-08-20T16:24:33Z",
-    "url": "https://github.com/truera/trulens"
+    "description": "Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring AI ",
+    "id": "fabio-barboza/logistic-platform",
+    "language": "Java",
+    "name": "fabio-barboza/logistic-platform",
+    "stars": 0,
+    "updated_at": "2026-08-20T16:35:52Z",
+    "url": "https://github.com/fabio-barboza/logistic-platform"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -23,8 +23,26 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11128,
-    "updated_at": "2026-08-20T16:20:03Z",
+    "updated_at": "2026-08-20T16:39:17Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3516,
+    "updated_at": "2026-08-20T16:37:12Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "Evaluation harness for LLM apps: prompt versioning, dataset runners, LLM-as-judge scoring, regression tracking, and HTML",
+    "id": "tainguyen07/llm-eval-harness",
+    "language": "\u2014",
+    "name": "tainguyen07/llm-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-08-20T16:22:15Z",
+    "url": "https://github.com/tainguyen07/llm-eval-harness"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -63,21 +81,12 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
-    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
-    "id": "HaileyStorm/Creative-Writing-Rubrics",
-    "language": "Python",
-    "name": "HaileyStorm/Creative-Writing-Rubrics",
-    "stars": 0,
-    "updated_at": "2026-08-20T10:11:22Z",
-    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 338,
-    "updated_at": "2026-08-20T16:25:51Z",
+    "updated_at": "2026-08-20T16:36:31Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -133,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-08-19T21:09:16Z",
     "url": "https://github.com/cannonade-ai/cannonade"
-  },
-  {
-    "description": "Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring AI ",
-    "id": "fabio-barboza/logistic-platform",
-    "language": "Java",
-    "name": "fabio-barboza/logistic-platform",
-    "stars": 0,
-    "updated_at": "2026-08-19T17:30:02Z",
-    "url": "https://github.com/fabio-barboza/logistic-platform"
   },
   {
     "description": "Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdicts, byte",
