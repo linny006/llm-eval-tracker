@@ -1,5 +1,14 @@
 [
   {
+    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
+    "id": "HaileyStorm/Creative-Writing-Rubrics",
+    "language": "Python",
+    "name": "HaileyStorm/Creative-Writing-Rubrics",
+    "stars": 0,
+    "updated_at": "2026-08-20T10:11:22Z",
+    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -16,15 +25,6 @@
     "stars": 338,
     "updated_at": "2026-08-20T08:26:57Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
-    "id": "HaileyStorm/Creative-Writing-Rubrics",
-    "language": "Python",
-    "name": "HaileyStorm/Creative-Writing-Rubrics",
-    "stars": 0,
-    "updated_at": "2026-08-20T07:50:39Z",
-    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
     "description": "Measure MLX quantization quality loss \u2014 KL divergence, perplexity, top-token agreement for KV cache and weights",
@@ -203,7 +203,7 @@
     "language": "\u2014",
     "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "stars": 0,
-    "updated_at": "2026-08-18T03:05:13Z",
+    "updated_at": "2026-08-20T10:13:10Z",
     "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
   },
   {
@@ -212,7 +212,7 @@
     "language": "PowerShell",
     "name": "bhavya7995/AI_governance",
     "stars": 1,
-    "updated_at": "2026-08-18T03:04:43Z",
+    "updated_at": "2026-08-20T10:12:40Z",
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
