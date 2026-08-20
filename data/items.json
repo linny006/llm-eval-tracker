@@ -1,10 +1,19 @@
 [
   {
+    "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
+    "id": "izam-mohammed/ragrank",
+    "language": "Python",
+    "name": "izam-mohammed/ragrank",
+    "stars": 47,
+    "updated_at": "2026-08-20T12:19:24Z",
+    "url": "https://github.com/izam-mohammed/ragrank"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24400,
+    "stars": 24403,
     "updated_at": "2026-08-20T10:55:50Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T05:34:55Z",
     "url": "https://github.com/reaatech/classifier-evals"
-  },
-  {
-    "description": "Automated eval harness for AI agents \u2014 gold set + scoring + CI that fails the build on regressions. Self-contained, no A",
-    "id": "junju523/agent-eval-harness-demo",
-    "language": "JavaScript",
-    "name": "junju523/agent-eval-harness-demo",
-    "stars": 0,
-    "updated_at": "2026-08-05T03:27:45Z",
-    "url": "https://github.com/junju523/agent-eval-harness-demo"
   }
 ]
