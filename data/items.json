@@ -1,11 +1,20 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24412,
+    "updated_at": "2026-08-20T22:44:23Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 338,
-    "updated_at": "2026-08-20T22:43:31Z",
+    "updated_at": "2026-08-20T22:45:03Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -16,15 +25,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T22:42:18Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24411,
-    "updated_at": "2026-08-20T22:43:41Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
