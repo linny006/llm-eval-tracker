@@ -1,21 +1,12 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11130,
-    "updated_at": "2026-08-20T22:27:15Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24410,
-    "updated_at": "2026-08-20T22:27:57Z",
-    "url": "https://github.com/promptfoo/promptfoo"
+    "name": "verifywise-ai/verifywise",
+    "stars": 338,
+    "updated_at": "2026-08-20T22:43:31Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
@@ -23,8 +14,17 @@
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-08-20T22:17:30Z",
+    "updated_at": "2026-08-20T22:42:18Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24411,
+    "updated_at": "2026-08-20T22:43:41Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
@@ -32,8 +32,17 @@
     "language": "TypeScript",
     "name": "cannonade-ai/cannonade",
     "stars": 2,
-    "updated_at": "2026-08-20T22:30:24Z",
+    "updated_at": "2026-08-20T22:39:25Z",
     "url": "https://github.com/cannonade-ai/cannonade"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11130,
+    "updated_at": "2026-08-20T22:37:42Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
@@ -43,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T21:17:52Z",
     "url": "https://github.com/ahmedmoha9088/PhoenixFish"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 338,
-    "updated_at": "2026-08-20T21:25:05Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring AI ",
