@@ -1,5 +1,14 @@
 [
   {
+    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
+    "id": "multivon-ai/multivon-eval",
+    "language": "Python",
+    "name": "multivon-ai/multivon-eval",
+    "stars": 15,
+    "updated_at": "2026-08-20T04:13:08Z",
+    "url": "https://github.com/multivon-ai/multivon-eval"
+  },
+  {
     "description": "Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches ",
     "id": "sunxin-ai/dsh-design-qa",
     "language": "JavaScript",
@@ -52,15 +61,6 @@
     "stars": 2,
     "updated_at": "2026-08-19T21:09:16Z",
     "url": "https://github.com/cannonade-ai/cannonade"
-  },
-  {
-    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
-    "id": "multivon-ai/multivon-eval",
-    "language": "Python",
-    "name": "multivon-ai/multivon-eval",
-    "stars": 15,
-    "updated_at": "2026-08-19T19:01:27Z",
-    "url": "https://github.com/multivon-ai/multivon-eval"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
