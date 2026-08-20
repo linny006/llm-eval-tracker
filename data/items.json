@@ -1,11 +1,20 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11130,
+    "updated_at": "2026-08-20T22:14:28Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24410,
-    "updated_at": "2026-08-20T22:01:53Z",
+    "updated_at": "2026-08-20T22:03:15Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -34,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T20:15:12Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11129,
-    "updated_at": "2026-08-20T21:53:52Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring AI ",
@@ -149,7 +149,7 @@
     "language": "TypeScript",
     "name": "cannonade-ai/cannonade",
     "stars": 2,
-    "updated_at": "2026-08-19T21:09:16Z",
+    "updated_at": "2026-08-20T22:15:12Z",
     "url": "https://github.com/cannonade-ai/cannonade"
   },
   {
