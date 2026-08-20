@@ -4,8 +4,8 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11119,
-    "updated_at": "2026-08-20T02:34:35Z",
+    "stars": 11120,
+    "updated_at": "2026-08-20T03:20:53Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -34,6 +34,15 @@
     "stars": 15,
     "updated_at": "2026-08-19T19:01:27Z",
     "url": "https://github.com/multivon-ai/multivon-eval"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3516,
+    "updated_at": "2026-08-19T18:03:24Z",
+    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring AI ",
@@ -268,15 +277,6 @@
     "stars": 3,
     "updated_at": "2026-08-15T09:43:29Z",
     "url": "https://github.com/AshwinUgale/goldset"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3515,
-    "updated_at": "2026-08-19T18:03:24Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "TrustModel MCP Server \u2014 trust evaluation, red-team & governance for AI agents via the Model Context Protocol. Public can",
