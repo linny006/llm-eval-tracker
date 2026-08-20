@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24393,
+    "updated_at": "2026-08-20T06:02:49Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -36,6 +45,15 @@
     "url": "https://github.com/eliasfeitan-pixel/llm-eval-framework"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11121,
+    "updated_at": "2026-08-20T03:35:34Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -43,24 +61,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T03:26:11Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11120,
-    "updated_at": "2026-08-20T03:35:34Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24392,
-    "updated_at": "2026-08-20T01:51:05Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
