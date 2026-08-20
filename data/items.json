@@ -1,5 +1,14 @@
 [
   {
+    "description": "Production-grade evaluation framework and automated guardrails for enterprise LLM applications, RAG pipelines, and agent",
+    "id": "eliasfeitan-pixel/llm-eval-framework",
+    "language": "\u2014",
+    "name": "eliasfeitan-pixel/llm-eval-framework",
+    "stars": 1,
+    "updated_at": "2026-08-20T03:56:25Z",
+    "url": "https://github.com/eliasfeitan-pixel/llm-eval-framework"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -97,15 +106,6 @@
     "stars": 5758,
     "updated_at": "2026-08-19T12:14:44Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Production-grade evaluation framework and automated guardrails for enterprise LLM applications, RAG pipelines, and agent",
-    "id": "eliasfeitan-pixel/llm-eval-framework",
-    "language": "\u2014",
-    "name": "eliasfeitan-pixel/llm-eval-framework",
-    "stars": 1,
-    "updated_at": "2026-08-19T08:35:53Z",
-    "url": "https://github.com/eliasfeitan-pixel/llm-eval-framework"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
