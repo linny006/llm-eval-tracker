@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3516,
-    "updated_at": "2026-08-20T15:50:18Z",
+    "updated_at": "2026-08-20T16:03:03Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -14,7 +14,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11128,
-    "updated_at": "2026-08-20T15:44:39Z",
+    "updated_at": "2026-08-20T16:11:16Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -72,7 +72,7 @@
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
-    "description": "Measure MLX quantization quality loss \u2014 KL divergence, perplexity, top-token agreement for KV cache and weights",
+    "description": "Measure quantization quality loss on Apple Silicon MLX \u2014 KL divergence, top-token flip rate and perplexity delta for KV-",
     "id": "IonDen/mlx-quant-fidelity",
     "language": "Python",
     "name": "IonDen/mlx-quant-fidelity",
@@ -166,7 +166,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5758,
+    "stars": 5759,
     "updated_at": "2026-08-19T12:14:44Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
