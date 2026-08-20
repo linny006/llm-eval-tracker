@@ -1,11 +1,20 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11126,
+    "updated_at": "2026-08-20T08:10:55Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 338,
-    "updated_at": "2026-08-20T08:02:10Z",
+    "updated_at": "2026-08-20T08:15:16Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -61,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-08-20T03:56:25Z",
     "url": "https://github.com/eliasfeitan-pixel/llm-eval-framework"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11125,
-    "updated_at": "2026-08-20T08:04:17Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
