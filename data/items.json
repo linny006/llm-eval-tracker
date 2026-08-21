@@ -1,11 +1,20 @@
 [
   {
+    "description": "Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python callable",
+    "id": "ChelseaKR/gauntlet",
+    "language": "Python",
+    "name": "ChelseaKR/gauntlet",
+    "stars": 1,
+    "updated_at": "2026-08-21T16:24:39Z",
+    "url": "https://github.com/ChelseaKR/gauntlet"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-08-21T15:58:16Z",
+    "updated_at": "2026-08-21T16:27:11Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11135,
-    "updated_at": "2026-08-21T16:06:24Z",
+    "updated_at": "2026-08-21T16:17:00Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -113,7 +122,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3517,
-    "updated_at": "2026-08-21T16:13:38Z",
+    "updated_at": "2026-08-21T16:25:22Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -178,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T17:02:50Z",
     "url": "https://github.com/ChelseaKR/plumbline"
-  },
-  {
-    "description": "Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python callable",
-    "id": "ChelseaKR/gauntlet",
-    "language": "Python",
-    "name": "ChelseaKR/gauntlet",
-    "stars": 1,
-    "updated_at": "2026-08-19T17:00:24Z",
-    "url": "https://github.com/ChelseaKR/gauntlet"
   },
   {
     "description": "Bilingual reduced-fare policy assistant for eighteen California transit agencies, grounded in dated citations and shippe",
