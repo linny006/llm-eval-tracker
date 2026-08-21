@@ -1,21 +1,21 @@
 [
   {
-    "description": "",
-    "id": "isatimur/book-mash",
-    "language": "Python",
-    "name": "isatimur/book-mash",
-    "stars": 0,
-    "updated_at": "2026-08-21T22:55:37Z",
-    "url": "https://github.com/isatimur/book-mash"
-  },
-  {
     "description": "Bilingual reduced-fare policy assistant for eighteen California transit agencies, grounded in dated citations and shippe",
     "id": "ChelseaKR/fare-policy-assistant",
     "language": "HTML",
     "name": "ChelseaKR/fare-policy-assistant",
     "stars": 1,
-    "updated_at": "2026-08-21T22:58:04Z",
+    "updated_at": "2026-08-21T23:15:08Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
+  },
+  {
+    "description": "",
+    "id": "isatimur/book-mash",
+    "language": "Python",
+    "name": "isatimur/book-mash",
+    "stars": 0,
+    "updated_at": "2026-08-21T23:02:29Z",
+    "url": "https://github.com/isatimur/book-mash"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -23,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11140,
-    "updated_at": "2026-08-21T22:53:19Z",
+    "updated_at": "2026-08-21T23:14:29Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
