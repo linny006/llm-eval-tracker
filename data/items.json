@@ -1,12 +1,12 @@
 [
   {
-    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
-    "id": "ChelseaKR/sprout",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "ChelseaKR/sprout",
-    "stars": 1,
-    "updated_at": "2026-08-21T17:59:44Z",
-    "url": "https://github.com/ChelseaKR/sprout"
+    "name": "Arize-ai/phoenix",
+    "stars": 11137,
+    "updated_at": "2026-08-21T18:29:41Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
@@ -14,17 +14,17 @@
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-08-21T17:47:21Z",
+    "updated_at": "2026-08-21T18:25:26Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
+    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
+    "id": "ChelseaKR/sprout",
     "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11137,
-    "updated_at": "2026-08-21T18:08:59Z",
-    "url": "https://github.com/Arize-ai/phoenix"
+    "name": "ChelseaKR/sprout",
+    "stars": 1,
+    "updated_at": "2026-08-21T17:59:44Z",
+    "url": "https://github.com/ChelseaKR/sprout"
   },
   {
     "description": "Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python callable",
@@ -41,7 +41,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24441,
-    "updated_at": "2026-08-21T15:13:06Z",
+    "updated_at": "2026-08-21T18:24:57Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
