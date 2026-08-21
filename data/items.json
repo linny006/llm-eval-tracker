@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-08-21T05:23:50Z",
+    "updated_at": "2026-08-21T05:42:40Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11133,
+    "updated_at": "2026-08-21T05:09:16Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring AI ",
@@ -25,15 +34,6 @@
     "stars": 24420,
     "updated_at": "2026-08-21T05:03:29Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11132,
-    "updated_at": "2026-08-21T05:09:16Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Evaluation harness for LLM apps: prompt versioning, dataset runners, LLM-as-judge scoring, regression tracking, and HTML",
