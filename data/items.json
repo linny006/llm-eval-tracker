@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-08-21T12:57:49Z",
+    "updated_at": "2026-08-21T13:26:06Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11136,
+    "updated_at": "2026-08-21T13:25:21Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Curated list of benchmarks and rankings of models, agents and other AI-things.",
+    "id": "lorien/awesome-ai-benchmarks",
+    "language": "\u2014",
+    "name": "lorien/awesome-ai-benchmarks",
+    "stars": 1,
+    "updated_at": "2026-08-21T13:18:50Z",
+    "url": "https://github.com/lorien/awesome-ai-benchmarks"
   },
   {
     "description": "Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring AI ",
@@ -16,24 +34,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T12:40:32Z",
     "url": "https://github.com/fabio-barboza/logistic-platform"
-  },
-  {
-    "description": "Curated list of benchmarks and rankings of models, agents and other AI-things.",
-    "id": "lorien/awesome-ai-rankings",
-    "language": "\u2014",
-    "name": "lorien/awesome-ai-rankings",
-    "stars": 0,
-    "updated_at": "2026-08-21T11:49:30Z",
-    "url": "https://github.com/lorien/awesome-ai-rankings"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11135,
-    "updated_at": "2026-08-21T13:01:48Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
