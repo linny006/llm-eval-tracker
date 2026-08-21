@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11140,
+    "updated_at": "2026-08-21T22:27:08Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
     "id": "cannonade-ai/cannonade",
     "language": "TypeScript",
@@ -16,15 +25,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T21:59:20Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11140,
-    "updated_at": "2026-08-21T22:11:26Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -77,7 +77,7 @@
     "language": "Java",
     "name": "fabio-barboza/logistic-platform",
     "stars": 0,
-    "updated_at": "2026-08-21T21:54:53Z",
+    "updated_at": "2026-08-21T22:24:39Z",
     "url": "https://github.com/fabio-barboza/logistic-platform"
   },
   {
@@ -203,7 +203,7 @@
     "language": "HTML",
     "name": "ChelseaKR/fare-policy-assistant",
     "stars": 1,
-    "updated_at": "2026-08-21T22:17:00Z",
+    "updated_at": "2026-08-21T22:24:47Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
