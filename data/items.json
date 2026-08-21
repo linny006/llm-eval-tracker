@@ -1,5 +1,32 @@
 [
   {
+    "description": "Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring AI ",
+    "id": "fabio-barboza/logistic-platform",
+    "language": "Java",
+    "name": "fabio-barboza/logistic-platform",
+    "stars": 0,
+    "updated_at": "2026-08-21T00:44:06Z",
+    "url": "https://github.com/fabio-barboza/logistic-platform"
+  },
+  {
+    "description": "Evaluation harness for LLM apps: prompt versioning, dataset runners, LLM-as-judge scoring, regression tracking, and HTML",
+    "id": "tainguyen07/llm-eval-harness",
+    "language": "Python",
+    "name": "tainguyen07/llm-eval-harness",
+    "stars": 4,
+    "updated_at": "2026-08-21T00:39:29Z",
+    "url": "https://github.com/tainguyen07/llm-eval-harness"
+  },
+  {
+    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
+    "id": "HaileyStorm/Creative-Writing-Rubrics",
+    "language": "Python",
+    "name": "HaileyStorm/Creative-Writing-Rubrics",
+    "stars": 0,
+    "updated_at": "2026-08-21T00:31:42Z",
+    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -23,7 +50,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 338,
-    "updated_at": "2026-08-21T00:10:48Z",
+    "updated_at": "2026-08-21T00:44:53Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -40,18 +67,9 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24412,
+    "stars": 24415,
     "updated_at": "2026-08-20T23:52:22Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
-    "id": "HaileyStorm/Creative-Writing-Rubrics",
-    "language": "Python",
-    "name": "HaileyStorm/Creative-Writing-Rubrics",
-    "stars": 0,
-    "updated_at": "2026-08-20T23:04:45Z",
-    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
     "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
@@ -81,15 +99,6 @@
     "url": "https://github.com/ahmedmoha9088/PhoenixFish"
   },
   {
-    "description": "Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring AI ",
-    "id": "fabio-barboza/logistic-platform",
-    "language": "Java",
-    "name": "fabio-barboza/logistic-platform",
-    "stars": 0,
-    "updated_at": "2026-08-20T19:38:12Z",
-    "url": "https://github.com/fabio-barboza/logistic-platform"
-  },
-  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
@@ -97,15 +106,6 @@
     "stars": 3516,
     "updated_at": "2026-08-20T19:23:10Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Evaluation harness for LLM apps: prompt versioning, dataset runners, LLM-as-judge scoring, regression tracking, and HTML",
-    "id": "tainguyen07/llm-eval-harness",
-    "language": "Python",
-    "name": "tainguyen07/llm-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-08-20T17:36:59Z",
-    "url": "https://github.com/tainguyen07/llm-eval-harness"
   },
   {
     "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
