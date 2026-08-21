@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "ChelseaKR/sprout",
     "stars": 1,
-    "updated_at": "2026-08-21T17:29:37Z",
+    "updated_at": "2026-08-21T17:38:41Z",
     "url": "https://github.com/ChelseaKR/sprout"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11137,
+    "updated_at": "2026-08-21T17:32:36Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python callable",
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T17:13:06Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11136,
-    "updated_at": "2026-08-21T16:40:31Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
