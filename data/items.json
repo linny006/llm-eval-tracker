@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "ChelseaKR/sprout",
     "stars": 1,
-    "updated_at": "2026-08-21T17:45:15Z",
+    "updated_at": "2026-08-21T17:59:44Z",
     "url": "https://github.com/ChelseaKR/sprout"
+  },
+  {
+    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
+    "id": "HaileyStorm/Creative-Writing-Rubrics",
+    "language": "Python",
+    "name": "HaileyStorm/Creative-Writing-Rubrics",
+    "stars": 0,
+    "updated_at": "2026-08-21T17:47:21Z",
+    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -27,20 +36,11 @@
     "url": "https://github.com/ChelseaKR/gauntlet"
   },
   {
-    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
-    "id": "HaileyStorm/Creative-Writing-Rubrics",
-    "language": "Python",
-    "name": "HaileyStorm/Creative-Writing-Rubrics",
-    "stars": 0,
-    "updated_at": "2026-08-21T17:13:06Z",
-    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24442,
+    "stars": 24441,
     "updated_at": "2026-08-21T15:13:06Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
