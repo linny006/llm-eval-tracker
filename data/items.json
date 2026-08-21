@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "ChelseaKR/sprout",
     "stars": 1,
-    "updated_at": "2026-08-21T17:00:31Z",
+    "updated_at": "2026-08-21T17:13:16Z",
     "url": "https://github.com/ChelseaKR/sprout"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11136,
+    "updated_at": "2026-08-21T16:40:31Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
@@ -14,17 +23,8 @@
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-08-21T16:27:11Z",
+    "updated_at": "2026-08-21T17:13:06Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
-    "description": "Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python callable",
-    "id": "ChelseaKR/gauntlet",
-    "language": "Python",
-    "name": "ChelseaKR/gauntlet",
-    "stars": 1,
-    "updated_at": "2026-08-21T17:00:57Z",
-    "url": "https://github.com/ChelseaKR/gauntlet"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -34,15 +34,6 @@
     "stars": 24441,
     "updated_at": "2026-08-21T15:13:06Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11135,
-    "updated_at": "2026-08-21T16:40:31Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
@@ -448,5 +439,14 @@
     "stars": 0,
     "updated_at": "2026-08-10T11:37:42Z",
     "url": "https://github.com/mizcausevic-dev/agent-eval-arena"
+  },
+  {
+    "description": "Use local Large Language Models for production use cases, and perform benchmarking for task-specific performance evaluat",
+    "id": "ajmeese7/local-llms",
+    "language": "Python",
+    "name": "ajmeese7/local-llms",
+    "stars": 1,
+    "updated_at": "2026-08-05T11:43:46Z",
+    "url": "https://github.com/ajmeese7/local-llms"
   }
 ]
