@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11131,
+    "updated_at": "2026-08-21T00:56:54Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring AI ",
     "id": "fabio-barboza/logistic-platform",
     "language": "Java",
@@ -54,21 +63,12 @@
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11130,
-    "updated_at": "2026-08-21T00:56:54Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24415,
-    "updated_at": "2026-08-21T00:52:06Z",
+    "updated_at": "2026-08-21T01:08:42Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
