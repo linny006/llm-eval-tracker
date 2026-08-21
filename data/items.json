@@ -1,14 +1,5 @@
 [
   {
-    "description": "Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python callable",
-    "id": "ChelseaKR/gauntlet",
-    "language": "Python",
-    "name": "ChelseaKR/gauntlet",
-    "stars": 1,
-    "updated_at": "2026-08-21T16:24:39Z",
-    "url": "https://github.com/ChelseaKR/gauntlet"
-  },
-  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -16,6 +7,15 @@
     "stars": 0,
     "updated_at": "2026-08-21T16:27:11Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
+    "description": "Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python callable",
+    "id": "ChelseaKR/gauntlet",
+    "language": "Python",
+    "name": "ChelseaKR/gauntlet",
+    "stars": 1,
+    "updated_at": "2026-08-21T16:24:39Z",
+    "url": "https://github.com/ChelseaKR/gauntlet"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -122,7 +122,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3517,
-    "updated_at": "2026-08-21T16:25:22Z",
+    "updated_at": "2026-08-21T16:29:11Z",
     "url": "https://github.com/truera/trulens"
   },
   {
