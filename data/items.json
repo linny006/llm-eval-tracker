@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11136,
-    "updated_at": "2026-08-21T14:11:11Z",
+    "updated_at": "2026-08-21T14:24:49Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 338,
+    "updated_at": "2026-08-21T14:21:49Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
@@ -72,15 +81,6 @@
     "url": "https://github.com/tainguyen07/llm-eval-harness"
   },
   {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 338,
-    "updated_at": "2026-08-21T00:45:23Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
     "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
     "id": "cannonade-ai/cannonade",
     "language": "TypeScript",
@@ -113,7 +113,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3517,
-    "updated_at": "2026-08-20T19:23:10Z",
+    "updated_at": "2026-08-21T14:25:09Z",
     "url": "https://github.com/truera/trulens"
   },
   {
