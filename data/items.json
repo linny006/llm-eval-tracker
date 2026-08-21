@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-08-21T11:17:58Z",
+    "updated_at": "2026-08-21T11:57:30Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
+    "description": "Curated list of benchmarks and rankings of models, agents and other AI-things.",
+    "id": "lorien/awesome-ai-rankings",
+    "language": "\u2014",
+    "name": "lorien/awesome-ai-rankings",
+    "stars": 0,
+    "updated_at": "2026-08-21T11:49:30Z",
+    "url": "https://github.com/lorien/awesome-ai-rankings"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-10T11:37:42Z",
     "url": "https://github.com/mizcausevic-dev/agent-eval-arena"
-  },
-  {
-    "description": "Use local Large Language Models for production use cases, and perform benchmarking for task-specific performance evaluat",
-    "id": "ajmeese7/local-llms",
-    "language": "Python",
-    "name": "ajmeese7/local-llms",
-    "stars": 1,
-    "updated_at": "2026-08-05T11:43:46Z",
-    "url": "https://github.com/ajmeese7/local-llms"
   }
 ]
