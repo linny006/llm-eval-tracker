@@ -1,14 +1,5 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11138,
-    "updated_at": "2026-08-21T19:01:24Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -16,6 +7,15 @@
     "stars": 0,
     "updated_at": "2026-08-21T19:12:33Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11138,
+    "updated_at": "2026-08-21T19:17:32Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
@@ -104,7 +104,7 @@
     "language": "TypeScript",
     "name": "cannonade-ai/cannonade",
     "stars": 2,
-    "updated_at": "2026-08-21T14:14:07Z",
+    "updated_at": "2026-08-21T19:21:20Z",
     "url": "https://github.com/cannonade-ai/cannonade"
   },
   {
