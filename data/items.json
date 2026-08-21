@@ -1,11 +1,29 @@
 [
   {
+    "description": "",
+    "id": "isatimur/book-mash",
+    "language": "Python",
+    "name": "isatimur/book-mash",
+    "stars": 0,
+    "updated_at": "2026-08-21T22:55:37Z",
+    "url": "https://github.com/isatimur/book-mash"
+  },
+  {
+    "description": "Bilingual reduced-fare policy assistant for eighteen California transit agencies, grounded in dated citations and shippe",
+    "id": "ChelseaKR/fare-policy-assistant",
+    "language": "HTML",
+    "name": "ChelseaKR/fare-policy-assistant",
+    "stars": 1,
+    "updated_at": "2026-08-21T22:58:04Z",
+    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11140,
-    "updated_at": "2026-08-21T22:47:43Z",
+    "updated_at": "2026-08-21T22:53:19Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -16,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T22:44:01Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
-    "description": "Bilingual reduced-fare policy assistant for eighteen California transit agencies, grounded in dated citations and shippe",
-    "id": "ChelseaKR/fare-policy-assistant",
-    "language": "HTML",
-    "name": "ChelseaKR/fare-policy-assistant",
-    "stars": 1,
-    "updated_at": "2026-08-21T22:44:12Z",
-    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
     "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-05T22:51:48Z",
     "url": "https://github.com/ozlar34/job-match-radar"
-  },
-  {
-    "description": "Agent and LLM evaluation harness: golden datasets, multi-scorer execution, regression detection across model versions, c",
-    "id": "mizcausevic-dev/agent-eval-arena",
-    "language": "TypeScript",
-    "name": "mizcausevic-dev/agent-eval-arena",
-    "stars": 0,
-    "updated_at": "2026-08-10T11:37:42Z",
-    "url": "https://github.com/mizcausevic-dev/agent-eval-arena"
   }
 ]
