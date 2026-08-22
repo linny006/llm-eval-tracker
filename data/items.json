@@ -1,5 +1,14 @@
 [
   {
+    "description": "Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai",
+    "id": "ozlar34/job-match-radar",
+    "language": "Python",
+    "name": "ozlar34/job-match-radar",
+    "stars": 1,
+    "updated_at": "2026-08-22T20:13:15Z",
+    "url": "https://github.com/ozlar34/job-match-radar"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -13,7 +22,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24466,
+    "stars": 24467,
     "updated_at": "2026-08-22T18:05:08Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -68,7 +77,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 339,
-    "updated_at": "2026-08-22T05:21:17Z",
+    "updated_at": "2026-08-22T20:12:17Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -77,7 +86,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11144,
-    "updated_at": "2026-08-22T04:56:24Z",
+    "updated_at": "2026-08-22T20:01:41Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-07T14:37:43Z",
     "url": "https://github.com/ommiles/compton-eval-analysis"
-  },
-  {
-    "description": "Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai",
-    "id": "ozlar34/job-match-radar",
-    "language": "Python",
-    "name": "ozlar34/job-match-radar",
-    "stars": 1,
-    "updated_at": "2026-08-05T22:51:48Z",
-    "url": "https://github.com/ozlar34/job-match-radar"
   }
 ]
