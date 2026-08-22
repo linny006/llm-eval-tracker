@@ -1,5 +1,14 @@
 [
   {
+    "description": "Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring AI ",
+    "id": "fabio-barboza/logistic-platform",
+    "language": "Java",
+    "name": "fabio-barboza/logistic-platform",
+    "stars": 0,
+    "updated_at": "2026-08-22T01:23:30Z",
+    "url": "https://github.com/fabio-barboza/logistic-platform"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -90,15 +99,6 @@
     "url": "https://github.com/lorien/awesome-ai-benchmarks"
   },
   {
-    "description": "Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring AI ",
-    "id": "fabio-barboza/logistic-platform",
-    "language": "Java",
-    "name": "fabio-barboza/logistic-platform",
-    "stars": 0,
-    "updated_at": "2026-08-22T01:04:16Z",
-    "url": "https://github.com/fabio-barboza/logistic-platform"
-  },
-  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -130,7 +130,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5760,
+    "stars": 5761,
     "updated_at": "2026-08-20T21:37:02Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
