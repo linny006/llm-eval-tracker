@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-22 02:30 UTC
+> ⏰ Last updated: 2026-08-22 02:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [fabio-barboza/logistic-platform](https://github.com/fabio-barboza/logistic-platform) | 0 | Java | 2026-08-22 | Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring AI  |
-| 2 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-08-22 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
+| 1 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-08-22 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
+| 2 | [fabio-barboza/logistic-platform](https://github.com/fabio-barboza/logistic-platform) | 0 | Java | 2026-08-22 | Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring AI  |
 | 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11140 | Python | 2026-08-22 | AI Observability & Evaluation |
 | 4 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-08-22 | Bilingual reduced-fare policy assistant for eighteen California transit agencies, grounded in dated citations and shippe |
 | 5 | [isatimur/book-mash](https://github.com/isatimur/book-mash) | 0 | Python | 2026-08-21 |  |
 | 6 | [cannonade-ai/cannonade](https://github.com/cannonade-ai/cannonade) | 2 | TypeScript | 2026-08-21 | Local-first desktop app for building LLM test suites and running them against many local or cloud models at once |
-| 7 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24445 | TypeScript | 2026-08-21 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 7 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24447 | TypeScript | 2026-08-21 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 8 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-08-21 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
 | 9 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-08-21 | Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python callable |
 | 10 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 338 | TypeScript | 2026-08-21 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
