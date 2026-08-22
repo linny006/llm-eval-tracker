@@ -23,7 +23,7 @@
     "language": "Python",
     "name": "ChelseaKR/gauntlet",
     "stars": 1,
-    "updated_at": "2026-08-22T03:55:17Z",
+    "updated_at": "2026-08-22T04:27:56Z",
     "url": "https://github.com/ChelseaKR/gauntlet"
   },
   {
@@ -58,7 +58,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11141,
+    "stars": 11142,
     "updated_at": "2026-08-22T01:43:58Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -97,6 +97,15 @@
     "stars": 24449,
     "updated_at": "2026-08-21T20:05:06Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3518,
+    "updated_at": "2026-08-21T16:57:30Z",
+    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
@@ -151,15 +160,6 @@
     "stars": 5761,
     "updated_at": "2026-08-20T21:37:02Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3517,
-    "updated_at": "2026-08-21T16:57:30Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
