@@ -1,11 +1,20 @@
 [
   {
+    "description": "",
+    "id": "isatimur/book-mash",
+    "language": "Python",
+    "name": "isatimur/book-mash",
+    "stars": 0,
+    "updated_at": "2026-08-22T21:28:21Z",
+    "url": "https://github.com/isatimur/book-mash"
+  },
+  {
     "description": "Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdicts, byte",
     "id": "ChelseaKR/plumbline",
     "language": "Python",
     "name": "ChelseaKR/plumbline",
     "stars": 1,
-    "updated_at": "2026-08-22T21:15:06Z",
+    "updated_at": "2026-08-22T21:20:26Z",
     "url": "https://github.com/ChelseaKR/plumbline"
   },
   {
@@ -124,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-22T02:48:02Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "",
-    "id": "isatimur/book-mash",
-    "language": "Python",
-    "name": "isatimur/book-mash",
-    "stars": 0,
-    "updated_at": "2026-08-21T23:02:29Z",
-    "url": "https://github.com/isatimur/book-mash"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
