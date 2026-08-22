@@ -18,6 +18,15 @@
     "url": "https://github.com/ChelseaKR/gauntlet"
   },
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 339,
+    "updated_at": "2026-08-22T05:21:17Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -106,15 +115,6 @@
     "stars": 3518,
     "updated_at": "2026-08-21T16:57:30Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 338,
-    "updated_at": "2026-08-22T05:21:17Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Curated list of benchmarks and rankings of models, agents and other AI-things.",
