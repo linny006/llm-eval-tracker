@@ -1,5 +1,23 @@
 [
   {
+    "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
+    "id": "cannonade-ai/cannonade",
+    "language": "TypeScript",
+    "name": "cannonade-ai/cannonade",
+    "stars": 2,
+    "updated_at": "2026-08-22T22:55:43Z",
+    "url": "https://github.com/cannonade-ai/cannonade"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 339,
+    "updated_at": "2026-08-22T22:51:24Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "",
     "id": "isatimur/book-mash",
     "language": "Python",
@@ -63,15 +81,6 @@
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
-    "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
-    "id": "cannonade-ai/cannonade",
-    "language": "TypeScript",
-    "name": "cannonade-ai/cannonade",
-    "stars": 2,
-    "updated_at": "2026-08-22T14:30:05Z",
-    "url": "https://github.com/cannonade-ai/cannonade"
-  },
-  {
     "description": "Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python callable",
     "id": "ChelseaKR/gauntlet",
     "language": "Python",
@@ -79,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-08-22T16:53:11Z",
     "url": "https://github.com/ChelseaKR/gauntlet"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 339,
-    "updated_at": "2026-08-22T22:46:23Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "AI Observability & Evaluation",
