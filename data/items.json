@@ -1,5 +1,14 @@
 [
   {
+    "description": "Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdicts, byte",
+    "id": "ChelseaKR/plumbline",
+    "language": "Python",
+    "name": "ChelseaKR/plumbline",
+    "stars": 1,
+    "updated_at": "2026-08-22T23:44:34Z",
+    "url": "https://github.com/ChelseaKR/plumbline"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -43,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-08-22T22:04:08Z",
     "url": "https://github.com/isatimur/book-mash"
-  },
-  {
-    "description": "Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdicts, byte",
-    "id": "ChelseaKR/plumbline",
-    "language": "Python",
-    "name": "ChelseaKR/plumbline",
-    "stars": 1,
-    "updated_at": "2026-08-22T23:42:25Z",
-    "url": "https://github.com/ChelseaKR/plumbline"
   },
   {
     "description": "Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai",
