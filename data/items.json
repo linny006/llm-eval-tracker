@@ -1,5 +1,14 @@
 [
   {
+    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
+    "id": "HaileyStorm/Creative-Writing-Rubrics",
+    "language": "Python",
+    "name": "HaileyStorm/Creative-Writing-Rubrics",
+    "stars": 0,
+    "updated_at": "2026-08-22T03:01:29Z",
+    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
     "description": "Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring AI ",
     "id": "fabio-barboza/logistic-platform",
     "language": "Java",
@@ -16,15 +25,6 @@
     "stars": 0,
     "updated_at": "2026-08-22T02:48:02Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
-    "id": "HaileyStorm/Creative-Writing-Rubrics",
-    "language": "Python",
-    "name": "HaileyStorm/Creative-Writing-Rubrics",
-    "stars": 0,
-    "updated_at": "2026-08-22T02:41:06Z",
-    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -149,7 +149,7 @@
     "language": "Java",
     "name": "ahmedmoha9088/PhoenixFish",
     "stars": 0,
-    "updated_at": "2026-08-20T21:17:52Z",
+    "updated_at": "2026-08-22T03:13:39Z",
     "url": "https://github.com/ahmedmoha9088/PhoenixFish"
   },
   {
