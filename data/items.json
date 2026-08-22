@@ -1,5 +1,14 @@
 [
   {
+    "description": "Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python callable",
+    "id": "ChelseaKR/gauntlet",
+    "language": "Python",
+    "name": "ChelseaKR/gauntlet",
+    "stars": 1,
+    "updated_at": "2026-08-22T03:55:17Z",
+    "url": "https://github.com/ChelseaKR/gauntlet"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -40,7 +49,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11140,
+    "stars": 11141,
     "updated_at": "2026-08-22T01:43:58Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -88,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-08-21T17:59:44Z",
     "url": "https://github.com/ChelseaKR/sprout"
-  },
-  {
-    "description": "Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python callable",
-    "id": "ChelseaKR/gauntlet",
-    "language": "Python",
-    "name": "ChelseaKR/gauntlet",
-    "stars": 1,
-    "updated_at": "2026-08-21T17:16:39Z",
-    "url": "https://github.com/ChelseaKR/gauntlet"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
