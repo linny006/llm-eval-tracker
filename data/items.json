@@ -1,5 +1,14 @@
 [
   {
+    "description": "Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdicts, byte",
+    "id": "ChelseaKR/plumbline",
+    "language": "Python",
+    "name": "ChelseaKR/plumbline",
+    "stars": 1,
+    "updated_at": "2026-08-22T20:30:02Z",
+    "url": "https://github.com/ChelseaKR/plumbline"
+  },
+  {
     "description": "Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai",
     "id": "ozlar34/job-match-radar",
     "language": "Python",
@@ -63,21 +72,12 @@
     "url": "https://github.com/ChelseaKR/gauntlet"
   },
   {
-    "description": "Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdicts, byte",
-    "id": "ChelseaKR/plumbline",
-    "language": "Python",
-    "name": "ChelseaKR/plumbline",
-    "stars": 1,
-    "updated_at": "2026-08-22T19:30:02Z",
-    "url": "https://github.com/ChelseaKR/plumbline"
-  },
-  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 339,
-    "updated_at": "2026-08-22T20:16:59Z",
+    "updated_at": "2026-08-22T20:28:59Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -86,7 +86,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11144,
-    "updated_at": "2026-08-22T20:01:41Z",
+    "updated_at": "2026-08-22T20:29:25Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
