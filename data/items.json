@@ -1,11 +1,20 @@
 [
   {
+    "description": "Bilingual reduced-fare policy assistant for eighteen California transit agencies, grounded in dated citations and shippe",
+    "id": "ChelseaKR/fare-policy-assistant",
+    "language": "HTML",
+    "name": "ChelseaKR/fare-policy-assistant",
+    "stars": 1,
+    "updated_at": "2026-08-22T14:23:27Z",
+    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
+  },
+  {
     "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
     "id": "cannonade-ai/cannonade",
     "language": "TypeScript",
     "name": "cannonade-ai/cannonade",
     "stars": 2,
-    "updated_at": "2026-08-22T14:04:53Z",
+    "updated_at": "2026-08-22T14:30:05Z",
     "url": "https://github.com/cannonade-ai/cannonade"
   },
   {
@@ -97,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-22T02:48:02Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Bilingual reduced-fare policy assistant for eighteen California transit agencies, grounded in dated citations and shippe",
-    "id": "ChelseaKR/fare-policy-assistant",
-    "language": "HTML",
-    "name": "ChelseaKR/fare-policy-assistant",
-    "stars": 1,
-    "updated_at": "2026-08-22T14:03:51Z",
-    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
     "description": "",
