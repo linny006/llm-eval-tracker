@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "ChelseaKR/plumbline",
     "stars": 1,
-    "updated_at": "2026-08-23T02:06:52Z",
+    "updated_at": "2026-08-23T02:18:18Z",
     "url": "https://github.com/ChelseaKR/plumbline"
   },
   {
@@ -95,7 +95,7 @@
     "language": "HTML",
     "name": "ChelseaKR/fare-policy-assistant",
     "stars": 1,
-    "updated_at": "2026-08-22T14:23:27Z",
+    "updated_at": "2026-08-23T02:23:53Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
@@ -252,6 +252,15 @@
     "url": "https://github.com/Player-YN/TokSight"
   },
   {
+    "description": "A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance?",
+    "id": "sx4im/skillcheck",
+    "language": "TypeScript",
+    "name": "sx4im/skillcheck",
+    "stars": 26,
+    "updated_at": "2026-08-18T16:47:07Z",
+    "url": "https://github.com/sx4im/skillcheck"
+  },
+  {
     "description": "Open, domain-specific evaluation datasets and binary judges for Retail & CPG generative-AI tasks. ",
     "id": "j-newcom/retail-cpg-eval-datasets",
     "language": "Python",
@@ -304,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T07:45:43Z",
     "url": "https://github.com/sinakazemnezhad/agent-security-bench"
-  },
-  {
-    "description": "A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance?",
-    "id": "sx4im/skillcheck",
-    "language": "TypeScript",
-    "name": "sx4im/skillcheck",
-    "stars": 25,
-    "updated_at": "2026-08-18T16:47:07Z",
-    "url": "https://github.com/sx4im/skillcheck"
   },
   {
     "description": "Does done mean done? Coding-agent honesty demo: verified pass vs false completion vs scope violation. Public demo split ",
