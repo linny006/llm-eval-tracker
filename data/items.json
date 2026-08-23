@@ -1,11 +1,20 @@
 [
   {
+    "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
+    "id": "cannonade-ai/cannonade",
+    "language": "TypeScript",
+    "name": "cannonade-ai/cannonade",
+    "stars": 2,
+    "updated_at": "2026-08-23T10:12:54Z",
+    "url": "https://github.com/cannonade-ai/cannonade"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-08-23T09:32:08Z",
+    "updated_at": "2026-08-23T10:11:24Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
@@ -52,15 +61,6 @@
     "stars": 339,
     "updated_at": "2026-08-23T01:03:02Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
-    "id": "cannonade-ai/cannonade",
-    "language": "TypeScript",
-    "name": "cannonade-ai/cannonade",
-    "stars": 2,
-    "updated_at": "2026-08-22T22:55:43Z",
-    "url": "https://github.com/cannonade-ai/cannonade"
   },
   {
     "description": "",
