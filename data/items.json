@@ -18,11 +18,20 @@
     "url": "https://github.com/RudrenduPaul/memtrust"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11150,
+    "updated_at": "2026-08-23T18:27:27Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24487,
+    "stars": 24488,
     "updated_at": "2026-08-23T18:07:45Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -106,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-22T22:04:08Z",
     "url": "https://github.com/isatimur/book-mash"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11149,
-    "updated_at": "2026-08-23T18:27:27Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai",
