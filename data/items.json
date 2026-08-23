@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-08-23T11:12:06Z",
+    "updated_at": "2026-08-23T11:29:55Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
+    "description": "Curated list of benchmarks and rankings of models, agents and other AI-things.",
+    "id": "lorien/awesome-ai-benchmarks",
+    "language": "\u2014",
+    "name": "lorien/awesome-ai-benchmarks",
+    "stars": 1,
+    "updated_at": "2026-08-23T11:25:02Z",
+    "url": "https://github.com/lorien/awesome-ai-benchmarks"
   },
   {
     "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
@@ -151,15 +160,6 @@
     "stars": 3518,
     "updated_at": "2026-08-21T16:57:30Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Curated list of benchmarks and rankings of models, agents and other AI-things.",
-    "id": "lorien/awesome-ai-benchmarks",
-    "language": "\u2014",
-    "name": "lorien/awesome-ai-benchmarks",
-    "stars": 1,
-    "updated_at": "2026-08-21T13:18:50Z",
-    "url": "https://github.com/lorien/awesome-ai-benchmarks"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
