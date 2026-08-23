@@ -1,5 +1,14 @@
 [
   {
+    "description": "Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdicts, byte",
+    "id": "ChelseaKR/plumbline",
+    "language": "Python",
+    "name": "ChelseaKR/plumbline",
+    "stars": 1,
+    "updated_at": "2026-08-23T01:44:36Z",
+    "url": "https://github.com/ChelseaKR/plumbline"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -16,15 +25,6 @@
     "stars": 339,
     "updated_at": "2026-08-23T01:03:02Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdicts, byte",
-    "id": "ChelseaKR/plumbline",
-    "language": "Python",
-    "name": "ChelseaKR/plumbline",
-    "stars": 1,
-    "updated_at": "2026-08-23T00:22:24Z",
-    "url": "https://github.com/ChelseaKR/plumbline"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
