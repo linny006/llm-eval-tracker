@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-08-23T13:41:50Z",
+    "updated_at": "2026-08-23T14:07:01Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
+    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
+    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "language": "\u2014",
+    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "stars": 0,
+    "updated_at": "2026-08-23T14:01:08Z",
+    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
+  },
+  {
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-08-23T14:00:37Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
     "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -160,24 +178,6 @@
     "stars": 3519,
     "updated_at": "2026-08-21T16:57:30Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-08-21T06:59:43Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
-    "id": "bhavya7995/AI_governance",
-    "language": "PowerShell",
-    "name": "bhavya7995/AI_governance",
-    "stars": 1,
-    "updated_at": "2026-08-21T06:59:11Z",
-    "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
     "description": "Evaluation harness for LLM apps: prompt versioning, dataset runners, LLM-as-judge scoring, regression tracking, and HTML",
