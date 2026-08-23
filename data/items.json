@@ -40,7 +40,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24476,
+    "stars": 24477,
     "updated_at": "2026-08-23T03:11:11Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -342,15 +342,6 @@
     "url": "https://github.com/karlmehta/trustmodel-mcp"
   },
   {
-    "description": "Tool-calling eval harness + pre-execution safety gate for voice agents: scores whether the right tool was called with th",
-    "id": "rithvik-bk/voiceos-eval",
-    "language": "JavaScript",
-    "name": "rithvik-bk/voiceos-eval",
-    "stars": 0,
-    "updated_at": "2026-08-13T21:32:22Z",
-    "url": "https://github.com/rithvik-bk/voiceos-eval"
-  },
-  {
     "description": "Multi-arm evaluation and self-healing guardrails for MCP servers & CLIs",
     "id": "asavs/mcp-cocktail",
     "language": "Python",
@@ -448,5 +439,14 @@
     "stars": 0,
     "updated_at": "2026-08-07T14:37:43Z",
     "url": "https://github.com/ommiles/compton-eval-analysis"
+  },
+  {
+    "description": "Agent and LLM evaluation harness: golden datasets, multi-scorer execution, regression detection across model versions, c",
+    "id": "mizcausevic-dev/agent-eval-arena",
+    "language": "TypeScript",
+    "name": "mizcausevic-dev/agent-eval-arena",
+    "stars": 0,
+    "updated_at": "2026-08-10T11:37:42Z",
+    "url": "https://github.com/mizcausevic-dev/agent-eval-arena"
   }
 ]
