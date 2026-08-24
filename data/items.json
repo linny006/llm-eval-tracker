@@ -5,26 +5,26 @@
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-08-24T07:16:49Z",
+    "updated_at": "2026-08-24T07:32:58Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24512,
-    "updated_at": "2026-08-24T05:56:25Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11157,
+    "stars": 11158,
     "updated_at": "2026-08-24T07:29:34Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24514,
+    "updated_at": "2026-08-24T05:56:25Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -32,7 +32,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5767,
-    "updated_at": "2026-08-24T07:28:31Z",
+    "updated_at": "2026-08-24T07:41:05Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
