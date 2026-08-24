@@ -1,11 +1,20 @@
 [
   {
+    "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
+    "id": "cannonade-ai/cannonade",
+    "language": "TypeScript",
+    "name": "cannonade-ai/cannonade",
+    "stars": 2,
+    "updated_at": "2026-08-24T21:16:08Z",
+    "url": "https://github.com/cannonade-ai/cannonade"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24538,
-    "updated_at": "2026-08-24T21:09:09Z",
+    "updated_at": "2026-08-24T21:20:33Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11171,
-    "updated_at": "2026-08-24T21:08:00Z",
+    "updated_at": "2026-08-24T21:28:11Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -88,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-08-24T04:49:55Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
-    "id": "cannonade-ai/cannonade",
-    "language": "TypeScript",
-    "name": "cannonade-ai/cannonade",
-    "stars": 2,
-    "updated_at": "2026-08-24T21:02:27Z",
-    "url": "https://github.com/cannonade-ai/cannonade"
   },
   {
     "description": "Independent CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep, OpenViking); publishes raw eval logs.",
