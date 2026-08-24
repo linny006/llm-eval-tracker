@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11171,
+    "updated_at": "2026-08-24T21:35:56Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
     "id": "cannonade-ai/cannonade",
     "language": "TypeScript",
@@ -16,15 +25,6 @@
     "stars": 24538,
     "updated_at": "2026-08-24T21:20:33Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11171,
-    "updated_at": "2026-08-24T21:28:11Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
