@@ -1,21 +1,21 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11166,
-    "updated_at": "2026-08-24T12:58:12Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-08-24T12:38:54Z",
+    "updated_at": "2026-08-24T13:03:34Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11167,
+    "updated_at": "2026-08-24T12:58:12Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
@@ -32,7 +32,7 @@
     "language": "Python",
     "name": "IonDen/mlx-quant-fidelity",
     "stars": 4,
-    "updated_at": "2026-08-24T11:51:21Z",
+    "updated_at": "2026-08-24T13:05:30Z",
     "url": "https://github.com/IonDen/mlx-quant-fidelity"
   },
   {
@@ -49,7 +49,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24521,
+    "stars": 24522,
     "updated_at": "2026-08-24T05:56:25Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
