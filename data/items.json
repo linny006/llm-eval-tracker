@@ -5,8 +5,17 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24536,
-    "updated_at": "2026-08-24T16:44:00Z",
+    "updated_at": "2026-08-24T16:56:19Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3520,
+    "updated_at": "2026-08-24T16:48:10Z",
+    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T16:16:08Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3520,
-    "updated_at": "2026-08-24T15:26:16Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
