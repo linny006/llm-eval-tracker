@@ -1,21 +1,21 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11171,
-    "updated_at": "2026-08-24T20:51:10Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24538,
-    "updated_at": "2026-08-24T19:35:45Z",
+    "updated_at": "2026-08-24T21:09:09Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11171,
+    "updated_at": "2026-08-24T21:08:00Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -95,7 +95,7 @@
     "language": "TypeScript",
     "name": "cannonade-ai/cannonade",
     "stars": 2,
-    "updated_at": "2026-08-24T20:59:11Z",
+    "updated_at": "2026-08-24T21:02:27Z",
     "url": "https://github.com/cannonade-ai/cannonade"
   },
   {
