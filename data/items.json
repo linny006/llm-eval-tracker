@@ -1,5 +1,14 @@
 [
   {
+    "description": "Measure quantization quality loss on Apple Silicon MLX \u2014 KL divergence, top-token flip rate and perplexity delta for KV-",
+    "id": "IonDen/mlx-quant-fidelity",
+    "language": "Python",
+    "name": "IonDen/mlx-quant-fidelity",
+    "stars": 4,
+    "updated_at": "2026-08-24T11:51:21Z",
+    "url": "https://github.com/IonDen/mlx-quant-fidelity"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -214,15 +223,6 @@
     "stars": 47,
     "updated_at": "2026-08-20T12:19:24Z",
     "url": "https://github.com/izam-mohammed/ragrank"
-  },
-  {
-    "description": "Measure quantization quality loss on Apple Silicon MLX \u2014 KL divergence, top-token flip rate and perplexity delta for KV-",
-    "id": "IonDen/mlx-quant-fidelity",
-    "language": "Python",
-    "name": "IonDen/mlx-quant-fidelity",
-    "stars": 4,
-    "updated_at": "2026-08-24T11:42:13Z",
-    "url": "https://github.com/IonDen/mlx-quant-fidelity"
   },
   {
     "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
