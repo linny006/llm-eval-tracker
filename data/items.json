@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-08-24T02:38:43Z",
+    "updated_at": "2026-08-24T02:58:18Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
@@ -16,6 +16,15 @@
     "stars": 5765,
     "updated_at": "2026-08-24T02:33:41Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11152,
+    "updated_at": "2026-08-23T23:17:10Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
@@ -54,21 +63,12 @@
     "url": "https://github.com/RudrenduPaul/memtrust"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11151,
-    "updated_at": "2026-08-23T23:17:10Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24502,
-    "updated_at": "2026-08-23T18:07:45Z",
+    "stars": 24503,
+    "updated_at": "2026-08-24T02:56:41Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
