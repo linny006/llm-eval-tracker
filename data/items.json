@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11194,
+    "updated_at": "2026-08-25T22:44:12Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "",
     "id": "isatimur/mash-core",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T22:15:25Z",
     "url": "https://github.com/isatimur/mash-core"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11194,
-    "updated_at": "2026-08-25T21:55:36Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
