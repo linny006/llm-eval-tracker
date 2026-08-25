@@ -1,30 +1,30 @@
 [
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24543,
-    "updated_at": "2026-08-25T01:18:38Z",
-    "url": "https://github.com/promptfoo/promptfoo"
+    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-08-25T01:41:07Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11172,
-    "updated_at": "2026-08-25T01:15:05Z",
+    "stars": 11173,
+    "updated_at": "2026-08-25T01:33:49Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-08-24T23:58:08Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24543,
+    "updated_at": "2026-08-25T01:31:36Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
@@ -342,6 +342,15 @@
     "url": "https://github.com/karlmehta/trustmodel-mcp"
   },
   {
+    "description": "Tool-calling eval harness + pre-execution safety gate for voice agents: scores whether the right tool was called with th",
+    "id": "rithvik-bk/voiceos-eval",
+    "language": "JavaScript",
+    "name": "rithvik-bk/voiceos-eval",
+    "stars": 0,
+    "updated_at": "2026-08-13T21:32:22Z",
+    "url": "https://github.com/rithvik-bk/voiceos-eval"
+  },
+  {
     "description": "Multi-arm evaluation and self-healing guardrails for MCP servers & CLIs",
     "id": "asavs/mcp-cocktail",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-07T14:37:43Z",
     "url": "https://github.com/ommiles/compton-eval-analysis"
-  },
-  {
-    "description": "Agent and LLM evaluation harness: golden datasets, multi-scorer execution, regression detection across model versions, c",
-    "id": "mizcausevic-dev/agent-eval-arena",
-    "language": "TypeScript",
-    "name": "mizcausevic-dev/agent-eval-arena",
-    "stars": 0,
-    "updated_at": "2026-08-10T11:37:42Z",
-    "url": "https://github.com/mizcausevic-dev/agent-eval-arena"
   }
 ]
