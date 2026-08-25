@@ -1,5 +1,14 @@
 [
   {
+    "description": "Public-safe agent evaluation write-ups: harness gates, multi-path coding screens, task-family transfer, RAG routes, agen",
+    "id": "camerontjs-dot/agent-eval-notes",
+    "language": "CSS",
+    "name": "camerontjs-dot/agent-eval-notes",
+    "stars": 0,
+    "updated_at": "2026-08-25T16:00:07Z",
+    "url": "https://github.com/camerontjs-dot/agent-eval-notes"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -421,15 +430,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T20:42:31Z",
     "url": "https://github.com/lokesh75-kank/agenteval"
-  },
-  {
-    "description": "Public-safe agent evaluation write-ups: harness gates, multi-path coding screens, task-family transfer, RAG routes, agen",
-    "id": "camerontjs-dot/agent-eval-notes",
-    "language": "CSS",
-    "name": "camerontjs-dot/agent-eval-notes",
-    "stars": 0,
-    "updated_at": "2026-08-09T04:12:17Z",
-    "url": "https://github.com/camerontjs-dot/agent-eval-notes"
   },
   {
     "description": "judge-drift-sentinel \u00b7 judge-reliability-kit \u00b7 agent-loop-engine \u00b7 trace-gate \u00b7 ai-eng-skill-range",
