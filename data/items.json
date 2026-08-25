@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11194,
-    "updated_at": "2026-08-25T23:11:56Z",
+    "updated_at": "2026-08-25T23:43:13Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
+    "id": "HaileyStorm/Creative-Writing-Rubrics",
+    "language": "Python",
+    "name": "HaileyStorm/Creative-Writing-Rubrics",
+    "stars": 0,
+    "updated_at": "2026-08-25T23:31:46Z",
+    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
     "description": "",
@@ -106,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-25T11:55:37Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
-    "id": "HaileyStorm/Creative-Writing-Rubrics",
-    "language": "Python",
-    "name": "HaileyStorm/Creative-Writing-Rubrics",
-    "stars": 0,
-    "updated_at": "2026-08-25T11:35:59Z",
-    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
     "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",

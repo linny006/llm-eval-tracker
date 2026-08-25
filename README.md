@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-25 23:30 UTC
+> ⏰ Last updated: 2026-08-25 23:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,18 +43,18 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11194 | Python | 2026-08-25 | AI Observability & Evaluation |
-| 2 | [isatimur/mash-core](https://github.com/isatimur/mash-core) | 0 | Python | 2026-08-25 |  |
-| 3 | [truera/trulens](https://github.com/truera/trulens) | 3522 | Python | 2026-08-25 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 4 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 1 | TypeScript | 2026-08-25 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
-| 5 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-08-25 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
-| 6 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24569 | TypeScript | 2026-08-25 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 7 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | — | 2026-08-25 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
-| 8 | [camerontjs-dot/agent-eval-notes](https://github.com/camerontjs-dot/agent-eval-notes) | 0 | CSS | 2026-08-25 | Public-safe agent evaluation write-ups: harness gates, multi-path coding screens, task-family transfer, RAG routes, agen |
-| 9 | [RudrenduPaul/memtrust](https://github.com/RudrenduPaul/memtrust) | 1 | Python | 2026-08-25 | Independent CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep, OpenViking); publishes raw eval logs. |
-| 10 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5771 | Python | 2026-08-25 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 11 | [lorien/awesome-ai-benchmarks](https://github.com/lorien/awesome-ai-benchmarks) | 1 | — | 2026-08-25 | Curated list of benchmarks and rankings of models, agents and other AI-things. |
-| 12 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-08-25 | 📐 Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
-| 13 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-08-25 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
+| 2 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-08-25 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
+| 3 | [isatimur/mash-core](https://github.com/isatimur/mash-core) | 0 | Python | 2026-08-25 |  |
+| 4 | [truera/trulens](https://github.com/truera/trulens) | 3522 | Python | 2026-08-25 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 5 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 1 | TypeScript | 2026-08-25 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
+| 6 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-08-25 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
+| 7 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24569 | TypeScript | 2026-08-25 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 8 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | — | 2026-08-25 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
+| 9 | [camerontjs-dot/agent-eval-notes](https://github.com/camerontjs-dot/agent-eval-notes) | 0 | CSS | 2026-08-25 | Public-safe agent evaluation write-ups: harness gates, multi-path coding screens, task-family transfer, RAG routes, agen |
+| 10 | [RudrenduPaul/memtrust](https://github.com/RudrenduPaul/memtrust) | 1 | Python | 2026-08-25 | Independent CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep, OpenViking); publishes raw eval logs. |
+| 11 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5771 | Python | 2026-08-25 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 12 | [lorien/awesome-ai-benchmarks](https://github.com/lorien/awesome-ai-benchmarks) | 1 | — | 2026-08-25 | Curated list of benchmarks and rankings of models, agents and other AI-things. |
+| 13 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-08-25 | 📐 Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
 | 14 | [izam-mohammed/ragrank](https://github.com/izam-mohammed/ragrank) | 47 | Python | 2026-08-25 | 🎯 Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an |
 | 15 | [sunxin-ai/dsh-design-qa](https://github.com/sunxin-ai/dsh-design-qa) | 2 | JavaScript | 2026-08-25 | Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches  |
 | 16 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-08-25 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
