@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-25 22:21 UTC
+> ⏰ Last updated: 2026-08-25 22:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,8 +43,8 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [isatimur/mash-core](https://github.com/isatimur/mash-core) | 0 | Python | 2026-08-25 |  |
-| 2 | [truera/trulens](https://github.com/truera/trulens) | 3522 | Python | 2026-08-25 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11193 | Python | 2026-08-25 | AI Observability & Evaluation |
+| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11194 | Python | 2026-08-25 | AI Observability & Evaluation |
+| 3 | [truera/trulens](https://github.com/truera/trulens) | 3522 | Python | 2026-08-25 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 4 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 1 | TypeScript | 2026-08-25 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 5 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-08-25 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 6 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24569 | TypeScript | 2026-08-25 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
