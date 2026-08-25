@@ -1,5 +1,14 @@
 [
   {
+    "description": "Curated list of benchmarks and rankings of models, agents and other AI-things.",
+    "id": "lorien/awesome-ai-benchmarks",
+    "language": "\u2014",
+    "name": "lorien/awesome-ai-benchmarks",
+    "stars": 1,
+    "updated_at": "2026-08-25T12:41:39Z",
+    "url": "https://github.com/lorien/awesome-ai-benchmarks"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -50,7 +59,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11184,
-    "updated_at": "2026-08-25T07:07:31Z",
+    "updated_at": "2026-08-25T12:34:08Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -121,7 +130,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5769,
+    "stars": 5770,
     "updated_at": "2026-08-24T09:43:01Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
@@ -151,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-08-23T23:57:00Z",
     "url": "https://github.com/RudrenduPaul/memtrust"
-  },
-  {
-    "description": "Curated list of benchmarks and rankings of models, agents and other AI-things.",
-    "id": "lorien/awesome-ai-benchmarks",
-    "language": "\u2014",
-    "name": "lorien/awesome-ai-benchmarks",
-    "stars": 1,
-    "updated_at": "2026-08-23T11:25:02Z",
-    "url": "https://github.com/lorien/awesome-ai-benchmarks"
   },
   {
     "description": "Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdicts, byte",
