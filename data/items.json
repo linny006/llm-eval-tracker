@@ -4,9 +4,18 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11187,
-    "updated_at": "2026-08-25T15:23:39Z",
+    "stars": 11188,
+    "updated_at": "2026-08-25T15:35:02Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3521,
+    "updated_at": "2026-08-25T15:18:52Z",
+    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -117,15 +126,6 @@
     "url": "https://github.com/cannonade-ai/cannonade"
   },
   {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3521,
-    "updated_at": "2026-08-25T15:18:52Z",
-    "url": "https://github.com/truera/trulens"
-  },
-  {
     "description": "Measure quantization quality loss on Apple Silicon MLX \u2014 KL divergence, top-token flip rate and perplexity delta for KV-",
     "id": "IonDen/mlx-quant-fidelity",
     "language": "Python",
@@ -167,7 +167,7 @@
     "language": "Python",
     "name": "RudrenduPaul/memtrust",
     "stars": 1,
-    "updated_at": "2026-08-23T23:57:00Z",
+    "updated_at": "2026-08-25T15:45:04Z",
     "url": "https://github.com/RudrenduPaul/memtrust"
   },
   {
