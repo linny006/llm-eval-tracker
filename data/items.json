@@ -5,8 +5,17 @@
     "language": "CSS",
     "name": "camerontjs-dot/agent-eval-notes",
     "stars": 0,
-    "updated_at": "2026-08-25T16:00:07Z",
+    "updated_at": "2026-08-25T16:00:47Z",
     "url": "https://github.com/camerontjs-dot/agent-eval-notes"
+  },
+  {
+    "description": "Independent CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep, OpenViking); publishes raw eval logs.",
+    "id": "RudrenduPaul/memtrust",
+    "language": "Python",
+    "name": "RudrenduPaul/memtrust",
+    "stars": 1,
+    "updated_at": "2026-08-25T15:45:04Z",
+    "url": "https://github.com/RudrenduPaul/memtrust"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -31,7 +40,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24563,
+    "stars": 24564,
     "updated_at": "2026-08-25T14:03:56Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -169,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-24T04:49:55Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "Independent CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep, OpenViking); publishes raw eval logs.",
-    "id": "RudrenduPaul/memtrust",
-    "language": "Python",
-    "name": "RudrenduPaul/memtrust",
-    "stars": 1,
-    "updated_at": "2026-08-25T15:45:04Z",
-    "url": "https://github.com/RudrenduPaul/memtrust"
   },
   {
     "description": "Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdicts, byte",
