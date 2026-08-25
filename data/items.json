@@ -1,5 +1,14 @@
 [
   {
+    "description": "",
+    "id": "isatimur/mash-core",
+    "language": "Python",
+    "name": "isatimur/mash-core",
+    "stars": 0,
+    "updated_at": "2026-08-25T22:15:25Z",
+    "url": "https://github.com/isatimur/mash-core"
+  },
+  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
@@ -203,7 +212,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 340,
-    "updated_at": "2026-08-25T21:35:34Z",
+    "updated_at": "2026-08-25T22:19:52Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-09T20:42:31Z",
     "url": "https://github.com/lokesh75-kank/agenteval"
-  },
-  {
-    "description": "judge-drift-sentinel \u00b7 judge-reliability-kit \u00b7 agent-loop-engine \u00b7 trace-gate \u00b7 ai-eng-skill-range",
-    "id": "homayoun-safarpour/homayoun-safarpour",
-    "language": "\u2014",
-    "name": "homayoun-safarpour/homayoun-safarpour",
-    "stars": 0,
-    "updated_at": "2026-08-08T12:36:01Z",
-    "url": "https://github.com/homayoun-safarpour/homayoun-safarpour"
   }
 ]
