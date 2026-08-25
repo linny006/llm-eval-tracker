@@ -1,11 +1,20 @@
 [
   {
+    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-08-25T06:14:10Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24547,
-    "updated_at": "2026-08-25T05:53:53Z",
+    "stars": 24549,
+    "updated_at": "2026-08-25T06:10:24Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -43,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T03:26:22Z",
     "url": "https://github.com/rithvik-bk/voiceos-eval"
-  },
-  {
-    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-08-25T02:34:23Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
