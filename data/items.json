@@ -1,11 +1,20 @@
 [
   {
+    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
+    "id": "HaileyStorm/Creative-Writing-Rubrics",
+    "language": "Python",
+    "name": "HaileyStorm/Creative-Writing-Rubrics",
+    "stars": 0,
+    "updated_at": "2026-08-26T14:50:48Z",
+    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11200,
-    "updated_at": "2026-08-26T14:42:56Z",
+    "stars": 11202,
+    "updated_at": "2026-08-26T15:39:57Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -14,17 +23,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24591,
-    "updated_at": "2026-08-26T14:55:40Z",
+    "updated_at": "2026-08-26T15:39:05Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
-    "id": "HaileyStorm/Creative-Writing-Rubrics",
-    "language": "Python",
-    "name": "HaileyStorm/Creative-Writing-Rubrics",
-    "stars": 0,
-    "updated_at": "2026-08-26T14:50:48Z",
-    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
     "description": "Does done mean done? Coding-agent honesty demo: verified pass vs false completion vs scope violation. Public demo split ",
@@ -77,7 +77,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 341,
-    "updated_at": "2026-08-26T11:25:07Z",
+    "updated_at": "2026-08-26T15:32:13Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
