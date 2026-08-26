@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-08-26T16:42:22Z",
+    "updated_at": "2026-08-26T16:58:13Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
@@ -13,7 +13,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24590,
+    "stars": 24591,
     "updated_at": "2026-08-26T16:41:58Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -22,7 +22,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11202,
+    "stars": 11203,
     "updated_at": "2026-08-26T16:00:29Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -34,6 +34,15 @@
     "stars": 0,
     "updated_at": "2026-08-26T13:55:50Z",
     "url": "https://github.com/camerontjs-dot/verified-done"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5773,
+    "updated_at": "2026-08-26T12:31:32Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
@@ -52,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-08-26T10:17:49Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5772,
-    "updated_at": "2026-08-26T12:31:32Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
