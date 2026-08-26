@@ -1,5 +1,14 @@
 [
   {
+    "description": "Does done mean done? Coding-agent honesty demo: verified pass vs false completion vs scope violation. Public demo split ",
+    "id": "camerontjs-dot/verified-done",
+    "language": "Python",
+    "name": "camerontjs-dot/verified-done",
+    "stars": 0,
+    "updated_at": "2026-08-26T13:55:50Z",
+    "url": "https://github.com/camerontjs-dot/verified-done"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -41,7 +50,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24589,
-    "updated_at": "2026-08-26T04:40:14Z",
+    "updated_at": "2026-08-26T13:54:15Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -358,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T07:45:43Z",
     "url": "https://github.com/sinakazemnezhad/agent-security-bench"
-  },
-  {
-    "description": "Does done mean done? Coding-agent honesty demo: verified pass vs false completion vs scope violation. Public demo split ",
-    "id": "camerontjs-dot/verified-done",
-    "language": "Python",
-    "name": "camerontjs-dot/verified-done",
-    "stars": 0,
-    "updated_at": "2026-08-15T11:25:14Z",
-    "url": "https://github.com/camerontjs-dot/verified-done"
   },
   {
     "description": "Turn real traffic/traces into a versioned, deduped, coverage-tracked LLM regression suite \u2014 a curation accelerator with ",
