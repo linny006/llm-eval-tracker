@@ -1,11 +1,20 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 341,
+    "updated_at": "2026-08-26T17:41:11Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11204,
-    "updated_at": "2026-08-26T17:19:25Z",
+    "stars": 11203,
+    "updated_at": "2026-08-26T17:39:15Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -27,6 +36,15 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24592,
+    "updated_at": "2026-08-26T17:06:32Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -34,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T16:58:13Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24591,
-    "updated_at": "2026-08-26T17:06:32Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Does done mean done? Coding-agent honesty demo: verified pass vs false completion vs scope violation. Public demo split ",
@@ -70,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T03:29:36Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 341,
-    "updated_at": "2026-08-26T17:29:02Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "",
