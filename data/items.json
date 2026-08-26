@@ -1,5 +1,14 @@
 [
   {
+    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
+    "id": "HaileyStorm/Creative-Writing-Rubrics",
+    "language": "Python",
+    "name": "HaileyStorm/Creative-Writing-Rubrics",
+    "stars": 0,
+    "updated_at": "2026-08-26T04:14:17Z",
+    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -27,21 +36,12 @@
     "url": "https://github.com/Kondwani10/Origin-Continuum"
   },
   {
-    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
-    "id": "HaileyStorm/Creative-Writing-Rubrics",
-    "language": "Python",
-    "name": "HaileyStorm/Creative-Writing-Rubrics",
-    "stars": 0,
-    "updated_at": "2026-08-26T03:34:16Z",
-    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5772,
-    "updated_at": "2026-08-26T01:15:46Z",
+    "updated_at": "2026-08-26T04:12:04Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
