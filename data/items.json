@@ -13,7 +13,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24572,
+    "stars": 24573,
     "updated_at": "2026-08-26T03:24:26Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -32,7 +32,7 @@
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-08-26T01:31:56Z",
+    "updated_at": "2026-08-26T03:34:16Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
@@ -43,6 +43,15 @@
     "stars": 5772,
     "updated_at": "2026-08-26T01:15:46Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 341,
+    "updated_at": "2026-08-25T22:19:52Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "",
@@ -205,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-08-23T04:05:41Z",
     "url": "https://github.com/ChelseaKR/plumbline"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 340,
-    "updated_at": "2026-08-25T22:19:52Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "",
