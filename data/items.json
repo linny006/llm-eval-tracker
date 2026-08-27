@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11213,
+    "updated_at": "2026-08-27T15:13:52Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
@@ -23,17 +32,8 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 341,
-    "updated_at": "2026-08-27T12:01:54Z",
+    "updated_at": "2026-08-27T15:09:31Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11213,
-    "updated_at": "2026-08-27T14:51:33Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -103,7 +103,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24617,
+    "stars": 24618,
     "updated_at": "2026-08-27T00:14:28Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -239,7 +239,7 @@
     "language": "\u2014",
     "name": "saddled-panicattack529/idea-evaluation-pipeline",
     "stars": 0,
-    "updated_at": "2026-08-25T03:53:12Z",
+    "updated_at": "2026-08-27T15:04:59Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {

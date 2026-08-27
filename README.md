@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-27 15:00 UTC
+> ⏰ Last updated: 2026-08-27 15:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [truera/trulens](https://github.com/truera/trulens) | 3525 | Python | 2026-08-27 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 2 | [vishalmurugan1986/support-tam-ai-copilot](https://github.com/vishalmurugan1986/support-tam-ai-copilot) | 1 | Python | 2026-08-27 | LLM-powered ticket triage + TAM account health briefs for technical support teams, with a rule-based fallback, RAG over  |
-| 3 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 341 | TypeScript | 2026-08-27 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11213 | Python | 2026-08-27 | AI Observability & Evaluation |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11213 | Python | 2026-08-27 | AI Observability & Evaluation |
+| 2 | [truera/trulens](https://github.com/truera/trulens) | 3525 | Python | 2026-08-27 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 3 | [vishalmurugan1986/support-tam-ai-copilot](https://github.com/vishalmurugan1986/support-tam-ai-copilot) | 1 | Python | 2026-08-27 | LLM-powered ticket triage + TAM account health briefs for technical support teams, with a rule-based fallback, RAG over  |
+| 4 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 341 | TypeScript | 2026-08-27 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 5 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5773 | Python | 2026-08-27 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 6 | [gmitt98/fieldtest](https://github.com/gmitt98/fieldtest) | 0 | Python | 2026-08-27 | LLM evaluation framework — define what correct, well-formed, and safe means before you measure |
 | 7 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-08-27 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
@@ -53,7 +53,7 @@ expired items removed — so you can rely on what you see being current.
 | 9 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-08-27 | Bilingual reduced-fare policy assistant for eighteen California transit agencies, grounded in dated citations and shippe |
 | 10 | [jafeeri/llm-eval-bench](https://github.com/jafeeri/llm-eval-bench) | 0 | Python | 2026-08-27 | Score LLM outputs and block quality regressions in CI. Deterministic checks first, a calibrated LLM judge where needed.  |
 | 11 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-08-27 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
-| 12 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24617 | TypeScript | 2026-08-27 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 12 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24618 | TypeScript | 2026-08-27 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 13 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-08-27 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
 | 14 | [cannonade-ai/cannonade](https://github.com/cannonade-ai/cannonade) | 2 | TypeScript | 2026-08-26 | Local-first desktop app for building LLM test suites and running them against many local or cloud models at once |
 | 15 | [camerontjs-dot/verified-done](https://github.com/camerontjs-dot/verified-done) | 0 | Python | 2026-08-26 | Does done mean done? Coding-agent honesty demo: verified pass vs false completion vs scope violation. Public demo split  |
@@ -68,7 +68,7 @@ expired items removed — so you can rely on what you see being current.
 | 24 | [izam-mohammed/ragrank](https://github.com/izam-mohammed/ragrank) | 47 | Python | 2026-08-25 | 🎯 Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an |
 | 25 | [sunxin-ai/dsh-design-qa](https://github.com/sunxin-ai/dsh-design-qa) | 2 | JavaScript | 2026-08-25 | Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches  |
 | 26 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-08-25 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
-| 27 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-08-25 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
+| 27 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-08-27 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 28 | [rithvik-bk/voiceos-eval](https://github.com/rithvik-bk/voiceos-eval) | 0 | JavaScript | 2026-08-25 | Tool-calling eval harness + pre-execution safety gate for voice agents: scores whether the right tool was called with th |
 | 29 | [IonDen/mlx-quant-fidelity](https://github.com/IonDen/mlx-quant-fidelity) | 4 | Python | 2026-08-27 | Measure quantization quality loss on Apple Silicon MLX — KL divergence, top-token flip rate and perplexity delta for KV- |
 | 30 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-08-27 | Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdicts, byte |
