@@ -1,12 +1,12 @@
 [
   {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3525,
-    "updated_at": "2026-08-27T00:04:15Z",
-    "url": "https://github.com/truera/trulens"
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-08-27T00:13:40Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
@@ -14,7 +14,7 @@
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-08-27T00:03:31Z",
+    "updated_at": "2026-08-27T00:12:55Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
@@ -23,8 +23,17 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24601,
-    "updated_at": "2026-08-26T23:14:59Z",
+    "updated_at": "2026-08-27T00:14:28Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3525,
+    "updated_at": "2026-08-27T00:05:55Z",
+    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11205,
-    "updated_at": "2026-08-26T22:56:10Z",
+    "updated_at": "2026-08-27T00:10:14Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -59,17 +68,8 @@
     "language": "\u2014",
     "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "stars": 0,
-    "updated_at": "2026-08-26T17:16:41Z",
+    "updated_at": "2026-08-27T00:14:36Z",
     "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
-    "id": "bhavya7995/AI_governance",
-    "language": "PowerShell",
-    "name": "bhavya7995/AI_governance",
-    "stars": 1,
-    "updated_at": "2026-08-26T17:16:02Z",
-    "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
     "description": "Does done mean done? Coding-agent honesty demo: verified pass vs false completion vs scope violation. Public demo split ",
