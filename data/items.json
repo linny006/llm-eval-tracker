@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11209,
+    "updated_at": "2026-08-27T06:05:51Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
     "id": "gmitt98/fieldtest",
     "language": "Python",
@@ -16,15 +25,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T05:33:16Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11209,
-    "updated_at": "2026-08-27T05:48:25Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
@@ -122,7 +122,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5774,
-    "updated_at": "2026-08-27T05:50:05Z",
+    "updated_at": "2026-08-27T06:01:08Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -248,7 +248,7 @@
     "language": "Python",
     "name": "IonDen/mlx-quant-fidelity",
     "stars": 4,
-    "updated_at": "2026-08-27T05:18:05Z",
+    "updated_at": "2026-08-27T06:03:58Z",
     "url": "https://github.com/IonDen/mlx-quant-fidelity"
   },
   {
