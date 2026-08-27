@@ -1,12 +1,12 @@
 [
   {
-    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
-    "id": "gmitt98/fieldtest",
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
     "language": "Python",
-    "name": "gmitt98/fieldtest",
-    "stars": 0,
-    "updated_at": "2026-08-27T07:18:04Z",
-    "url": "https://github.com/gmitt98/fieldtest"
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5773,
+    "updated_at": "2026-08-27T07:38:25Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
@@ -14,8 +14,17 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 341,
-    "updated_at": "2026-08-27T06:41:21Z",
+    "updated_at": "2026-08-27T07:45:12Z",
     "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
+    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
+    "id": "gmitt98/fieldtest",
+    "language": "Python",
+    "name": "gmitt98/fieldtest",
+    "stars": 0,
+    "updated_at": "2026-08-27T07:37:56Z",
+    "url": "https://github.com/gmitt98/fieldtest"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -34,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T06:10:42Z",
     "url": "https://github.com/vishalmurugan1986/support-tam-ai-copilot"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5773,
-    "updated_at": "2026-08-27T07:27:34Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
