@@ -1,11 +1,20 @@
 [
   {
+    "description": "Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdicts, byte",
+    "id": "ChelseaKR/plumbline",
+    "language": "Python",
+    "name": "ChelseaKR/plumbline",
+    "stars": 1,
+    "updated_at": "2026-08-27T19:38:52Z",
+    "url": "https://github.com/ChelseaKR/plumbline"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11217,
-    "updated_at": "2026-08-27T19:21:03Z",
+    "updated_at": "2026-08-27T19:45:01Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -259,15 +268,6 @@
     "stars": 4,
     "updated_at": "2026-08-27T06:03:58Z",
     "url": "https://github.com/IonDen/mlx-quant-fidelity"
-  },
-  {
-    "description": "Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdicts, byte",
-    "id": "ChelseaKR/plumbline",
-    "language": "Python",
-    "name": "ChelseaKR/plumbline",
-    "stars": 1,
-    "updated_at": "2026-08-27T19:22:34Z",
-    "url": "https://github.com/ChelseaKR/plumbline"
   },
   {
     "description": "",
