@@ -1,5 +1,14 @@
 [
   {
+    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
+    "id": "HaileyStorm/Creative-Writing-Rubrics",
+    "language": "Python",
+    "name": "HaileyStorm/Creative-Writing-Rubrics",
+    "stars": 0,
+    "updated_at": "2026-08-27T22:43:59Z",
+    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
     "id": "ahmedmoha9088/PhoenixFish",
     "language": "Java",
@@ -25,15 +34,6 @@
     "stars": 11217,
     "updated_at": "2026-08-27T22:15:20Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
-    "id": "HaileyStorm/Creative-Writing-Rubrics",
-    "language": "Python",
-    "name": "HaileyStorm/Creative-Writing-Rubrics",
-    "stars": 0,
-    "updated_at": "2026-08-27T21:35:26Z",
-    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
     "description": "Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdicts, byte",
