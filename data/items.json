@@ -9,6 +9,15 @@
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11210,
+    "updated_at": "2026-08-27T08:27:36Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T07:37:56Z",
     "url": "https://github.com/gmitt98/fieldtest"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11210,
-    "updated_at": "2026-08-27T08:27:36Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "LLM-powered ticket triage + TAM account health briefs for technical support teams, with a rule-based fallback, RAG over ",
