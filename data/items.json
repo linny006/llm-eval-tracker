@@ -4,7 +4,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11216,
+    "stars": 11217,
     "updated_at": "2026-08-27T18:57:37Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -23,7 +23,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24621,
-    "updated_at": "2026-08-27T17:14:24Z",
+    "updated_at": "2026-08-27T19:07:59Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -58,7 +58,7 @@
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3525,
+    "stars": 3526,
     "updated_at": "2026-08-27T14:37:29Z",
     "url": "https://github.com/truera/trulens"
   },
@@ -72,6 +72,15 @@
     "url": "https://github.com/vishalmurugan1986/support-tam-ai-copilot"
   },
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5774,
+    "updated_at": "2026-08-27T09:23:45Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -79,15 +88,6 @@
     "stars": 341,
     "updated_at": "2026-08-27T17:35:39Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5773,
-    "updated_at": "2026-08-27T09:23:45Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
@@ -266,7 +266,7 @@
     "language": "Python",
     "name": "ChelseaKR/plumbline",
     "stars": 1,
-    "updated_at": "2026-08-27T09:44:50Z",
+    "updated_at": "2026-08-27T19:11:43Z",
     "url": "https://github.com/ChelseaKR/plumbline"
   },
   {
