@@ -1,5 +1,14 @@
 [
   {
+    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
+    "id": "gmitt98/fieldtest",
+    "language": "Python",
+    "name": "gmitt98/fieldtest",
+    "stars": 0,
+    "updated_at": "2026-08-27T07:14:49Z",
+    "url": "https://github.com/gmitt98/fieldtest"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -7,6 +16,15 @@
     "stars": 341,
     "updated_at": "2026-08-27T06:41:21Z",
     "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11210,
+    "updated_at": "2026-08-27T06:32:24Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "LLM-powered ticket triage + TAM account health briefs for technical support teams, with a rule-based fallback, RAG over ",
@@ -18,22 +36,13 @@
     "url": "https://github.com/vishalmurugan1986/support-tam-ai-copilot"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
     "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11209,
-    "updated_at": "2026-08-27T06:32:24Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
-    "id": "gmitt98/fieldtest",
-    "language": "Python",
-    "name": "gmitt98/fieldtest",
-    "stars": 0,
-    "updated_at": "2026-08-27T06:56:08Z",
-    "url": "https://github.com/gmitt98/fieldtest"
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5773,
+    "updated_at": "2026-08-27T06:01:08Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
@@ -124,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T13:55:50Z",
     "url": "https://github.com/camerontjs-dot/verified-done"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5774,
-    "updated_at": "2026-08-27T06:01:08Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
