@@ -1,5 +1,14 @@
 [
   {
+    "description": "LLM-powered ticket triage + TAM account health briefs for technical support teams, with a rule-based fallback, RAG over ",
+    "id": "vishalmurugan1986/support-tam-ai-copilot",
+    "language": "Python",
+    "name": "vishalmurugan1986/support-tam-ai-copilot",
+    "stars": 1,
+    "updated_at": "2026-08-27T06:10:42Z",
+    "url": "https://github.com/vishalmurugan1986/support-tam-ai-copilot"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -104,7 +113,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 341,
-    "updated_at": "2026-08-26T17:41:11Z",
+    "updated_at": "2026-08-27T06:29:24Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-11T06:32:55Z",
     "url": "https://github.com/cklxx/ckl-bench"
-  },
-  {
-    "description": "End-to-end agent evaluation \u2014 trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w",
-    "id": "reaatech/agent-eval-harness",
-    "language": "TypeScript",
-    "name": "reaatech/agent-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-08-24T16:07:37Z",
-    "url": "https://github.com/reaatech/agent-eval-harness"
   }
 ]
