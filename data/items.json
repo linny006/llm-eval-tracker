@@ -1,11 +1,20 @@
 [
   {
+    "description": "Score LLM outputs and block quality regressions in CI. Deterministic checks first, a calibrated LLM judge where needed. ",
+    "id": "jafeeri/llm-eval-bench",
+    "language": "Python",
+    "name": "jafeeri/llm-eval-bench",
+    "stars": 0,
+    "updated_at": "2026-08-27T00:39:44Z",
+    "url": "https://github.com/jafeeri/llm-eval-bench"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-08-27T00:24:40Z",
+    "updated_at": "2026-08-27T00:35:49Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
@@ -31,7 +40,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24602,
+    "stars": 24603,
     "updated_at": "2026-08-27T00:14:28Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-10T10:37:25Z",
     "url": "https://github.com/KolyaSotnichenko/webitel-tz"
-  },
-  {
-    "description": "Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou",
-    "id": "lokesh75-kank/agenteval",
-    "language": "TypeScript",
-    "name": "lokesh75-kank/agenteval",
-    "stars": 0,
-    "updated_at": "2026-08-09T20:42:31Z",
-    "url": "https://github.com/lokesh75-kank/agenteval"
   }
 ]
