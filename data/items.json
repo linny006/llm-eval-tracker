@@ -1,5 +1,14 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 341,
+    "updated_at": "2026-08-27T06:41:21Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "LLM-powered ticket triage + TAM account health briefs for technical support teams, with a rule-based fallback, RAG over ",
     "id": "vishalmurugan1986/support-tam-ai-copilot",
     "language": "Python",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11209,
-    "updated_at": "2026-08-27T06:05:51Z",
+    "updated_at": "2026-08-27T06:32:24Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -106,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-08-26T20:18:07Z",
     "url": "https://github.com/cannonade-ai/cannonade"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 341,
-    "updated_at": "2026-08-27T06:29:24Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Does done mean done? Coding-agent honesty demo: verified pass vs false completion vs scope violation. Public demo split ",

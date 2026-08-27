@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-27 06:30 UTC
+> ⏰ Last updated: 2026-08-27 06:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [vishalmurugan1986/support-tam-ai-copilot](https://github.com/vishalmurugan1986/support-tam-ai-copilot) | 1 | Python | 2026-08-27 | LLM-powered ticket triage + TAM account health briefs for technical support teams, with a rule-based fallback, RAG over  |
-| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11209 | Python | 2026-08-27 | AI Observability & Evaluation |
-| 3 | [gmitt98/fieldtest](https://github.com/gmitt98/fieldtest) | 0 | Python | 2026-08-27 | LLM evaluation framework — define what correct, well-formed, and safe means before you measure |
-| 4 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-08-27 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
-| 5 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-08-27 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
-| 6 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-08-27 | Bilingual reduced-fare policy assistant for eighteen California transit agencies, grounded in dated citations and shippe |
-| 7 | [truera/trulens](https://github.com/truera/trulens) | 3525 | Python | 2026-08-27 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 8 | [jafeeri/llm-eval-bench](https://github.com/jafeeri/llm-eval-bench) | 0 | Python | 2026-08-27 | Score LLM outputs and block quality regressions in CI. Deterministic checks first, a calibrated LLM judge where needed.  |
-| 9 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-08-27 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
-| 10 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24608 | TypeScript | 2026-08-27 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 11 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-08-27 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
-| 12 | [cannonade-ai/cannonade](https://github.com/cannonade-ai/cannonade) | 2 | TypeScript | 2026-08-26 | Local-first desktop app for building LLM test suites and running them against many local or cloud models at once |
-| 13 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 341 | TypeScript | 2026-08-27 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 1 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 341 | TypeScript | 2026-08-27 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 2 | [vishalmurugan1986/support-tam-ai-copilot](https://github.com/vishalmurugan1986/support-tam-ai-copilot) | 1 | Python | 2026-08-27 | LLM-powered ticket triage + TAM account health briefs for technical support teams, with a rule-based fallback, RAG over  |
+| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11209 | Python | 2026-08-27 | AI Observability & Evaluation |
+| 4 | [gmitt98/fieldtest](https://github.com/gmitt98/fieldtest) | 0 | Python | 2026-08-27 | LLM evaluation framework — define what correct, well-formed, and safe means before you measure |
+| 5 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-08-27 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
+| 6 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-08-27 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
+| 7 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-08-27 | Bilingual reduced-fare policy assistant for eighteen California transit agencies, grounded in dated citations and shippe |
+| 8 | [truera/trulens](https://github.com/truera/trulens) | 3525 | Python | 2026-08-27 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 9 | [jafeeri/llm-eval-bench](https://github.com/jafeeri/llm-eval-bench) | 0 | Python | 2026-08-27 | Score LLM outputs and block quality regressions in CI. Deterministic checks first, a calibrated LLM judge where needed.  |
+| 10 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-08-27 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
+| 11 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24608 | TypeScript | 2026-08-27 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 12 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-08-27 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
+| 13 | [cannonade-ai/cannonade](https://github.com/cannonade-ai/cannonade) | 2 | TypeScript | 2026-08-26 | Local-first desktop app for building LLM test suites and running them against many local or cloud models at once |
 | 14 | [camerontjs-dot/verified-done](https://github.com/camerontjs-dot/verified-done) | 0 | Python | 2026-08-26 | Does done mean done? Coding-agent honesty demo: verified pass vs false completion vs scope violation. Public demo split  |
 | 15 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5774 | Python | 2026-08-27 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 16 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-08-26 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
