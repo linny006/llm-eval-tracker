@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24648,
+    "updated_at": "2026-08-28T20:43:01Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Public-safe agent evaluation write-ups: harness gates, multi-path coding screens, task-family transfer, RAG routes, agen",
     "id": "camerontjs-dot/agent-eval-notes",
     "language": "CSS",
@@ -14,17 +23,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11227,
-    "updated_at": "2026-08-28T20:29:00Z",
+    "updated_at": "2026-08-28T20:31:32Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24647,
-    "updated_at": "2026-08-28T19:34:38Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
@@ -32,7 +32,7 @@
     "language": "Python",
     "name": "gmitt98/fieldtest",
     "stars": 0,
-    "updated_at": "2026-08-28T18:25:50Z",
+    "updated_at": "2026-08-28T20:31:06Z",
     "url": "https://github.com/gmitt98/fieldtest"
   },
   {
@@ -185,7 +185,7 @@
     "language": "TypeScript",
     "name": "cannonade-ai/cannonade",
     "stars": 2,
-    "updated_at": "2026-08-26T20:18:07Z",
+    "updated_at": "2026-08-28T20:41:14Z",
     "url": "https://github.com/cannonade-ai/cannonade"
   },
   {
