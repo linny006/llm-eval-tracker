@@ -9,6 +9,15 @@
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5776,
+    "updated_at": "2026-08-28T09:42:22Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -97,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T12:15:18Z",
     "url": "https://github.com/vishalmurugan1986/support-tam-ai-copilot"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5775,
-    "updated_at": "2026-08-28T09:42:22Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
