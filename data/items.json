@@ -1,5 +1,14 @@
 [
   {
+    "description": "Measure quantization quality loss on Apple Silicon MLX \u2014 KL divergence, top-token flip rate and perplexity delta for KV-",
+    "id": "IonDen/mlx-quant-fidelity",
+    "language": "Python",
+    "name": "IonDen/mlx-quant-fidelity",
+    "stars": 4,
+    "updated_at": "2026-08-28T11:10:00Z",
+    "url": "https://github.com/IonDen/mlx-quant-fidelity"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5776,
-    "updated_at": "2026-08-28T09:42:22Z",
+    "updated_at": "2026-08-28T11:12:59Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -268,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T03:26:22Z",
     "url": "https://github.com/rithvik-bk/voiceos-eval"
-  },
-  {
-    "description": "Measure quantization quality loss on Apple Silicon MLX \u2014 KL divergence, top-token flip rate and perplexity delta for KV-",
-    "id": "IonDen/mlx-quant-fidelity",
-    "language": "Python",
-    "name": "IonDen/mlx-quant-fidelity",
-    "stars": 4,
-    "updated_at": "2026-08-27T06:03:58Z",
-    "url": "https://github.com/IonDen/mlx-quant-fidelity"
   },
   {
     "description": "",
