@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11225,
+    "updated_at": "2026-08-28T17:58:01Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -14,17 +23,8 @@
     "language": "Python",
     "name": "gmitt98/fieldtest",
     "stars": 0,
-    "updated_at": "2026-08-28T17:38:23Z",
+    "updated_at": "2026-08-28T17:52:50Z",
     "url": "https://github.com/gmitt98/fieldtest"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11225,
-    "updated_at": "2026-08-28T17:42:47Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
