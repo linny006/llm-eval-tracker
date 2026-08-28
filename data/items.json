@@ -1,11 +1,20 @@
 [
   {
+    "description": "Public-safe agent evaluation write-ups: harness gates, multi-path coding screens, task-family transfer, RAG routes, agen",
+    "id": "camerontjs-dot/agent-eval-notes",
+    "language": "CSS",
+    "name": "camerontjs-dot/agent-eval-notes",
+    "stars": 0,
+    "updated_at": "2026-08-28T20:21:32Z",
+    "url": "https://github.com/camerontjs-dot/agent-eval-notes"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11227,
-    "updated_at": "2026-08-28T20:13:03Z",
+    "updated_at": "2026-08-28T20:29:00Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -214,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T16:27:05Z",
     "url": "https://github.com/goldbarth/chartula-evals"
-  },
-  {
-    "description": "Public-safe agent evaluation write-ups: harness gates, multi-path coding screens, task-family transfer, RAG routes, agen",
-    "id": "camerontjs-dot/agent-eval-notes",
-    "language": "CSS",
-    "name": "camerontjs-dot/agent-eval-notes",
-    "stars": 0,
-    "updated_at": "2026-08-25T16:00:47Z",
-    "url": "https://github.com/camerontjs-dot/agent-eval-notes"
   },
   {
     "description": "Independent CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep, OpenViking); publishes raw eval logs.",
