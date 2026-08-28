@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-28 08:45 UTC
+> ⏰ Last updated: 2026-08-28 09:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -78,7 +78,7 @@ expired items removed — so you can rely on what you see being current.
 | 34 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-08-22 | Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python callable |
 | 35 | [fabio-barboza/logistic-platform](https://github.com/fabio-barboza/logistic-platform) | 0 | Java | 2026-08-22 | Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring AI  |
 | 36 | [tainguyen07/llm-eval-harness](https://github.com/tainguyen07/llm-eval-harness) | 4 | Python | 2026-08-21 | Evaluation harness for LLM apps: prompt versioning, dataset runners, LLM-as-judge scoring, regression tracking, and HTML |
-| 37 | [multivon-ai/multivon-eval](https://github.com/multivon-ai/multivon-eval) | 24 | Python | 2026-08-20 | Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI |
+| 37 | [multivon-ai/multivon-eval](https://github.com/multivon-ai/multivon-eval) | 25 | Python | 2026-08-20 | Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI |
 | 38 | [eliasfeitan-pixel/llm-eval-framework](https://github.com/eliasfeitan-pixel/llm-eval-framework) | 1 | — | 2026-08-20 | Production-grade evaluation framework and automated guardrails for enterprise LLM applications, RAG pipelines, and agent |
 | 39 | [Player-YN/TokSight](https://github.com/Player-YN/TokSight) | 0 | Python | 2026-08-19 | Local Outcome lab for agent workflows. Import yours, Run N, judge with validate(output) or human Pass/Fail, export trace |
 | 40 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 26 | TypeScript | 2026-08-25 | A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance? |
