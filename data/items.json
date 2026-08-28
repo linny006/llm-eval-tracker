@@ -1,5 +1,14 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 341,
+    "updated_at": "2026-08-28T06:09:27Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -31,7 +40,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24627,
+    "stars": 24628,
     "updated_at": "2026-08-28T03:51:24Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -49,7 +58,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11220,
+    "stars": 11221,
     "updated_at": "2026-08-28T02:19:19Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -97,15 +106,6 @@
     "stars": 5776,
     "updated_at": "2026-08-27T09:23:45Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 341,
-    "updated_at": "2026-08-27T17:35:39Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
