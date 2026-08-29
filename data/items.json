@@ -1,11 +1,20 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11243,
+    "updated_at": "2026-08-29T17:48:41Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Bilingual reduced-fare policy assistant for eighteen California transit agencies, grounded in dated citations and shippe",
     "id": "ChelseaKR/fare-policy-assistant",
     "language": "HTML",
     "name": "ChelseaKR/fare-policy-assistant",
     "stars": 1,
-    "updated_at": "2026-08-29T16:58:40Z",
+    "updated_at": "2026-08-29T17:51:09Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
@@ -88,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T08:18:26Z",
     "url": "https://github.com/lihongyu-dev/anzhice-crm"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11242,
-    "updated_at": "2026-08-29T07:46:06Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
