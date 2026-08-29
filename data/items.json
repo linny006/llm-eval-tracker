@@ -1,5 +1,14 @@
 [
   {
+    "description": "Local kit for ingesting a corpus, synthesizing LLM eval questions, reviewing gold, and judging model answers.",
+    "id": "Benj124/judge-dredd",
+    "language": "TypeScript",
+    "name": "Benj124/judge-dredd",
+    "stars": 0,
+    "updated_at": "2026-08-29T22:54:43Z",
+    "url": "https://github.com/Benj124/judge-dredd"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -16,15 +25,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T22:35:41Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "Local kit for ingesting a corpus, synthesizing LLM eval questions, reviewing gold, and judging model answers.",
-    "id": "Benj124/judge-dredd",
-    "language": "TypeScript",
-    "name": "Benj124/judge-dredd",
-    "stars": 0,
-    "updated_at": "2026-08-29T22:13:18Z",
-    "url": "https://github.com/Benj124/judge-dredd"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
