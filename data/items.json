@@ -1,5 +1,14 @@
 [
   {
+    "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
+    "id": "cannonade-ai/cannonade",
+    "language": "TypeScript",
+    "name": "cannonade-ai/cannonade",
+    "stars": 2,
+    "updated_at": "2026-08-29T13:43:09Z",
+    "url": "https://github.com/cannonade-ai/cannonade"
+  },
+  {
     "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
     "id": "izam-mohammed/ragrank",
     "language": "Python",
@@ -13,7 +22,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24657,
+    "stars": 24658,
     "updated_at": "2026-08-29T12:11:30Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -97,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-28T21:02:24Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
-    "id": "cannonade-ai/cannonade",
-    "language": "TypeScript",
-    "name": "cannonade-ai/cannonade",
-    "stars": 2,
-    "updated_at": "2026-08-28T23:08:07Z",
-    "url": "https://github.com/cannonade-ai/cannonade"
   },
   {
     "description": "Public-safe agent evaluation write-ups: harness gates, multi-path coding screens, task-family transfer, RAG routes, agen",
