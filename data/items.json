@@ -81,6 +81,15 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11244,
+    "updated_at": "2026-08-29T18:18:53Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Beta. Bilingual reduced-fare policy assistant grounded in dated citations, with a corpus of eighteen California transit ",
     "id": "ChelseaKR/fare-policy-assistant",
     "language": "HTML",
@@ -88,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T17:51:09Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11243,
-    "updated_at": "2026-08-29T18:18:53Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
