@@ -1,11 +1,20 @@
 [
   {
+    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
+    "id": "HaileyStorm/Creative-Writing-Rubrics",
+    "language": "Python",
+    "name": "HaileyStorm/Creative-Writing-Rubrics",
+    "stars": 0,
+    "updated_at": "2026-08-29T19:24:59Z",
+    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
     "description": "Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python callable",
     "id": "ChelseaKR/gauntlet",
     "language": "Python",
     "name": "ChelseaKR/gauntlet",
     "stars": 1,
-    "updated_at": "2026-08-29T19:08:17Z",
+    "updated_at": "2026-08-29T19:29:32Z",
     "url": "https://github.com/ChelseaKR/gauntlet"
   },
   {
@@ -14,17 +23,8 @@
     "language": "Python",
     "name": "ChelseaKR/plumbline",
     "stars": 1,
-    "updated_at": "2026-08-29T19:03:36Z",
+    "updated_at": "2026-08-29T19:29:28Z",
     "url": "https://github.com/ChelseaKR/plumbline"
-  },
-  {
-    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
-    "id": "HaileyStorm/Creative-Writing-Rubrics",
-    "language": "Python",
-    "name": "HaileyStorm/Creative-Writing-Rubrics",
-    "stars": 0,
-    "updated_at": "2026-08-29T18:53:32Z",
-    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
     "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
@@ -32,7 +32,7 @@
     "language": "Python",
     "name": "ChelseaKR/sprout",
     "stars": 1,
-    "updated_at": "2026-08-29T18:37:36Z",
+    "updated_at": "2026-08-29T19:21:24Z",
     "url": "https://github.com/ChelseaKR/sprout"
   },
   {
