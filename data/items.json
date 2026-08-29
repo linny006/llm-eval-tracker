@@ -4,8 +4,8 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11231,
-    "updated_at": "2026-08-29T07:06:51Z",
+    "stars": 11232,
+    "updated_at": "2026-08-29T07:30:02Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -40,7 +40,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24650,
+    "stars": 24651,
     "updated_at": "2026-08-29T02:53:58Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -70,6 +70,15 @@
     "stars": 1,
     "updated_at": "2026-08-29T02:44:54Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3527,
+    "updated_at": "2026-08-28T22:53:42Z",
+    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -169,15 +178,6 @@
     "stars": 3,
     "updated_at": "2026-08-28T03:41:02Z",
     "url": "https://github.com/lordbasilaiassistant-sudo/company-bench"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3526,
-    "updated_at": "2026-08-28T22:53:42Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "LLM-powered ticket triage + TAM account health briefs for technical support teams, with a rule-based fallback, RAG over ",
