@@ -1,10 +1,19 @@
 [
   {
+    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-08-29T16:34:57Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24661,
+    "stars": 24662,
     "updated_at": "2026-08-29T16:10:43Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -95,7 +104,7 @@
     "language": "Python",
     "name": "ChelseaKR/plumbline",
     "stars": 1,
-    "updated_at": "2026-08-29T02:45:07Z",
+    "updated_at": "2026-08-29T16:33:26Z",
     "url": "https://github.com/ChelseaKR/plumbline"
   },
   {
@@ -104,7 +113,7 @@
     "language": "HTML",
     "name": "ChelseaKR/fare-policy-assistant",
     "stars": 1,
-    "updated_at": "2026-08-29T14:10:11Z",
+    "updated_at": "2026-08-29T16:40:14Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
@@ -112,18 +121,9 @@
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3527,
+    "stars": 3528,
     "updated_at": "2026-08-28T22:53:42Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-08-28T21:02:24Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "Public-safe agent evaluation write-ups: harness gates, multi-path coding screens, task-family transfer, RAG routes, agen",
@@ -315,7 +315,7 @@
     "url": "https://github.com/ozlar34/job-match-radar"
   },
   {
-    "description": "Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring AI ",
+    "description": "Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring Sec",
     "id": "fabio-barboza/logistic-platform",
     "language": "Java",
     "name": "fabio-barboza/logistic-platform",
