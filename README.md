@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-29 09:15 UTC
+> ⏰ Last updated: 2026-08-29 09:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -72,7 +72,7 @@ expired items removed — so you can rely on what you see being current.
 | 28 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | — | 2026-08-25 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
 | 29 | [RudrenduPaul/memtrust](https://github.com/RudrenduPaul/memtrust) | 1 | Python | 2026-08-25 | Independent CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep, OpenViking); publishes raw eval logs. |
 | 30 | [lorien/awesome-ai-benchmarks](https://github.com/lorien/awesome-ai-benchmarks) | 1 | — | 2026-08-25 | Curated list of benchmarks and rankings of models, agents and other AI-things. |
-| 31 | [izam-mohammed/ragrank](https://github.com/izam-mohammed/ragrank) | 47 | Python | 2026-08-25 | 🎯 Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an |
+| 31 | [izam-mohammed/ragrank](https://github.com/izam-mohammed/ragrank) | 47 | Python | 2026-08-29 | 🎯 Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an |
 | 32 | [sunxin-ai/dsh-design-qa](https://github.com/sunxin-ai/dsh-design-qa) | 2 | JavaScript | 2026-08-25 | Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches  |
 | 33 | [rithvik-bk/voiceos-eval](https://github.com/rithvik-bk/voiceos-eval) | 0 | JavaScript | 2026-08-25 | Tool-calling eval harness + pre-execution safety gate for voice agents: scores whether the right tool was called with th |
 | 34 | [isatimur/book-mash](https://github.com/isatimur/book-mash) | 0 | Python | 2026-08-22 |  |
