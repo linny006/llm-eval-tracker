@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
+    "id": "izam-mohammed/ragrank",
+    "language": "Python",
+    "name": "izam-mohammed/ragrank",
+    "stars": 47,
+    "updated_at": "2026-08-29T09:47:13Z",
+    "url": "https://github.com/izam-mohammed/ragrank"
+  },
+  {
     "description": "\u8d37\u6b3e\u7ebf\u7d22 CRM\uff1aLLM \u8d44\u8d28\u62bd\u53d6 + eval \u6846\u67b6 + \u89c4\u5219\u5f15\u64ce\u64ae\u5408\u5224\u5b9a",
     "id": "lihongyu-dev/anzhice-crm",
     "language": "TypeScript",
@@ -41,7 +50,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24655,
-    "updated_at": "2026-08-29T02:53:58Z",
+    "updated_at": "2026-08-29T09:47:58Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -268,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-08-25T12:41:39Z",
     "url": "https://github.com/lorien/awesome-ai-benchmarks"
-  },
-  {
-    "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
-    "id": "izam-mohammed/ragrank",
-    "language": "Python",
-    "name": "izam-mohammed/ragrank",
-    "stars": 47,
-    "updated_at": "2026-08-29T09:16:27Z",
-    "url": "https://github.com/izam-mohammed/ragrank"
   },
   {
     "description": "Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches ",
