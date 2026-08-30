@@ -1,5 +1,14 @@
 [
   {
+    "description": "\u8d37\u6b3e\u7ebf\u7d22 CRM\uff1aLLM \u8d44\u8d28\u62bd\u53d6 + eval \u6846\u67b6 + \u89c4\u5219\u5f15\u64ce\u64ae\u5408\u5224\u5b9a",
+    "id": "lihongyu-dev/anzhice-crm",
+    "language": "TypeScript",
+    "name": "lihongyu-dev/anzhice-crm",
+    "stars": 0,
+    "updated_at": "2026-08-30T09:01:00Z",
+    "url": "https://github.com/lihongyu-dev/anzhice-crm"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -25,15 +34,6 @@
     "stars": 24672,
     "updated_at": "2026-08-30T06:46:33Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "\u8d37\u6b3e\u7ebf\u7d22 CRM\uff1aLLM \u8d44\u8d28\u62bd\u53d6 + eval \u6846\u67b6 + \u89c4\u5219\u5f15\u64ce\u64ae\u5408\u5224\u5b9a",
-    "id": "lihongyu-dev/anzhice-crm",
-    "language": "TypeScript",
-    "name": "lihongyu-dev/anzhice-crm",
-    "stars": 0,
-    "updated_at": "2026-08-30T06:04:52Z",
-    "url": "https://github.com/lihongyu-dev/anzhice-crm"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
