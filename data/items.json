@@ -54,6 +54,15 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 342,
+    "updated_at": "2026-08-30T06:13:13Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -196,15 +205,6 @@
     "stars": 4,
     "updated_at": "2026-08-28T11:10:00Z",
     "url": "https://github.com/IonDen/mlx-quant-fidelity"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 341,
-    "updated_at": "2026-08-30T06:13:13Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Can your AI agent hold a job? Open-source benchmark for AI agent trustworthiness, not capability: 29 chairs, 7 departmen",
