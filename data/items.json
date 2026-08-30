@@ -1,5 +1,14 @@
 [
   {
+    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
+    "id": "HaileyStorm/Creative-Writing-Rubrics",
+    "language": "Python",
+    "name": "HaileyStorm/Creative-Writing-Rubrics",
+    "stars": 0,
+    "updated_at": "2026-08-30T00:06:43Z",
+    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
     "description": "Local kit for ingesting a corpus, synthesizing LLM eval questions, reviewing gold, and judging model answers.",
     "id": "Benj124/judge-dredd",
     "language": "TypeScript",
@@ -7,15 +16,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T22:54:43Z",
     "url": "https://github.com/Benj124/judge-dredd"
-  },
-  {
-    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
-    "id": "HaileyStorm/Creative-Writing-Rubrics",
-    "language": "Python",
-    "name": "HaileyStorm/Creative-Writing-Rubrics",
-    "stars": 0,
-    "updated_at": "2026-08-29T22:37:17Z",
-    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
     "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -166,7 +166,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5792,
+    "stars": 5793,
     "updated_at": "2026-08-28T15:04:08Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
