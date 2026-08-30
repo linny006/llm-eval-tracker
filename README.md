@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-30 15:19 UTC
+> ⏰ Last updated: 2026-08-30 15:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -60,7 +60,7 @@ expired items removed — so you can rely on what you see being current.
 | 16 | [cannonade-ai/cannonade](https://github.com/cannonade-ai/cannonade) | 2 | TypeScript | 2026-08-29 | Local-first desktop app for building LLM test suites and running them against many local or cloud models at once |
 | 17 | [izam-mohammed/ragrank](https://github.com/izam-mohammed/ragrank) | 47 | Python | 2026-08-29 | 🎯 Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an |
 | 18 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-08-29 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
-| 19 | [truera/trulens](https://github.com/truera/trulens) | 3529 | Python | 2026-08-28 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 19 | [truera/trulens](https://github.com/truera/trulens) | 3530 | Python | 2026-08-28 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 20 | [camerontjs-dot/agent-eval-notes](https://github.com/camerontjs-dot/agent-eval-notes) | 0 | CSS | 2026-08-28 | Public-safe agent evaluation write-ups: harness gates, multi-path coding screens, task-family transfer, RAG routes, agen |
 | 21 | [gmitt98/fieldtest](https://github.com/gmitt98/fieldtest) | 0 | Python | 2026-08-30 | LLM evaluation framework — define what correct, well-formed, and safe means before you measure |
 | 22 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5797 | Python | 2026-08-28 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
