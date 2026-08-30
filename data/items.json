@@ -1,5 +1,14 @@
 [
   {
+    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
+    "id": "HaileyStorm/Creative-Writing-Rubrics",
+    "language": "Python",
+    "name": "HaileyStorm/Creative-Writing-Rubrics",
+    "stars": 0,
+    "updated_at": "2026-08-30T09:19:09Z",
+    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
     "description": "\u8d37\u6b3e\u7ebf\u7d22 CRM\uff1aLLM \u8d44\u8d28\u62bd\u53d6 + eval \u6846\u67b6 + \u89c4\u5219\u5f15\u64ce\u64ae\u5408\u5224\u5b9a",
     "id": "lihongyu-dev/anzhice-crm",
     "language": "TypeScript",
@@ -7,15 +16,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T09:01:00Z",
     "url": "https://github.com/lihongyu-dev/anzhice-crm"
-  },
-  {
-    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
-    "id": "HaileyStorm/Creative-Writing-Rubrics",
-    "language": "Python",
-    "name": "HaileyStorm/Creative-Writing-Rubrics",
-    "stars": 0,
-    "updated_at": "2026-08-30T08:49:07Z",
-    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
     "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
