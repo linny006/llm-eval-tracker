@@ -1,11 +1,20 @@
 [
   {
+    "description": "TrustModel MCP Server \u2014 trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t",
+    "id": "pdxlab/trustmodel-mcp-server",
+    "language": "TypeScript",
+    "name": "pdxlab/trustmodel-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-08-31T14:07:11Z",
+    "url": "https://github.com/pdxlab/trustmodel-mcp-server"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-08-31T13:51:23Z",
+    "updated_at": "2026-08-31T14:13:19Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
@@ -77,7 +86,7 @@
     "language": "Python",
     "name": "gmitt98/fieldtest",
     "stars": 0,
-    "updated_at": "2026-08-31T06:25:01Z",
+    "updated_at": "2026-08-31T14:15:21Z",
     "url": "https://github.com/gmitt98/fieldtest"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T07:45:43Z",
     "url": "https://github.com/sinakazemnezhad/agent-security-bench"
-  },
-  {
-    "description": "Turn real traffic/traces into a versioned, deduped, coverage-tracked LLM regression suite \u2014 a curation accelerator with ",
-    "id": "AshwinUgale/goldset",
-    "language": "Python",
-    "name": "AshwinUgale/goldset",
-    "stars": 3,
-    "updated_at": "2026-08-15T09:43:29Z",
-    "url": "https://github.com/AshwinUgale/goldset"
   }
 ]
