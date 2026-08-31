@@ -1,5 +1,14 @@
 [
   {
+    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
+    "id": "HaileyStorm/Creative-Writing-Rubrics",
+    "language": "Python",
+    "name": "HaileyStorm/Creative-Writing-Rubrics",
+    "stars": 0,
+    "updated_at": "2026-08-31T21:57:49Z",
+    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
     "description": "Open benchmark: how well can LLMs predict knife-steel properties (edge retention, toughness) from chemical composition, ",
     "id": "Steel-predictor-project/steel-llm-eval",
     "language": "JavaScript",
@@ -14,17 +23,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11268,
-    "updated_at": "2026-08-31T21:40:41Z",
+    "updated_at": "2026-08-31T21:58:49Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
-    "id": "HaileyStorm/Creative-Writing-Rubrics",
-    "language": "Python",
-    "name": "HaileyStorm/Creative-Writing-Rubrics",
-    "stars": 0,
-    "updated_at": "2026-08-31T20:24:22Z",
-    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
     "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
@@ -49,7 +49,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24706,
+    "stars": 24707,
     "updated_at": "2026-08-31T18:55:00Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
