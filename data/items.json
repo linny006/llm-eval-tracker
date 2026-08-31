@@ -1,11 +1,29 @@
 [
   {
+    "description": "judge-drift-sentinel \u00b7 judge-reliability-kit \u00b7 agent-loop-engine \u00b7 trace-gate \u00b7 ai-eng-skill-range",
+    "id": "homayoun-safarpour/homayoun-safarpour",
+    "language": "\u2014",
+    "name": "homayoun-safarpour/homayoun-safarpour",
+    "stars": 0,
+    "updated_at": "2026-08-31T16:42:56Z",
+    "url": "https://github.com/homayoun-safarpour/homayoun-safarpour"
+  },
+  {
+    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
+    "id": "HaileyStorm/Creative-Writing-Rubrics",
+    "language": "Python",
+    "name": "HaileyStorm/Creative-Writing-Rubrics",
+    "stars": 0,
+    "updated_at": "2026-08-31T16:37:01Z",
+    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5799,
-    "updated_at": "2026-08-31T15:46:16Z",
+    "updated_at": "2026-08-31T16:32:42Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -14,17 +32,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11263,
-    "updated_at": "2026-08-31T16:29:10Z",
+    "updated_at": "2026-08-31T16:37:46Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
-    "id": "HaileyStorm/Creative-Writing-Rubrics",
-    "language": "Python",
-    "name": "HaileyStorm/Creative-Writing-Rubrics",
-    "stars": 0,
-    "updated_at": "2026-08-31T15:21:44Z",
-    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-31T11:56:26Z",
     "url": "https://github.com/valbaudo/awf"
-  },
-  {
-    "description": "Open bench for AI coding-agent ML eval + agent security (prompt injection, jailbreak, tool overreach) with machine-reada",
-    "id": "sinakazemnezhad/agent-security-bench",
-    "language": "Python",
-    "name": "sinakazemnezhad/agent-security-bench",
-    "stars": 0,
-    "updated_at": "2026-08-16T07:45:43Z",
-    "url": "https://github.com/sinakazemnezhad/agent-security-bench"
   }
 ]
