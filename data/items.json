@@ -1,12 +1,12 @@
 [
   {
-    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
-    "id": "gmitt98/fieldtest",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "gmitt98/fieldtest",
-    "stars": 0,
-    "updated_at": "2026-08-31T03:32:05Z",
-    "url": "https://github.com/gmitt98/fieldtest"
+    "name": "Arize-ai/phoenix",
+    "stars": 11252,
+    "updated_at": "2026-08-31T03:55:54Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-08-31T03:18:32Z",
+    "updated_at": "2026-08-31T03:54:25Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
+    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
+    "id": "gmitt98/fieldtest",
+    "language": "Python",
+    "name": "gmitt98/fieldtest",
+    "stars": 0,
+    "updated_at": "2026-08-31T03:46:57Z",
+    "url": "https://github.com/gmitt98/fieldtest"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -31,7 +40,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24683,
+    "stars": 24684,
     "updated_at": "2026-08-31T02:38:07Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -151,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T20:22:51Z",
     "url": "https://github.com/ChelseaKR/gauntlet"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11251,
-    "updated_at": "2026-08-29T18:18:53Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Beta. Bilingual reduced-fare policy assistant grounded in dated citations, with a corpus of eighteen California transit ",
