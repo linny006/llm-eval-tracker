@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-31 11:45 UTC
+> ⏰ Last updated: 2026-08-31 12:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -89,7 +89,7 @@ expired items removed — so you can rely on what you see being current.
 | 45 | [j-newcom/retail-cpg-eval-datasets](https://github.com/j-newcom/retail-cpg-eval-datasets) | 0 | Python | 2026-08-18 | Open, domain-specific evaluation datasets and binary judges for Retail & CPG generative-AI tasks.  |
 | 46 | [modwin/agent-eval-framework](https://github.com/modwin/agent-eval-framework) | 0 | Python | 2026-08-18 | LLM Agent Evaluation Platform |
 | 47 | [gabriel-ngrs/CalorIA](https://github.com/gabriel-ngrs/CalorIA) | 1 | Python | 2026-08-24 | Diário alimentar com IA: eval do pipeline de LLM versionado junto do código |
-| 48 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-08-24 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
+| 48 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-08-31 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
 | 49 | [sinakazemnezhad/agent-security-bench](https://github.com/sinakazemnezhad/agent-security-bench) | 0 | Python | 2026-08-16 | Open bench for AI coding-agent ML eval + agent security (prompt injection, jailbreak, tool overreach) with machine-reada |
 | 50 | [AshwinUgale/goldset](https://github.com/AshwinUgale/goldset) | 3 | Python | 2026-08-15 | Turn real traffic/traces into a versioned, deduped, coverage-tracked LLM regression suite — a curation accelerator with  |
 <!-- TRACKER_TABLE_END -->
