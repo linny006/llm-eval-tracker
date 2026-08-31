@@ -1,21 +1,30 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11266,
-    "updated_at": "2026-08-31T22:15:12Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-08-31T21:57:49Z",
+    "updated_at": "2026-08-31T22:24:23Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11266,
+    "updated_at": "2026-08-31T22:23:37Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24706,
+    "updated_at": "2026-08-31T22:05:12Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Open benchmark: how well can LLMs predict knife-steel properties (edge retention, toughness) from chemical composition, ",
@@ -43,15 +52,6 @@
     "stars": 3531,
     "updated_at": "2026-08-31T19:41:14Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24707,
-    "updated_at": "2026-08-31T22:05:12Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
