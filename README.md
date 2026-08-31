@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-31 06:30 UTC
+> ⏰ Last updated: 2026-08-31 06:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -47,11 +47,11 @@ expired items removed — so you can rely on what you see being current.
 | 3 | [gmitt98/fieldtest](https://github.com/gmitt98/fieldtest) | 0 | Python | 2026-08-31 | LLM evaluation framework — define what correct, well-formed, and safe means before you measure |
 | 4 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-08-31 | 📐 Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
 | 5 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11252 | Python | 2026-08-31 | AI Observability & Evaluation |
-| 6 | [truera/trulens](https://github.com/truera/trulens) | 3531 | Python | 2026-08-31 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 7 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24685 | TypeScript | 2026-08-31 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 8 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-08-31 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
-| 9 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-08-31 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 10 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5798 | Python | 2026-08-31 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 6 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5799 | Python | 2026-08-31 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 7 | [truera/trulens](https://github.com/truera/trulens) | 3531 | Python | 2026-08-31 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 8 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24685 | TypeScript | 2026-08-31 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 9 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-08-31 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
+| 10 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-08-31 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 11 | [SFX-TECH/sfx-lead-intelligence](https://github.com/SFX-TECH/sfx-lead-intelligence) | 0 | — | 2026-08-31 | SFX Lead Intelligence Command Center: local-LLM hub plus lead dashboard, quality lifted 61 to 99 percent via a ground-tr |
 | 12 | [lihongyu-dev/anzhice-crm](https://github.com/lihongyu-dev/anzhice-crm) | 0 | TypeScript | 2026-08-30 | 贷款线索 CRM：LLM 资质抽取 + eval 框架 + 规则引擎撮合判定 |
 | 13 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 342 | TypeScript | 2026-08-31 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |

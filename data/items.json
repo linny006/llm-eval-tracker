@@ -5,7 +5,7 @@
     "language": "TypeScript",
     "name": "lokesh75-kank/agenteval",
     "stars": 0,
-    "updated_at": "2026-08-31T06:27:01Z",
+    "updated_at": "2026-08-31T06:33:16Z",
     "url": "https://github.com/lokesh75-kank/agenteval"
   },
   {
@@ -45,6 +45,15 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5799,
+    "updated_at": "2026-08-31T04:05:11Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
@@ -79,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T02:15:05Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5798,
-    "updated_at": "2026-08-31T04:05:11Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "SFX Lead Intelligence Command Center: local-LLM hub plus lead dashboard, quality lifted 61 to 99 percent via a ground-tr",
