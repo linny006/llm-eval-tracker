@@ -1,5 +1,23 @@
 [
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5797,
+    "updated_at": "2026-08-31T01:43:12Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "SFX Lead Intelligence Command Center: local-LLM hub plus lead dashboard, quality lifted 61 to 99 percent via a ground-tr",
+    "id": "SFX-TECH/sfx-lead-intelligence",
+    "language": "\u2014",
+    "name": "SFX-TECH/sfx-lead-intelligence",
+    "stars": 0,
+    "updated_at": "2026-08-31T01:41:40Z",
+    "url": "https://github.com/SFX-TECH/sfx-lead-intelligence"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -130,7 +148,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11249,
+    "stars": 11250,
     "updated_at": "2026-08-29T18:18:53Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -187,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-08-28T20:21:32Z",
     "url": "https://github.com/camerontjs-dot/agent-eval-notes"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5797,
-    "updated_at": "2026-08-31T01:24:09Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Measure quantization quality loss on Apple Silicon MLX \u2014 KL divergence, top-token flip rate and perplexity delta for KV-",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-14T13:21:42Z",
     "url": "https://github.com/karlmehta/trustmodel-mcp"
-  },
-  {
-    "description": "Multi-arm evaluation and self-healing guardrails for MCP servers & CLIs",
-    "id": "asavs/mcp-cocktail",
-    "language": "Python",
-    "name": "asavs/mcp-cocktail",
-    "stars": 0,
-    "updated_at": "2026-08-13T01:54:01Z",
-    "url": "https://github.com/asavs/mcp-cocktail"
   }
 ]
