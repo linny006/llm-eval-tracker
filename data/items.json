@@ -1,5 +1,14 @@
 [
   {
+    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
+    "id": "gmitt98/fieldtest",
+    "language": "Python",
+    "name": "gmitt98/fieldtest",
+    "stars": 0,
+    "updated_at": "2026-08-31T18:57:43Z",
+    "url": "https://github.com/gmitt98/fieldtest"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11264,
-    "updated_at": "2026-08-31T18:17:22Z",
+    "updated_at": "2026-08-31T18:49:57Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -59,17 +68,8 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3531,
-    "updated_at": "2026-08-31T18:32:53Z",
+    "updated_at": "2026-08-31T18:58:55Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
-    "id": "gmitt98/fieldtest",
-    "language": "Python",
-    "name": "gmitt98/fieldtest",
-    "stars": 0,
-    "updated_at": "2026-08-31T18:41:02Z",
-    "url": "https://github.com/gmitt98/fieldtest"
   },
   {
     "description": "TrustModel MCP Server \u2014 trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t",
@@ -86,7 +86,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24703,
-    "updated_at": "2026-08-31T18:17:59Z",
+    "updated_at": "2026-08-31T18:55:00Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
