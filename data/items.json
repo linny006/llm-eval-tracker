@@ -1,12 +1,12 @@
 [
   {
-    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-08-31T04:40:58Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
+    "description": "Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou",
+    "id": "lokesh75-kank/agenteval",
+    "language": "TypeScript",
+    "name": "lokesh75-kank/agenteval",
+    "stars": 0,
+    "updated_at": "2026-08-31T05:26:58Z",
+    "url": "https://github.com/lokesh75-kank/agenteval"
   },
   {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
@@ -14,7 +14,7 @@
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-08-31T04:40:17Z",
+    "updated_at": "2026-08-31T05:23:39Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
@@ -23,8 +23,17 @@
     "language": "Python",
     "name": "gmitt98/fieldtest",
     "stars": 0,
-    "updated_at": "2026-08-31T04:42:54Z",
+    "updated_at": "2026-08-31T05:19:31Z",
     "url": "https://github.com/gmitt98/fieldtest"
+  },
+  {
+    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-08-31T04:40:58Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-15T09:43:29Z",
     "url": "https://github.com/AshwinUgale/goldset"
-  },
-  {
-    "description": "TrustModel MCP Server \u2014 trust evaluation, red-team & governance for AI agents via the Model Context Protocol. Public can",
-    "id": "karlmehta/trustmodel-mcp",
-    "language": "TypeScript",
-    "name": "karlmehta/trustmodel-mcp",
-    "stars": 1,
-    "updated_at": "2026-08-14T13:21:42Z",
-    "url": "https://github.com/karlmehta/trustmodel-mcp"
   }
 ]
