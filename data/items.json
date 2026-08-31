@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5798,
+    "updated_at": "2026-08-31T08:27:51Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -13,7 +22,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24689,
+    "stars": 24690,
     "updated_at": "2026-08-31T07:37:32Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -52,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-08-31T04:40:58Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5799,
-    "updated_at": "2026-08-31T08:27:51Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -203,7 +203,7 @@
     "language": "\u2014",
     "name": "Kondwani10/Origin-Continuum",
     "stars": 0,
-    "updated_at": "2026-08-29T06:57:01Z",
+    "updated_at": "2026-08-31T08:57:47Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
   },
   {
