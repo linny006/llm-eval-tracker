@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-31 13:15 UTC
+> ⏰ Last updated: 2026-08-31 13:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11263 | Python | 2026-08-31 | AI Observability & Evaluation |
-| 2 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-08-31 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
+| 1 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-08-31 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
+| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11263 | Python | 2026-08-31 | AI Observability & Evaluation |
 | 3 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-08-31 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 4 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5798 | Python | 2026-08-31 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24694 | TypeScript | 2026-08-31 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24695 | TypeScript | 2026-08-31 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 6 | [lokesh75-kank/agenteval](https://github.com/lokesh75-kank/agenteval) | 0 | TypeScript | 2026-08-31 | Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou |
 | 7 | [gmitt98/fieldtest](https://github.com/gmitt98/fieldtest) | 0 | Python | 2026-08-31 | LLM evaluation framework — define what correct, well-formed, and safe means before you measure |
 | 8 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-08-31 | 📐 Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
@@ -63,7 +63,7 @@ expired items removed — so you can rely on what you see being current.
 | 19 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-08-29 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
 | 20 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-08-29 | v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python  |
 | 21 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-08-29 | Beta. Bilingual reduced-fare policy assistant grounded in dated citations, with a corpus of eighteen California transit  |
-| 22 | [cannonade-ai/cannonade](https://github.com/cannonade-ai/cannonade) | 2 | TypeScript | 2026-08-29 | Local-first desktop app for building LLM test suites and running them against many local or cloud models at once |
+| 22 | [cannonade-ai/cannonade](https://github.com/cannonade-ai/cannonade) | 2 | TypeScript | 2026-08-31 | Local-first desktop app for building LLM test suites and running them against many local or cloud models at once |
 | 23 | [izam-mohammed/ragrank](https://github.com/izam-mohammed/ragrank) | 47 | Python | 2026-08-29 | 🎯 Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an |
 | 24 | [camerontjs-dot/agent-eval-notes](https://github.com/camerontjs-dot/agent-eval-notes) | 0 | CSS | 2026-08-28 | Public-safe agent evaluation write-ups: harness gates, multi-path coding screens, task-family transfer, RAG routes, agen |
 | 25 | [IonDen/mlx-quant-fidelity](https://github.com/IonDen/mlx-quant-fidelity) | 4 | Python | 2026-08-28 | Measure quantization quality loss on Apple Silicon MLX — KL divergence, top-token flip rate and perplexity delta for KV- |

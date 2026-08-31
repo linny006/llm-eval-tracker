@@ -1,5 +1,14 @@
 [
   {
+    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
+    "id": "HaileyStorm/Creative-Writing-Rubrics",
+    "language": "Python",
+    "name": "HaileyStorm/Creative-Writing-Rubrics",
+    "stars": 0,
+    "updated_at": "2026-08-31T13:17:42Z",
+    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 11263,
     "updated_at": "2026-08-31T13:12:56Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
-    "id": "HaileyStorm/Creative-Writing-Rubrics",
-    "language": "Python",
-    "name": "HaileyStorm/Creative-Writing-Rubrics",
-    "stars": 0,
-    "updated_at": "2026-08-31T12:22:55Z",
-    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -40,7 +40,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24694,
+    "stars": 24695,
     "updated_at": "2026-08-31T07:37:32Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -194,7 +194,7 @@
     "language": "TypeScript",
     "name": "cannonade-ai/cannonade",
     "stars": 2,
-    "updated_at": "2026-08-29T13:43:09Z",
+    "updated_at": "2026-08-31T13:25:24Z",
     "url": "https://github.com/cannonade-ai/cannonade"
   },
   {
