@@ -1,5 +1,23 @@
 [
   {
+    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
+    "id": "HaileyStorm/Creative-Writing-Rubrics",
+    "language": "Python",
+    "name": "HaileyStorm/Creative-Writing-Rubrics",
+    "stars": 0,
+    "updated_at": "2026-08-31T13:51:23Z",
+    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24696,
+    "updated_at": "2026-08-31T13:32:58Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
     "id": "cannonade-ai/cannonade",
     "language": "TypeScript",
@@ -9,15 +27,6 @@
     "url": "https://github.com/cannonade-ai/cannonade"
   },
   {
-    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
-    "id": "HaileyStorm/Creative-Writing-Rubrics",
-    "language": "Python",
-    "name": "HaileyStorm/Creative-Writing-Rubrics",
-    "stars": 0,
-    "updated_at": "2026-08-31T13:17:42Z",
-    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -25,6 +34,15 @@
     "stars": 11263,
     "updated_at": "2026-08-31T13:33:40Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 343,
+    "updated_at": "2026-08-31T12:44:30Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -41,17 +59,8 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5798,
-    "updated_at": "2026-08-31T09:21:53Z",
+    "updated_at": "2026-08-31T13:59:16Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24695,
-    "updated_at": "2026-08-31T13:32:58Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou",
@@ -124,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T09:01:00Z",
     "url": "https://github.com/lihongyu-dev/anzhice-crm"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 342,
-    "updated_at": "2026-08-31T12:44:30Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
