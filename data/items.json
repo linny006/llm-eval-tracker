@@ -1,12 +1,12 @@
 [
   {
-    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
-    "id": "gmitt98/fieldtest",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "gmitt98/fieldtest",
-    "stars": 0,
-    "updated_at": "2026-08-31T23:14:08Z",
-    "url": "https://github.com/gmitt98/fieldtest"
+    "name": "Arize-ai/phoenix",
+    "stars": 11266,
+    "updated_at": "2026-08-31T23:43:17Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
@@ -14,17 +14,17 @@
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-08-31T22:35:37Z",
+    "updated_at": "2026-08-31T23:38:05Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
+    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
+    "id": "gmitt98/fieldtest",
     "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11266,
-    "updated_at": "2026-08-31T23:15:27Z",
-    "url": "https://github.com/Arize-ai/phoenix"
+    "name": "gmitt98/fieldtest",
+    "stars": 0,
+    "updated_at": "2026-08-31T23:14:08Z",
+    "url": "https://github.com/gmitt98/fieldtest"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
