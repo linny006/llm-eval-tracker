@@ -1,12 +1,12 @@
 [
   {
-    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
-    "id": "gmitt98/fieldtest",
-    "language": "Python",
-    "name": "gmitt98/fieldtest",
+    "description": "Top Prompt Management (Opensource) \ud83c\udf1f Star if you like it! \ud83c\udf1f",
+    "id": "ishandutta2007/Awesome-Prompt-Management",
+    "language": "\u2014",
+    "name": "ishandutta2007/Awesome-Prompt-Management",
     "stars": 0,
-    "updated_at": "2026-09-01T17:10:35Z",
-    "url": "https://github.com/gmitt98/fieldtest"
+    "updated_at": "2026-09-01T17:27:17Z",
+    "url": "https://github.com/ishandutta2007/Awesome-Prompt-Management"
   },
   {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-09-01T16:57:18Z",
+    "updated_at": "2026-09-01T17:24:10Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
+    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
+    "id": "gmitt98/fieldtest",
+    "language": "Python",
+    "name": "gmitt98/fieldtest",
+    "stars": 0,
+    "updated_at": "2026-09-01T17:10:35Z",
+    "url": "https://github.com/gmitt98/fieldtest"
   },
   {
     "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11282,
-    "updated_at": "2026-09-01T17:11:35Z",
+    "updated_at": "2026-09-01T17:30:05Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-18T12:59:38Z",
     "url": "https://github.com/modwin/agent-eval-framework"
-  },
-  {
-    "description": "Di\u00e1rio alimentar com IA: eval do pipeline de LLM versionado junto do c\u00f3digo",
-    "id": "gabriel-ngrs/CalorIA",
-    "language": "Python",
-    "name": "gabriel-ngrs/CalorIA",
-    "stars": 1,
-    "updated_at": "2026-09-01T15:57:38Z",
-    "url": "https://github.com/gabriel-ngrs/CalorIA"
   }
 ]
