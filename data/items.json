@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
+    "id": "Kondwani10/Origin-Continuum",
+    "language": "\u2014",
+    "name": "Kondwani10/Origin-Continuum",
+    "stars": 0,
+    "updated_at": "2026-08-31T23:59:27Z",
+    "url": "https://github.com/Kondwani10/Origin-Continuum"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "gmitt98/fieldtest",
     "stars": 0,
-    "updated_at": "2026-08-31T23:14:08Z",
+    "updated_at": "2026-08-31T23:55:15Z",
     "url": "https://github.com/gmitt98/fieldtest"
   },
   {
@@ -61,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T17:50:02Z",
     "url": "https://github.com/goldbarth/chartula-evals"
-  },
-  {
-    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
-    "id": "Kondwani10/Origin-Continuum",
-    "language": "\u2014",
-    "name": "Kondwani10/Origin-Continuum",
-    "stars": 0,
-    "updated_at": "2026-08-31T17:02:29Z",
-    "url": "https://github.com/Kondwani10/Origin-Continuum"
   },
   {
     "description": "judge-drift-sentinel \u00b7 judge-reliability-kit \u00b7 agent-loop-engine \u00b7 trace-gate \u00b7 ai-eng-skill-range",
@@ -311,7 +311,7 @@
     "language": "TypeScript",
     "name": "jeremylongshore/j-rig-skill-binary-eval",
     "stars": 1,
-    "updated_at": "2026-08-25T20:05:53Z",
+    "updated_at": "2026-08-31T23:57:15Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
