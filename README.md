@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-01 12:00 UTC
+> ⏰ Last updated: 2026-09-01 12:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -46,9 +46,9 @@ expired items removed — so you can rely on what you see being current.
 | 2 | [lorien/awesome-ai-benchmarks](https://github.com/lorien/awesome-ai-benchmarks) | 1 | — | 2026-09-01 | Curated list of benchmarks and rankings of models, agents and other AI-things. |
 | 3 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 343 | TypeScript | 2026-09-01 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 4 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-09-01 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
-| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24722 | TypeScript | 2026-09-01 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24724 | TypeScript | 2026-09-01 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 6 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-01 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
-| 7 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11276 | Python | 2026-09-01 | AI Observability & Evaluation |
+| 7 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11277 | Python | 2026-09-01 | AI Observability & Evaluation |
 | 8 | [lokesh75-kank/agenteval](https://github.com/lokesh75-kank/agenteval) | 0 | TypeScript | 2026-09-01 | Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou |
 | 9 | [gmitt98/fieldtest](https://github.com/gmitt98/fieldtest) | 0 | Python | 2026-09-01 | LLM evaluation framework — define what correct, well-formed, and safe means before you measure |
 | 10 | [Steel-predictor-project/steel-llm-eval](https://github.com/Steel-predictor-project/steel-llm-eval) | 0 | JavaScript | 2026-08-31 | Open benchmark: how well can LLMs predict knife-steel properties (edge retention, toughness) from chemical composition,  |
