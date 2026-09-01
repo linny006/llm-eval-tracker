@@ -1,21 +1,21 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11281,
+    "updated_at": "2026-09-01T15:12:00Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
     "id": "gmitt98/fieldtest",
     "language": "Python",
     "name": "gmitt98/fieldtest",
     "stars": 0,
-    "updated_at": "2026-09-01T14:11:59Z",
+    "updated_at": "2026-09-01T15:05:21Z",
     "url": "https://github.com/gmitt98/fieldtest"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11280,
-    "updated_at": "2026-09-01T14:59:57Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Curated list of benchmarks and rankings of models, agents and other AI-things.",
@@ -337,7 +337,7 @@
     "id": "sunxin-ai/dsh-design-qa",
     "language": "JavaScript",
     "name": "sunxin-ai/dsh-design-qa",
-    "stars": 5,
+    "stars": 6,
     "updated_at": "2026-08-25T07:49:52Z",
     "url": "https://github.com/sunxin-ai/dsh-design-qa"
   },
