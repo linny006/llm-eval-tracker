@@ -1,12 +1,30 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24729,
+    "updated_at": "2026-09-01T15:21:31Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11281,
-    "updated_at": "2026-09-01T15:12:00Z",
+    "updated_at": "2026-09-01T15:29:16Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3531,
+    "updated_at": "2026-09-01T14:36:00Z",
+    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
@@ -25,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-09-01T13:55:19Z",
     "url": "https://github.com/lorien/awesome-ai-benchmarks"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24728,
-    "updated_at": "2026-09-01T13:23:41Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
@@ -59,7 +68,7 @@
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-09-01T08:30:20Z",
+    "updated_at": "2026-09-01T15:27:17Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
@@ -97,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T21:41:58Z",
     "url": "https://github.com/Steel-predictor-project/steel-llm-eval"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3531,
-    "updated_at": "2026-09-01T14:36:00Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "judge-drift-sentinel \u00b7 judge-reliability-kit \u00b7 agent-loop-engine \u00b7 trace-gate \u00b7 ai-eng-skill-range",
@@ -185,7 +185,7 @@
     "language": "\u2014",
     "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "stars": 0,
-    "updated_at": "2026-08-30T04:28:55Z",
+    "updated_at": "2026-09-01T15:19:58Z",
     "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
   },
   {
@@ -194,7 +194,7 @@
     "language": "PowerShell",
     "name": "bhavya7995/AI_governance",
     "stars": 1,
-    "updated_at": "2026-08-30T04:28:25Z",
+    "updated_at": "2026-09-01T15:19:26Z",
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
