@@ -1,12 +1,12 @@
 [
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24712,
-    "updated_at": "2026-09-01T05:30:22Z",
-    "url": "https://github.com/promptfoo/promptfoo"
+    "name": "verifywise-ai/verifywise",
+    "stars": 343,
+    "updated_at": "2026-09-01T05:44:17Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-09-01T05:26:34Z",
+    "updated_at": "2026-09-01T05:34:08Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24712,
+    "updated_at": "2026-09-01T05:40:41Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11267,
-    "updated_at": "2026-09-01T05:19:01Z",
+    "updated_at": "2026-09-01T05:43:26Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -115,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-08-31T13:44:43Z",
     "url": "https://github.com/cannonade-ai/cannonade"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 343,
-    "updated_at": "2026-08-31T12:44:30Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
