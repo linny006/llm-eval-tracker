@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11283,
+    "updated_at": "2026-09-01T21:30:35Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
     "id": "gmitt98/fieldtest",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T21:13:27Z",
     "url": "https://github.com/gmitt98/fieldtest"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11282,
-    "updated_at": "2026-09-01T21:29:07Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
