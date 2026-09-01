@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-01 15:33 UTC
+> ⏰ Last updated: 2026-09-01 15:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24729 | TypeScript | 2026-09-01 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11281 | Python | 2026-09-01 | AI Observability & Evaluation |
-| 3 | [truera/trulens](https://github.com/truera/trulens) | 3531 | Python | 2026-09-01 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 4 | [gmitt98/fieldtest](https://github.com/gmitt98/fieldtest) | 0 | Python | 2026-09-01 | LLM evaluation framework — define what correct, well-formed, and safe means before you measure |
+| 1 | [gmitt98/fieldtest](https://github.com/gmitt98/fieldtest) | 0 | Python | 2026-09-01 | LLM evaluation framework — define what correct, well-formed, and safe means before you measure |
+| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11282 | Python | 2026-09-01 | AI Observability & Evaluation |
+| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24729 | TypeScript | 2026-09-01 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 4 | [truera/trulens](https://github.com/truera/trulens) | 3531 | Python | 2026-09-01 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 5 | [lorien/awesome-ai-benchmarks](https://github.com/lorien/awesome-ai-benchmarks) | 1 | — | 2026-09-01 | Curated list of benchmarks and rankings of models, agents and other AI-things. |
 | 6 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-01 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
 | 7 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 343 | TypeScript | 2026-09-01 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
