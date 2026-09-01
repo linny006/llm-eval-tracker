@@ -1,5 +1,14 @@
 [
   {
+    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
+    "id": "gmitt98/fieldtest",
+    "language": "Python",
+    "name": "gmitt98/fieldtest",
+    "stars": 0,
+    "updated_at": "2026-09-01T14:11:59Z",
+    "url": "https://github.com/gmitt98/fieldtest"
+  },
+  {
     "description": "Curated list of benchmarks and rankings of models, agents and other AI-things.",
     "id": "lorien/awesome-ai-benchmarks",
     "language": "\u2014",
@@ -41,7 +50,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 343,
-    "updated_at": "2026-09-01T14:25:33Z",
+    "updated_at": "2026-09-01T14:38:49Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -72,15 +81,6 @@
     "url": "https://github.com/lokesh75-kank/agenteval"
   },
   {
-    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
-    "id": "gmitt98/fieldtest",
-    "language": "Python",
-    "name": "gmitt98/fieldtest",
-    "stars": 0,
-    "updated_at": "2026-09-01T14:11:59Z",
-    "url": "https://github.com/gmitt98/fieldtest"
-  },
-  {
     "description": "Open benchmark: how well can LLMs predict knife-steel properties (edge retention, toughness) from chemical composition, ",
     "id": "Steel-predictor-project/steel-llm-eval",
     "language": "JavaScript",
@@ -95,7 +95,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3531,
-    "updated_at": "2026-08-31T19:41:14Z",
+    "updated_at": "2026-09-01T14:36:00Z",
     "url": "https://github.com/truera/trulens"
   },
   {
