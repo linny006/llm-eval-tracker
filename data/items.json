@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11282,
-    "updated_at": "2026-09-01T15:47:30Z",
+    "updated_at": "2026-09-01T16:07:21Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -16,6 +16,15 @@
     "stars": 0,
     "updated_at": "2026-09-01T15:39:48Z",
     "url": "https://github.com/gmitt98/fieldtest"
+  },
+  {
+    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
+    "id": "HaileyStorm/Creative-Writing-Rubrics",
+    "language": "Python",
+    "name": "HaileyStorm/Creative-Writing-Rubrics",
+    "stars": 0,
+    "updated_at": "2026-09-01T16:03:50Z",
+    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -34,6 +43,15 @@
     "stars": 0,
     "updated_at": "2026-09-01T15:19:58Z",
     "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
+  },
+  {
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-09-01T15:19:26Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -68,17 +86,8 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 343,
-    "updated_at": "2026-09-01T15:51:01Z",
+    "updated_at": "2026-09-01T16:06:25Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
-    "id": "HaileyStorm/Creative-Writing-Rubrics",
-    "language": "Python",
-    "name": "HaileyStorm/Creative-Writing-Rubrics",
-    "stars": 0,
-    "updated_at": "2026-09-01T15:27:17Z",
-    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -187,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T09:01:00Z",
     "url": "https://github.com/lihongyu-dev/anzhice-crm"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
-    "id": "bhavya7995/AI_governance",
-    "language": "PowerShell",
-    "name": "bhavya7995/AI_governance",
-    "stars": 1,
-    "updated_at": "2026-09-01T15:19:26Z",
-    "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
     "description": "Local kit for ingesting a corpus, synthesizing LLM eval questions, reviewing gold, and judging model answers.",
