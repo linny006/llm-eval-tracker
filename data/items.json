@@ -1,11 +1,20 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11297,
+    "updated_at": "2026-09-02T17:55:54Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 344,
-    "updated_at": "2026-09-02T17:37:40Z",
+    "updated_at": "2026-09-02T17:47:23Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T16:37:18Z",
     "url": "https://github.com/goldbarth/chartula-evals"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11295,
-    "updated_at": "2026-09-02T17:35:41Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
