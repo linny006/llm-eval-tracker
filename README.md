@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-02 03:45 UTC
+> ⏰ Last updated: 2026-09-02 04:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -58,7 +58,7 @@ expired items removed — so you can rely on what you see being current.
 | 14 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-09-01 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
 | 15 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-01 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
 | 16 | [ishandutta2007/Awesome-Prompt-Management](https://github.com/ishandutta2007/Awesome-Prompt-Management) | 1 | — | 2026-09-01 | Top Prompt Management (Opensource) 🌟 Star if you like it! 🌟 |
-| 17 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 344 | TypeScript | 2026-09-01 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 17 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 344 | TypeScript | 2026-09-02 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 18 | [truera/trulens](https://github.com/truera/trulens) | 3530 | Python | 2026-09-01 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 19 | [lorien/awesome-ai-benchmarks](https://github.com/lorien/awesome-ai-benchmarks) | 1 | — | 2026-09-01 | Curated list of benchmarks and rankings of models, agents and other AI-things. |
 | 20 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-01 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
