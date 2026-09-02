@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-02 07:15 UTC
+> ⏰ Last updated: 2026-09-02 07:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -55,7 +55,7 @@ expired items removed — so you can rely on what you see being current.
 | 11 | [coffee-converter/onthemoney](https://github.com/coffee-converter/onthemoney) | 0 | Python | 2026-09-02 | An AI agent that answers questions about U.S. campaign money against real FEC data. Source-cited, graded on a public eva |
 | 12 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-09-02 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
 | 13 | [pisigmac/evalgate](https://github.com/pisigmac/evalgate) | 0 | Python | 2026-09-02 | 🚦 Behavioral CI/CD for AI Agents. Stop shipping broken agents to production.roduction-grade evaluation gates and statist |
-| 14 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24742 | TypeScript | 2026-09-02 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 14 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24743 | TypeScript | 2026-09-02 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 15 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5801 | Python | 2026-09-02 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 16 | [sammyjdev/gnomon-eval](https://github.com/sammyjdev/gnomon-eval) | 0 | Python | 2026-09-02 | Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first. |
 | 17 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-01 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
@@ -67,7 +67,7 @@ expired items removed — so you can rely on what you see being current.
 | 23 | [homayoun-safarpour/homayoun-safarpour](https://github.com/homayoun-safarpour/homayoun-safarpour) | 0 | — | 2026-08-31 | judge-drift-sentinel · judge-reliability-kit · agent-loop-engine · trace-gate · ai-eng-skill-range |
 | 24 | [pdxlab/trustmodel-mcp-server](https://github.com/pdxlab/trustmodel-mcp-server) | 0 | TypeScript | 2026-08-31 | TrustModel MCP Server — trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t |
 | 25 | [cannonade-ai/cannonade](https://github.com/cannonade-ai/cannonade) | 2 | TypeScript | 2026-08-31 | Local-first desktop app for building LLM test suites and running them against many local or cloud models at once |
-| 26 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-08-31 | 📐 Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
+| 26 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-09-02 | 📐 Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
 | 27 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-08-31 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
 | 28 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-08-31 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 29 | [SFX-TECH/sfx-lead-intelligence](https://github.com/SFX-TECH/sfx-lead-intelligence) | 0 | — | 2026-08-31 | SFX Lead Intelligence Command Center: local-LLM hub plus lead dashboard, quality lifted 61 to 99 percent via a ground-tr |
