@@ -14,7 +14,7 @@
     "language": "Python",
     "name": "gmitt98/fieldtest",
     "stars": 0,
-    "updated_at": "2026-09-02T00:35:32Z",
+    "updated_at": "2026-09-02T00:58:57Z",
     "url": "https://github.com/gmitt98/fieldtest"
   },
   {
@@ -27,11 +27,20 @@
     "url": "https://github.com/sammyjdev/gnomon-eval"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24734,
+    "updated_at": "2026-09-02T00:32:02Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11284,
+    "stars": 11285,
     "updated_at": "2026-09-02T00:16:41Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -52,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-09-01T22:19:25Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24733,
-    "updated_at": "2026-09-02T00:32:02Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
