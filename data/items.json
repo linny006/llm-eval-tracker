@@ -1,12 +1,12 @@
 [
   {
-    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
-    "id": "ChelseaKR/sprout",
+    "description": "v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python ",
+    "id": "ChelseaKR/gauntlet",
     "language": "Python",
-    "name": "ChelseaKR/sprout",
+    "name": "ChelseaKR/gauntlet",
     "stars": 1,
-    "updated_at": "2026-09-02T03:20:44Z",
-    "url": "https://github.com/ChelseaKR/sprout"
+    "updated_at": "2026-09-02T04:35:18Z",
+    "url": "https://github.com/ChelseaKR/gauntlet"
   },
   {
     "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
@@ -14,8 +14,26 @@
     "language": "Python",
     "name": "ChelseaKR/plumbline",
     "stars": 1,
-    "updated_at": "2026-09-02T04:27:04Z",
+    "updated_at": "2026-09-02T04:34:26Z",
     "url": "https://github.com/ChelseaKR/plumbline"
+  },
+  {
+    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
+    "id": "gmitt98/fieldtest",
+    "language": "Python",
+    "name": "gmitt98/fieldtest",
+    "stars": 0,
+    "updated_at": "2026-09-02T04:42:32Z",
+    "url": "https://github.com/gmitt98/fieldtest"
+  },
+  {
+    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
+    "id": "ChelseaKR/sprout",
+    "language": "Python",
+    "name": "ChelseaKR/sprout",
+    "stars": 1,
+    "updated_at": "2026-09-02T03:20:44Z",
+    "url": "https://github.com/ChelseaKR/sprout"
   },
   {
     "description": "Beta. Bilingual reduced-fare policy assistant grounded in dated citations, with a corpus of eighteen California transit ",
@@ -34,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T02:48:00Z",
     "url": "https://github.com/coffee-converter/onthemoney"
-  },
-  {
-    "description": "v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python ",
-    "id": "ChelseaKR/gauntlet",
-    "language": "Python",
-    "name": "ChelseaKR/gauntlet",
-    "stars": 1,
-    "updated_at": "2026-09-02T02:45:28Z",
-    "url": "https://github.com/ChelseaKR/gauntlet"
   },
   {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
@@ -88,15 +97,6 @@
     "stars": 5800,
     "updated_at": "2026-09-02T01:06:04Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
-    "id": "gmitt98/fieldtest",
-    "language": "Python",
-    "name": "gmitt98/fieldtest",
-    "stars": 0,
-    "updated_at": "2026-09-02T00:58:57Z",
-    "url": "https://github.com/gmitt98/fieldtest"
   },
   {
     "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
