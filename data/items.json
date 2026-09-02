@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11288,
+    "updated_at": "2026-09-02T06:53:03Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Curated list of benchmarks and rankings of models, agents and other AI-things.",
     "id": "lorien/awesome-ai-benchmarks",
     "language": "\u2014",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 344,
-    "updated_at": "2026-09-02T06:48:59Z",
+    "updated_at": "2026-09-02T07:13:02Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -25,15 +34,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T05:33:53Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11287,
-    "updated_at": "2026-09-02T06:53:03Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
