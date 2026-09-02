@@ -1,5 +1,14 @@
 [
   {
+    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
+    "id": "gmitt98/fieldtest",
+    "language": "Python",
+    "name": "gmitt98/fieldtest",
+    "stars": 0,
+    "updated_at": "2026-09-02T04:50:29Z",
+    "url": "https://github.com/gmitt98/fieldtest"
+  },
+  {
     "description": "v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python ",
     "id": "ChelseaKR/gauntlet",
     "language": "Python",
@@ -18,13 +27,13 @@
     "url": "https://github.com/ChelseaKR/plumbline"
   },
   {
-    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
-    "id": "gmitt98/fieldtest",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "gmitt98/fieldtest",
-    "stars": 0,
-    "updated_at": "2026-09-02T04:42:32Z",
-    "url": "https://github.com/gmitt98/fieldtest"
+    "name": "Arize-ai/phoenix",
+    "stars": 11287,
+    "updated_at": "2026-09-02T03:42:09Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "ChelseaKR/sprout",
     "stars": 1,
-    "updated_at": "2026-09-02T03:20:44Z",
+    "updated_at": "2026-09-02T04:47:23Z",
     "url": "https://github.com/ChelseaKR/sprout"
   },
   {
@@ -41,7 +50,7 @@
     "language": "HTML",
     "name": "ChelseaKR/fare-policy-assistant",
     "stars": 1,
-    "updated_at": "2026-09-02T02:50:56Z",
+    "updated_at": "2026-09-02T04:57:27Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
@@ -76,25 +85,16 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24738,
+    "stars": 24740,
     "updated_at": "2026-09-02T01:41:25Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11286,
-    "updated_at": "2026-09-02T03:42:09Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5800,
+    "stars": 5801,
     "updated_at": "2026-09-02T01:06:04Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
