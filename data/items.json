@@ -1,11 +1,47 @@
 [
   {
+    "description": "v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python ",
+    "id": "ChelseaKR/gauntlet",
+    "language": "Python",
+    "name": "ChelseaKR/gauntlet",
+    "stars": 1,
+    "updated_at": "2026-09-02T02:45:26Z",
+    "url": "https://github.com/ChelseaKR/gauntlet"
+  },
+  {
+    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
+    "id": "ChelseaKR/sprout",
+    "language": "Python",
+    "name": "ChelseaKR/sprout",
+    "stars": 1,
+    "updated_at": "2026-09-02T02:41:08Z",
+    "url": "https://github.com/ChelseaKR/sprout"
+  },
+  {
+    "description": "Beta. Bilingual reduced-fare policy assistant grounded in dated citations, with a corpus of eighteen California transit ",
+    "id": "ChelseaKR/fare-policy-assistant",
+    "language": "HTML",
+    "name": "ChelseaKR/fare-policy-assistant",
+    "stars": 1,
+    "updated_at": "2026-09-02T02:40:58Z",
+    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
+  },
+  {
+    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
+    "id": "HaileyStorm/Creative-Writing-Rubrics",
+    "language": "Python",
+    "name": "HaileyStorm/Creative-Writing-Rubrics",
+    "stars": 0,
+    "updated_at": "2026-09-02T02:33:33Z",
+    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
     "description": "\ud83d\udea6 Behavioral CI/CD for AI Agents. Stop shipping broken agents to production.roduction-grade evaluation gates and statist",
     "id": "pisigmac/evalgate",
     "language": "Python",
     "name": "pisigmac/evalgate",
     "stars": 0,
-    "updated_at": "2026-09-02T02:28:55Z",
+    "updated_at": "2026-09-02T02:33:06Z",
     "url": "https://github.com/pisigmac/evalgate"
   },
   {
@@ -18,20 +54,11 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "Beta. Bilingual reduced-fare policy assistant grounded in dated citations, with a corpus of eighteen California transit ",
-    "id": "ChelseaKR/fare-policy-assistant",
-    "language": "HTML",
-    "name": "ChelseaKR/fare-policy-assistant",
-    "stars": 1,
-    "updated_at": "2026-09-02T02:29:33Z",
-    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11284,
+    "stars": 11285,
     "updated_at": "2026-09-02T01:07:29Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -43,15 +70,6 @@
     "stars": 5800,
     "updated_at": "2026-09-02T01:06:04Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
-    "id": "HaileyStorm/Creative-Writing-Rubrics",
-    "language": "Python",
-    "name": "HaileyStorm/Creative-Writing-Rubrics",
-    "stars": 0,
-    "updated_at": "2026-09-02T00:41:30Z",
-    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
     "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
@@ -250,24 +268,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T21:25:28Z",
     "url": "https://github.com/ChelseaKR/plumbline"
-  },
-  {
-    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
-    "id": "ChelseaKR/sprout",
-    "language": "Python",
-    "name": "ChelseaKR/sprout",
-    "stars": 1,
-    "updated_at": "2026-09-02T02:20:43Z",
-    "url": "https://github.com/ChelseaKR/sprout"
-  },
-  {
-    "description": "v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python ",
-    "id": "ChelseaKR/gauntlet",
-    "language": "Python",
-    "name": "ChelseaKR/gauntlet",
-    "stars": 1,
-    "updated_at": "2026-09-02T02:30:21Z",
-    "url": "https://github.com/ChelseaKR/gauntlet"
   },
   {
     "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
