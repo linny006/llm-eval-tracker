@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-02 21:19 UTC
+> ⏰ Last updated: 2026-09-02 21:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -49,7 +49,7 @@ expired items removed — so you can rely on what you see being current.
 | 5 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 344 | TypeScript | 2026-09-02 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 6 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-02 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
 | 7 | [truera/trulens](https://github.com/truera/trulens) | 3530 | Python | 2026-09-02 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 8 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24765 | TypeScript | 2026-09-02 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 8 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24766 | TypeScript | 2026-09-02 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 9 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-09-02 | 📐 Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
 | 10 | [lorien/awesome-ai-benchmarks](https://github.com/lorien/awesome-ai-benchmarks) | 1 | — | 2026-09-02 | Curated list of benchmarks and rankings of models, agents and other AI-things. |
 | 11 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-09-02 | Beta. Bilingual reduced-fare policy assistant grounded in dated citations, with a corpus of eighteen California transit  |
