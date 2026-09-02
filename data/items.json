@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-09-02T07:28:39Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -121,7 +130,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24743,
+    "stars": 24744,
     "updated_at": "2026-09-02T01:41:25Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -223,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-08-31T13:44:43Z",
     "url": "https://github.com/cannonade-ai/cannonade"
-  },
-  {
-    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-09-02T07:28:39Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
