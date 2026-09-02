@@ -1,11 +1,20 @@
 [
   {
+    "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
+    "id": "ChelseaKR/plumbline",
+    "language": "Python",
+    "name": "ChelseaKR/plumbline",
+    "stars": 1,
+    "updated_at": "2026-09-02T03:03:05Z",
+    "url": "https://github.com/ChelseaKR/plumbline"
+  },
+  {
     "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
     "id": "ChelseaKR/sprout",
     "language": "Python",
     "name": "ChelseaKR/sprout",
     "stars": 1,
-    "updated_at": "2026-09-02T02:51:41Z",
+    "updated_at": "2026-09-02T03:14:39Z",
     "url": "https://github.com/ChelseaKR/sprout"
   },
   {
@@ -268,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T22:54:43Z",
     "url": "https://github.com/Benj124/judge-dredd"
-  },
-  {
-    "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
-    "id": "ChelseaKR/plumbline",
-    "language": "Python",
-    "name": "ChelseaKR/plumbline",
-    "stars": 1,
-    "updated_at": "2026-09-02T02:58:23Z",
-    "url": "https://github.com/ChelseaKR/plumbline"
   },
   {
     "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
