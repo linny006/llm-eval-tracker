@@ -1,5 +1,32 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11287,
+    "updated_at": "2026-09-02T05:23:40Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
+    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "language": "\u2014",
+    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "stars": 0,
+    "updated_at": "2026-09-02T05:18:50Z",
+    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
+  },
+  {
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-09-02T05:18:33Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
     "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
     "id": "gmitt98/fieldtest",
     "language": "Python",
@@ -27,15 +54,6 @@
     "url": "https://github.com/ChelseaKR/plumbline"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11288,
-    "updated_at": "2026-09-02T03:42:09Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
     "id": "ChelseaKR/sprout",
     "language": "Python",
@@ -50,7 +68,7 @@
     "language": "HTML",
     "name": "ChelseaKR/fare-policy-assistant",
     "stars": 1,
-    "updated_at": "2026-09-02T04:57:27Z",
+    "updated_at": "2026-09-02T05:16:31Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
@@ -106,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T00:33:50Z",
     "url": "https://github.com/sammyjdev/gnomon-eval"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-09-01T22:19:58Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
-    "id": "bhavya7995/AI_governance",
-    "language": "PowerShell",
-    "name": "bhavya7995/AI_governance",
-    "stars": 1,
-    "updated_at": "2026-09-01T22:19:25Z",
-    "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
     "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
