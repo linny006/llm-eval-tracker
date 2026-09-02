@@ -1,5 +1,14 @@
 [
   {
+    "description": "Beta. Bilingual reduced-fare policy assistant grounded in dated citations, with a corpus of eighteen California transit ",
+    "id": "ChelseaKR/fare-policy-assistant",
+    "language": "HTML",
+    "name": "ChelseaKR/fare-policy-assistant",
+    "stars": 1,
+    "updated_at": "2026-09-02T05:33:53Z",
+    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -36,7 +45,7 @@
     "url": "https://github.com/gmitt98/fieldtest"
   },
   {
-    "description": "v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python ",
+    "description": "pip install gauntlet-evals \u00b7 v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against",
     "id": "ChelseaKR/gauntlet",
     "language": "Python",
     "name": "ChelseaKR/gauntlet",
@@ -61,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T04:47:23Z",
     "url": "https://github.com/ChelseaKR/sprout"
-  },
-  {
-    "description": "Beta. Bilingual reduced-fare policy assistant grounded in dated citations, with a corpus of eighteen California transit ",
-    "id": "ChelseaKR/fare-policy-assistant",
-    "language": "HTML",
-    "name": "ChelseaKR/fare-policy-assistant",
-    "stars": 1,
-    "updated_at": "2026-09-02T05:16:31Z",
-    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
     "description": "An AI agent that answers questions about U.S. campaign money against real FEC data. Source-cited, graded on a public eva",
