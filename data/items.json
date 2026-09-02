@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11298,
+    "updated_at": "2026-09-02T21:39:26Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
     "id": "ahmedmoha9088/PhoenixFish",
     "language": "Java",
@@ -16,15 +25,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T20:41:32Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11298,
-    "updated_at": "2026-09-02T20:27:01Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
@@ -373,7 +373,7 @@
     "id": "sunxin-ai/dsh-design-qa",
     "language": "JavaScript",
     "name": "sunxin-ai/dsh-design-qa",
-    "stars": 10,
+    "stars": 11,
     "updated_at": "2026-08-25T07:49:52Z",
     "url": "https://github.com/sunxin-ai/dsh-design-qa"
   },
