@@ -1,12 +1,12 @@
 [
   {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3530,
-    "updated_at": "2026-09-02T15:43:12Z",
-    "url": "https://github.com/truera/trulens"
+    "name": "Arize-ai/phoenix",
+    "stars": 11294,
+    "updated_at": "2026-09-02T15:58:23Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "gmitt98/fieldtest",
     "stars": 0,
-    "updated_at": "2026-09-02T15:33:36Z",
+    "updated_at": "2026-09-02T15:53:40Z",
     "url": "https://github.com/gmitt98/fieldtest"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3530,
+    "updated_at": "2026-09-02T15:48:53Z",
+    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -52,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T07:28:39Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11293,
-    "updated_at": "2026-09-02T15:44:35Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Curated list of benchmarks and rankings of models, agents and other AI-things.",
