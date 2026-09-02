@@ -1,5 +1,23 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 344,
+    "updated_at": "2026-09-02T17:11:04Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
+    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
+    "id": "gmitt98/fieldtest",
+    "language": "Python",
+    "name": "gmitt98/fieldtest",
+    "stars": 0,
+    "updated_at": "2026-09-02T17:04:34Z",
+    "url": "https://github.com/gmitt98/fieldtest"
+  },
+  {
     "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
     "id": "goldbarth/chartula-evals",
     "language": "Python",
@@ -14,17 +32,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11295,
-    "updated_at": "2026-09-02T16:58:35Z",
+    "updated_at": "2026-09-02T17:14:36Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
-    "id": "gmitt98/fieldtest",
-    "language": "Python",
-    "name": "gmitt98/fieldtest",
-    "stars": 0,
-    "updated_at": "2026-09-02T15:53:40Z",
-    "url": "https://github.com/gmitt98/fieldtest"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -79,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T06:50:04Z",
     "url": "https://github.com/lorien/awesome-ai-benchmarks"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 344,
-    "updated_at": "2026-09-02T16:42:22Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Beta. Bilingual reduced-fare policy assistant grounded in dated citations, with a corpus of eighteen California transit ",
