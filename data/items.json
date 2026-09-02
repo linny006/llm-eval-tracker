@@ -1,11 +1,20 @@
 [
   {
+    "description": "Curated list of benchmarks and rankings of models, agents and other AI-things.",
+    "id": "lorien/awesome-ai-benchmarks",
+    "language": "\u2014",
+    "name": "lorien/awesome-ai-benchmarks",
+    "stars": 1,
+    "updated_at": "2026-09-02T06:50:04Z",
+    "url": "https://github.com/lorien/awesome-ai-benchmarks"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 344,
-    "updated_at": "2026-09-02T06:45:06Z",
+    "updated_at": "2026-09-02T06:48:59Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11287,
-    "updated_at": "2026-09-02T06:32:54Z",
+    "updated_at": "2026-09-02T06:53:03Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -160,15 +169,6 @@
     "stars": 3530,
     "updated_at": "2026-09-01T15:59:09Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Curated list of benchmarks and rankings of models, agents and other AI-things.",
-    "id": "lorien/awesome-ai-benchmarks",
-    "language": "\u2014",
-    "name": "lorien/awesome-ai-benchmarks",
-    "stars": 1,
-    "updated_at": "2026-09-01T13:55:19Z",
-    "url": "https://github.com/lorien/awesome-ai-benchmarks"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
