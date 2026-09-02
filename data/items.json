@@ -1,5 +1,23 @@
 [
   {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3530,
+    "updated_at": "2026-09-02T15:43:12Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
+    "id": "gmitt98/fieldtest",
+    "language": "Python",
+    "name": "gmitt98/fieldtest",
+    "stars": 0,
+    "updated_at": "2026-09-02T15:33:36Z",
+    "url": "https://github.com/gmitt98/fieldtest"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -41,7 +59,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11293,
-    "updated_at": "2026-09-02T15:29:20Z",
+    "updated_at": "2026-09-02T15:44:35Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -88,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T05:18:33Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
-    "id": "gmitt98/fieldtest",
-    "language": "Python",
-    "name": "gmitt98/fieldtest",
-    "stars": 0,
-    "updated_at": "2026-09-02T05:08:09Z",
-    "url": "https://github.com/gmitt98/fieldtest"
   },
   {
     "description": "pip install gauntlet-evals \u00b7 v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against",
@@ -187,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-09-01T17:27:17Z",
     "url": "https://github.com/ishandutta2007/Awesome-Prompt-Management"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3530,
-    "updated_at": "2026-09-01T15:59:09Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
