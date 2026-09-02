@@ -1,5 +1,14 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 344,
+    "updated_at": "2026-09-02T06:14:52Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "Beta. Bilingual reduced-fare policy assistant grounded in dated citations, with a corpus of eighteen California transit ",
     "id": "ChelseaKR/fare-policy-assistant",
     "language": "HTML",
@@ -142,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-09-01T17:27:17Z",
     "url": "https://github.com/ishandutta2007/Awesome-Prompt-Management"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 344,
-    "updated_at": "2026-09-02T03:52:00Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
