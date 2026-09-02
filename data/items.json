@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83d\udea6 Behavioral CI/CD for AI Agents. Stop shipping broken agents to production.roduction-grade evaluation gates and statist",
+    "id": "pisigmac/evalgate",
+    "language": "Python",
+    "name": "pisigmac/evalgate",
+    "stars": 0,
+    "updated_at": "2026-09-02T02:06:25Z",
+    "url": "https://github.com/pisigmac/evalgate"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -14,7 +23,7 @@
     "language": "HTML",
     "name": "ChelseaKR/fare-policy-assistant",
     "stars": 1,
-    "updated_at": "2026-09-02T01:35:45Z",
+    "updated_at": "2026-09-02T02:12:12Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
@@ -112,7 +121,7 @@
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3531,
+    "stars": 3530,
     "updated_at": "2026-09-01T15:59:09Z",
     "url": "https://github.com/truera/trulens"
   },
@@ -439,14 +448,5 @@
     "stars": 26,
     "updated_at": "2026-09-01T16:50:37Z",
     "url": "https://github.com/sx4im/skillcheck"
-  },
-  {
-    "description": "Open, domain-specific evaluation datasets and binary judges for Retail & CPG generative-AI tasks. ",
-    "id": "j-newcom/retail-cpg-eval-datasets",
-    "language": "Python",
-    "name": "j-newcom/retail-cpg-eval-datasets",
-    "stars": 0,
-    "updated_at": "2026-08-18T14:15:39Z",
-    "url": "https://github.com/j-newcom/retail-cpg-eval-datasets"
   }
 ]
