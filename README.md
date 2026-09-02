@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-02 16:00 UTC
+> ⏰ Last updated: 2026-09-02 16:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -45,7 +45,7 @@ expired items removed — so you can rely on what you see being current.
 | 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11294 | Python | 2026-09-02 | AI Observability & Evaluation |
 | 2 | [gmitt98/fieldtest](https://github.com/gmitt98/fieldtest) | 0 | Python | 2026-09-02 | LLM evaluation framework — define what correct, well-formed, and safe means before you measure |
 | 3 | [truera/trulens](https://github.com/truera/trulens) | 3530 | Python | 2026-09-02 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24759 | TypeScript | 2026-09-02 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24761 | TypeScript | 2026-09-02 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 5 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-09-02 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
 | 6 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-09-02 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 7 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-09-02 | 📐 Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
