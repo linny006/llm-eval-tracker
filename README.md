@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-03 16:00 UTC
+> ⏰ Last updated: 2026-09-03 16:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-09-03 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
-| 2 | [isatimur/book-mash](https://github.com/isatimur/book-mash) | 0 | Python | 2026-09-03 |  |
-| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11308 | Python | 2026-09-03 | AI Observability & Evaluation |
-| 4 | [truera/trulens](https://github.com/truera/trulens) | 3533 | Python | 2026-09-03 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 5 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-09-03 | 📐 Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
-| 6 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24787 | TypeScript | 2026-09-03 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11308 | Python | 2026-09-03 | AI Observability & Evaluation |
+| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24787 | TypeScript | 2026-09-03 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 3 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-09-03 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
+| 4 | [isatimur/book-mash](https://github.com/isatimur/book-mash) | 0 | Python | 2026-09-03 |  |
+| 5 | [truera/trulens](https://github.com/truera/trulens) | 3533 | Python | 2026-09-03 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 6 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-09-03 | 📐 Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
 | 7 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-03 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
 | 8 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-03 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 9 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 344 | TypeScript | 2026-09-03 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
