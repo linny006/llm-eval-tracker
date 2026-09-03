@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11298,
+    "updated_at": "2026-09-03T04:42:36Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
     "id": "ChelseaKR/plumbline",
     "language": "Python",
@@ -61,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T01:42:47Z",
     "url": "https://github.com/isatimur/book-mash"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11298,
-    "updated_at": "2026-09-03T04:24:04Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
