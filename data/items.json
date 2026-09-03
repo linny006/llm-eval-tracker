@@ -1,11 +1,20 @@
 [
   {
+    "description": "\u6ca1\u8dd1\u8fc7\u7684\uff0c\u4e0d\u51fa\u5382\u3002Baize Prompt Lab \u2014 no eval, no ship.",
+    "id": "SmartStudio/baize-prompts",
+    "language": "\u2014",
+    "name": "SmartStudio/baize-prompts",
+    "stars": 0,
+    "updated_at": "2026-09-03T23:43:37Z",
+    "url": "https://github.com/SmartStudio/baize-prompts"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11313,
-    "updated_at": "2026-09-03T23:28:49Z",
+    "updated_at": "2026-09-03T23:39:11Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-21T00:39:29Z",
     "url": "https://github.com/tainguyen07/llm-eval-harness"
-  },
-  {
-    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
-    "id": "multivon-ai/multivon-eval",
-    "language": "Python",
-    "name": "multivon-ai/multivon-eval",
-    "stars": 25,
-    "updated_at": "2026-08-20T04:13:08Z",
-    "url": "https://github.com/multivon-ai/multivon-eval"
   }
 ]
