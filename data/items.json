@@ -1,5 +1,14 @@
 [
   {
+    "description": "",
+    "id": "isatimur/book-mash",
+    "language": "Python",
+    "name": "isatimur/book-mash",
+    "stars": 0,
+    "updated_at": "2026-09-03T11:31:24Z",
+    "url": "https://github.com/isatimur/book-mash"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -41,7 +50,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11306,
-    "updated_at": "2026-09-03T07:24:39Z",
+    "updated_at": "2026-09-03T11:30:57Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -97,15 +106,6 @@
     "stars": 3533,
     "updated_at": "2026-09-03T01:57:20Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "",
-    "id": "isatimur/book-mash",
-    "language": "Python",
-    "name": "isatimur/book-mash",
-    "stars": 0,
-    "updated_at": "2026-09-03T01:42:47Z",
-    "url": "https://github.com/isatimur/book-mash"
   },
   {
     "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
