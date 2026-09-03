@@ -1,21 +1,21 @@
 [
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24781,
-    "updated_at": "2026-09-03T12:57:46Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
     "id": "goldbarth/chartula-evals",
     "language": "Python",
     "name": "goldbarth/chartula-evals",
     "stars": 0,
-    "updated_at": "2026-09-03T12:14:43Z",
+    "updated_at": "2026-09-03T13:03:52Z",
     "url": "https://github.com/goldbarth/chartula-evals"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24783,
+    "updated_at": "2026-09-03T13:01:50Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "",
@@ -32,7 +32,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11307,
-    "updated_at": "2026-09-03T11:30:57Z",
+    "updated_at": "2026-09-03T13:11:45Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
