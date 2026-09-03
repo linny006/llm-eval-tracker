@@ -1,11 +1,20 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24779,
+    "updated_at": "2026-09-03T10:03:37Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 344,
-    "updated_at": "2026-09-03T09:59:31Z",
+    "updated_at": "2026-09-03T10:08:24Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -18,20 +27,11 @@
     "url": "https://github.com/goldbarth/chartula-evals"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24777,
-    "updated_at": "2026-09-03T09:48:37Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11304,
+    "stars": 11306,
     "updated_at": "2026-09-03T07:24:39Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -85,7 +85,7 @@
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3532,
+    "stars": 3533,
     "updated_at": "2026-09-03T01:57:20Z",
     "url": "https://github.com/truera/trulens"
   },
@@ -106,6 +106,15 @@
     "stars": 0,
     "updated_at": "2026-09-02T19:25:27Z",
     "url": "https://github.com/gmitt98/fieldtest"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5802,
+    "updated_at": "2026-09-02T16:00:49Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Curated list of benchmarks and rankings of models, agents and other AI-things.",
@@ -178,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T02:33:06Z",
     "url": "https://github.com/pisigmac/evalgate"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5801,
-    "updated_at": "2026-09-02T16:00:49Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
