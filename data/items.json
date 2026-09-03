@@ -4,9 +4,18 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11308,
-    "updated_at": "2026-09-03T16:23:42Z",
+    "stars": 11309,
+    "updated_at": "2026-09-03T16:39:43Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-09-03T16:32:02Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24787,
-    "updated_at": "2026-09-03T16:25:33Z",
+    "updated_at": "2026-09-03T16:42:32Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -41,17 +50,8 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3533,
-    "updated_at": "2026-09-03T16:15:20Z",
+    "updated_at": "2026-09-03T16:43:34Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-09-03T15:04:27Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
