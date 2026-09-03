@@ -14,7 +14,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24781,
-    "updated_at": "2026-09-03T12:21:53Z",
+    "updated_at": "2026-09-03T12:37:31Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -25,6 +25,15 @@
     "stars": 0,
     "updated_at": "2026-09-03T11:31:24Z",
     "url": "https://github.com/isatimur/book-mash"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11307,
+    "updated_at": "2026-09-03T11:30:57Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -43,15 +52,6 @@
     "stars": 344,
     "updated_at": "2026-09-03T10:08:24Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11306,
-    "updated_at": "2026-09-03T11:30:57Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
