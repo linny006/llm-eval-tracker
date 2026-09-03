@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11311,
+    "updated_at": "2026-09-03T21:55:03Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Benchmark: do LLMs silently trust plausible-but-wrong tool data?",
     "id": "Onur45500/SilentTrustBench",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 1,
     "updated_at": "2026-09-03T21:28:40Z",
     "url": "https://github.com/Onur45500/SilentTrustBench"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11311,
-    "updated_at": "2026-09-03T21:37:59Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
