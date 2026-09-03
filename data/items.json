@@ -1,5 +1,14 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 344,
+    "updated_at": "2026-09-03T09:43:11Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
     "id": "goldbarth/chartula-evals",
     "language": "Python",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24777,
-    "updated_at": "2026-09-03T09:23:55Z",
+    "updated_at": "2026-09-03T09:39:21Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -97,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T19:25:27Z",
     "url": "https://github.com/gmitt98/fieldtest"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 344,
-    "updated_at": "2026-09-03T07:46:25Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Curated list of benchmarks and rankings of models, agents and other AI-things.",
