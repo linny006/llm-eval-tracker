@@ -1,5 +1,14 @@
 [
   {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3531,
+    "updated_at": "2026-09-03T01:57:20Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "",
     "id": "isatimur/book-mash",
     "language": "Python",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11298,
-    "updated_at": "2026-09-03T01:27:40Z",
+    "updated_at": "2026-09-03T01:57:43Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -70,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T16:37:18Z",
     "url": "https://github.com/goldbarth/chartula-evals"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3530,
-    "updated_at": "2026-09-02T20:31:20Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
