@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24781,
+    "updated_at": "2026-09-03T12:02:47Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "",
     "id": "isatimur/book-mash",
     "language": "Python",
@@ -18,15 +27,6 @@
     "url": "https://github.com/Kondwani10/Origin-Continuum"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24780,
-    "updated_at": "2026-09-03T11:29:56Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -41,7 +41,7 @@
     "language": "Python",
     "name": "goldbarth/chartula-evals",
     "stars": 0,
-    "updated_at": "2026-09-03T09:25:25Z",
+    "updated_at": "2026-09-03T12:14:43Z",
     "url": "https://github.com/goldbarth/chartula-evals"
   },
   {
