@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "ChelseaKR/plumbline",
     "stars": 1,
-    "updated_at": "2026-09-03T03:54:46Z",
+    "updated_at": "2026-09-03T04:14:44Z",
     "url": "https://github.com/ChelseaKR/plumbline"
+  },
+  {
+    "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
+    "id": "ahmedmoha9088/PhoenixFish",
+    "language": "Java",
+    "name": "ahmedmoha9088/PhoenixFish",
+    "stars": 0,
+    "updated_at": "2026-09-03T04:00:32Z",
+    "url": "https://github.com/ahmedmoha9088/PhoenixFish"
   },
   {
     "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
@@ -22,7 +31,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24768,
+    "stars": 24769,
     "updated_at": "2026-09-03T03:47:21Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -59,17 +68,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11298,
-    "updated_at": "2026-09-03T03:35:30Z",
+    "updated_at": "2026-09-03T04:07:52Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
-    "id": "ahmedmoha9088/PhoenixFish",
-    "language": "Java",
-    "name": "ahmedmoha9088/PhoenixFish",
-    "stars": 0,
-    "updated_at": "2026-09-02T20:58:44Z",
-    "url": "https://github.com/ahmedmoha9088/PhoenixFish"
   },
   {
     "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
