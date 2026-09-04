@@ -1,11 +1,20 @@
 [
   {
+    "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
+    "id": "goldbarth/chartula-evals",
+    "language": "Python",
+    "name": "goldbarth/chartula-evals",
+    "stars": 0,
+    "updated_at": "2026-09-04T17:07:58Z",
+    "url": "https://github.com/goldbarth/chartula-evals"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-09-04T16:48:13Z",
+    "updated_at": "2026-09-04T17:07:39Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
@@ -13,7 +22,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24818,
+    "stars": 24817,
     "updated_at": "2026-09-04T16:19:35Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -70,15 +79,6 @@
     "stars": 11327,
     "updated_at": "2026-09-04T13:39:49Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
-    "id": "goldbarth/chartula-evals",
-    "language": "Python",
-    "name": "goldbarth/chartula-evals",
-    "stars": 0,
-    "updated_at": "2026-09-04T11:56:11Z",
-    "url": "https://github.com/goldbarth/chartula-evals"
   },
   {
     "description": "\u6ca1\u8dd1\u8fc7 = \u4e0d\u51fa\u5382\u3002no eval, no ship.",
