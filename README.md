@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-04 01:15 UTC
+> ⏰ Last updated: 2026-09-04 01:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [SmartStudio/baize-prompts](https://github.com/SmartStudio/baize-prompts) | 0 | — | 2026-09-04 | 没跑过 = 不出厂。no eval, no ship. |
-| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11313 | Python | 2026-09-04 | AI Observability & Evaluation |
-| 3 | [Onur45500/SilentTrustBench](https://github.com/Onur45500/SilentTrustBench) | 1 | Python | 2026-09-03 | Benchmark: do LLMs silently trust plausible-but-wrong tool data? |
-| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24792 | TypeScript | 2026-09-03 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 5 | [truera/trulens](https://github.com/truera/trulens) | 3533 | Python | 2026-09-03 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 6 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-09-03 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
-| 7 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-03 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
+| 1 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-04 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
+| 2 | [SmartStudio/baize-prompts](https://github.com/SmartStudio/baize-prompts) | 0 | — | 2026-09-04 | 没跑过 = 不出厂。no eval, no ship. |
+| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11313 | Python | 2026-09-04 | AI Observability & Evaluation |
+| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24793 | TypeScript | 2026-09-03 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 5 | [Onur45500/SilentTrustBench](https://github.com/Onur45500/SilentTrustBench) | 1 | Python | 2026-09-03 | Benchmark: do LLMs silently trust plausible-but-wrong tool data? |
+| 6 | [truera/trulens](https://github.com/truera/trulens) | 3533 | Python | 2026-09-03 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 7 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-09-03 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
 | 8 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-09-03 | 📐 Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
 | 9 | [isatimur/book-mash](https://github.com/isatimur/book-mash) | 0 | Python | 2026-09-03 |  |
 | 10 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-03 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
