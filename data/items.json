@@ -54,6 +54,15 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 345,
+    "updated_at": "2026-09-03T21:33:24Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "Benchmark: do LLMs silently trust plausible-but-wrong tool data?",
     "id": "Onur45500/SilentTrustBench",
     "language": "Python",
@@ -97,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T13:03:52Z",
     "url": "https://github.com/goldbarth/chartula-evals"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 344,
-    "updated_at": "2026-09-03T21:33:24Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
