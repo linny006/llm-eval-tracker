@@ -1,21 +1,30 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11328,
-    "updated_at": "2026-09-04T17:34:43Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-09-04T17:29:20Z",
+    "updated_at": "2026-09-04T17:47:34Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24820,
+    "updated_at": "2026-09-04T17:45:49Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11328,
+    "updated_at": "2026-09-04T17:57:01Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T17:07:58Z",
     "url": "https://github.com/goldbarth/chartula-evals"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24819,
-    "updated_at": "2026-09-04T16:19:35Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
@@ -103,7 +103,7 @@
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3534,
+    "stars": 3535,
     "updated_at": "2026-09-04T02:43:14Z",
     "url": "https://github.com/truera/trulens"
   },
