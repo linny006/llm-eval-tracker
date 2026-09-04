@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-09-04T14:12:34Z",
+    "updated_at": "2026-09-04T14:20:42Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
+    "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
+    "id": "valbaudo/awf",
+    "language": "Go",
+    "name": "valbaudo/awf",
+    "stars": 1,
+    "updated_at": "2026-09-04T14:19:33Z",
+    "url": "https://github.com/valbaudo/awf"
   },
   {
     "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -25,15 +34,6 @@
     "stars": 345,
     "updated_at": "2026-09-04T13:41:25Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
-    "id": "valbaudo/awf",
-    "language": "Go",
-    "name": "valbaudo/awf",
-    "stars": 1,
-    "updated_at": "2026-09-04T13:22:36Z",
-    "url": "https://github.com/valbaudo/awf"
   },
   {
     "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
@@ -94,7 +94,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5802,
+    "stars": 5801,
     "updated_at": "2026-09-04T03:59:19Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
