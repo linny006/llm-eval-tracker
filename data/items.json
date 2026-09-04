@@ -4,8 +4,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24816,
-    "updated_at": "2026-09-04T15:29:21Z",
+    "stars": 24817,
+    "updated_at": "2026-09-04T15:34:10Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -63,6 +63,15 @@
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11325,
+    "updated_at": "2026-09-04T13:39:49Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
     "id": "goldbarth/chartula-evals",
     "language": "Python",
@@ -79,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T10:19:50Z",
     "url": "https://github.com/SmartStudio/baize-prompts"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11324,
-    "updated_at": "2026-09-04T13:39:49Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
