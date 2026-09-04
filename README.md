@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-04 00:15 UTC
+> ⏰ Last updated: 2026-09-04 00:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,8 +42,8 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11313 | Python | 2026-09-04 | AI Observability & Evaluation |
-| 2 | [SmartStudio/baize-prompts](https://github.com/SmartStudio/baize-prompts) | 0 | — | 2026-09-03 | 没跑过的，不出厂。Baize Prompt Lab — no eval, no ship. |
+| 1 | [SmartStudio/baize-prompts](https://github.com/SmartStudio/baize-prompts) | 0 | — | 2026-09-04 | 没跑过 = 不出厂。no eval, no ship. |
+| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11313 | Python | 2026-09-04 | AI Observability & Evaluation |
 | 3 | [Onur45500/SilentTrustBench](https://github.com/Onur45500/SilentTrustBench) | 1 | Python | 2026-09-03 | Benchmark: do LLMs silently trust plausible-but-wrong tool data? |
 | 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24792 | TypeScript | 2026-09-03 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 5 | [truera/trulens](https://github.com/truera/trulens) | 3533 | Python | 2026-09-03 | Evaluation and Tracking for LLM Experiments and AI Agents |
