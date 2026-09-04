@@ -1,21 +1,21 @@
 [
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24817,
-    "updated_at": "2026-09-04T15:34:10Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-09-04T15:29:09Z",
+    "updated_at": "2026-09-04T15:56:48Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24818,
+    "updated_at": "2026-09-04T15:34:10Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
@@ -67,7 +67,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11325,
+    "stars": 11327,
     "updated_at": "2026-09-04T13:39:49Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -409,7 +409,7 @@
     "id": "sunxin-ai/dsh-design-qa",
     "language": "JavaScript",
     "name": "sunxin-ai/dsh-design-qa",
-    "stars": 18,
+    "stars": 20,
     "updated_at": "2026-08-25T07:49:52Z",
     "url": "https://github.com/sunxin-ai/dsh-design-qa"
   },
