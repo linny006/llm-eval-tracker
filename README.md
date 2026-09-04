@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-04 16:00 UTC
+> ⏰ Last updated: 2026-09-04 16:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -53,7 +53,7 @@ expired items removed — so you can rely on what you see being current.
 | 9 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-04 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
 | 10 | [SmartStudio/baize-prompts](https://github.com/SmartStudio/baize-prompts) | 0 | — | 2026-09-04 | 没跑过 = 不出厂。no eval, no ship. |
 | 11 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5801 | Python | 2026-09-04 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 12 | [truera/trulens](https://github.com/truera/trulens) | 3533 | Python | 2026-09-04 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 12 | [truera/trulens](https://github.com/truera/trulens) | 3534 | Python | 2026-09-04 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 13 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-04 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 14 | [Onur45500/SilentTrustBench](https://github.com/Onur45500/SilentTrustBench) | 1 | Python | 2026-09-03 | Benchmark: do LLMs silently trust plausible-but-wrong tool data? |
 | 15 | [isatimur/book-mash](https://github.com/isatimur/book-mash) | 0 | Python | 2026-09-03 |  |
