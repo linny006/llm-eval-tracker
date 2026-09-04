@@ -1,12 +1,12 @@
 [
   {
-    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
-    "id": "HaileyStorm/Creative-Writing-Rubrics",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "HaileyStorm/Creative-Writing-Rubrics",
-    "stars": 0,
-    "updated_at": "2026-09-04T18:14:17Z",
-    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+    "name": "Arize-ai/phoenix",
+    "stars": 11328,
+    "updated_at": "2026-09-04T18:26:38Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -14,17 +14,17 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24820,
-    "updated_at": "2026-09-04T18:07:57Z",
+    "updated_at": "2026-09-04T18:24:52Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
+    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
+    "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11328,
-    "updated_at": "2026-09-04T17:57:01Z",
-    "url": "https://github.com/Arize-ai/phoenix"
+    "name": "HaileyStorm/Creative-Writing-Rubrics",
+    "stars": 0,
+    "updated_at": "2026-09-04T18:14:17Z",
+    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
     "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
