@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-05 22:45 UTC
+> ⏰ Last updated: 2026-09-05 22:55 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -48,7 +48,7 @@ expired items removed — so you can rely on what you see being current.
 | 4 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-09-05 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
 | 5 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-09-05 | 📐 Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
 | 6 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-09-05 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
-| 7 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24845 | TypeScript | 2026-09-05 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 7 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24846 | TypeScript | 2026-09-05 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 8 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-09-05 | v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic |
 | 9 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11340 | Python | 2026-09-05 | AI Observability & Evaluation |
 | 10 | [gititya/support-quality-agency](https://github.com/gititya/support-quality-agency) | 0 | Python | 2026-09-05 | Five local QA judges that review B2B and B2C customer-support replies, catch the risky parts, and explain what to fix.  |
