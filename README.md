@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-05 14:30 UTC
+> ⏰ Last updated: 2026-09-05 14:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -50,7 +50,7 @@ expired items removed — so you can rely on what you see being current.
 | 6 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-09-05 | 📐 Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
 | 7 | [bingfeng288/llm-eval-demo](https://github.com/bingfeng288/llm-eval-demo) | 0 | Python | 2026-09-05 | 开箱即用的 LLM 评测小框架：答案质量 / 幻觉检测 / 拒答合理性 / 自一致性，零依赖零 Key，一条命令出中文 HTML 报告 |
 | 8 | [CloudsDocker/AI-FDE-Playbook](https://github.com/CloudsDocker/AI-FDE-Playbook) | 1 | Python | 2026-09-05 | Production reference architecture for Conversational Financial QA (ConvFinQA), AST-sandboxed execution, and AI Forward-D |
-| 9 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11337 | Python | 2026-09-05 | AI Observability & Evaluation |
+| 9 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11338 | Python | 2026-09-05 | AI Observability & Evaluation |
 | 10 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-09-05 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
 | 11 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-09-05 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
 | 12 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-09-04 | Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu |
