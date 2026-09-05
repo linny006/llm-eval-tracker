@@ -5,7 +5,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24839,
-    "updated_at": "2026-09-05T16:19:17Z",
+    "updated_at": "2026-09-05T16:43:54Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-09-05T15:08:06Z",
+    "updated_at": "2026-09-05T16:41:52Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
+    "id": "ChelseaKR/plumbline",
+    "language": "Python",
+    "name": "ChelseaKR/plumbline",
+    "stars": 1,
+    "updated_at": "2026-09-05T16:39:57Z",
+    "url": "https://github.com/ChelseaKR/plumbline"
   },
   {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
@@ -187,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T15:41:40Z",
     "url": "https://github.com/isatimur/book-mash"
-  },
-  {
-    "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
-    "id": "ChelseaKR/plumbline",
-    "language": "Python",
-    "name": "ChelseaKR/plumbline",
-    "stars": 1,
-    "updated_at": "2026-09-05T16:12:24Z",
-    "url": "https://github.com/ChelseaKR/plumbline"
   },
   {
     "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
