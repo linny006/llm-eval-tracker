@@ -1,5 +1,23 @@
 [
   {
+    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-09-05T10:09:17Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "\u5f00\u7bb1\u5373\u7528\u7684 LLM \u8bc4\u6d4b\u5c0f\u6846\u67b6\uff1a\u7b54\u6848\u8d28\u91cf / \u5e7b\u89c9\u68c0\u6d4b / \u62d2\u7b54\u5408\u7406\u6027 / \u81ea\u4e00\u81f4\u6027\uff0c\u96f6\u4f9d\u8d56\u96f6 Key\uff0c\u4e00\u6761\u547d\u4ee4\u51fa\u4e2d\u6587 HTML \u62a5\u544a",
+    "id": "bingfeng288/llm-eval-demo",
+    "language": "Python",
+    "name": "bingfeng288/llm-eval-demo",
+    "stars": 0,
+    "updated_at": "2026-09-05T10:02:44Z",
+    "url": "https://github.com/bingfeng288/llm-eval-demo"
+  },
+  {
     "description": "Production reference architecture for Conversational Financial QA (ConvFinQA), AST-sandboxed execution, and AI Forward-D",
     "id": "CloudsDocker/AI-FDE-Playbook",
     "language": "Python",
@@ -13,7 +31,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24832,
+    "stars": 24833,
     "updated_at": "2026-09-05T07:49:46Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -88,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-09-04T14:19:33Z",
     "url": "https://github.com/valbaudo/awf"
-  },
-  {
-    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-09-04T13:43:32Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-22T20:13:15Z",
     "url": "https://github.com/ozlar34/job-match-radar"
-  },
-  {
-    "description": "Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring Sec",
-    "id": "fabio-barboza/logistic-platform",
-    "language": "Java",
-    "name": "fabio-barboza/logistic-platform",
-    "stars": 0,
-    "updated_at": "2026-08-22T02:58:41Z",
-    "url": "https://github.com/fabio-barboza/logistic-platform"
   }
 ]
