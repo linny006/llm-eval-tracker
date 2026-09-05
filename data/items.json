@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-09-05T15:08:06Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -43,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T12:44:53Z",
     "url": "https://github.com/gititya/support-quality-agency"
-  },
-  {
-    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-09-05T10:57:14Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "\u5f00\u7bb1\u5373\u7528\u7684 LLM \u8bc4\u6d4b\u5c0f\u6846\u67b6\uff1a\u7b54\u6848\u8d28\u91cf / \u5e7b\u89c9\u68c0\u6d4b / \u62d2\u7b54\u5408\u7406\u6027 / \u81ea\u4e00\u81f4\u6027\uff0c\u96f6\u4f9d\u8d56\u96f6 Key\uff0c\u4e00\u6761\u547d\u4ee4\u51fa\u4e2d\u6587 HTML \u62a5\u544a",
