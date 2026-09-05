@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-05 08:45 UTC
+> ⏰ Last updated: 2026-09-05 09:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,7 +43,7 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [CloudsDocker/AI-FDE-Playbook](https://github.com/CloudsDocker/AI-FDE-Playbook) | 1 | Python | 2026-09-05 | Production reference architecture for Conversational Financial QA (ConvFinQA), AST-sandboxed execution, and AI Forward-D |
-| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24831 | TypeScript | 2026-09-05 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24832 | TypeScript | 2026-09-05 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11334 | Python | 2026-09-05 | AI Observability & Evaluation |
 | 4 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-09-05 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
 | 5 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-09-05 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
@@ -55,7 +55,7 @@ expired items removed — so you can rely on what you see being current.
 | 11 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-09-04 | 📐 Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
 | 12 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 345 | TypeScript | 2026-09-04 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 13 | [SmartStudio/baize-prompts](https://github.com/SmartStudio/baize-prompts) | 0 | — | 2026-09-04 | 没跑过 = 不出厂。no eval, no ship. |
-| 14 | [truera/trulens](https://github.com/truera/trulens) | 3535 | Python | 2026-09-04 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 14 | [truera/trulens](https://github.com/truera/trulens) | 3536 | Python | 2026-09-04 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 15 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-04 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 16 | [Onur45500/SilentTrustBench](https://github.com/Onur45500/SilentTrustBench) | 1 | Python | 2026-09-03 | Benchmark: do LLMs silently trust plausible-but-wrong tool data? |
 | 17 | [isatimur/book-mash](https://github.com/isatimur/book-mash) | 0 | Python | 2026-09-03 |  |
