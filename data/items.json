@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-09-05T17:36:56Z",
+    "updated_at": "2026-09-05T17:56:39Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
@@ -25,6 +25,15 @@
     "stars": 1,
     "updated_at": "2026-09-05T16:39:57Z",
     "url": "https://github.com/ChelseaKR/plumbline"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11339,
+    "updated_at": "2026-09-05T16:24:29Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
@@ -79,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T08:32:00Z",
     "url": "https://github.com/CloudsDocker/AI-FDE-Playbook"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11338,
-    "updated_at": "2026-09-05T16:24:29Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
