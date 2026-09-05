@@ -1,5 +1,14 @@
 [
   {
+    "description": "Production reference architecture for Conversational Financial QA (ConvFinQA), AST-sandboxed execution, and AI Forward-D",
+    "id": "CloudsDocker/AI-FDE-Playbook",
+    "language": "Python",
+    "name": "CloudsDocker/AI-FDE-Playbook",
+    "stars": 0,
+    "updated_at": "2026-09-05T07:11:53Z",
+    "url": "https://github.com/CloudsDocker/AI-FDE-Playbook"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-22T02:58:41Z",
     "url": "https://github.com/fabio-barboza/logistic-platform"
-  },
-  {
-    "description": "Evaluation harness for LLM apps: prompt versioning, dataset runners, LLM-as-judge scoring, regression tracking, and HTML",
-    "id": "tainguyen07/llm-eval-harness",
-    "language": "Python",
-    "name": "tainguyen07/llm-eval-harness",
-    "stars": 4,
-    "updated_at": "2026-08-21T00:39:29Z",
-    "url": "https://github.com/tainguyen07/llm-eval-harness"
   }
 ]
