@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-05 18:30 UTC
+> ⏰ Last updated: 2026-09-05 18:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,29 +42,29 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-09-05 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
-| 2 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-09-05 | 📐 Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
-| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24841 | TypeScript | 2026-09-05 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 4 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-09-05 | v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic |
-| 5 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11340 | Python | 2026-09-05 | AI Observability & Evaluation |
-| 6 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-09-05 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
-| 7 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-09-05 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 8 | [gititya/support-quality-agency](https://github.com/gititya/support-quality-agency) | 0 | Python | 2026-09-05 | Five local QA judges that review B2B and B2C customer-support replies, catch the risky parts, and explain what to fix.  |
-| 9 | [bingfeng288/llm-eval-demo](https://github.com/bingfeng288/llm-eval-demo) | 0 | Python | 2026-09-05 | 开箱即用的 LLM 评测小框架：答案质量 / 幻觉检测 / 拒答合理性 / 自一致性，零依赖零 Key，一条命令出中文 HTML 报告 |
-| 10 | [CloudsDocker/AI-FDE-Playbook](https://github.com/CloudsDocker/AI-FDE-Playbook) | 1 | Python | 2026-09-05 | Production reference architecture for Conversational Financial QA (ConvFinQA), AST-sandboxed execution, and AI Forward-D |
-| 11 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-09-05 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
-| 12 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-09-05 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
-| 13 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-09-05 | Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu |
-| 14 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5802 | Python | 2026-09-04 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 15 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-04 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
-| 16 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-09-04 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
-| 17 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 345 | TypeScript | 2026-09-04 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 18 | [SmartStudio/baize-prompts](https://github.com/SmartStudio/baize-prompts) | 0 | — | 2026-09-04 | 没跑过 = 不出厂。no eval, no ship. |
-| 19 | [truera/trulens](https://github.com/truera/trulens) | 3536 | Python | 2026-09-04 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 20 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-04 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
-| 21 | [Onur45500/SilentTrustBench](https://github.com/Onur45500/SilentTrustBench) | 1 | Python | 2026-09-03 | Benchmark: do LLMs silently trust plausible-but-wrong tool data? |
-| 22 | [isatimur/book-mash](https://github.com/isatimur/book-mash) | 0 | Python | 2026-09-03 |  |
-| 23 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-09-05 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
+| 1 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-09-05 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
+| 2 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-09-05 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
+| 3 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-09-05 | 📐 Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
+| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24841 | TypeScript | 2026-09-05 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 5 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-09-05 | v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic |
+| 6 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11340 | Python | 2026-09-05 | AI Observability & Evaluation |
+| 7 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-09-05 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
+| 8 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-09-05 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
+| 9 | [gititya/support-quality-agency](https://github.com/gititya/support-quality-agency) | 0 | Python | 2026-09-05 | Five local QA judges that review B2B and B2C customer-support replies, catch the risky parts, and explain what to fix.  |
+| 10 | [bingfeng288/llm-eval-demo](https://github.com/bingfeng288/llm-eval-demo) | 0 | Python | 2026-09-05 | 开箱即用的 LLM 评测小框架：答案质量 / 幻觉检测 / 拒答合理性 / 自一致性，零依赖零 Key，一条命令出中文 HTML 报告 |
+| 11 | [CloudsDocker/AI-FDE-Playbook](https://github.com/CloudsDocker/AI-FDE-Playbook) | 1 | Python | 2026-09-05 | Production reference architecture for Conversational Financial QA (ConvFinQA), AST-sandboxed execution, and AI Forward-D |
+| 12 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-09-05 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
+| 13 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-09-05 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
+| 14 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-09-05 | Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu |
+| 15 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5802 | Python | 2026-09-04 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 16 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-04 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
+| 17 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-09-04 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
+| 18 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 345 | TypeScript | 2026-09-04 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 19 | [SmartStudio/baize-prompts](https://github.com/SmartStudio/baize-prompts) | 0 | — | 2026-09-04 | 没跑过 = 不出厂。no eval, no ship. |
+| 20 | [truera/trulens](https://github.com/truera/trulens) | 3536 | Python | 2026-09-04 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 21 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-04 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
+| 22 | [Onur45500/SilentTrustBench](https://github.com/Onur45500/SilentTrustBench) | 1 | Python | 2026-09-03 | Benchmark: do LLMs silently trust plausible-but-wrong tool data? |
+| 23 | [isatimur/book-mash](https://github.com/isatimur/book-mash) | 0 | Python | 2026-09-03 |  |
 | 24 | [gmitt98/fieldtest](https://github.com/gmitt98/fieldtest) | 0 | Python | 2026-09-02 | LLM evaluation framework — define what correct, well-formed, and safe means before you measure |
 | 25 | [lorien/awesome-ai-benchmarks](https://github.com/lorien/awesome-ai-benchmarks) | 1 | — | 2026-09-02 | Curated list of benchmarks and rankings of models, agents and other AI-things. |
 | 26 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-09-05 | pip install gauntlet-evals · v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against |

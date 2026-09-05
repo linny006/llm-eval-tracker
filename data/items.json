@@ -1,5 +1,14 @@
 [
   {
+    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
+    "id": "ChelseaKR/sprout",
+    "language": "Python",
+    "name": "ChelseaKR/sprout",
+    "stars": 1,
+    "updated_at": "2026-09-05T18:41:42Z",
+    "url": "https://github.com/ChelseaKR/sprout"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-09-05T17:56:39Z",
+    "updated_at": "2026-09-05T18:41:48Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
@@ -198,15 +207,6 @@
     "url": "https://github.com/isatimur/book-mash"
   },
   {
-    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
-    "id": "ChelseaKR/sprout",
-    "language": "Python",
-    "name": "ChelseaKR/sprout",
-    "stars": 1,
-    "updated_at": "2026-09-05T16:18:07Z",
-    "url": "https://github.com/ChelseaKR/sprout"
-  },
-  {
     "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
     "id": "gmitt98/fieldtest",
     "language": "Python",
@@ -230,7 +230,7 @@
     "language": "Python",
     "name": "ChelseaKR/gauntlet",
     "stars": 1,
-    "updated_at": "2026-09-05T16:52:42Z",
+    "updated_at": "2026-09-05T18:32:11Z",
     "url": "https://github.com/ChelseaKR/gauntlet"
   },
   {
