@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-05 16:00 UTC
+> ⏰ Last updated: 2026-09-05 16:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -53,7 +53,7 @@ expired items removed — so you can rely on what you see being current.
 | 9 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11338 | Python | 2026-09-05 | AI Observability & Evaluation |
 | 10 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-09-05 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
 | 11 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-09-05 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
-| 12 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-09-04 | Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu |
+| 12 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-09-05 | Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu |
 | 13 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5802 | Python | 2026-09-04 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 14 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-04 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
 | 15 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-09-04 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
@@ -63,11 +63,11 @@ expired items removed — so you can rely on what you see being current.
 | 19 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-04 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 20 | [Onur45500/SilentTrustBench](https://github.com/Onur45500/SilentTrustBench) | 1 | Python | 2026-09-03 | Benchmark: do LLMs silently trust plausible-but-wrong tool data? |
 | 21 | [isatimur/book-mash](https://github.com/isatimur/book-mash) | 0 | Python | 2026-09-03 |  |
-| 22 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-09-03 | v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic |
+| 22 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-09-05 | v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic |
 | 23 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-09-03 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
 | 24 | [gmitt98/fieldtest](https://github.com/gmitt98/fieldtest) | 0 | Python | 2026-09-02 | LLM evaluation framework — define what correct, well-formed, and safe means before you measure |
 | 25 | [lorien/awesome-ai-benchmarks](https://github.com/lorien/awesome-ai-benchmarks) | 1 | — | 2026-09-02 | Curated list of benchmarks and rankings of models, agents and other AI-things. |
-| 26 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-09-02 | pip install gauntlet-evals · v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against |
+| 26 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-09-05 | pip install gauntlet-evals · v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against |
 | 27 | [coffee-converter/onthemoney](https://github.com/coffee-converter/onthemoney) | 0 | Python | 2026-09-02 | An AI agent that answers questions about U.S. campaign money against real FEC data. Source-cited, graded on a public eva |
 | 28 | [pisigmac/evalgate](https://github.com/pisigmac/evalgate) | 0 | Python | 2026-09-02 | 🚦 Behavioral CI/CD for AI Agents. Stop shipping broken agents to production.roduction-grade evaluation gates and statist |
 | 29 | [sammyjdev/gnomon-eval](https://github.com/sammyjdev/gnomon-eval) | 0 | Python | 2026-09-02 | Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first. |
