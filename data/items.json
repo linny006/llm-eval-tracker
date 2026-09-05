@@ -1,5 +1,14 @@
 [
   {
+    "description": "Five local QA judges that review B2B and B2C customer-support replies, catch the risky parts, and explain what to fix. ",
+    "id": "gititya/Quality-Agency-support",
+    "language": "Python",
+    "name": "gititya/Quality-Agency-support",
+    "stars": 0,
+    "updated_at": "2026-09-05T12:44:53Z",
+    "url": "https://github.com/gititya/Quality-Agency-support"
+  },
+  {
     "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
     "id": "decimal-labs/decimalai-python",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-25T03:26:22Z",
     "url": "https://github.com/rithvik-bk/voiceos-eval"
-  },
-  {
-    "description": "Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai",
-    "id": "ozlar34/job-match-radar",
-    "language": "Python",
-    "name": "ozlar34/job-match-radar",
-    "stars": 1,
-    "updated_at": "2026-08-22T20:13:15Z",
-    "url": "https://github.com/ozlar34/job-match-radar"
   }
 ]
