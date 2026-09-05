@@ -1,5 +1,14 @@
 [
   {
+    "description": "Production reference architecture for Conversational Financial QA (ConvFinQA), AST-sandboxed execution, and AI Forward-D",
+    "id": "CloudsDocker/AI-FDE-Playbook",
+    "language": "Python",
+    "name": "CloudsDocker/AI-FDE-Playbook",
+    "stars": 1,
+    "updated_at": "2026-09-05T08:32:00Z",
+    "url": "https://github.com/CloudsDocker/AI-FDE-Playbook"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -7,15 +16,6 @@
     "stars": 24831,
     "updated_at": "2026-09-05T07:49:46Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Production reference architecture for Conversational Financial QA (ConvFinQA), AST-sandboxed execution, and AI Forward-D",
-    "id": "CloudsDocker/AI-FDE-Playbook",
-    "language": "Python",
-    "name": "CloudsDocker/AI-FDE-Playbook",
-    "stars": 0,
-    "updated_at": "2026-09-05T07:11:53Z",
-    "url": "https://github.com/CloudsDocker/AI-FDE-Playbook"
   },
   {
     "description": "AI Observability & Evaluation",
