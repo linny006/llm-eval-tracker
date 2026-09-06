@@ -1,5 +1,14 @@
 [
   {
+    "description": "Measure quantization quality loss on Apple Silicon MLX \u2014 KL divergence, top-token flip rate and perplexity delta for KV-",
+    "id": "IonDen/mlx-quant-fidelity",
+    "language": "Python",
+    "name": "IonDen/mlx-quant-fidelity",
+    "stars": 4,
+    "updated_at": "2026-09-06T09:45:48Z",
+    "url": "https://github.com/IonDen/mlx-quant-fidelity"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -385,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-08-28T20:21:32Z",
     "url": "https://github.com/camerontjs-dot/agent-eval-notes"
-  },
-  {
-    "description": "Measure quantization quality loss on Apple Silicon MLX \u2014 KL divergence, top-token flip rate and perplexity delta for KV-",
-    "id": "IonDen/mlx-quant-fidelity",
-    "language": "Python",
-    "name": "IonDen/mlx-quant-fidelity",
-    "stars": 4,
-    "updated_at": "2026-09-06T00:48:34Z",
-    "url": "https://github.com/IonDen/mlx-quant-fidelity"
   },
   {
     "description": "LLM-powered ticket triage + TAM account health briefs for technical support teams, with a rule-based fallback, RAG over ",
