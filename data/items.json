@@ -5,8 +5,17 @@
     "language": "HTML",
     "name": "ChelseaKR/fare-policy-assistant",
     "stars": 1,
-    "updated_at": "2026-09-06T20:58:36Z",
+    "updated_at": "2026-09-06T21:07:12Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
+  },
+  {
+    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
+    "id": "ChelseaKR/sprout",
+    "language": "Python",
+    "name": "ChelseaKR/sprout",
+    "stars": 1,
+    "updated_at": "2026-09-06T21:06:43Z",
+    "url": "https://github.com/ChelseaKR/sprout"
   },
   {
     "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
@@ -25,15 +34,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T20:48:44Z",
     "url": "https://github.com/ChelseaKR/gauntlet"
-  },
-  {
-    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
-    "id": "ChelseaKR/sprout",
-    "language": "Python",
-    "name": "ChelseaKR/sprout",
-    "stars": 1,
-    "updated_at": "2026-09-06T20:59:13Z",
-    "url": "https://github.com/ChelseaKR/sprout"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -212,7 +212,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 345,
-    "updated_at": "2026-09-06T01:03:20Z",
+    "updated_at": "2026-09-06T21:05:21Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
