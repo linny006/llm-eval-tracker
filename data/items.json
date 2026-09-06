@@ -1,11 +1,20 @@
 [
   {
+    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
+    "id": "ChelseaKR/sprout",
+    "language": "Python",
+    "name": "ChelseaKR/sprout",
+    "stars": 1,
+    "updated_at": "2026-09-06T22:57:02Z",
+    "url": "https://github.com/ChelseaKR/sprout"
+  },
+  {
     "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
     "id": "ChelseaKR/plumbline",
     "language": "Python",
     "name": "ChelseaKR/plumbline",
     "stars": 1,
-    "updated_at": "2026-09-06T22:31:21Z",
+    "updated_at": "2026-09-06T22:58:47Z",
     "url": "https://github.com/ChelseaKR/plumbline"
   },
   {
@@ -27,21 +36,12 @@
     "url": "https://github.com/ChelseaKR/gauntlet"
   },
   {
-    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
-    "id": "ChelseaKR/sprout",
-    "language": "Python",
-    "name": "ChelseaKR/sprout",
-    "stars": 1,
-    "updated_at": "2026-09-06T22:43:03Z",
-    "url": "https://github.com/ChelseaKR/sprout"
-  },
-  {
     "description": "Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu",
     "id": "ChelseaKR/fare-policy-assistant",
     "language": "HTML",
     "name": "ChelseaKR/fare-policy-assistant",
     "stars": 1,
-    "updated_at": "2026-09-06T21:17:43Z",
+    "updated_at": "2026-09-06T22:56:41Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
