@@ -1,5 +1,32 @@
 [
   {
+    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
+    "id": "HaileyStorm/Creative-Writing-Rubrics",
+    "language": "Python",
+    "name": "HaileyStorm/Creative-Writing-Rubrics",
+    "stars": 0,
+    "updated_at": "2026-09-06T13:09:46Z",
+    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
+    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
+    "id": "ChelseaKR/sprout",
+    "language": "Python",
+    "name": "ChelseaKR/sprout",
+    "stars": 1,
+    "updated_at": "2026-09-06T13:09:25Z",
+    "url": "https://github.com/ChelseaKR/sprout"
+  },
+  {
+    "description": "Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu",
+    "id": "ChelseaKR/fare-policy-assistant",
+    "language": "HTML",
+    "name": "ChelseaKR/fare-policy-assistant",
+    "stars": 1,
+    "updated_at": "2026-09-06T13:14:07Z",
+    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
+  },
+  {
     "description": "pip install gauntlet-evals \u00b7 v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against",
     "id": "ChelseaKR/gauntlet",
     "language": "Python",
@@ -7,15 +34,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T12:40:12Z",
     "url": "https://github.com/ChelseaKR/gauntlet"
-  },
-  {
-    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
-    "id": "HaileyStorm/Creative-Writing-Rubrics",
-    "language": "Python",
-    "name": "HaileyStorm/Creative-Writing-Rubrics",
-    "stars": 0,
-    "updated_at": "2026-09-06T12:26:07Z",
-    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
     "description": "Production reference architecture for Conversational Financial QA (ConvFinQA), AST-sandboxed execution, and AI Forward-D",
@@ -115,24 +133,6 @@
     "stars": 11342,
     "updated_at": "2026-09-05T23:01:13Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu",
-    "id": "ChelseaKR/fare-policy-assistant",
-    "language": "HTML",
-    "name": "ChelseaKR/fare-policy-assistant",
-    "stars": 1,
-    "updated_at": "2026-09-06T05:00:38Z",
-    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
-  },
-  {
-    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
-    "id": "ChelseaKR/sprout",
-    "language": "Python",
-    "name": "ChelseaKR/sprout",
-    "stars": 1,
-    "updated_at": "2026-09-05T18:41:42Z",
-    "url": "https://github.com/ChelseaKR/sprout"
   },
   {
     "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
