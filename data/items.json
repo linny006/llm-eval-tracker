@@ -1,5 +1,23 @@
 [
   {
+    "description": "\u6ca1\u8dd1\u8fc7 = \u4e0d\u51fa\u5382\u3002no eval, no ship.",
+    "id": "SmartStudio/baize-prompts",
+    "language": "\u2014",
+    "name": "SmartStudio/baize-prompts",
+    "stars": 0,
+    "updated_at": "2026-09-06T00:49:12Z",
+    "url": "https://github.com/SmartStudio/baize-prompts"
+  },
+  {
+    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
+    "id": "HaileyStorm/Creative-Writing-Rubrics",
+    "language": "Python",
+    "name": "HaileyStorm/Creative-Writing-Rubrics",
+    "stars": 0,
+    "updated_at": "2026-09-06T00:46:03Z",
+    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
     "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
     "id": "decimal-labs/decimalai-python",
     "language": "Python",
@@ -16,15 +34,6 @@
     "stars": 3,
     "updated_at": "2026-09-06T00:33:42Z",
     "url": "https://github.com/lordbasilaiassistant-sudo/company-bench"
-  },
-  {
-    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
-    "id": "HaileyStorm/Creative-Writing-Rubrics",
-    "language": "Python",
-    "name": "HaileyStorm/Creative-Writing-Rubrics",
-    "stars": 0,
-    "updated_at": "2026-09-06T00:15:40Z",
-    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
@@ -68,7 +77,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24846,
-    "updated_at": "2026-09-05T16:43:54Z",
+    "updated_at": "2026-09-06T00:46:00Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -169,15 +178,6 @@
     "stars": 345,
     "updated_at": "2026-09-04T13:41:25Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "\u6ca1\u8dd1\u8fc7 = \u4e0d\u51fa\u5382\u3002no eval, no ship.",
-    "id": "SmartStudio/baize-prompts",
-    "language": "\u2014",
-    "name": "SmartStudio/baize-prompts",
-    "stars": 0,
-    "updated_at": "2026-09-05T23:02:32Z",
-    "url": "https://github.com/SmartStudio/baize-prompts"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -383,7 +383,7 @@
     "language": "Python",
     "name": "IonDen/mlx-quant-fidelity",
     "stars": 4,
-    "updated_at": "2026-09-05T21:17:34Z",
+    "updated_at": "2026-09-06T00:48:34Z",
     "url": "https://github.com/IonDen/mlx-quant-fidelity"
   },
   {
