@@ -1,5 +1,14 @@
 [
   {
+    "description": "Verifier-gated support resolution engine \u2014 answers from your own docs with page citations, escalates what it can't verif",
+    "id": "ihsanfarabi/cs-agent",
+    "language": "C#",
+    "name": "ihsanfarabi/cs-agent",
+    "stars": 0,
+    "updated_at": "2026-09-06T08:19:39Z",
+    "url": "https://github.com/ihsanfarabi/cs-agent"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -9,20 +18,11 @@
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
-    "description": "Verifier-gated support resolution engine \u2014 answers from your own docs with page citations, escalates what it can't verif",
-    "id": "ihsanfarabi/cs-agent",
-    "language": "C#",
-    "name": "ihsanfarabi/cs-agent",
-    "stars": 0,
-    "updated_at": "2026-09-06T08:10:30Z",
-    "url": "https://github.com/ihsanfarabi/cs-agent"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24849,
+    "stars": 24850,
     "updated_at": "2026-09-06T06:37:47Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
