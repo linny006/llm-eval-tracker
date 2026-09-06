@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-06 05:30 UTC
+> ⏰ Last updated: 2026-09-06 05:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -59,7 +59,7 @@ expired items removed — so you can rely on what you see being current.
 | 15 | [CloudsDocker/AI-FDE-Playbook](https://github.com/CloudsDocker/AI-FDE-Playbook) | 1 | Python | 2026-09-05 | Production reference architecture for Conversational Financial QA (ConvFinQA), AST-sandboxed execution, and AI Forward-D |
 | 16 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-09-05 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
 | 17 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-09-05 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
-| 18 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5802 | Python | 2026-09-04 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 18 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5803 | Python | 2026-09-04 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 19 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-04 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
 | 20 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-09-04 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
 | 21 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 345 | TypeScript | 2026-09-06 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
