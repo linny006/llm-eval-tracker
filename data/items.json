@@ -1,5 +1,14 @@
 [
   {
+    "description": "Production reference architecture for Conversational Financial QA (ConvFinQA), AST-sandboxed execution, and AI Forward-D",
+    "id": "CloudsDocker/AI-FDE-Playbook",
+    "language": "Python",
+    "name": "CloudsDocker/AI-FDE-Playbook",
+    "stars": 1,
+    "updated_at": "2026-09-06T11:01:30Z",
+    "url": "https://github.com/CloudsDocker/AI-FDE-Playbook"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -31,7 +40,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24854,
+    "stars": 24855,
     "updated_at": "2026-09-06T09:14:15Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -142,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T10:02:44Z",
     "url": "https://github.com/bingfeng288/llm-eval-demo"
-  },
-  {
-    "description": "Production reference architecture for Conversational Financial QA (ConvFinQA), AST-sandboxed execution, and AI Forward-D",
-    "id": "CloudsDocker/AI-FDE-Playbook",
-    "language": "Python",
-    "name": "CloudsDocker/AI-FDE-Playbook",
-    "stars": 1,
-    "updated_at": "2026-09-05T08:32:00Z",
-    "url": "https://github.com/CloudsDocker/AI-FDE-Playbook"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
