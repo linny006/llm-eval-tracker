@@ -1,5 +1,14 @@
 [
   {
+    "description": "Open-source model interview benchmark: 50 roles, 414 deterministic checks, 146 planted traps. Versioned runs and auditab",
+    "id": "lordbasilaiassistant-sudo/company-bench",
+    "language": "JavaScript",
+    "name": "lordbasilaiassistant-sudo/company-bench",
+    "stars": 3,
+    "updated_at": "2026-09-06T00:00:19Z",
+    "url": "https://github.com/lordbasilaiassistant-sudo/company-bench"
+  },
+  {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
     "id": "ahmedmoha9088/PhoenixFish",
     "language": "Java",
@@ -376,15 +385,6 @@
     "stars": 4,
     "updated_at": "2026-09-05T21:17:34Z",
     "url": "https://github.com/IonDen/mlx-quant-fidelity"
-  },
-  {
-    "description": "Can your AI agent hold a job? Open-source benchmark for AI agent trustworthiness, not capability: 29 chairs, 7 departmen",
-    "id": "lordbasilaiassistant-sudo/company-bench",
-    "language": "JavaScript",
-    "name": "lordbasilaiassistant-sudo/company-bench",
-    "stars": 3,
-    "updated_at": "2026-08-28T03:41:02Z",
-    "url": "https://github.com/lordbasilaiassistant-sudo/company-bench"
   },
   {
     "description": "LLM-powered ticket triage + TAM account health briefs for technical support teams, with a rule-based fallback, RAG over ",
