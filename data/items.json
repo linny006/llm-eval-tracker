@@ -1,21 +1,21 @@
 [
   {
-    "description": "Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu",
-    "id": "ChelseaKR/fare-policy-assistant",
-    "language": "HTML",
-    "name": "ChelseaKR/fare-policy-assistant",
-    "stars": 1,
-    "updated_at": "2026-09-06T13:40:01Z",
-    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
-  },
-  {
     "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
     "id": "ChelseaKR/sprout",
     "language": "Python",
     "name": "ChelseaKR/sprout",
     "stars": 1,
-    "updated_at": "2026-09-06T13:40:16Z",
+    "updated_at": "2026-09-06T13:54:44Z",
     "url": "https://github.com/ChelseaKR/sprout"
+  },
+  {
+    "description": "Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu",
+    "id": "ChelseaKR/fare-policy-assistant",
+    "language": "HTML",
+    "name": "ChelseaKR/fare-policy-assistant",
+    "stars": 1,
+    "updated_at": "2026-09-06T13:59:07Z",
+    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
@@ -68,7 +68,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24858,
-    "updated_at": "2026-09-06T09:14:15Z",
+    "updated_at": "2026-09-06T13:56:15Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -140,7 +140,7 @@
     "language": "Python",
     "name": "ChelseaKR/plumbline",
     "stars": 1,
-    "updated_at": "2026-09-05T16:39:57Z",
+    "updated_at": "2026-09-06T13:52:51Z",
     "url": "https://github.com/ChelseaKR/plumbline"
   },
   {
