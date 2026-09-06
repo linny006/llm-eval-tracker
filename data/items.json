@@ -1,21 +1,21 @@
 [
   {
-    "description": "Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu",
-    "id": "ChelseaKR/fare-policy-assistant",
-    "language": "HTML",
-    "name": "ChelseaKR/fare-policy-assistant",
-    "stars": 1,
-    "updated_at": "2026-09-06T21:07:12Z",
-    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
-  },
-  {
     "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
     "id": "ChelseaKR/sprout",
     "language": "Python",
     "name": "ChelseaKR/sprout",
     "stars": 1,
-    "updated_at": "2026-09-06T21:06:43Z",
+    "updated_at": "2026-09-06T21:29:03Z",
     "url": "https://github.com/ChelseaKR/sprout"
+  },
+  {
+    "description": "Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu",
+    "id": "ChelseaKR/fare-policy-assistant",
+    "language": "HTML",
+    "name": "ChelseaKR/fare-policy-assistant",
+    "stars": 1,
+    "updated_at": "2026-09-06T21:17:43Z",
+    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
     "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
@@ -43,6 +43,15 @@
     "stars": 24865,
     "updated_at": "2026-09-06T20:27:03Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11346,
+    "updated_at": "2026-09-06T20:20:47Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
@@ -133,15 +142,6 @@
     "stars": 3,
     "updated_at": "2026-09-06T00:33:42Z",
     "url": "https://github.com/lordbasilaiassistant-sudo/company-bench"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11345,
-    "updated_at": "2026-09-06T20:20:47Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Five local QA judges that review B2B and B2C customer-support replies, catch the risky parts, and explain what to fix. ",
