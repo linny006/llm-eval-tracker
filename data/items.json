@@ -1,12 +1,12 @@
 [
   {
-    "description": "Measure quantization quality loss on Apple Silicon MLX \u2014 KL divergence, top-token flip rate and perplexity delta for KV-",
-    "id": "IonDen/mlx-quant-fidelity",
+    "description": "pip install gauntlet-evals \u00b7 v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against",
+    "id": "ChelseaKR/gauntlet",
     "language": "Python",
-    "name": "IonDen/mlx-quant-fidelity",
-    "stars": 4,
-    "updated_at": "2026-09-06T16:42:19Z",
-    "url": "https://github.com/IonDen/mlx-quant-fidelity"
+    "name": "ChelseaKR/gauntlet",
+    "stars": 1,
+    "updated_at": "2026-09-06T16:59:56Z",
+    "url": "https://github.com/ChelseaKR/gauntlet"
   },
   {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
@@ -14,8 +14,26 @@
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-09-06T16:17:19Z",
+    "updated_at": "2026-09-06T16:52:57Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
+    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
+    "id": "ChelseaKR/sprout",
+    "language": "Python",
+    "name": "ChelseaKR/sprout",
+    "stars": 1,
+    "updated_at": "2026-09-06T16:52:05Z",
+    "url": "https://github.com/ChelseaKR/sprout"
+  },
+  {
+    "description": "Measure quantization quality loss on Apple Silicon MLX \u2014 KL divergence, top-token flip rate and perplexity delta for KV-",
+    "id": "IonDen/mlx-quant-fidelity",
+    "language": "Python",
+    "name": "IonDen/mlx-quant-fidelity",
+    "stars": 4,
+    "updated_at": "2026-09-06T16:42:19Z",
+    "url": "https://github.com/IonDen/mlx-quant-fidelity"
   },
   {
     "description": "Verifier-gated support resolution engine \u2014 answers from your own docs with page citations, escalates what it can't verif",
@@ -52,24 +70,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T14:18:16Z",
     "url": "https://github.com/ChelseaKR/plumbline"
-  },
-  {
-    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
-    "id": "ChelseaKR/sprout",
-    "language": "Python",
-    "name": "ChelseaKR/sprout",
-    "stars": 1,
-    "updated_at": "2026-09-06T14:16:39Z",
-    "url": "https://github.com/ChelseaKR/sprout"
-  },
-  {
-    "description": "pip install gauntlet-evals \u00b7 v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against",
-    "id": "ChelseaKR/gauntlet",
-    "language": "Python",
-    "name": "ChelseaKR/gauntlet",
-    "stars": 1,
-    "updated_at": "2026-09-06T12:40:12Z",
-    "url": "https://github.com/ChelseaKR/gauntlet"
   },
   {
     "description": "Production reference architecture for Conversational Financial QA (ConvFinQA), AST-sandboxed execution, and AI Forward-D",
