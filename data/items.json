@@ -1,5 +1,14 @@
 [
   {
+    "description": "Verifier-gated support resolution engine \u2014 answers from your own docs with page citations, escalates what it can't verif",
+    "id": "ihsanfarabi/cs-agent",
+    "language": "C#",
+    "name": "ihsanfarabi/cs-agent",
+    "stars": 0,
+    "updated_at": "2026-09-06T01:15:11Z",
+    "url": "https://github.com/ihsanfarabi/cs-agent"
+  },
+  {
     "description": "\u6ca1\u8dd1\u8fc7 = \u4e0d\u51fa\u5382\u3002no eval, no ship.",
     "id": "SmartStudio/baize-prompts",
     "language": "\u2014",
@@ -176,7 +185,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 345,
-    "updated_at": "2026-09-04T13:41:25Z",
+    "updated_at": "2026-09-06T01:03:20Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 29,
     "updated_at": "2026-08-25T07:49:52Z",
     "url": "https://github.com/sunxin-ai/dsh-design-qa"
-  },
-  {
-    "description": "Tool-calling eval harness + pre-execution safety gate for voice agents: scores whether the right tool was called with th",
-    "id": "rithvik-bk/voiceos-eval",
-    "language": "JavaScript",
-    "name": "rithvik-bk/voiceos-eval",
-    "stars": 0,
-    "updated_at": "2026-08-25T03:26:22Z",
-    "url": "https://github.com/rithvik-bk/voiceos-eval"
   }
 ]
