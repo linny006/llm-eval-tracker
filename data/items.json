@@ -1,5 +1,14 @@
 [
   {
+    "description": "Verifier-gated support resolution engine \u2014 answers from your own docs with page citations, escalates what it can't verif",
+    "id": "ihsanfarabi/cs-agent",
+    "language": "C#",
+    "name": "ihsanfarabi/cs-agent",
+    "stars": 0,
+    "updated_at": "2026-09-06T05:13:02Z",
+    "url": "https://github.com/ihsanfarabi/cs-agent"
+  },
+  {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
     "id": "ahmedmoha9088/PhoenixFish",
     "language": "Java",
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T03:52:20Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
-    "description": "Verifier-gated support resolution engine \u2014 answers from your own docs with page citations, escalates what it can't verif",
-    "id": "ihsanfarabi/cs-agent",
-    "language": "C#",
-    "name": "ihsanfarabi/cs-agent",
-    "stars": 0,
-    "updated_at": "2026-09-06T02:31:03Z",
-    "url": "https://github.com/ihsanfarabi/cs-agent"
   },
   {
     "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
