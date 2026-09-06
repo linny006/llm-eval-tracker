@@ -27,6 +27,15 @@
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24859,
+    "updated_at": "2026-09-06T13:56:15Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
     "id": "ChelseaKR/sprout",
     "language": "Python",
@@ -72,21 +81,12 @@
     "url": "https://github.com/IonDen/mlx-quant-fidelity"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24858,
-    "updated_at": "2026-09-06T13:56:15Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Verifier-gated support resolution engine \u2014 answers from your own docs with page citations, escalates what it can't verif",
     "id": "ihsanfarabi/cs-agent",
     "language": "C#",
     "name": "ihsanfarabi/cs-agent",
     "stars": 0,
-    "updated_at": "2026-09-06T14:22:02Z",
+    "updated_at": "2026-09-06T15:10:20Z",
     "url": "https://github.com/ihsanfarabi/cs-agent"
   },
   {
