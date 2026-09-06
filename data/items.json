@@ -1,5 +1,23 @@
 [
   {
+    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
+    "id": "HaileyStorm/Creative-Writing-Rubrics",
+    "language": "Python",
+    "name": "HaileyStorm/Creative-Writing-Rubrics",
+    "stars": 0,
+    "updated_at": "2026-09-06T11:00:01Z",
+    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
+    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
+    "id": "Kondwani10/Origin-Continuum",
+    "language": "\u2014",
+    "name": "Kondwani10/Origin-Continuum",
+    "stars": 0,
+    "updated_at": "2026-09-06T10:47:26Z",
+    "url": "https://github.com/Kondwani10/Origin-Continuum"
+  },
+  {
     "description": "Measure quantization quality loss on Apple Silicon MLX \u2014 KL divergence, top-token flip rate and perplexity delta for KV-",
     "id": "IonDen/mlx-quant-fidelity",
     "language": "Python",
@@ -7,15 +25,6 @@
     "stars": 4,
     "updated_at": "2026-09-06T10:13:40Z",
     "url": "https://github.com/IonDen/mlx-quant-fidelity"
-  },
-  {
-    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
-    "id": "HaileyStorm/Creative-Writing-Rubrics",
-    "language": "Python",
-    "name": "HaileyStorm/Creative-Writing-Rubrics",
-    "stars": 0,
-    "updated_at": "2026-09-06T09:23:07Z",
-    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -205,15 +214,6 @@
     "stars": 3536,
     "updated_at": "2026-09-04T02:43:14Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
-    "id": "Kondwani10/Origin-Continuum",
-    "language": "\u2014",
-    "name": "Kondwani10/Origin-Continuum",
-    "stars": 0,
-    "updated_at": "2026-09-04T01:21:14Z",
-    "url": "https://github.com/Kondwani10/Origin-Continuum"
   },
   {
     "description": "Benchmark: do LLMs silently trust plausible-but-wrong tool data?",
