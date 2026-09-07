@@ -1,11 +1,20 @@
 [
   {
+    "description": "Verifier-gated support resolution engine \u2014 answers from your own docs with page citations, escalates what it can't verif",
+    "id": "ihsanfarabi/cs-agent",
+    "language": "C#",
+    "name": "ihsanfarabi/cs-agent",
+    "stars": 0,
+    "updated_at": "2026-09-07T11:52:59Z",
+    "url": "https://github.com/ihsanfarabi/cs-agent"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24891,
-    "updated_at": "2026-09-07T11:36:09Z",
+    "updated_at": "2026-09-07T11:53:56Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -16,15 +25,6 @@
     "stars": 1,
     "updated_at": "2026-09-07T09:02:29Z",
     "url": "https://github.com/ChelseaKR/sprout"
-  },
-  {
-    "description": "Verifier-gated support resolution engine \u2014 answers from your own docs with page citations, escalates what it can't verif",
-    "id": "ihsanfarabi/cs-agent",
-    "language": "C#",
-    "name": "ihsanfarabi/cs-agent",
-    "stars": 0,
-    "updated_at": "2026-09-07T09:00:53Z",
-    "url": "https://github.com/ihsanfarabi/cs-agent"
   },
   {
     "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
@@ -103,7 +103,7 @@
     "id": "sunxin-ai/dsh-design-qa",
     "language": "JavaScript",
     "name": "sunxin-ai/dsh-design-qa",
-    "stars": 39,
+    "stars": 40,
     "updated_at": "2026-09-07T05:34:13Z",
     "url": "https://github.com/sunxin-ai/dsh-design-qa"
   },
