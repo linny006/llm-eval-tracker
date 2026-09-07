@@ -1,5 +1,23 @@
 [
   {
+    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
+    "id": "ChelseaKR/sprout",
+    "language": "Python",
+    "name": "ChelseaKR/sprout",
+    "stars": 1,
+    "updated_at": "2026-09-07T18:03:14Z",
+    "url": "https://github.com/ChelseaKR/sprout"
+  },
+  {
+    "description": "Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring Sec",
+    "id": "fabio-barboza/logistic-platform",
+    "language": "Java",
+    "name": "fabio-barboza/logistic-platform",
+    "stars": 0,
+    "updated_at": "2026-09-07T18:02:09Z",
+    "url": "https://github.com/fabio-barboza/logistic-platform"
+  },
+  {
     "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
     "id": "ChelseaKR/plumbline",
     "language": "Python",
@@ -14,17 +32,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24901,
-    "updated_at": "2026-09-07T17:54:54Z",
+    "updated_at": "2026-09-07T18:09:44Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
-    "id": "ChelseaKR/sprout",
-    "language": "Python",
-    "name": "ChelseaKR/sprout",
-    "stars": 1,
-    "updated_at": "2026-09-07T17:32:46Z",
-    "url": "https://github.com/ChelseaKR/sprout"
   },
   {
     "description": "pip install gauntlet-evals \u00b7 v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against",
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "ChelseaKR/gauntlet",
     "stars": 1,
-    "updated_at": "2026-09-07T16:14:18Z",
+    "updated_at": "2026-09-07T18:15:04Z",
     "url": "https://github.com/ChelseaKR/gauntlet"
   },
   {
@@ -85,7 +94,7 @@
     "id": "zahid23saim/llm-eval-harness",
     "language": "Python",
     "name": "zahid23saim/llm-eval-harness",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-09-07T15:03:03Z",
     "url": "https://github.com/zahid23saim/llm-eval-harness"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T00:39:44Z",
     "url": "https://github.com/jafeeri/llm-eval-bench"
-  },
-  {
-    "description": "Does done mean done? Coding-agent honesty demo: verified pass vs false completion vs scope violation. Public demo split ",
-    "id": "camerontjs-dot/verified-done",
-    "language": "Python",
-    "name": "camerontjs-dot/verified-done",
-    "stars": 0,
-    "updated_at": "2026-08-28T12:39:28Z",
-    "url": "https://github.com/camerontjs-dot/verified-done"
   }
 ]
