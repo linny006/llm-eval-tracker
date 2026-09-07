@@ -1,5 +1,23 @@
 [
   {
+    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
+    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "language": "\u2014",
+    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "stars": 0,
+    "updated_at": "2026-09-07T23:03:32Z",
+    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
+  },
+  {
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-09-07T23:03:02Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -14,7 +32,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24905,
-    "updated_at": "2026-09-07T22:56:53Z",
+    "updated_at": "2026-09-07T23:12:16Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -32,7 +50,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11363,
-    "updated_at": "2026-09-07T21:12:52Z",
+    "updated_at": "2026-09-07T23:14:39Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -88,24 +106,6 @@
     "stars": 1,
     "updated_at": "2026-09-07T21:29:54Z",
     "url": "https://github.com/ChelseaKR/plumbline"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
-    "id": "bhavya7995/AI_governance",
-    "language": "PowerShell",
-    "name": "bhavya7995/AI_governance",
-    "stars": 1,
-    "updated_at": "2026-09-07T16:08:05Z",
-    "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-09-07T16:07:58Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
   },
   {
     "description": "Verifier-gated support resolution engine \u2014 answers from your own docs with page citations, escalates what it can't verif",
