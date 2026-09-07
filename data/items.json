@@ -1,5 +1,14 @@
 [
   {
+    "description": "A tiny, dependency-free Python harness for scoring LLM answers against a gold set (exact / contains / numeric matching, ",
+    "id": "zahid23saim/llm-eval-harness",
+    "language": "Python",
+    "name": "zahid23saim/llm-eval-harness",
+    "stars": 1,
+    "updated_at": "2026-09-07T18:40:50Z",
+    "url": "https://github.com/zahid23saim/llm-eval-harness"
+  },
+  {
     "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
     "id": "ChelseaKR/sprout",
     "language": "Python",
@@ -18,6 +27,15 @@
     "url": "https://github.com/fabio-barboza/logistic-platform"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11362,
+    "updated_at": "2026-09-07T17:33:38Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
     "id": "ChelseaKR/plumbline",
     "language": "Python",
@@ -32,7 +50,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24901,
-    "updated_at": "2026-09-07T18:25:56Z",
+    "updated_at": "2026-09-07T18:44:30Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -79,24 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T15:57:23Z",
     "url": "https://github.com/ihsanfarabi/cs-agent"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11361,
-    "updated_at": "2026-09-07T17:33:38Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "A tiny, dependency-free Python harness for scoring LLM answers against a gold set (exact / contains / numeric matching, ",
-    "id": "zahid23saim/llm-eval-harness",
-    "language": "Python",
-    "name": "zahid23saim/llm-eval-harness",
-    "stars": 1,
-    "updated_at": "2026-09-07T15:03:03Z",
-    "url": "https://github.com/zahid23saim/llm-eval-harness"
   },
   {
     "description": "\u6ca1\u8dd1\u8fc7 = \u4e0d\u51fa\u5382\u3002no eval, no ship.",
