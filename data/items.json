@@ -9,6 +9,15 @@
     "url": "https://github.com/Kondwani10/Origin-Continuum"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24868,
+    "updated_at": "2026-09-07T01:58:23Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Field guide to building production-grade evaluation infrastructure for LLM agent systems. Based on real production work ",
     "id": "sailikhithk/eval-infra-for-agents",
     "language": "Jupyter Notebook",
@@ -61,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T23:00:49Z",
     "url": "https://github.com/ChelseaKR/plumbline"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24866,
-    "updated_at": "2026-09-07T00:59:00Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -320,7 +320,7 @@
     "language": "TypeScript",
     "name": "jeremylongshore/j-rig-skill-binary-eval",
     "stars": 2,
-    "updated_at": "2026-09-07T01:42:56Z",
+    "updated_at": "2026-09-07T02:00:06Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
