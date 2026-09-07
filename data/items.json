@@ -5,8 +5,35 @@
     "language": "HTML",
     "name": "ChelseaKR/fare-policy-assistant",
     "stars": 1,
-    "updated_at": "2026-09-07T06:00:22Z",
+    "updated_at": "2026-09-07T06:14:11Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
+  },
+  {
+    "description": "pip install gauntlet-evals \u00b7 v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against",
+    "id": "ChelseaKR/gauntlet",
+    "language": "Python",
+    "name": "ChelseaKR/gauntlet",
+    "stars": 1,
+    "updated_at": "2026-09-07T06:13:52Z",
+    "url": "https://github.com/ChelseaKR/gauntlet"
+  },
+  {
+    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
+    "id": "HaileyStorm/Creative-Writing-Rubrics",
+    "language": "Python",
+    "name": "HaileyStorm/Creative-Writing-Rubrics",
+    "stars": 0,
+    "updated_at": "2026-09-07T06:10:33Z",
+    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
+    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
+    "id": "ChelseaKR/sprout",
+    "language": "Python",
+    "name": "ChelseaKR/sprout",
+    "stars": 1,
+    "updated_at": "2026-09-07T06:02:41Z",
+    "url": "https://github.com/ChelseaKR/sprout"
   },
   {
     "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
@@ -18,15 +45,6 @@
     "url": "https://github.com/ChelseaKR/plumbline"
   },
   {
-    "description": "pip install gauntlet-evals \u00b7 v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against",
-    "id": "ChelseaKR/gauntlet",
-    "language": "Python",
-    "name": "ChelseaKR/gauntlet",
-    "stars": 1,
-    "updated_at": "2026-09-07T05:42:44Z",
-    "url": "https://github.com/ChelseaKR/gauntlet"
-  },
-  {
     "description": "Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches ",
     "id": "sunxin-ai/dsh-design-qa",
     "language": "JavaScript",
@@ -34,15 +52,6 @@
     "stars": 38,
     "updated_at": "2026-09-07T05:34:13Z",
     "url": "https://github.com/sunxin-ai/dsh-design-qa"
-  },
-  {
-    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
-    "id": "HaileyStorm/Creative-Writing-Rubrics",
-    "language": "Python",
-    "name": "HaileyStorm/Creative-Writing-Rubrics",
-    "stars": 0,
-    "updated_at": "2026-09-07T04:32:48Z",
-    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -97,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T00:55:35Z",
     "url": "https://github.com/sailikhithk/eval-infra-for-agents"
-  },
-  {
-    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
-    "id": "ChelseaKR/sprout",
-    "language": "Python",
-    "name": "ChelseaKR/sprout",
-    "stars": 1,
-    "updated_at": "2026-09-07T05:52:31Z",
-    "url": "https://github.com/ChelseaKR/sprout"
   },
   {
     "description": "Measure quantization quality loss on Apple Silicon MLX \u2014 KL divergence, top-token flip rate and perplexity delta for KV-",
