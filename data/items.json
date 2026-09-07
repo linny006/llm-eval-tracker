@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
+    "id": "Kondwani10/Origin-Continuum",
+    "language": "\u2014",
+    "name": "Kondwani10/Origin-Continuum",
+    "stars": 0,
+    "updated_at": "2026-09-07T01:28:31Z",
+    "url": "https://github.com/Kondwani10/Origin-Continuum"
+  },
+  {
     "description": "Field guide to building production-grade evaluation infrastructure for LLM agent systems. Based on real production work ",
     "id": "sailikhithk/eval-infra-for-agents",
     "language": "Jupyter Notebook",
@@ -70,15 +79,6 @@
     "stars": 11346,
     "updated_at": "2026-09-06T20:20:47Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
-    "id": "Kondwani10/Origin-Continuum",
-    "language": "\u2014",
-    "name": "Kondwani10/Origin-Continuum",
-    "stars": 0,
-    "updated_at": "2026-09-06T18:36:05Z",
-    "url": "https://github.com/Kondwani10/Origin-Continuum"
   },
   {
     "description": "Measure quantization quality loss on Apple Silicon MLX \u2014 KL divergence, top-token flip rate and perplexity delta for KV-",
@@ -221,7 +221,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 345,
-    "updated_at": "2026-09-07T01:15:05Z",
+    "updated_at": "2026-09-07T01:17:36Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
