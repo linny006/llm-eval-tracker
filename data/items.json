@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-09-07T02:24:27Z",
+    "updated_at": "2026-09-07T02:46:06Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
@@ -23,8 +23,17 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24869,
-    "updated_at": "2026-09-07T01:58:23Z",
+    "updated_at": "2026-09-07T02:51:52Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5805,
+    "updated_at": "2026-09-07T01:38:34Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -85,7 +94,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11346,
+    "stars": 11347,
     "updated_at": "2026-09-06T20:20:47Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -196,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T06:09:18Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5804,
-    "updated_at": "2026-09-07T01:38:34Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
