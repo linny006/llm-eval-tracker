@@ -1,5 +1,14 @@
 [
   {
+    "description": "Field guide to building production-grade evaluation infrastructure for LLM agent systems. Based on real production work ",
+    "id": "sailikhithk/eval-infra-for-agents",
+    "language": "Jupyter Notebook",
+    "name": "sailikhithk/eval-infra-for-agents",
+    "stars": 0,
+    "updated_at": "2026-09-07T00:44:19Z",
+    "url": "https://github.com/sailikhithk/eval-infra-for-agents"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-25T15:45:04Z",
     "url": "https://github.com/RudrenduPaul/memtrust"
-  },
-  {
-    "description": "Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches ",
-    "id": "sunxin-ai/dsh-design-qa",
-    "language": "JavaScript",
-    "name": "sunxin-ai/dsh-design-qa",
-    "stars": 36,
-    "updated_at": "2026-08-25T07:49:52Z",
-    "url": "https://github.com/sunxin-ai/dsh-design-qa"
   }
 ]
