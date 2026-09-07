@@ -1,5 +1,50 @@
 [
   {
+    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
+    "id": "HaileyStorm/Creative-Writing-Rubrics",
+    "language": "Python",
+    "name": "HaileyStorm/Creative-Writing-Rubrics",
+    "stars": 0,
+    "updated_at": "2026-09-07T20:56:16Z",
+    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
+    "description": "Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu",
+    "id": "ChelseaKR/fare-policy-assistant",
+    "language": "HTML",
+    "name": "ChelseaKR/fare-policy-assistant",
+    "stars": 1,
+    "updated_at": "2026-09-07T20:57:15Z",
+    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24903,
+    "updated_at": "2026-09-07T20:57:14Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
+    "id": "ChelseaKR/sprout",
+    "language": "Python",
+    "name": "ChelseaKR/sprout",
+    "stars": 1,
+    "updated_at": "2026-09-07T20:50:33Z",
+    "url": "https://github.com/ChelseaKR/sprout"
+  },
+  {
+    "description": "pip install gauntlet-evals \u00b7 v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against",
+    "id": "ChelseaKR/gauntlet",
+    "language": "Python",
+    "name": "ChelseaKR/gauntlet",
+    "stars": 1,
+    "updated_at": "2026-09-07T20:47:54Z",
+    "url": "https://github.com/ChelseaKR/gauntlet"
+  },
+  {
     "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
     "id": "decimal-labs/decimalai-python",
     "language": "Python",
@@ -9,24 +54,6 @@
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
-    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
-    "id": "HaileyStorm/Creative-Writing-Rubrics",
-    "language": "Python",
-    "name": "HaileyStorm/Creative-Writing-Rubrics",
-    "stars": 0,
-    "updated_at": "2026-09-07T20:18:26Z",
-    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24902,
-    "updated_at": "2026-09-07T20:42:09Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "A tiny, dependency-free Python harness for scoring LLM answers against a gold set (exact / contains / numeric matching, ",
     "id": "zahid23saim/llm-eval-harness",
     "language": "Python",
@@ -34,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-09-07T18:40:50Z",
     "url": "https://github.com/zahid23saim/llm-eval-harness"
-  },
-  {
-    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
-    "id": "ChelseaKR/sprout",
-    "language": "Python",
-    "name": "ChelseaKR/sprout",
-    "stars": 1,
-    "updated_at": "2026-09-07T18:17:34Z",
-    "url": "https://github.com/ChelseaKR/sprout"
   },
   {
     "description": "Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring Sec",
@@ -70,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-09-07T17:28:20Z",
     "url": "https://github.com/ChelseaKR/plumbline"
-  },
-  {
-    "description": "pip install gauntlet-evals \u00b7 v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against",
-    "id": "ChelseaKR/gauntlet",
-    "language": "Python",
-    "name": "ChelseaKR/gauntlet",
-    "stars": 1,
-    "updated_at": "2026-09-07T18:15:04Z",
-    "url": "https://github.com/ChelseaKR/gauntlet"
   },
   {
     "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
@@ -124,15 +133,6 @@
     "stars": 5804,
     "updated_at": "2026-09-07T08:35:43Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu",
-    "id": "ChelseaKR/fare-policy-assistant",
-    "language": "HTML",
-    "name": "ChelseaKR/fare-policy-assistant",
-    "stars": 1,
-    "updated_at": "2026-09-07T20:43:05Z",
-    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
     "description": "Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches ",
@@ -257,7 +257,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 345,
-    "updated_at": "2026-09-07T01:17:36Z",
+    "updated_at": "2026-09-07T20:55:21Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
