@@ -1,5 +1,14 @@
 [
   {
+    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
+    "id": "HaileyStorm/Creative-Writing-Rubrics",
+    "language": "Python",
+    "name": "HaileyStorm/Creative-Writing-Rubrics",
+    "stars": 0,
+    "updated_at": "2026-09-07T18:58:39Z",
+    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
     "description": "A tiny, dependency-free Python harness for scoring LLM answers against a gold set (exact / contains / numeric matching, ",
     "id": "zahid23saim/llm-eval-harness",
     "language": "Python",
@@ -50,7 +59,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24901,
-    "updated_at": "2026-09-07T18:44:30Z",
+    "updated_at": "2026-09-07T18:55:51Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -61,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-09-07T18:15:04Z",
     "url": "https://github.com/ChelseaKR/gauntlet"
-  },
-  {
-    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
-    "id": "HaileyStorm/Creative-Writing-Rubrics",
-    "language": "Python",
-    "name": "HaileyStorm/Creative-Writing-Rubrics",
-    "stars": 0,
-    "updated_at": "2026-09-07T16:09:34Z",
-    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
     "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
