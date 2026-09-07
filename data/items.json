@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11347,
+    "updated_at": "2026-09-07T03:11:41Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -88,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T23:00:49Z",
     "url": "https://github.com/ChelseaKR/plumbline"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11347,
-    "updated_at": "2026-09-06T20:20:47Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Measure quantization quality loss on Apple Silicon MLX \u2014 KL divergence, top-token flip rate and perplexity delta for KV-",
