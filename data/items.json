@@ -1,11 +1,29 @@
 [
   {
+    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
+    "id": "ChelseaKR/sprout",
+    "language": "Python",
+    "name": "ChelseaKR/sprout",
+    "stars": 1,
+    "updated_at": "2026-09-07T17:08:46Z",
+    "url": "https://github.com/ChelseaKR/sprout"
+  },
+  {
+    "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
+    "id": "ChelseaKR/plumbline",
+    "language": "Python",
+    "name": "ChelseaKR/plumbline",
+    "stars": 1,
+    "updated_at": "2026-09-07T17:02:43Z",
+    "url": "https://github.com/ChelseaKR/plumbline"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24898,
-    "updated_at": "2026-09-07T16:57:40Z",
+    "stars": 24899,
+    "updated_at": "2026-09-07T17:09:19Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -25,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T16:09:34Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
-    "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
-    "id": "ChelseaKR/plumbline",
-    "language": "Python",
-    "name": "ChelseaKR/plumbline",
-    "stars": 1,
-    "updated_at": "2026-09-07T16:58:45Z",
-    "url": "https://github.com/ChelseaKR/plumbline"
   },
   {
     "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
@@ -61,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T15:57:23Z",
     "url": "https://github.com/ihsanfarabi/cs-agent"
-  },
-  {
-    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
-    "id": "ChelseaKR/sprout",
-    "language": "Python",
-    "name": "ChelseaKR/sprout",
-    "stars": 1,
-    "updated_at": "2026-09-07T16:29:15Z",
-    "url": "https://github.com/ChelseaKR/sprout"
   },
   {
     "description": "AI Observability & Evaluation",
