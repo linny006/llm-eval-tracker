@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-09-07T19:36:18Z",
+    "updated_at": "2026-09-07T20:06:14Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24902,
+    "updated_at": "2026-09-07T20:09:19Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "A tiny, dependency-free Python harness for scoring LLM answers against a gold set (exact / contains / numeric matching, ",
@@ -52,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-09-07T17:28:20Z",
     "url": "https://github.com/ChelseaKR/plumbline"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24901,
-    "updated_at": "2026-09-07T20:00:22Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "pip install gauntlet-evals \u00b7 v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against",
