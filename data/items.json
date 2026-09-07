@@ -1,5 +1,23 @@
 [
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5805,
+    "updated_at": "2026-09-07T08:35:43Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24881,
+    "updated_at": "2026-09-07T08:44:56Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -16,15 +34,6 @@
     "stars": 1,
     "updated_at": "2026-09-07T08:18:32Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24881,
-    "updated_at": "2026-09-07T08:25:17Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Verifier-gated support resolution engine \u2014 answers from your own docs with page citations, escalates what it can't verif",
@@ -70,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-09-07T07:05:26Z",
     "url": "https://github.com/ChelseaKR/sprout"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5805,
-    "updated_at": "2026-09-07T06:52:30Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "pip install gauntlet-evals \u00b7 v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against",
