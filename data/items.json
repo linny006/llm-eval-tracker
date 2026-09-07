@@ -1,5 +1,32 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24881,
+    "updated_at": "2026-09-07T09:09:31Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
+    "id": "ChelseaKR/sprout",
+    "language": "Python",
+    "name": "ChelseaKR/sprout",
+    "stars": 1,
+    "updated_at": "2026-09-07T09:02:29Z",
+    "url": "https://github.com/ChelseaKR/sprout"
+  },
+  {
+    "description": "Verifier-gated support resolution engine \u2014 answers from your own docs with page citations, escalates what it can't verif",
+    "id": "ihsanfarabi/cs-agent",
+    "language": "C#",
+    "name": "ihsanfarabi/cs-agent",
+    "stars": 0,
+    "updated_at": "2026-09-07T09:00:53Z",
+    "url": "https://github.com/ihsanfarabi/cs-agent"
+  },
+  {
     "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
     "id": "ChelseaKR/plumbline",
     "language": "Python",
@@ -7,15 +34,6 @@
     "stars": 1,
     "updated_at": "2026-09-07T08:57:41Z",
     "url": "https://github.com/ChelseaKR/plumbline"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24881,
-    "updated_at": "2026-09-07T09:00:09Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -45,15 +63,6 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
-    "description": "Verifier-gated support resolution engine \u2014 answers from your own docs with page citations, escalates what it can't verif",
-    "id": "ihsanfarabi/cs-agent",
-    "language": "C#",
-    "name": "ihsanfarabi/cs-agent",
-    "stars": 0,
-    "updated_at": "2026-09-07T08:05:56Z",
-    "url": "https://github.com/ihsanfarabi/cs-agent"
-  },
-  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -79,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-09-07T07:06:20Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
-  },
-  {
-    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
-    "id": "ChelseaKR/sprout",
-    "language": "Python",
-    "name": "ChelseaKR/sprout",
-    "stars": 1,
-    "updated_at": "2026-09-07T08:59:36Z",
-    "url": "https://github.com/ChelseaKR/sprout"
   },
   {
     "description": "pip install gauntlet-evals \u00b7 v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against",
