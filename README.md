@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-07 01:30 UTC
+> ⏰ Last updated: 2026-09-07 01:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -63,7 +63,7 @@ expired items removed — so you can rely on what you see being current.
 | 19 | [bingfeng288/llm-eval-demo](https://github.com/bingfeng288/llm-eval-demo) | 0 | Python | 2026-09-05 | 开箱即用的 LLM 评测小框架：答案质量 / 幻觉检测 / 拒答合理性 / 自一致性，零依赖零 Key，一条命令出中文 HTML 报告 |
 | 20 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-09-05 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
 | 21 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-09-05 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
-| 22 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5804 | Python | 2026-09-04 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 22 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5804 | Python | 2026-09-07 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 23 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-04 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
 | 24 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-09-04 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
 | 25 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 345 | TypeScript | 2026-09-07 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
@@ -77,7 +77,7 @@ expired items removed — so you can rely on what you see being current.
 | 33 | [sammyjdev/gnomon-eval](https://github.com/sammyjdev/gnomon-eval) | 0 | Python | 2026-09-02 | Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first. |
 | 34 | [ishandutta2007/Awesome-Prompt-Management](https://github.com/ishandutta2007/Awesome-Prompt-Management) | 2 | — | 2026-09-01 | Top Prompt Management (Opensource) 🌟 Star if you like it! 🌟 |
 | 35 | [lokesh75-kank/agenteval](https://github.com/lokesh75-kank/agenteval) | 0 | TypeScript | 2026-09-01 | Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou |
-| 36 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 2 | TypeScript | 2026-09-05 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
+| 36 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 2 | TypeScript | 2026-09-07 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 37 | [Steel-predictor-project/steel-llm-eval](https://github.com/Steel-predictor-project/steel-llm-eval) | 0 | JavaScript | 2026-08-31 | Open benchmark: how well can LLMs predict knife-steel properties (edge retention, toughness) from chemical composition,  |
 | 38 | [homayoun-safarpour/homayoun-safarpour](https://github.com/homayoun-safarpour/homayoun-safarpour) | 0 | — | 2026-08-31 | judge-drift-sentinel · judge-reliability-kit · agent-loop-engine · trace-gate · ai-eng-skill-range |
 | 39 | [pdxlab/trustmodel-mcp-server](https://github.com/pdxlab/trustmodel-mcp-server) | 0 | TypeScript | 2026-09-03 | TrustModel MCP Server — trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t |
