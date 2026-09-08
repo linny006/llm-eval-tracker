@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11366,
+    "updated_at": "2026-09-08T02:21:33Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu",
     "id": "ChelseaKR/fare-policy-assistant",
     "language": "HTML",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24912,
-    "updated_at": "2026-09-08T02:29:38Z",
+    "updated_at": "2026-09-08T02:44:24Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -52,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T01:30:18Z",
     "url": "https://github.com/ihsanfarabi/cs-agent"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11365,
-    "updated_at": "2026-09-08T02:21:33Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
