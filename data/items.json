@@ -1,11 +1,20 @@
 [
   {
+    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
+    "id": "ChelseaKR/sprout",
+    "language": "Python",
+    "name": "ChelseaKR/sprout",
+    "stars": 1,
+    "updated_at": "2026-09-08T10:33:16Z",
+    "url": "https://github.com/ChelseaKR/sprout"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24925,
-    "updated_at": "2026-09-08T10:25:51Z",
+    "updated_at": "2026-09-08T10:33:56Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -115,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-09-08T02:13:40Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
-  },
-  {
-    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
-    "id": "ChelseaKR/sprout",
-    "language": "Python",
-    "name": "ChelseaKR/sprout",
-    "stars": 1,
-    "updated_at": "2026-09-08T04:02:00Z",
-    "url": "https://github.com/ChelseaKR/sprout"
   },
   {
     "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
