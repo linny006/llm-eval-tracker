@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24924,
+    "updated_at": "2026-09-08T09:24:01Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Score LLM outputs and block quality regressions in CI. Deterministic checks first, a calibrated LLM judge where needed. ",
     "id": "jafeeri/llm-eval-bench",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T09:01:59Z",
     "url": "https://github.com/jafeeri/llm-eval-bench"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24922,
-    "updated_at": "2026-09-08T09:10:50Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
