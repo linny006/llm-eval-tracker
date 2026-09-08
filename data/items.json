@@ -1,5 +1,14 @@
 [
   {
+    "description": "Verifier-gated support resolution engine \u2014 answers from your own docs with page citations, escalates what it can't verif",
+    "id": "ihsanfarabi/cs-agent",
+    "language": "C#",
+    "name": "ihsanfarabi/cs-agent",
+    "stars": 0,
+    "updated_at": "2026-09-08T13:46:03Z",
+    "url": "https://github.com/ihsanfarabi/cs-agent"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -52,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-09-08T11:01:48Z",
     "url": "https://github.com/ChelseaKR/sprout"
-  },
-  {
-    "description": "Verifier-gated support resolution engine \u2014 answers from your own docs with page citations, escalates what it can't verif",
-    "id": "ihsanfarabi/cs-agent",
-    "language": "C#",
-    "name": "ihsanfarabi/cs-agent",
-    "stars": 0,
-    "updated_at": "2026-09-08T13:43:14Z",
-    "url": "https://github.com/ihsanfarabi/cs-agent"
   },
   {
     "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",

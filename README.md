@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-08 13:45 UTC
+> ⏰ Last updated: 2026-09-08 13:46 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24930 | TypeScript | 2026-09-08 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 2 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-09-08 | Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu |
-| 3 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-09-08 | v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic |
-| 4 | [zahid23saim/llm-eval-harness](https://github.com/zahid23saim/llm-eval-harness) | 1 | Python | 2026-09-08 | A tiny, dependency-free Python harness for scoring LLM answers against a gold set (exact / contains / numeric matching,  |
-| 5 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-09-08 | pip install gauntlet-evals · v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against |
-| 6 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-09-08 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
-| 7 | [ihsanfarabi/cs-agent](https://github.com/ihsanfarabi/cs-agent) | 0 | C# | 2026-09-08 | Verifier-gated support resolution engine — answers from your own docs with page citations, escalates what it can't verif |
+| 1 | [ihsanfarabi/cs-agent](https://github.com/ihsanfarabi/cs-agent) | 0 | C# | 2026-09-08 | Verifier-gated support resolution engine — answers from your own docs with page citations, escalates what it can't verif |
+| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24930 | TypeScript | 2026-09-08 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 3 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-09-08 | Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu |
+| 4 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-09-08 | v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic |
+| 5 | [zahid23saim/llm-eval-harness](https://github.com/zahid23saim/llm-eval-harness) | 1 | Python | 2026-09-08 | A tiny, dependency-free Python harness for scoring LLM answers against a gold set (exact / contains / numeric matching,  |
+| 6 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-09-08 | pip install gauntlet-evals · v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against |
+| 7 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-09-08 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
 | 8 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-08 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
 | 9 | [jafeeri/llm-eval-bench](https://github.com/jafeeri/llm-eval-bench) | 0 | Python | 2026-09-08 | Score LLM outputs and block quality regressions in CI. Deterministic checks first, a calibrated LLM judge where needed.  |
 | 10 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 346 | TypeScript | 2026-09-08 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
