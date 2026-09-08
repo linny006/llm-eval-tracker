@@ -1,11 +1,20 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24934,
+    "updated_at": "2026-09-08T20:43:00Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11380,
-    "updated_at": "2026-09-08T20:27:19Z",
+    "updated_at": "2026-09-08T20:44:49Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -14,17 +23,8 @@
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-09-08T20:16:34Z",
+    "updated_at": "2026-09-08T20:30:21Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24933,
-    "updated_at": "2026-09-08T20:28:18Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "L10 self-evolving LLM evaluation harness that learns from failures \u2014 faithfulness, relevance, toxicity, format metrics w",
