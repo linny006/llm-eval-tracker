@@ -1,11 +1,38 @@
 [
   {
+    "description": "Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu",
+    "id": "ChelseaKR/fare-policy-assistant",
+    "language": "HTML",
+    "name": "ChelseaKR/fare-policy-assistant",
+    "stars": 1,
+    "updated_at": "2026-09-08T11:28:57Z",
+    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
+  },
+  {
+    "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
+    "id": "ChelseaKR/plumbline",
+    "language": "Python",
+    "name": "ChelseaKR/plumbline",
+    "stars": 1,
+    "updated_at": "2026-09-08T11:22:40Z",
+    "url": "https://github.com/ChelseaKR/plumbline"
+  },
+  {
+    "description": "A tiny, dependency-free Python harness for scoring LLM answers against a gold set (exact / contains / numeric matching, ",
+    "id": "zahid23saim/llm-eval-harness",
+    "language": "Python",
+    "name": "zahid23saim/llm-eval-harness",
+    "stars": 1,
+    "updated_at": "2026-09-08T11:17:24Z",
+    "url": "https://github.com/zahid23saim/llm-eval-harness"
+  },
+  {
     "description": "pip install gauntlet-evals \u00b7 v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against",
     "id": "ChelseaKR/gauntlet",
     "language": "Python",
     "name": "ChelseaKR/gauntlet",
     "stars": 1,
-    "updated_at": "2026-09-08T11:13:02Z",
+    "updated_at": "2026-09-08T11:17:12Z",
     "url": "https://github.com/ChelseaKR/gauntlet"
   },
   {
@@ -23,7 +50,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24925,
-    "updated_at": "2026-09-08T11:15:06Z",
+    "updated_at": "2026-09-08T11:30:22Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -81,15 +108,6 @@
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
-    "description": "A tiny, dependency-free Python harness for scoring LLM answers against a gold set (exact / contains / numeric matching, ",
-    "id": "zahid23saim/llm-eval-harness",
-    "language": "Python",
-    "name": "zahid23saim/llm-eval-harness",
-    "stars": 1,
-    "updated_at": "2026-09-08T07:05:17Z",
-    "url": "https://github.com/zahid23saim/llm-eval-harness"
-  },
-  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -112,27 +130,9 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11372,
+    "stars": 11373,
     "updated_at": "2026-09-08T03:04:07Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu",
-    "id": "ChelseaKR/fare-policy-assistant",
-    "language": "HTML",
-    "name": "ChelseaKR/fare-policy-assistant",
-    "stars": 1,
-    "updated_at": "2026-09-08T10:47:06Z",
-    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
-  },
-  {
-    "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
-    "id": "ChelseaKR/plumbline",
-    "language": "Python",
-    "name": "ChelseaKR/plumbline",
-    "stars": 1,
-    "updated_at": "2026-09-08T11:15:03Z",
-    "url": "https://github.com/ChelseaKR/plumbline"
   },
   {
     "description": "Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring Sec",
