@@ -1,21 +1,21 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11380,
-    "updated_at": "2026-09-08T21:11:33Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24934,
-    "updated_at": "2026-09-08T21:14:57Z",
+    "updated_at": "2026-09-08T21:28:53Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11381,
+    "updated_at": "2026-09-08T21:11:33Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
