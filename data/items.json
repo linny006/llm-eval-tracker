@@ -54,6 +54,15 @@
     "url": "https://github.com/NoesisVision/nasde-toolkit"
   },
   {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3543,
+    "updated_at": "2026-09-09T15:52:38Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
     "id": "goldbarth/chartula-evals",
     "language": "Python",
@@ -151,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T18:28:13Z",
     "url": "https://github.com/mrodgersjs-web/rig-enhanced-evals"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3542,
-    "updated_at": "2026-09-09T15:52:38Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Verifier-gated support resolution engine \u2014 answers from your own docs with page citations, escalates what it can't verif",
