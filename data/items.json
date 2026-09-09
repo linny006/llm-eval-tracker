@@ -1,5 +1,23 @@
 [
   {
+    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
+    "id": "ChelseaKR/sprout",
+    "language": "Python",
+    "name": "ChelseaKR/sprout",
+    "stars": 1,
+    "updated_at": "2026-09-09T02:57:42Z",
+    "url": "https://github.com/ChelseaKR/sprout"
+  },
+  {
+    "description": "Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu",
+    "id": "ChelseaKR/fare-policy-assistant",
+    "language": "HTML",
+    "name": "ChelseaKR/fare-policy-assistant",
+    "stars": 1,
+    "updated_at": "2026-09-09T02:49:24Z",
+    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -13,18 +31,9 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24942,
+    "stars": 24943,
     "updated_at": "2026-09-09T01:41:41Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
-    "id": "ChelseaKR/sprout",
-    "language": "Python",
-    "name": "ChelseaKR/sprout",
-    "stars": 1,
-    "updated_at": "2026-09-09T01:41:16Z",
-    "url": "https://github.com/ChelseaKR/sprout"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -43,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-09-09T01:26:56Z",
     "url": "https://github.com/ChelseaKR/gauntlet"
-  },
-  {
-    "description": "Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu",
-    "id": "ChelseaKR/fare-policy-assistant",
-    "language": "HTML",
-    "name": "ChelseaKR/fare-policy-assistant",
-    "stars": 1,
-    "updated_at": "2026-09-09T02:36:57Z",
-    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
     "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
