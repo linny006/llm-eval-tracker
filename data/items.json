@@ -4,9 +4,18 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24969,
-    "updated_at": "2026-09-09T13:22:52Z",
+    "stars": 24970,
+    "updated_at": "2026-09-09T13:58:48Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
+    "id": "NoesisVision/nasde-toolkit",
+    "language": "Python",
+    "name": "NoesisVision/nasde-toolkit",
+    "stars": 12,
+    "updated_at": "2026-09-09T13:40:00Z",
+    "url": "https://github.com/NoesisVision/nasde-toolkit"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -14,7 +23,7 @@
     "language": "\u2014",
     "name": "Kondwani10/Origin-Continuum",
     "stars": 0,
-    "updated_at": "2026-09-09T11:42:23Z",
+    "updated_at": "2026-09-09T13:55:20Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
   },
   {
@@ -45,15 +54,6 @@
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
-    "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
-    "id": "NoesisVision/nasde-toolkit",
-    "language": "Python",
-    "name": "NoesisVision/nasde-toolkit",
-    "stars": 12,
-    "updated_at": "2026-09-09T13:40:00Z",
-    "url": "https://github.com/NoesisVision/nasde-toolkit"
-  },
-  {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
     "id": "ahmedmoha9088/PhoenixFish",
     "language": "Java",
@@ -68,7 +68,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11388,
-    "updated_at": "2026-09-09T13:39:37Z",
+    "updated_at": "2026-09-09T13:56:01Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
