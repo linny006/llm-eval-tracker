@@ -9,6 +9,15 @@
     "url": "https://github.com/ChelseaKR/sprout"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11383,
+    "updated_at": "2026-09-09T01:30:36Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "pip install gauntlet-evals \u00b7 v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against",
     "id": "ChelseaKR/gauntlet",
     "language": "Python",
@@ -52,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T00:44:31Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11382,
-    "updated_at": "2026-09-09T01:30:36Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
