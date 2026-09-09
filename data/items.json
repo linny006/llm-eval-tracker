@@ -1,5 +1,14 @@
 [
   {
+    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
+    "id": "ChelseaKR/sprout",
+    "language": "Python",
+    "name": "ChelseaKR/sprout",
+    "stars": 1,
+    "updated_at": "2026-09-09T01:41:16Z",
+    "url": "https://github.com/ChelseaKR/sprout"
+  },
+  {
     "description": "pip install gauntlet-evals \u00b7 v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against",
     "id": "ChelseaKR/gauntlet",
     "language": "Python",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24940,
-    "updated_at": "2026-09-09T01:28:15Z",
+    "updated_at": "2026-09-09T01:41:41Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -50,7 +59,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11382,
-    "updated_at": "2026-09-09T01:29:44Z",
+    "updated_at": "2026-09-09T01:30:36Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -133,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-09-08T11:17:24Z",
     "url": "https://github.com/zahid23saim/llm-eval-harness"
-  },
-  {
-    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
-    "id": "ChelseaKR/sprout",
-    "language": "Python",
-    "name": "ChelseaKR/sprout",
-    "stars": 1,
-    "updated_at": "2026-09-09T01:16:24Z",
-    "url": "https://github.com/ChelseaKR/sprout"
   },
   {
     "description": "Score LLM outputs and block quality regressions in CI. Deterministic checks first, a calibrated LLM judge where needed. ",
