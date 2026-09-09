@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11392,
+    "updated_at": "2026-09-09T17:13:03Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Autonomous code-repair ReAct agent that reads failing pytest suites, forms root-cause hypotheses, writes patches, and re",
     "id": "AyushCipher/Patch-Pilot",
     "language": "Python",
@@ -18,13 +27,13 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
+    "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
+    "id": "NoesisVision/nasde-toolkit",
     "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11390,
-    "updated_at": "2026-09-09T16:47:34Z",
-    "url": "https://github.com/Arize-ai/phoenix"
+    "name": "NoesisVision/nasde-toolkit",
+    "stars": 13,
+    "updated_at": "2026-09-09T16:27:13Z",
+    "url": "https://github.com/NoesisVision/nasde-toolkit"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -52,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T15:11:39Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
-    "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
-    "id": "NoesisVision/nasde-toolkit",
-    "language": "Python",
-    "name": "NoesisVision/nasde-toolkit",
-    "stars": 12,
-    "updated_at": "2026-09-09T16:27:13Z",
-    "url": "https://github.com/NoesisVision/nasde-toolkit"
   },
   {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
