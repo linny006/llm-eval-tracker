@@ -5,8 +5,17 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24937,
-    "updated_at": "2026-09-08T23:42:28Z",
+    "updated_at": "2026-09-08T23:58:09Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
+    "id": "sammyjdev/gnomon-eval",
+    "language": "Python",
+    "name": "sammyjdev/gnomon-eval",
+    "stars": 0,
+    "updated_at": "2026-09-08T23:49:06Z",
+    "url": "https://github.com/sammyjdev/gnomon-eval"
   },
   {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
@@ -340,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T02:33:06Z",
     "url": "https://github.com/pisigmac/evalgate"
-  },
-  {
-    "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
-    "id": "sammyjdev/gnomon-eval",
-    "language": "Python",
-    "name": "sammyjdev/gnomon-eval",
-    "stars": 0,
-    "updated_at": "2026-09-02T00:33:50Z",
-    "url": "https://github.com/sammyjdev/gnomon-eval"
   },
   {
     "description": "Top Prompt Management (Opensource) \ud83c\udf1f Star if you like it! \ud83c\udf1f",
