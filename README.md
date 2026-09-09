@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-09 08:15 UTC
+> ⏰ Last updated: 2026-09-09 08:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 12 | Python | 2026-09-09 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
-| 2 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-09-09 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
-| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24959 | TypeScript | 2026-09-09 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 4 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-09-09 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
-| 5 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11385 | Python | 2026-09-09 | AI Observability & Evaluation |
-| 6 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-09-09 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 7 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-09-09 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
-| 8 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-09-09 | Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu |
-| 9 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-09-09 | pip install gauntlet-evals · v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against |
-| 10 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-09-09 | v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic |
-| 11 | [sammyjdev/gnomon-eval](https://github.com/sammyjdev/gnomon-eval) | 0 | Python | 2026-09-08 | Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first. |
-| 12 | [mrodgersjs-web/rig-enhanced-evals](https://github.com/mrodgersjs-web/rig-enhanced-evals) | 0 | Python | 2026-09-08 | L10 self-evolving LLM evaluation harness that learns from failures — faithfulness, relevance, toxicity, format metrics w |
-| 13 | [truera/trulens](https://github.com/truera/trulens) | 3542 | Python | 2026-09-08 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 14 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 346 | TypeScript | 2026-09-09 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 1 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 346 | TypeScript | 2026-09-09 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 2 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 12 | Python | 2026-09-09 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
+| 3 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-09-09 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
+| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24960 | TypeScript | 2026-09-09 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 5 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-09-09 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
+| 6 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11385 | Python | 2026-09-09 | AI Observability & Evaluation |
+| 7 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-09-09 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
+| 8 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-09-09 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
+| 9 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-09-09 | Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu |
+| 10 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-09-09 | pip install gauntlet-evals · v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against |
+| 11 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-09-09 | v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic |
+| 12 | [sammyjdev/gnomon-eval](https://github.com/sammyjdev/gnomon-eval) | 0 | Python | 2026-09-08 | Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first. |
+| 13 | [mrodgersjs-web/rig-enhanced-evals](https://github.com/mrodgersjs-web/rig-enhanced-evals) | 0 | Python | 2026-09-08 | L10 self-evolving LLM evaluation harness that learns from failures — faithfulness, relevance, toxicity, format metrics w |
+| 14 | [truera/trulens](https://github.com/truera/trulens) | 3542 | Python | 2026-09-08 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 15 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-08 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
 | 16 | [ihsanfarabi/cs-agent](https://github.com/ihsanfarabi/cs-agent) | 0 | C# | 2026-09-08 | Verifier-gated support resolution engine — answers from your own docs with page citations, escalates what it can't verif |
 | 17 | [zahid23saim/llm-eval-harness](https://github.com/zahid23saim/llm-eval-harness) | 1 | Python | 2026-09-08 | A tiny, dependency-free Python harness for scoring LLM answers against a gold set (exact / contains / numeric matching,  |
