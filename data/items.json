@@ -1,10 +1,19 @@
 [
   {
+    "description": "Autonomous code-repair ReAct agent that reads failing pytest suites, forms root-cause hypotheses, writes patches, and re",
+    "id": "AyushCipher/Patch-Pilot",
+    "language": "Python",
+    "name": "AyushCipher/Patch-Pilot",
+    "stars": 0,
+    "updated_at": "2026-09-09T16:51:20Z",
+    "url": "https://github.com/AyushCipher/Patch-Pilot"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24973,
+    "stars": 24974,
     "updated_at": "2026-09-09T16:41:25Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11390,
-    "updated_at": "2026-09-09T16:15:19Z",
+    "updated_at": "2026-09-09T16:47:34Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-29T22:54:43Z",
     "url": "https://github.com/Benj124/judge-dredd"
-  },
-  {
-    "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
-    "id": "izam-mohammed/ragrank",
-    "language": "Python",
-    "name": "izam-mohammed/ragrank",
-    "stars": 47,
-    "updated_at": "2026-08-29T12:36:03Z",
-    "url": "https://github.com/izam-mohammed/ragrank"
   }
 ]
