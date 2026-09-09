@@ -1,5 +1,14 @@
 [
   {
+    "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
+    "id": "NoesisVision/nasde-toolkit",
+    "language": "Python",
+    "name": "NoesisVision/nasde-toolkit",
+    "stars": 12,
+    "updated_at": "2026-09-09T08:09:22Z",
+    "url": "https://github.com/NoesisVision/nasde-toolkit"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 47,
     "updated_at": "2026-08-29T12:36:03Z",
     "url": "https://github.com/izam-mohammed/ragrank"
-  },
-  {
-    "description": "Public-safe agent evaluation write-ups: harness gates, multi-path coding screens, task-family transfer, RAG routes, agen",
-    "id": "camerontjs-dot/agent-eval-notes",
-    "language": "CSS",
-    "name": "camerontjs-dot/agent-eval-notes",
-    "stars": 0,
-    "updated_at": "2026-08-28T20:21:32Z",
-    "url": "https://github.com/camerontjs-dot/agent-eval-notes"
   }
 ]
