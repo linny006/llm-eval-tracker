@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24964,
+    "updated_at": "2026-09-09T10:24:56Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -16,15 +25,6 @@
     "stars": 12,
     "updated_at": "2026-09-09T10:14:14Z",
     "url": "https://github.com/NoesisVision/nasde-toolkit"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24964,
-    "updated_at": "2026-09-09T09:43:10Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
@@ -212,7 +212,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5805,
-    "updated_at": "2026-09-08T15:38:22Z",
+    "updated_at": "2026-09-09T10:24:08Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
