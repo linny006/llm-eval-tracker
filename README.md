@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-09 08:30 UTC
+> ⏰ Last updated: 2026-09-09 08:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 346 | TypeScript | 2026-09-09 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 2 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 12 | Python | 2026-09-09 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
-| 3 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-09-09 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
+| 1 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-09-09 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
+| 2 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 346 | TypeScript | 2026-09-09 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 3 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 12 | Python | 2026-09-09 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
 | 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24960 | TypeScript | 2026-09-09 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 5 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-09-09 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
-| 6 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11385 | Python | 2026-09-09 | AI Observability & Evaluation |
+| 6 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11386 | Python | 2026-09-09 | AI Observability & Evaluation |
 | 7 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-09-09 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 8 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-09-09 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
 | 9 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-09-09 | Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu |
@@ -66,7 +66,7 @@ expired items removed — so you can rely on what you see being current.
 | 22 | [fabio-barboza/logistic-platform](https://github.com/fabio-barboza/logistic-platform) | 0 | Java | 2026-09-07 | Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring Sec |
 | 23 | [SmartStudio/baize-prompts](https://github.com/SmartStudio/baize-prompts) | 1 | — | 2026-09-07 | 没跑过 = 不出厂。no eval, no ship. |
 | 24 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5805 | Python | 2026-09-08 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 25 | [sunxin-ai/dsh-design-qa](https://github.com/sunxin-ai/dsh-design-qa) | 44 | JavaScript | 2026-09-07 | Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches  |
+| 25 | [sunxin-ai/dsh-design-qa](https://github.com/sunxin-ai/dsh-design-qa) | 43 | JavaScript | 2026-09-07 | Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches  |
 | 26 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 2 | TypeScript | 2026-09-07 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 27 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-07 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 28 | [sailikhithk/eval-infra-for-agents](https://github.com/sailikhithk/eval-infra-for-agents) | 0 | Jupyter Notebook | 2026-09-07 | Field guide to building production-grade evaluation infrastructure for LLM agent systems. Based on real production work  |
