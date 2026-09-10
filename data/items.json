@@ -5,7 +5,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24989,
-    "updated_at": "2026-09-10T08:14:58Z",
+    "updated_at": "2026-09-10T08:27:27Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -36,6 +36,15 @@
     "url": "https://github.com/ChelseaKR/plumbline"
   },
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 347,
+    "updated_at": "2026-09-10T06:45:35Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -43,15 +52,6 @@
     "stars": 11404,
     "updated_at": "2026-09-10T06:20:22Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 346,
-    "updated_at": "2026-09-10T06:45:35Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
