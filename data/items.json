@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-09-10T04:39:33Z",
+    "updated_at": "2026-09-10T05:13:19Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 346,
+    "updated_at": "2026-09-10T05:12:20Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11400,
+    "updated_at": "2026-09-10T04:09:55Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
@@ -32,17 +50,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24982,
-    "updated_at": "2026-09-10T04:54:59Z",
+    "updated_at": "2026-09-10T05:10:20Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11399,
-    "updated_at": "2026-09-10T04:09:55Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Autonomous code-repair ReAct agent that reads failing pytest suites, forms root-cause hypotheses, writes patches, and re",
@@ -88,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-09-09T11:22:53Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 346,
-    "updated_at": "2026-09-09T21:38:04Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",

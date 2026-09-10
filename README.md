@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-10 05:00 UTC
+> ⏰ Last updated: 2026-09-10 05:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,16 +43,16 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-09-10 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
-| 2 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-09-10 | v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic |
-| 3 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-10 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
-| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24982 | TypeScript | 2026-09-10 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 5 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11399 | Python | 2026-09-10 | AI Observability & Evaluation |
-| 6 | [AyushCipher/Patch-Pilot](https://github.com/AyushCipher/Patch-Pilot) | 0 | Python | 2026-09-09 | Autonomous code-repair ReAct agent that reads failing pytest suites, forms root-cause hypotheses, writes patches, and re |
-| 7 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 13 | Python | 2026-09-09 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
-| 8 | [truera/trulens](https://github.com/truera/trulens) | 3544 | Python | 2026-09-09 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 9 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-09 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
-| 10 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 2 | TypeScript | 2026-09-09 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
-| 11 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 346 | TypeScript | 2026-09-09 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 2 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 346 | TypeScript | 2026-09-10 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11400 | Python | 2026-09-10 | AI Observability & Evaluation |
+| 4 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-09-10 | v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic |
+| 5 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-10 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
+| 6 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24982 | TypeScript | 2026-09-10 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 7 | [AyushCipher/Patch-Pilot](https://github.com/AyushCipher/Patch-Pilot) | 0 | Python | 2026-09-09 | Autonomous code-repair ReAct agent that reads failing pytest suites, forms root-cause hypotheses, writes patches, and re |
+| 8 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 13 | Python | 2026-09-09 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
+| 9 | [truera/trulens](https://github.com/truera/trulens) | 3544 | Python | 2026-09-09 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 10 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-09 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
+| 11 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 2 | TypeScript | 2026-09-09 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 12 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-09-09 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
 | 13 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-09-09 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 14 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-09-09 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
