@@ -1,21 +1,30 @@
 [
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25002,
-    "updated_at": "2026-09-10T16:13:12Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11409,
-    "updated_at": "2026-09-10T16:14:09Z",
+    "updated_at": "2026-09-10T16:24:43Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25002,
+    "updated_at": "2026-09-10T16:28:49Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "TrustModel MCP Server \u2014 trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t",
+    "id": "pdxlab/trustmodel-mcp-server",
+    "language": "TypeScript",
+    "name": "pdxlab/trustmodel-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-09-10T16:16:10Z",
+    "url": "https://github.com/pdxlab/trustmodel-mcp-server"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -176,7 +185,7 @@
     "language": "Python",
     "name": "sammyjdev/gnomon-eval",
     "stars": 0,
-    "updated_at": "2026-09-08T23:49:06Z",
+    "updated_at": "2026-09-10T16:21:28Z",
     "url": "https://github.com/sammyjdev/gnomon-eval"
   },
   {
@@ -403,15 +412,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T16:42:56Z",
     "url": "https://github.com/homayoun-safarpour/homayoun-safarpour"
-  },
-  {
-    "description": "TrustModel MCP Server \u2014 trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t",
-    "id": "pdxlab/trustmodel-mcp-server",
-    "language": "TypeScript",
-    "name": "pdxlab/trustmodel-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-09-09T21:00:38Z",
-    "url": "https://github.com/pdxlab/trustmodel-mcp-server"
   },
   {
     "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
