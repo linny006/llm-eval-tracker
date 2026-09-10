@@ -1,5 +1,14 @@
 [
   {
+    "description": "Measure quantization quality loss on Apple Silicon MLX \u2014 KL divergence, top-token flip rate and perplexity delta for KV-",
+    "id": "IonDen/mlx-quant-fidelity",
+    "language": "Python",
+    "name": "IonDen/mlx-quant-fidelity",
+    "stars": 4,
+    "updated_at": "2026-09-10T18:56:17Z",
+    "url": "https://github.com/IonDen/mlx-quant-fidelity"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11410,
-    "updated_at": "2026-09-10T18:44:13Z",
+    "updated_at": "2026-09-10T18:53:27Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -23,7 +32,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25005,
-    "updated_at": "2026-09-10T18:44:39Z",
+    "updated_at": "2026-09-10T18:58:42Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -268,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T00:55:35Z",
     "url": "https://github.com/sailikhithk/eval-infra-for-agents"
-  },
-  {
-    "description": "Measure quantization quality loss on Apple Silicon MLX \u2014 KL divergence, top-token flip rate and perplexity delta for KV-",
-    "id": "IonDen/mlx-quant-fidelity",
-    "language": "Python",
-    "name": "IonDen/mlx-quant-fidelity",
-    "stars": 4,
-    "updated_at": "2026-09-09T07:19:38Z",
-    "url": "https://github.com/IonDen/mlx-quant-fidelity"
   },
   {
     "description": "Production reference architecture for Conversational Financial QA (ConvFinQA), AST-sandboxed execution, and AI Forward-D",
