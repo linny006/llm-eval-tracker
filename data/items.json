@@ -1,5 +1,23 @@
 [
   {
+    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
+    "id": "ChelseaKR/sprout",
+    "language": "Python",
+    "name": "ChelseaKR/sprout",
+    "stars": 1,
+    "updated_at": "2026-09-10T22:18:54Z",
+    "url": "https://github.com/ChelseaKR/sprout"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11410,
+    "updated_at": "2026-09-10T22:17:27Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -36,15 +54,6 @@
     "url": "https://github.com/ChelseaKR/gauntlet"
   },
   {
-    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
-    "id": "ChelseaKR/sprout",
-    "language": "Python",
-    "name": "ChelseaKR/sprout",
-    "stars": 1,
-    "updated_at": "2026-09-10T21:16:56Z",
-    "url": "https://github.com/ChelseaKR/sprout"
-  },
-  {
     "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
     "id": "ChelseaKR/plumbline",
     "language": "Python",
@@ -54,21 +63,12 @@
     "url": "https://github.com/ChelseaKR/plumbline"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11410,
-    "updated_at": "2026-09-10T21:53:02Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25007,
-    "updated_at": "2026-09-10T22:10:27Z",
+    "updated_at": "2026-09-10T22:27:16Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
