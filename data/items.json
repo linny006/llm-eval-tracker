@@ -5,8 +5,17 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24981,
-    "updated_at": "2026-09-10T02:12:16Z",
+    "updated_at": "2026-09-10T02:26:53Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11398,
+    "updated_at": "2026-09-10T02:05:02Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-09-10T01:33:44Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11397,
-    "updated_at": "2026-09-10T02:05:02Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Autonomous code-repair ReAct agent that reads failing pytest suites, forms root-cause hypotheses, writes patches, and re",
