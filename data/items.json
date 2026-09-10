@@ -4,8 +4,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24985,
-    "updated_at": "2026-09-10T06:56:57Z",
+    "stars": 24987,
+    "updated_at": "2026-09-10T07:05:57Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -97,6 +97,15 @@
     "stars": 2,
     "updated_at": "2026-09-09T11:22:53Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5806,
+    "updated_at": "2026-09-09T10:24:08Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
@@ -232,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-09-07T12:32:58Z",
     "url": "https://github.com/SmartStudio/baize-prompts"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5805,
-    "updated_at": "2026-09-09T10:24:08Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches ",
