@@ -1,5 +1,23 @@
 [
   {
+    "description": "A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance?",
+    "id": "sx4im/skillcheck",
+    "language": "TypeScript",
+    "name": "sx4im/skillcheck",
+    "stars": 26,
+    "updated_at": "2026-09-11T16:00:12Z",
+    "url": "https://github.com/sx4im/skillcheck"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25025,
+    "updated_at": "2026-09-11T15:59:31Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "\u516c\u544a\u6458\u8981\u7684\u65ad\u8a00\u7ea7\u4e8b\u5b9e\u6838\u67e5\u88c1\u5224\uff1a\u5e7b\u89c9\u68c0\u51fa / \u8bef\u62a5 / \u5173\u952e\u4fe1\u606f\u8986\u76d6\u4e09\u8f74\u5ea6\u91cf",
     "id": "AndyZhang666666/filing-eval",
     "language": "JavaScript",
@@ -25,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-09-11T15:38:21Z",
     "url": "https://github.com/sammyjdev/gnomon-eval"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25023,
-    "updated_at": "2026-09-11T15:40:47Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
@@ -104,7 +113,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11417,
-    "updated_at": "2026-09-11T15:36:47Z",
+    "updated_at": "2026-09-11T15:50:26Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T16:42:56Z",
     "url": "https://github.com/homayoun-safarpour/homayoun-safarpour"
-  },
-  {
-    "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
-    "id": "cannonade-ai/cannonade",
-    "language": "TypeScript",
-    "name": "cannonade-ai/cannonade",
-    "stars": 2,
-    "updated_at": "2026-08-31T13:44:43Z",
-    "url": "https://github.com/cannonade-ai/cannonade"
   }
 ]
