@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-11 18:00 UTC
+> ⏰ Last updated: 2026-09-11 18:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25027 | TypeScript | 2026-09-11 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 2 | [T9113/eval-llm-hallucination-detector](https://github.com/T9113/eval-llm-hallucination-detector) | 0 | Python | 2026-09-11 | 🧪 Automated evaluation pipeline for detecting factual hallucinations, toxicity, and answer relevance in LLM generation |
-| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11417 | Python | 2026-09-11 | AI Observability & Evaluation |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11417 | Python | 2026-09-11 | AI Observability & Evaluation |
+| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25027 | TypeScript | 2026-09-11 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 3 | [T9113/eval-llm-hallucination-detector](https://github.com/T9113/eval-llm-hallucination-detector) | 0 | Python | 2026-09-11 | 🧪 Automated evaluation pipeline for detecting factual hallucinations, toxicity, and answer relevance in LLM generation |
 | 4 | [truera/trulens](https://github.com/truera/trulens) | 3547 | Python | 2026-09-11 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 5 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 26 | TypeScript | 2026-09-11 | A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance? |
 | 6 | [AndyZhang666666/filing-eval](https://github.com/AndyZhang666666/filing-eval) | 0 | JavaScript | 2026-09-11 | 公告摘要的断言级事实核查裁判：幻觉检出 / 误报 / 关键信息覆盖三轴度量 |
