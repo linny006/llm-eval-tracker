@@ -5,7 +5,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25008,
-    "updated_at": "2026-09-11T01:11:30Z",
+    "updated_at": "2026-09-11T01:29:20Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -43,6 +43,15 @@
     "stars": 0,
     "updated_at": "2026-09-11T00:58:21Z",
     "url": "https://github.com/sammyjdev/gnomon-eval"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 348,
+    "updated_at": "2026-09-10T22:35:11Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
@@ -106,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-10T16:16:10Z",
     "url": "https://github.com/pdxlab/trustmodel-mcp-server"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 347,
-    "updated_at": "2026-09-10T22:35:11Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
