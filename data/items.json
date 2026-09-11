@@ -1,5 +1,23 @@
 [
   {
+    "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
+    "id": "lftherios/session-link",
+    "language": "Go",
+    "name": "lftherios/session-link",
+    "stars": 0,
+    "updated_at": "2026-09-11T13:43:28Z",
+    "url": "https://github.com/lftherios/session-link"
+  },
+  {
+    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
+    "id": "saddled-panicattack529/idea-evaluation-pipeline",
+    "language": "\u2014",
+    "name": "saddled-panicattack529/idea-evaluation-pipeline",
+    "stars": 0,
+    "updated_at": "2026-09-11T13:31:48Z",
+    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
+  },
+  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
@@ -14,17 +32,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25021,
-    "updated_at": "2026-09-11T13:20:38Z",
+    "updated_at": "2026-09-11T13:41:20Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
-    "id": "lftherios/session-link",
-    "language": "Go",
-    "name": "lftherios/session-link",
-    "stars": 0,
-    "updated_at": "2026-09-11T11:46:44Z",
-    "url": "https://github.com/lftherios/session-link"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
@@ -43,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-09-11T11:37:34Z",
     "url": "https://github.com/ahmedmoha9088/PhoenixFish"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-09-11T11:21:07Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
@@ -77,7 +77,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11417,
-    "updated_at": "2026-09-11T13:16:00Z",
+    "updated_at": "2026-09-11T13:44:07Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -193,7 +193,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5810,
+    "stars": 5811,
     "updated_at": "2026-09-09T10:24:08Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
