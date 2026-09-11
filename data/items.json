@@ -1,21 +1,21 @@
 [
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25031,
-    "updated_at": "2026-09-11T19:59:26Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11416,
-    "updated_at": "2026-09-11T19:58:12Z",
+    "updated_at": "2026-09-11T20:03:30Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25031,
+    "updated_at": "2026-09-11T20:03:05Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
@@ -59,7 +59,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3547,
-    "updated_at": "2026-09-11T17:06:50Z",
+    "updated_at": "2026-09-11T20:02:07Z",
     "url": "https://github.com/truera/trulens"
   },
   {
