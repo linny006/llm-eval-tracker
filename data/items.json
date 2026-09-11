@@ -23,7 +23,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25013,
-    "updated_at": "2026-09-11T07:28:56Z",
+    "updated_at": "2026-09-11T07:42:00Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -34,6 +34,15 @@
     "stars": 11414,
     "updated_at": "2026-09-11T05:46:23Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 349,
+    "updated_at": "2026-09-11T02:11:44Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "pip install gauntlet-evals \u00b7 v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against",
@@ -52,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-09-11T00:58:21Z",
     "url": "https://github.com/sammyjdev/gnomon-eval"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 348,
-    "updated_at": "2026-09-11T02:11:44Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
@@ -104,7 +104,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3547,
-    "updated_at": "2026-09-10T18:12:59Z",
+    "updated_at": "2026-09-11T07:38:59Z",
     "url": "https://github.com/truera/trulens"
   },
   {
