@@ -1,11 +1,20 @@
 [
   {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3547,
+    "updated_at": "2026-09-11T22:44:29Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25035,
-    "updated_at": "2026-09-11T22:33:24Z",
+    "updated_at": "2026-09-11T22:36:14Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -52,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-09-11T17:58:31Z",
     "url": "https://github.com/T9113/eval-llm-hallucination-detector"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3547,
-    "updated_at": "2026-09-11T20:45:04Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance?",
