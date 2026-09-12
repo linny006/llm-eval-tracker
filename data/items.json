@@ -1,11 +1,38 @@
 [
   {
+    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
+    "id": "HaileyStorm/Creative-Writing-Rubrics",
+    "language": "Python",
+    "name": "HaileyStorm/Creative-Writing-Rubrics",
+    "stars": 0,
+    "updated_at": "2026-09-12T20:40:38Z",
+    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
+    "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
+    "id": "cannonade-ai/cannonade",
+    "language": "TypeScript",
+    "name": "cannonade-ai/cannonade",
+    "stars": 2,
+    "updated_at": "2026-09-12T20:35:11Z",
+    "url": "https://github.com/cannonade-ai/cannonade"
+  },
+  {
+    "description": "pip install gauntlet-evals \u00b7 v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against",
+    "id": "ChelseaKR/gauntlet",
+    "language": "Python",
+    "name": "ChelseaKR/gauntlet",
+    "stars": 1,
+    "updated_at": "2026-09-12T20:32:23Z",
+    "url": "https://github.com/ChelseaKR/gauntlet"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25047,
-    "updated_at": "2026-09-12T20:27:18Z",
+    "stars": 25048,
+    "updated_at": "2026-09-12T20:38:07Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -36,15 +63,6 @@
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
-    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
-    "id": "HaileyStorm/Creative-Writing-Rubrics",
-    "language": "Python",
-    "name": "HaileyStorm/Creative-Writing-Rubrics",
-    "stars": 0,
-    "updated_at": "2026-09-12T19:36:44Z",
-    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
     "description": "L10 self-evolving LLM evaluation harness that learns from failures \u2014 faithfulness, relevance, toxicity, format metrics w",
     "id": "mrodgersjs-web/rig-enhanced-evals",
     "language": "Python",
@@ -61,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-09-12T18:44:01Z",
     "url": "https://github.com/AndyZhang666666/llm-output-eval"
-  },
-  {
-    "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
-    "id": "cannonade-ai/cannonade",
-    "language": "TypeScript",
-    "name": "cannonade-ai/cannonade",
-    "stars": 2,
-    "updated_at": "2026-09-12T20:25:59Z",
-    "url": "https://github.com/cannonade-ai/cannonade"
   },
   {
     "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
@@ -196,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-09-11T07:09:34Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "pip install gauntlet-evals \u00b7 v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against",
-    "id": "ChelseaKR/gauntlet",
-    "language": "Python",
-    "name": "ChelseaKR/gauntlet",
-    "stars": 1,
-    "updated_at": "2026-09-12T16:53:07Z",
-    "url": "https://github.com/ChelseaKR/gauntlet"
   },
   {
     "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
