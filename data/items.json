@@ -1,5 +1,32 @@
 [
   {
+    "description": "\u516c\u544a\u6458\u8981\u7684\u65ad\u8a00\u7ea7\u4e8b\u5b9e\u6838\u67e5\u88c1\u5224\uff1a\u5e7b\u89c9\u68c0\u51fa / \u8bef\u62a5 / \u5173\u952e\u4fe1\u606f\u8986\u76d6\u4e09\u8f74\u5ea6\u91cf",
+    "id": "AndyZhang666666/filing-eval",
+    "language": "JavaScript",
+    "name": "AndyZhang666666/filing-eval",
+    "stars": 0,
+    "updated_at": "2026-09-12T11:11:20Z",
+    "url": "https://github.com/AndyZhang666666/filing-eval"
+  },
+  {
+    "description": "\u77ed\u5267\u5267\u672c\u521d\u7a3f\u7684 LLM \u8bc4\u5206\u88c1\u5224\uff1a5 \u7ef4\u5ea6 rubric + 40 \u6761\u91d1\u6807\u96c6 + \u88c1\u5224\u53ef\u9760\u6027\u6821\u9a8c",
+    "id": "AndyZhang666666/creative-eval",
+    "language": "JavaScript",
+    "name": "AndyZhang666666/creative-eval",
+    "stars": 0,
+    "updated_at": "2026-09-12T11:11:17Z",
+    "url": "https://github.com/AndyZhang666666/creative-eval"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25041,
+    "updated_at": "2026-09-12T11:05:31Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -16,15 +43,6 @@
     "stars": 13,
     "updated_at": "2026-09-12T09:57:16Z",
     "url": "https://github.com/NoesisVision/nasde-toolkit"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25040,
-    "updated_at": "2026-09-12T10:59:36Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
@@ -58,7 +76,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11419,
+    "stars": 11420,
     "updated_at": "2026-09-12T04:31:55Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -97,24 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-11T17:58:31Z",
     "url": "https://github.com/T9113/eval-llm-hallucination-detector"
-  },
-  {
-    "description": "\u516c\u544a\u6458\u8981\u7684\u65ad\u8a00\u7ea7\u4e8b\u5b9e\u6838\u67e5\u88c1\u5224\uff1a\u5e7b\u89c9\u68c0\u51fa / \u8bef\u62a5 / \u5173\u952e\u4fe1\u606f\u8986\u76d6\u4e09\u8f74\u5ea6\u91cf",
-    "id": "AndyZhang666666/filing-eval",
-    "language": "JavaScript",
-    "name": "AndyZhang666666/filing-eval",
-    "stars": 0,
-    "updated_at": "2026-09-11T15:38:00Z",
-    "url": "https://github.com/AndyZhang666666/filing-eval"
-  },
-  {
-    "description": "\u77ed\u5267\u5267\u672c\u521d\u7a3f\u7684 LLM \u8bc4\u5206\u88c1\u5224\uff1a5 \u7ef4\u5ea6 rubric + 40 \u6761\u91d1\u6807\u96c6 + \u88c1\u5224\u53ef\u9760\u6027\u6821\u9a8c",
-    "id": "AndyZhang666666/creative-eval",
-    "language": "JavaScript",
-    "name": "AndyZhang666666/creative-eval",
-    "stars": 0,
-    "updated_at": "2026-09-11T15:33:45Z",
-    "url": "https://github.com/AndyZhang666666/creative-eval"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
