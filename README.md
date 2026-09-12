@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-12 03:45 UTC
+> ⏰ Last updated: 2026-09-12 04:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,10 +43,10 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 26 | TypeScript | 2026-09-12 | A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance? |
-| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25038 | TypeScript | 2026-09-12 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 3 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-09-12 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
-| 4 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-09-12 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 5 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11417 | Python | 2026-09-12 | AI Observability & Evaluation |
+| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11417 | Python | 2026-09-12 | AI Observability & Evaluation |
+| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25038 | TypeScript | 2026-09-12 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 4 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-09-12 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
+| 5 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-09-12 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 6 | [truera/trulens](https://github.com/truera/trulens) | 3547 | Python | 2026-09-11 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 7 | [sammyjdev/gnomon-eval](https://github.com/sammyjdev/gnomon-eval) | 0 | Python | 2026-09-11 | Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first. |
 | 8 | [T9113/eval-llm-hallucination-detector](https://github.com/T9113/eval-llm-hallucination-detector) | 0 | Python | 2026-09-11 | 🧪 Automated evaluation pipeline for detecting factual hallucinations, toxicity, and answer relevance in LLM generation |
