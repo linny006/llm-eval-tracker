@@ -1,5 +1,14 @@
 [
   {
+    "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
+    "id": "lftherios/session-link",
+    "language": "Go",
+    "name": "lftherios/session-link",
+    "stars": 0,
+    "updated_at": "2026-09-12T08:07:38Z",
+    "url": "https://github.com/lftherios/session-link"
+  },
+  {
     "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
     "id": "NoesisVision/nasde-toolkit",
     "language": "Python",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25039,
-    "updated_at": "2026-09-12T07:59:23Z",
+    "updated_at": "2026-09-12T08:12:22Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -97,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-11T15:33:45Z",
     "url": "https://github.com/AndyZhang666666/creative-eval"
-  },
-  {
-    "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
-    "id": "lftherios/session-link",
-    "language": "Go",
-    "name": "lftherios/session-link",
-    "stars": 0,
-    "updated_at": "2026-09-11T15:32:30Z",
-    "url": "https://github.com/lftherios/session-link"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
