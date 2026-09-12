@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-12 16:15 UTC
+> ⏰ Last updated: 2026-09-12 16:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-09-12 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
-| 2 | [lftherios/session-link](https://github.com/lftherios/session-link) | 0 | Go | 2026-09-12 | A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit. |
-| 3 | [AndyZhang666666/filing-eval](https://github.com/AndyZhang666666/filing-eval) | 0 | JavaScript | 2026-09-12 | 公告摘要的断言级事实核查裁判：幻觉检出 / 误报 / 关键信息覆盖三轴度量 |
-| 4 | [AndyZhang666666/creative-eval](https://github.com/AndyZhang666666/creative-eval) | 0 | JavaScript | 2026-09-12 | 短剧剧本初稿的 LLM 评分裁判：5 维度 rubric + 40 条金标集 + 裁判可靠性校验 |
-| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25045 | TypeScript | 2026-09-12 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25046 | TypeScript | 2026-09-12 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 2 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-09-12 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
+| 3 | [lftherios/session-link](https://github.com/lftherios/session-link) | 0 | Go | 2026-09-12 | A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit. |
+| 4 | [AndyZhang666666/filing-eval](https://github.com/AndyZhang666666/filing-eval) | 0 | JavaScript | 2026-09-12 | 公告摘要的断言级事实核查裁判：幻觉检出 / 误报 / 关键信息覆盖三轴度量 |
+| 5 | [AndyZhang666666/creative-eval](https://github.com/AndyZhang666666/creative-eval) | 0 | JavaScript | 2026-09-12 | 短剧剧本初稿的 LLM 评分裁判：5 维度 rubric + 40 条金标集 + 裁判可靠性校验 |
 | 6 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-12 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 7 | [truera/trulens](https://github.com/truera/trulens) | 3547 | Python | 2026-09-12 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 8 | [AndyZhang666666/AndyZhang666666.github.io](https://github.com/AndyZhang666666/AndyZhang666666.github.io) | 0 | JavaScript | 2026-09-12 | Personal site with two interactive LLM eval harness demos |
