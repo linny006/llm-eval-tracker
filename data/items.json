@@ -9,6 +9,15 @@
     "url": "https://github.com/Kondwani10/Origin-Continuum"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11426,
+    "updated_at": "2026-09-12T19:42:06Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu",
     "id": "ChelseaKR/fare-policy-assistant",
     "language": "HTML",
@@ -36,15 +45,6 @@
     "url": "https://github.com/mrodgersjs-web/rig-enhanced-evals"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11425,
-    "updated_at": "2026-09-12T19:42:06Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "\u957f\u6587\u672c\u751f\u6210\u7ed3\u679c\u7684 LLM-as-judge \u8bc4\u6d4b\u5de5\u5177\uff1a5 \u7ef4\u6253\u5206 + \u9010\u5b57\u8bc1\u636e\u53e5 + \u88c1\u5224\u81ea\u8eab\u7684\u53ef\u9760\u6027\u6821\u9a8c\u62a5\u544a\uff08\u4e00\u81f4\u6027 / \u4e00\u81f4\u7387 / \u4f4d\u7f6e\u504f\u5dee\uff09",
     "id": "AndyZhang666666/llm-output-eval",
     "language": "TypeScript",
@@ -59,7 +59,7 @@
     "language": "TypeScript",
     "name": "cannonade-ai/cannonade",
     "stars": 2,
-    "updated_at": "2026-09-12T16:40:03Z",
+    "updated_at": "2026-09-12T20:12:35Z",
     "url": "https://github.com/cannonade-ai/cannonade"
   },
   {
@@ -68,7 +68,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25046,
-    "updated_at": "2026-09-12T19:55:12Z",
+    "updated_at": "2026-09-12T20:14:50Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
