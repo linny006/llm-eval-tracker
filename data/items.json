@@ -1,11 +1,20 @@
 [
   {
+    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
+    "id": "saddled-panicattack529/idea-evaluation-pipeline",
+    "language": "\u2014",
+    "name": "saddled-panicattack529/idea-evaluation-pipeline",
+    "stars": 0,
+    "updated_at": "2026-09-12T06:50:34Z",
+    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25039,
-    "updated_at": "2026-09-12T06:44:08Z",
+    "updated_at": "2026-09-12T06:51:17Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -18,13 +27,13 @@
     "url": "https://github.com/ahmedmoha9088/PhoenixFish"
   },
   {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-09-12T04:58:10Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11418,
+    "updated_at": "2026-09-12T04:31:55Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance?",
@@ -34,15 +43,6 @@
     "stars": 26,
     "updated_at": "2026-09-12T04:26:57Z",
     "url": "https://github.com/sx4im/skillcheck"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11417,
-    "updated_at": "2026-09-12T04:31:55Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
