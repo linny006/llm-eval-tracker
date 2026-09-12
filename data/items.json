@@ -1,11 +1,20 @@
 [
   {
+    "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
+    "id": "NoesisVision/nasde-toolkit",
+    "language": "Python",
+    "name": "NoesisVision/nasde-toolkit",
+    "stars": 13,
+    "updated_at": "2026-09-12T07:43:33Z",
+    "url": "https://github.com/NoesisVision/nasde-toolkit"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25039,
-    "updated_at": "2026-09-12T07:30:05Z",
+    "updated_at": "2026-09-12T07:41:03Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -31,7 +40,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11418,
+    "stars": 11419,
     "updated_at": "2026-09-12T04:31:55Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -196,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T16:51:20Z",
     "url": "https://github.com/AyushCipher/Patch-Pilot"
-  },
-  {
-    "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
-    "id": "NoesisVision/nasde-toolkit",
-    "language": "Python",
-    "name": "NoesisVision/nasde-toolkit",
-    "stars": 13,
-    "updated_at": "2026-09-11T11:18:31Z",
-    "url": "https://github.com/NoesisVision/nasde-toolkit"
   },
   {
     "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
