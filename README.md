@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-12 16:45 UTC
+> ⏰ Last updated: 2026-09-12 17:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -54,14 +54,14 @@ expired items removed — so you can rely on what you see being current.
 | 10 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 13 | Python | 2026-09-12 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
 | 11 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-09-12 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
 | 12 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-09-12 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 13 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11423 | Python | 2026-09-12 | AI Observability & Evaluation |
+| 13 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11424 | Python | 2026-09-12 | AI Observability & Evaluation |
 | 14 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 26 | TypeScript | 2026-09-12 | A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance? |
 | 15 | [sammyjdev/gnomon-eval](https://github.com/sammyjdev/gnomon-eval) | 0 | Python | 2026-09-11 | Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first. |
 | 16 | [T9113/eval-llm-hallucination-detector](https://github.com/T9113/eval-llm-hallucination-detector) | 0 | Python | 2026-09-11 | 🧪 Automated evaluation pipeline for detecting factual hallucinations, toxicity, and answer relevance in LLM generation |
 | 17 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 350 | TypeScript | 2026-09-11 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 18 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-09-11 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
 | 19 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-09-11 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
-| 20 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-09-11 | pip install gauntlet-evals · v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against |
+| 20 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-09-12 | pip install gauntlet-evals · v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against |
 | 21 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-09-10 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
 | 22 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-09-10 | v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic |
 | 23 | [IonDen/mlx-quant-fidelity](https://github.com/IonDen/mlx-quant-fidelity) | 4 | Python | 2026-09-10 | Measure quantization quality loss on Apple Silicon MLX — KL divergence, top-token flip rate and perplexity delta for KV- |
