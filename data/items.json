@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-09-12T14:43:14Z",
+    "updated_at": "2026-09-12T14:56:34Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
+    "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
+    "id": "lftherios/session-link",
+    "language": "Go",
+    "name": "lftherios/session-link",
+    "stars": 0,
+    "updated_at": "2026-09-12T14:45:39Z",
+    "url": "https://github.com/lftherios/session-link"
   },
   {
     "description": "\u516c\u544a\u6458\u8981\u7684\u65ad\u8a00\u7ea7\u4e8b\u5b9e\u6838\u67e5\u88c1\u5224\uff1a\u5e7b\u89c9\u68c0\u51fa / \u8bef\u62a5 / \u5173\u952e\u4fe1\u606f\u8986\u76d6\u4e09\u8f74\u5ea6\u91cf",
@@ -32,7 +41,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25045,
-    "updated_at": "2026-09-12T14:43:16Z",
+    "updated_at": "2026-09-12T14:56:41Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -52,15 +61,6 @@
     "stars": 3547,
     "updated_at": "2026-09-12T13:03:20Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
-    "id": "lftherios/session-link",
-    "language": "Go",
-    "name": "lftherios/session-link",
-    "stars": 0,
-    "updated_at": "2026-09-12T12:35:31Z",
-    "url": "https://github.com/lftherios/session-link"
   },
   {
     "description": "Personal site with two interactive LLM eval harness demos",
