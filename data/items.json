@@ -1,11 +1,20 @@
 [
   {
+    "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
+    "id": "cannonade-ai/cannonade",
+    "language": "TypeScript",
+    "name": "cannonade-ai/cannonade",
+    "stars": 2,
+    "updated_at": "2026-09-12T16:40:03Z",
+    "url": "https://github.com/cannonade-ai/cannonade"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25046,
-    "updated_at": "2026-09-12T16:27:30Z",
+    "updated_at": "2026-09-12T16:45:20Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-01T17:27:17Z",
     "url": "https://github.com/ishandutta2007/Awesome-Prompt-Management"
-  },
-  {
-    "description": "Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou",
-    "id": "lokesh75-kank/agenteval",
-    "language": "TypeScript",
-    "name": "lokesh75-kank/agenteval",
-    "stars": 0,
-    "updated_at": "2026-09-01T04:56:16Z",
-    "url": "https://github.com/lokesh75-kank/agenteval"
   }
 ]
