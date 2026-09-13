@@ -5,8 +5,26 @@
     "language": "HTML",
     "name": "ChelseaKR/fare-policy-assistant",
     "stars": 1,
-    "updated_at": "2026-09-13T16:56:54Z",
+    "updated_at": "2026-09-13T17:02:27Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
+  },
+  {
+    "description": "pip install gauntlet-evals \u00b7 v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against",
+    "id": "ChelseaKR/gauntlet",
+    "language": "Python",
+    "name": "ChelseaKR/gauntlet",
+    "stars": 1,
+    "updated_at": "2026-09-13T17:05:46Z",
+    "url": "https://github.com/ChelseaKR/gauntlet"
+  },
+  {
+    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
+    "id": "ChelseaKR/sprout",
+    "language": "Python",
+    "name": "ChelseaKR/sprout",
+    "stars": 1,
+    "updated_at": "2026-09-13T17:02:11Z",
+    "url": "https://github.com/ChelseaKR/sprout"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -14,7 +32,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25061,
-    "updated_at": "2026-09-13T16:59:50Z",
+    "updated_at": "2026-09-13T17:10:28Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -25,24 +43,6 @@
     "stars": 1,
     "updated_at": "2026-09-13T16:59:04Z",
     "url": "https://github.com/ChelseaKR/plumbline"
-  },
-  {
-    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
-    "id": "ChelseaKR/sprout",
-    "language": "Python",
-    "name": "ChelseaKR/sprout",
-    "stars": 1,
-    "updated_at": "2026-09-13T16:50:33Z",
-    "url": "https://github.com/ChelseaKR/sprout"
-  },
-  {
-    "description": "pip install gauntlet-evals \u00b7 v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against",
-    "id": "ChelseaKR/gauntlet",
-    "language": "Python",
-    "name": "ChelseaKR/gauntlet",
-    "stars": 1,
-    "updated_at": "2026-09-13T16:57:09Z",
-    "url": "https://github.com/ChelseaKR/gauntlet"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
