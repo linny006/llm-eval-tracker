@@ -1,11 +1,29 @@
 [
   {
+    "description": "Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu",
+    "id": "ChelseaKR/fare-policy-assistant",
+    "language": "HTML",
+    "name": "ChelseaKR/fare-policy-assistant",
+    "stars": 1,
+    "updated_at": "2026-09-13T16:56:54Z",
+    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25061,
+    "updated_at": "2026-09-13T16:59:50Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
     "id": "ChelseaKR/plumbline",
     "language": "Python",
     "name": "ChelseaKR/plumbline",
     "stars": 1,
-    "updated_at": "2026-09-13T16:43:56Z",
+    "updated_at": "2026-09-13T16:59:04Z",
     "url": "https://github.com/ChelseaKR/plumbline"
   },
   {
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "ChelseaKR/sprout",
     "stars": 1,
-    "updated_at": "2026-09-13T16:40:48Z",
+    "updated_at": "2026-09-13T16:50:33Z",
     "url": "https://github.com/ChelseaKR/sprout"
   },
   {
@@ -23,26 +41,8 @@
     "language": "Python",
     "name": "ChelseaKR/gauntlet",
     "stars": 1,
-    "updated_at": "2026-09-13T16:36:21Z",
+    "updated_at": "2026-09-13T16:57:09Z",
     "url": "https://github.com/ChelseaKR/gauntlet"
-  },
-  {
-    "description": "Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu",
-    "id": "ChelseaKR/fare-policy-assistant",
-    "language": "HTML",
-    "name": "ChelseaKR/fare-policy-assistant",
-    "stars": 1,
-    "updated_at": "2026-09-13T16:35:14Z",
-    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25060,
-    "updated_at": "2026-09-13T16:31:02Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
@@ -68,7 +68,7 @@
     "language": "Python",
     "name": "wynxing/agent-flight-recorder",
     "stars": 0,
-    "updated_at": "2026-09-13T16:43:54Z",
+    "updated_at": "2026-09-13T16:51:45Z",
     "url": "https://github.com/wynxing/agent-flight-recorder"
   },
   {
