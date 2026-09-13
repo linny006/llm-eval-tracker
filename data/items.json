@@ -1,5 +1,14 @@
 [
   {
+    "description": "Forensic audit scanner for SWE-bench & DeepSWE v1.1 containers detecting .git reflog leakage and test harness spoofing.",
+    "id": "abhishek2512mishra/deepswe-benchmaxxing-detector",
+    "language": "Python",
+    "name": "abhishek2512mishra/deepswe-benchmaxxing-detector",
+    "stars": 0,
+    "updated_at": "2026-09-13T12:36:15Z",
+    "url": "https://github.com/abhishek2512mishra/deepswe-benchmaxxing-detector"
+  },
+  {
     "description": "Personal site with two interactive LLM eval harness demos",
     "id": "AndyZhang666666/AndyZhang666666.github.io",
     "language": "JavaScript",
@@ -23,7 +32,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25057,
-    "updated_at": "2026-09-13T12:29:11Z",
+    "updated_at": "2026-09-13T12:44:23Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-02T06:50:04Z",
     "url": "https://github.com/lorien/awesome-ai-benchmarks"
-  },
-  {
-    "description": "An AI agent that answers questions about U.S. campaign money against real FEC data. Source-cited, graded on a public eva",
-    "id": "coffee-converter/onthemoney",
-    "language": "Python",
-    "name": "coffee-converter/onthemoney",
-    "stars": 0,
-    "updated_at": "2026-09-02T02:48:00Z",
-    "url": "https://github.com/coffee-converter/onthemoney"
   }
 ]
