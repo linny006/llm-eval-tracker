@@ -1,11 +1,20 @@
 [
   {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-09-13T08:59:24Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25057,
-    "updated_at": "2026-09-13T08:29:35Z",
+    "updated_at": "2026-09-13T09:13:55Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -286,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T13:57:56Z",
     "url": "https://github.com/ihsanfarabi/cs-agent"
-  },
-  {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-09-08T13:17:16Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "A tiny, dependency-free Python harness for scoring LLM answers against a gold set (exact / contains / numeric matching, ",
