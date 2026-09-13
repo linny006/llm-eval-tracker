@@ -1,5 +1,23 @@
 [
   {
+    "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
+    "id": "sammyjdev/gnomon-eval",
+    "language": "Python",
+    "name": "sammyjdev/gnomon-eval",
+    "stars": 0,
+    "updated_at": "2026-09-13T17:44:51Z",
+    "url": "https://github.com/sammyjdev/gnomon-eval"
+  },
+  {
+    "description": "Forensic audit scanner for SWE-bench & DeepSWE v1.1 containers detecting .git reflog leakage and test harness spoofing.",
+    "id": "abhishek2512mishra/deepswe-benchmaxxing-detector",
+    "language": "Python",
+    "name": "abhishek2512mishra/deepswe-benchmaxxing-detector",
+    "stars": 0,
+    "updated_at": "2026-09-13T17:41:29Z",
+    "url": "https://github.com/abhishek2512mishra/deepswe-benchmaxxing-detector"
+  },
+  {
     "description": "Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu",
     "id": "ChelseaKR/fare-policy-assistant",
     "language": "HTML",
@@ -41,7 +59,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25061,
-    "updated_at": "2026-09-13T17:26:21Z",
+    "updated_at": "2026-09-13T17:44:05Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -70,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-09-13T15:54:37Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "Forensic audit scanner for SWE-bench & DeepSWE v1.1 containers detecting .git reflog leakage and test harness spoofing.",
-    "id": "abhishek2512mishra/deepswe-benchmaxxing-detector",
-    "language": "Python",
-    "name": "abhishek2512mishra/deepswe-benchmaxxing-detector",
-    "stars": 0,
-    "updated_at": "2026-09-13T14:41:10Z",
-    "url": "https://github.com/abhishek2512mishra/deepswe-benchmaxxing-detector"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -223,15 +232,6 @@
     "stars": 27,
     "updated_at": "2026-09-12T04:26:57Z",
     "url": "https://github.com/sx4im/skillcheck"
-  },
-  {
-    "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
-    "id": "sammyjdev/gnomon-eval",
-    "language": "Python",
-    "name": "sammyjdev/gnomon-eval",
-    "stars": 0,
-    "updated_at": "2026-09-12T23:46:54Z",
-    "url": "https://github.com/sammyjdev/gnomon-eval"
   },
   {
     "description": "\ud83e\uddea Automated evaluation pipeline for detecting factual hallucinations, toxicity, and answer relevance in LLM generation",
