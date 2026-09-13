@@ -1,11 +1,20 @@
 [
   {
+    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
+    "id": "ChelseaKR/sprout",
+    "language": "Python",
+    "name": "ChelseaKR/sprout",
+    "stars": 1,
+    "updated_at": "2026-09-13T14:36:19Z",
+    "url": "https://github.com/ChelseaKR/sprout"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25058,
-    "updated_at": "2026-09-13T14:23:43Z",
+    "stars": 25059,
+    "updated_at": "2026-09-13T14:36:14Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -32,8 +41,17 @@
     "language": "Python",
     "name": "abhishek2512mishra/deepswe-benchmaxxing-detector",
     "stars": 0,
-    "updated_at": "2026-09-13T12:36:15Z",
+    "updated_at": "2026-09-13T14:41:10Z",
     "url": "https://github.com/abhishek2512mishra/deepswe-benchmaxxing-detector"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11439,
+    "updated_at": "2026-09-13T11:59:57Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Personal site with two interactive LLM eval harness demos",
@@ -68,7 +86,7 @@
     "language": "Python",
     "name": "wynxing/agent-flight-recorder",
     "stars": 0,
-    "updated_at": "2026-09-13T14:24:36Z",
+    "updated_at": "2026-09-13T14:35:31Z",
     "url": "https://github.com/wynxing/agent-flight-recorder"
   },
   {
@@ -97,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-13T00:10:18Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11438,
-    "updated_at": "2026-09-13T11:59:57Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
@@ -232,15 +241,6 @@
     "stars": 350,
     "updated_at": "2026-09-11T17:54:49Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
-    "id": "ChelseaKR/sprout",
-    "language": "Python",
-    "name": "ChelseaKR/sprout",
-    "stars": 1,
-    "updated_at": "2026-09-10T22:18:54Z",
-    "url": "https://github.com/ChelseaKR/sprout"
   },
   {
     "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
