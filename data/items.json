@@ -1,5 +1,23 @@
 [
   {
+    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
+    "id": "ChelseaKR/sprout",
+    "language": "Python",
+    "name": "ChelseaKR/sprout",
+    "stars": 1,
+    "updated_at": "2026-09-13T16:04:47Z",
+    "url": "https://github.com/ChelseaKR/sprout"
+  },
+  {
+    "description": "Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu",
+    "id": "ChelseaKR/fare-policy-assistant",
+    "language": "HTML",
+    "name": "ChelseaKR/fare-policy-assistant",
+    "stars": 1,
+    "updated_at": "2026-09-13T16:04:37Z",
+    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
+  },
+  {
     "description": "pip install gauntlet-evals \u00b7 v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against",
     "id": "ChelseaKR/gauntlet",
     "language": "Python",
@@ -36,15 +54,6 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
-    "description": "Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu",
-    "id": "ChelseaKR/fare-policy-assistant",
-    "language": "HTML",
-    "name": "ChelseaKR/fare-policy-assistant",
-    "stars": 1,
-    "updated_at": "2026-09-13T15:48:40Z",
-    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
-  },
-  {
     "description": "Replay, debug and evaluate AI agents like software \u2014 AI Agent \u7684\u9ed1\u5323\u5b50\u4e0e\u53ef\u56de\u653e\u8c03\u8bd5\u5e73\u53f0\uff1a\u5f55\u5236\u3001\u56de\u653e\u3001\u5bf9\u6bd4\u3001\u56de\u5f52\u7528\u4f8b\u3002",
     "id": "wynxing/agent-flight-recorder",
     "language": "Python",
@@ -52,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-09-13T15:49:06Z",
     "url": "https://github.com/wynxing/agent-flight-recorder"
-  },
-  {
-    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
-    "id": "ChelseaKR/sprout",
-    "language": "Python",
-    "name": "ChelseaKR/sprout",
-    "stars": 1,
-    "updated_at": "2026-09-13T15:47:51Z",
-    "url": "https://github.com/ChelseaKR/sprout"
   },
   {
     "description": "Forensic audit scanner for SWE-bench & DeepSWE v1.1 containers detecting .git reflog leakage and test harness spoofing.",
