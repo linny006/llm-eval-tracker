@@ -1,5 +1,14 @@
 [
   {
+    "description": "Replay, debug and evaluate AI agents like software \u2014 AI Agent \u7684\u9ed1\u5323\u5b50\u4e0e\u53ef\u56de\u653e\u8c03\u8bd5\u5e73\u53f0\uff1a\u5f55\u5236\u3001\u56de\u653e\u3001\u5bf9\u6bd4\u3001\u56de\u5f52\u7528\u4f8b\u3002",
+    "id": "wynxing/agent-flight-recorder",
+    "language": "Python",
+    "name": "wynxing/agent-flight-recorder",
+    "stars": 0,
+    "updated_at": "2026-09-13T10:23:18Z",
+    "url": "https://github.com/wynxing/agent-flight-recorder"
+  },
+  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -32,7 +41,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25057,
-    "updated_at": "2026-09-13T10:13:17Z",
+    "updated_at": "2026-09-13T10:25:58Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -85,7 +94,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11436,
+    "stars": 11435,
     "updated_at": "2026-09-12T22:41:56Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-02T02:48:00Z",
     "url": "https://github.com/coffee-converter/onthemoney"
-  },
-  {
-    "description": "\ud83d\udea6 Behavioral CI/CD for AI Agents. Stop shipping broken agents to production.roduction-grade evaluation gates and statist",
-    "id": "pisigmac/evalgate",
-    "language": "Python",
-    "name": "pisigmac/evalgate",
-    "stars": 0,
-    "updated_at": "2026-09-02T02:33:06Z",
-    "url": "https://github.com/pisigmac/evalgate"
   }
 ]
