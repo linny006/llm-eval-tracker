@@ -1,11 +1,20 @@
 [
   {
+    "description": "\u957f\u6587\u672c\u751f\u6210\u7ed3\u679c\u7684 LLM-as-judge \u8bc4\u6d4b\u5de5\u5177\uff1a5 \u7ef4\u6253\u5206 + \u9010\u5b57\u8bc1\u636e\u53e5 + \u88c1\u5224\u81ea\u8eab\u7684\u53ef\u9760\u6027\u6821\u9a8c\u62a5\u544a\uff08\u4e00\u81f4\u6027 / \u4e00\u81f4\u7387 / \u4f4d\u7f6e\u504f\u5dee\uff09",
+    "id": "AndyZhang666666/llm-output-eval",
+    "language": "TypeScript",
+    "name": "AndyZhang666666/llm-output-eval",
+    "stars": 0,
+    "updated_at": "2026-09-13T05:06:42Z",
+    "url": "https://github.com/AndyZhang666666/llm-output-eval"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25054,
-    "updated_at": "2026-09-13T04:56:48Z",
+    "updated_at": "2026-09-13T05:04:54Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -70,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-09-12T19:23:39Z",
     "url": "https://github.com/mrodgersjs-web/rig-enhanced-evals"
-  },
-  {
-    "description": "\u957f\u6587\u672c\u751f\u6210\u7ed3\u679c\u7684 LLM-as-judge \u8bc4\u6d4b\u5de5\u5177\uff1a5 \u7ef4\u6253\u5206 + \u9010\u5b57\u8bc1\u636e\u53e5 + \u88c1\u5224\u81ea\u8eab\u7684\u53ef\u9760\u6027\u6821\u9a8c\u62a5\u544a\uff08\u4e00\u81f4\u6027 / \u4e00\u81f4\u7387 / \u4f4d\u7f6e\u504f\u5dee\uff09",
-    "id": "AndyZhang666666/llm-output-eval",
-    "language": "TypeScript",
-    "name": "AndyZhang666666/llm-output-eval",
-    "stars": 0,
-    "updated_at": "2026-09-12T18:44:01Z",
-    "url": "https://github.com/AndyZhang666666/llm-output-eval"
   },
   {
     "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
