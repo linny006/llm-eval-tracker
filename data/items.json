@@ -1,11 +1,20 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25056,
+    "updated_at": "2026-09-13T10:56:31Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
     "id": "decimal-labs/decimalai-python",
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-09-13T10:33:49Z",
+    "updated_at": "2026-09-13T10:50:11Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
@@ -34,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-09-13T09:40:42Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25057,
-    "updated_at": "2026-09-13T10:45:09Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Personal site with two interactive LLM eval harness demos",
@@ -94,7 +94,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11436,
+    "stars": 11437,
     "updated_at": "2026-09-12T22:41:56Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
