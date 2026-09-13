@@ -1,11 +1,20 @@
 [
   {
+    "description": "pip install gauntlet-evals \u00b7 v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against",
+    "id": "ChelseaKR/gauntlet",
+    "language": "Python",
+    "name": "ChelseaKR/gauntlet",
+    "stars": 1,
+    "updated_at": "2026-09-13T16:26:49Z",
+    "url": "https://github.com/ChelseaKR/gauntlet"
+  },
+  {
     "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
     "id": "ChelseaKR/sprout",
     "language": "Python",
     "name": "ChelseaKR/sprout",
     "stars": 1,
-    "updated_at": "2026-09-13T16:04:47Z",
+    "updated_at": "2026-09-13T16:22:22Z",
     "url": "https://github.com/ChelseaKR/sprout"
   },
   {
@@ -14,17 +23,8 @@
     "language": "HTML",
     "name": "ChelseaKR/fare-policy-assistant",
     "stars": 1,
-    "updated_at": "2026-09-13T16:04:37Z",
+    "updated_at": "2026-09-13T16:26:32Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
-  },
-  {
-    "description": "pip install gauntlet-evals \u00b7 v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against",
-    "id": "ChelseaKR/gauntlet",
-    "language": "Python",
-    "name": "ChelseaKR/gauntlet",
-    "stars": 1,
-    "updated_at": "2026-09-13T15:59:58Z",
-    "url": "https://github.com/ChelseaKR/gauntlet"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -32,7 +32,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25060,
-    "updated_at": "2026-09-13T15:56:28Z",
+    "updated_at": "2026-09-13T16:17:50Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -248,7 +248,7 @@
     "language": "Python",
     "name": "ChelseaKR/plumbline",
     "stars": 1,
-    "updated_at": "2026-09-13T02:23:06Z",
+    "updated_at": "2026-09-13T16:23:11Z",
     "url": "https://github.com/ChelseaKR/plumbline"
   },
   {
