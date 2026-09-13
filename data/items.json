@@ -5,7 +5,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25063,
-    "updated_at": "2026-09-13T20:55:31Z",
+    "updated_at": "2026-09-13T21:09:00Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -16,6 +16,15 @@
     "stars": 1,
     "updated_at": "2026-09-13T20:37:21Z",
     "url": "https://github.com/ChelseaKR/plumbline"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11442,
+    "updated_at": "2026-09-13T20:21:40Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
@@ -88,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-09-13T17:05:46Z",
     "url": "https://github.com/ChelseaKR/gauntlet"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11441,
-    "updated_at": "2026-09-13T20:21:40Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Personal site with two interactive LLM eval harness demos",
