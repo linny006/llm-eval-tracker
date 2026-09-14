@@ -1,11 +1,20 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11456,
+    "updated_at": "2026-09-14T15:25:18Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3549,
-    "updated_at": "2026-09-14T14:17:22Z",
+    "updated_at": "2026-09-14T15:17:42Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -34,15 +43,6 @@
     "stars": 27,
     "updated_at": "2026-09-14T13:24:05Z",
     "url": "https://github.com/sx4im/skillcheck"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11455,
-    "updated_at": "2026-09-14T15:05:30Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Personal site with two interactive LLM eval harness demos",
@@ -113,7 +113,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25094,
-    "updated_at": "2026-09-14T07:03:35Z",
+    "updated_at": "2026-09-14T15:20:05Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
