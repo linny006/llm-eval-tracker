@@ -1,5 +1,14 @@
 [
   {
+    "description": "Replay, debug and evaluate AI agents like software \u2014 AI Agent \u7684\u9ed1\u5323\u5b50\u4e0e\u53ef\u56de\u653e\u8c03\u8bd5\u5e73\u53f0\uff1a\u5f55\u5236\u3001\u56de\u653e\u3001\u5bf9\u6bd4\u3001\u56de\u5f52\u7528\u4f8b\u3002",
+    "id": "wynxing/agent-flight-recorder",
+    "language": "Python",
+    "name": "wynxing/agent-flight-recorder",
+    "stars": 0,
+    "updated_at": "2026-09-14T10:14:04Z",
+    "url": "https://github.com/wynxing/agent-flight-recorder"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T09:21:28Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Replay, debug and evaluate AI agents like software \u2014 AI Agent \u7684\u9ed1\u5323\u5b50\u4e0e\u53ef\u56de\u653e\u8c03\u8bd5\u5e73\u53f0\uff1a\u5f55\u5236\u3001\u56de\u653e\u3001\u5bf9\u6bd4\u3001\u56de\u5f52\u7528\u4f8b\u3002",
-    "id": "wynxing/agent-flight-recorder",
-    "language": "Python",
-    "name": "wynxing/agent-flight-recorder",
-    "stars": 0,
-    "updated_at": "2026-09-14T09:24:39Z",
-    "url": "https://github.com/wynxing/agent-flight-recorder"
   },
   {
     "description": "Personal site with two interactive LLM eval harness demos",
