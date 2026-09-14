@@ -1,5 +1,14 @@
 [
   {
+    "description": "Replay, debug and evaluate AI agents like software \u2014 AI Agent \u7684\u9ed1\u5323\u5b50\u4e0e\u53ef\u56de\u653e\u8c03\u8bd5\u5e73\u53f0\uff1a\u5f55\u5236\u3001\u56de\u653e\u3001\u5bf9\u6bd4\u3001\u56de\u5f52\u7528\u4f8b\u3002",
+    "id": "wynxing/agent-flight-recorder",
+    "language": "Python",
+    "name": "wynxing/agent-flight-recorder",
+    "stars": 0,
+    "updated_at": "2026-09-14T05:24:01Z",
+    "url": "https://github.com/wynxing/agent-flight-recorder"
+  },
+  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -23,7 +32,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25077,
-    "updated_at": "2026-09-14T05:05:40Z",
+    "updated_at": "2026-09-14T05:25:28Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -43,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-09-14T03:47:59Z",
     "url": "https://github.com/ChelseaKR/gauntlet"
-  },
-  {
-    "description": "Replay, debug and evaluate AI agents like software \u2014 AI Agent \u7684\u9ed1\u5323\u5b50\u4e0e\u53ef\u56de\u653e\u8c03\u8bd5\u5e73\u53f0\uff1a\u5f55\u5236\u3001\u56de\u653e\u3001\u5bf9\u6bd4\u3001\u56de\u5f52\u7528\u4f8b\u3002",
-    "id": "wynxing/agent-flight-recorder",
-    "language": "Python",
-    "name": "wynxing/agent-flight-recorder",
-    "stars": 0,
-    "updated_at": "2026-09-14T04:00:56Z",
-    "url": "https://github.com/wynxing/agent-flight-recorder"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
