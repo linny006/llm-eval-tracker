@@ -1,11 +1,20 @@
 [
   {
+    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
+    "id": "saddled-panicattack529/idea-evaluation-pipeline",
+    "language": "\u2014",
+    "name": "saddled-panicattack529/idea-evaluation-pipeline",
+    "stars": 0,
+    "updated_at": "2026-09-14T09:21:28Z",
+    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
+  },
+  {
     "description": "Replay, debug and evaluate AI agents like software \u2014 AI Agent \u7684\u9ed1\u5323\u5b50\u4e0e\u53ef\u56de\u653e\u8c03\u8bd5\u5e73\u53f0\uff1a\u5f55\u5236\u3001\u56de\u653e\u3001\u5bf9\u6bd4\u3001\u56de\u5f52\u7528\u4f8b\u3002",
     "id": "wynxing/agent-flight-recorder",
     "language": "Python",
     "name": "wynxing/agent-flight-recorder",
     "stars": 0,
-    "updated_at": "2026-09-14T08:51:29Z",
+    "updated_at": "2026-09-14T09:24:39Z",
     "url": "https://github.com/wynxing/agent-flight-recorder"
   },
   {
@@ -68,7 +77,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5814,
-    "updated_at": "2026-09-14T09:04:09Z",
+    "updated_at": "2026-09-14T09:26:19Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -243,15 +252,6 @@
     "url": "https://github.com/ahmedmoha9088/PhoenixFish"
   },
   {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-09-12T06:50:34Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
     "description": "A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance?",
     "id": "sx4im/skillcheck",
     "language": "TypeScript",
@@ -275,7 +275,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 350,
-    "updated_at": "2026-09-14T08:37:04Z",
+    "updated_at": "2026-09-14T09:17:31Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
