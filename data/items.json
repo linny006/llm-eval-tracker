@@ -1,11 +1,20 @@
 [
   {
+    "description": "Personal site with two interactive LLM eval harness demos",
+    "id": "AndyZhang666666/AndyZhang666666.github.io",
+    "language": "CSS",
+    "name": "AndyZhang666666/AndyZhang666666.github.io",
+    "stars": 0,
+    "updated_at": "2026-09-14T03:12:13Z",
+    "url": "https://github.com/AndyZhang666666/AndyZhang666666.github.io"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25075,
-    "updated_at": "2026-09-14T02:56:29Z",
+    "updated_at": "2026-09-14T03:15:13Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -117,15 +126,6 @@
     "url": "https://github.com/ChelseaKR/gauntlet"
   },
   {
-    "description": "Personal site with two interactive LLM eval harness demos",
-    "id": "AndyZhang666666/AndyZhang666666.github.io",
-    "language": "JavaScript",
-    "name": "AndyZhang666666/AndyZhang666666.github.io",
-    "stars": 0,
-    "updated_at": "2026-09-13T11:56:02Z",
-    "url": "https://github.com/AndyZhang666666/AndyZhang666666.github.io"
-  },
-  {
     "description": "\u957f\u6587\u672c LLM \u8f93\u51fa\u8bc4\u6d4b\u5de5\u5177\uff08\u7b2c\u4e8c\u7248\uff09\uff1a\u4e24\u7248 prompt \u8fde\u8dd1\u5bf9\u6bd4 + Bad Case \u5bfc\u51fa + \u9010\u5b57\u8bc1\u636e\u62bd\u53d6\uff0c\u9644 30 \u6761\u91d1\u6807\u96c6\u88c1\u5224\u6821\u9a8c",
     "id": "AndyZhang666666/llm-output-eval",
     "language": "TypeScript",
@@ -180,6 +180,15 @@
     "url": "https://github.com/mrodgersjs-web/rig-enhanced-evals"
   },
   {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3548,
+    "updated_at": "2026-09-12T15:52:58Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
     "id": "lftherios/session-link",
     "language": "Go",
@@ -205,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-09-12T14:19:47Z",
     "url": "https://github.com/AndyZhang666666/creative-eval"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3547,
-    "updated_at": "2026-09-12T15:52:58Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
