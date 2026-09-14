@@ -4,9 +4,18 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25071,
-    "updated_at": "2026-09-14T01:44:46Z",
+    "stars": 25072,
+    "updated_at": "2026-09-14T02:04:31Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5814,
+    "updated_at": "2026-09-14T01:36:53Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "wynxing/agent-flight-recorder",
     "stars": 0,
-    "updated_at": "2026-09-14T00:29:43Z",
+    "updated_at": "2026-09-14T02:06:38Z",
     "url": "https://github.com/wynxing/agent-flight-recorder"
   },
   {
@@ -304,15 +313,6 @@
     "stars": 2,
     "updated_at": "2026-09-09T11:22:53Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5813,
-    "updated_at": "2026-09-14T01:36:53Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Verifier-gated support resolution engine \u2014 answers from your own docs with page citations, escalates what it can't verif",
