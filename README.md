@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-14 13:30 UTC
+> ⏰ Last updated: 2026-09-14 13:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-09-14 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 2 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 27 | TypeScript | 2026-09-14 | A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance? |
-| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11454 | Python | 2026-09-14 | AI Observability & Evaluation |
-| 4 | [AndyZhang666666/AndyZhang666666.github.io](https://github.com/AndyZhang666666/AndyZhang666666.github.io) | 0 | CSS | 2026-09-14 | Personal site with two interactive LLM eval harness demos |
-| 5 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 350 | TypeScript | 2026-09-14 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 6 | [wynxing/agent-flight-recorder](https://github.com/wynxing/agent-flight-recorder) | 0 | Python | 2026-09-14 | Replay, debug and evaluate AI agents like software — AI Agent 的黑匣子与可回放调试平台：录制、回放、对比、回归用例。 |
-| 7 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5815 | Python | 2026-09-14 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 8 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-09-14 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
+| 1 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-09-14 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
+| 2 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-09-14 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
+| 3 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 27 | TypeScript | 2026-09-14 | A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance? |
+| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11454 | Python | 2026-09-14 | AI Observability & Evaluation |
+| 5 | [AndyZhang666666/AndyZhang666666.github.io](https://github.com/AndyZhang666666/AndyZhang666666.github.io) | 0 | CSS | 2026-09-14 | Personal site with two interactive LLM eval harness demos |
+| 6 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 350 | TypeScript | 2026-09-14 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 7 | [wynxing/agent-flight-recorder](https://github.com/wynxing/agent-flight-recorder) | 0 | Python | 2026-09-14 | Replay, debug and evaluate AI agents like software — AI Agent 的黑匣子与可回放调试平台：录制、回放、对比、回归用例。 |
+| 8 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5815 | Python | 2026-09-14 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 9 | [SmartStudio/baize-prompts](https://github.com/SmartStudio/baize-prompts) | 1 | — | 2026-09-14 | 没跑过 = 不出厂。no eval, no ship. |
 | 10 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-09-14 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
 | 11 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-09-14 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
