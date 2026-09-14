@@ -4,9 +4,18 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25073,
-    "updated_at": "2026-09-14T02:45:07Z",
+    "stars": 25075,
+    "updated_at": "2026-09-14T02:56:29Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Replay, debug and evaluate AI agents like software \u2014 AI Agent \u7684\u9ed1\u5323\u5b50\u4e0e\u53ef\u56de\u653e\u8c03\u8bd5\u5e73\u53f0\uff1a\u5f55\u5236\u3001\u56de\u653e\u3001\u5bf9\u6bd4\u3001\u56de\u5f52\u7528\u4f8b\u3002",
+    "id": "wynxing/agent-flight-recorder",
+    "language": "Python",
+    "name": "wynxing/agent-flight-recorder",
+    "stars": 0,
+    "updated_at": "2026-09-14T02:50:38Z",
+    "url": "https://github.com/wynxing/agent-flight-recorder"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -34,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-09-14T01:10:36Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "Replay, debug and evaluate AI agents like software \u2014 AI Agent \u7684\u9ed1\u5323\u5b50\u4e0e\u53ef\u56de\u653e\u8c03\u8bd5\u5e73\u53f0\uff1a\u5f55\u5236\u3001\u56de\u653e\u3001\u5bf9\u6bd4\u3001\u56de\u5f52\u7528\u4f8b\u3002",
-    "id": "wynxing/agent-flight-recorder",
-    "language": "Python",
-    "name": "wynxing/agent-flight-recorder",
-    "stars": 0,
-    "updated_at": "2026-09-14T02:06:38Z",
-    "url": "https://github.com/wynxing/agent-flight-recorder"
   },
   {
     "description": "",
