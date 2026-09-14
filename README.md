@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-14 01:00 UTC
+> ⏰ Last updated: 2026-09-14 01:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25068 | TypeScript | 2026-09-14 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 2 | [wynxing/agent-flight-recorder](https://github.com/wynxing/agent-flight-recorder) | 0 | Python | 2026-09-14 | Replay, debug and evaluate AI agents like software — AI Agent 的黑匣子与可回放调试平台：录制、回放、对比、回归用例。 |
-| 3 | [isatimur/book-mash](https://github.com/isatimur/book-mash) | 0 | Python | 2026-09-13 |  |
-| 4 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-09-13 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
-| 5 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-09-13 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
+| 1 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-09-14 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
+| 2 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-09-14 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
+| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25068 | TypeScript | 2026-09-14 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 4 | [wynxing/agent-flight-recorder](https://github.com/wynxing/agent-flight-recorder) | 0 | Python | 2026-09-14 | Replay, debug and evaluate AI agents like software — AI Agent 的黑匣子与可回放调试平台：录制、回放、对比、回归用例。 |
+| 5 | [isatimur/book-mash](https://github.com/isatimur/book-mash) | 0 | Python | 2026-09-13 |  |
 | 6 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-09-13 | v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic |
 | 7 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11443 | Python | 2026-09-13 | AI Observability & Evaluation |
 | 8 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-09-13 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
@@ -70,7 +70,7 @@ expired items removed — so you can rely on what you see being current.
 | 26 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-09-12 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 27 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 27 | TypeScript | 2026-09-12 | A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance? |
 | 28 | [T9113/eval-llm-hallucination-detector](https://github.com/T9113/eval-llm-hallucination-detector) | 0 | Python | 2026-09-11 | 🧪 Automated evaluation pipeline for detecting factual hallucinations, toxicity, and answer relevance in LLM generation |
-| 29 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 350 | TypeScript | 2026-09-13 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 29 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 350 | TypeScript | 2026-09-14 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 30 | [IonDen/mlx-quant-fidelity](https://github.com/IonDen/mlx-quant-fidelity) | 4 | Python | 2026-09-10 | Measure quantization quality loss on Apple Silicon MLX — KL divergence, top-token flip rate and perplexity delta for KV- |
 | 31 | [pdxlab/trustmodel-mcp-server](https://github.com/pdxlab/trustmodel-mcp-server) | 0 | TypeScript | 2026-09-10 | TrustModel MCP Server — trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t |
 | 32 | [AyushCipher/Patch-Pilot](https://github.com/AyushCipher/Patch-Pilot) | 0 | Python | 2026-09-09 | Autonomous code-repair ReAct agent that reads failing pytest suites, forms root-cause hypotheses, writes patches, and re |
