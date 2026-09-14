@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-14 22:45 UTC
+> ⏰ Last updated: 2026-09-14 23:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25100 | TypeScript | 2026-09-14 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 2 | [wynxing/agent-flight-recorder](https://github.com/wynxing/agent-flight-recorder) | 0 | Python | 2026-09-14 | Replay, debug and evaluate AI agents like software — AI Agent 的黑匣子与可回放调试平台：录制、回放、对比、回归用例。 |
-| 3 | [cannonade-ai/cannonade](https://github.com/cannonade-ai/cannonade) | 2 | TypeScript | 2026-09-14 | Local-first desktop app for building LLM test suites and running them against many local or cloud models at once |
-| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11459 | Python | 2026-09-14 | AI Observability & Evaluation |
-| 5 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-09-14 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25101 | TypeScript | 2026-09-14 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 2 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-09-14 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
+| 3 | [wynxing/agent-flight-recorder](https://github.com/wynxing/agent-flight-recorder) | 0 | Python | 2026-09-14 | Replay, debug and evaluate AI agents like software — AI Agent 的黑匣子与可回放调试平台：录制、回放、对比、回归用例。 |
+| 4 | [cannonade-ai/cannonade](https://github.com/cannonade-ai/cannonade) | 2 | TypeScript | 2026-09-14 | Local-first desktop app for building LLM test suites and running them against many local or cloud models at once |
+| 5 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11459 | Python | 2026-09-14 | AI Observability & Evaluation |
 | 6 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-09-14 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
 | 7 | [truera/trulens](https://github.com/truera/trulens) | 3549 | Python | 2026-09-14 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 8 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 27 | TypeScript | 2026-09-14 | A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance? |
@@ -82,7 +82,7 @@ expired items removed — so you can rely on what you see being current.
 | 38 | [zahid23saim/llm-eval-harness](https://github.com/zahid23saim/llm-eval-harness) | 1 | Python | 2026-09-08 | A tiny, dependency-free Python harness for scoring LLM answers against a gold set (exact / contains / numeric matching,  |
 | 39 | [jafeeri/llm-eval-bench](https://github.com/jafeeri/llm-eval-bench) | 0 | Python | 2026-09-08 | Score LLM outputs and block quality regressions in CI. Deterministic checks first, a calibrated LLM judge where needed.  |
 | 40 | [fabio-barboza/logistic-platform](https://github.com/fabio-barboza/logistic-platform) | 0 | Java | 2026-09-07 | Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring Sec |
-| 41 | [sunxin-ai/dsh-design-qa](https://github.com/sunxin-ai/dsh-design-qa) | 43 | JavaScript | 2026-09-07 | Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches  |
+| 41 | [sunxin-ai/dsh-design-qa](https://github.com/sunxin-ai/dsh-design-qa) | 44 | JavaScript | 2026-09-07 | Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches  |
 | 42 | [sailikhithk/eval-infra-for-agents](https://github.com/sailikhithk/eval-infra-for-agents) | 0 | Jupyter Notebook | 2026-09-07 | Field guide to building production-grade evaluation infrastructure for LLM agent systems. Based on real production work  |
 | 43 | [CloudsDocker/AI-FDE-Playbook](https://github.com/CloudsDocker/AI-FDE-Playbook) | 1 | Python | 2026-09-06 | Production reference architecture for Conversational Financial QA (ConvFinQA), AST-sandboxed execution, and AI Forward-D |
 | 44 | [lordbasilaiassistant-sudo/company-bench](https://github.com/lordbasilaiassistant-sudo/company-bench) | 3 | JavaScript | 2026-09-06 | Open-source model interview benchmark: 50 roles, 414 deterministic checks, 146 planted traps. Versioned runs and auditab |

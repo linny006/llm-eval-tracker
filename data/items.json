@@ -4,9 +4,18 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25100,
-    "updated_at": "2026-09-14T22:44:47Z",
+    "stars": 25101,
+    "updated_at": "2026-09-14T22:59:25Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
+    "id": "saddled-panicattack529/idea-evaluation-pipeline",
+    "language": "\u2014",
+    "name": "saddled-panicattack529/idea-evaluation-pipeline",
+    "stars": 0,
+    "updated_at": "2026-09-14T22:47:04Z",
+    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
     "description": "Replay, debug and evaluate AI agents like software \u2014 AI Agent \u7684\u9ed1\u5323\u5b50\u4e0e\u53ef\u56de\u653e\u8c03\u8bd5\u5e73\u53f0\uff1a\u5f55\u5236\u3001\u56de\u653e\u3001\u5bf9\u6bd4\u3001\u56de\u5f52\u7528\u4f8b\u3002",
@@ -32,17 +41,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11459,
-    "updated_at": "2026-09-14T22:12:13Z",
+    "updated_at": "2026-09-14T22:58:17Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-09-14T19:19:19Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
@@ -364,7 +364,7 @@
     "id": "sunxin-ai/dsh-design-qa",
     "language": "JavaScript",
     "name": "sunxin-ai/dsh-design-qa",
-    "stars": 43,
+    "stars": 44,
     "updated_at": "2026-09-07T05:34:13Z",
     "url": "https://github.com/sunxin-ai/dsh-design-qa"
   },
