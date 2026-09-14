@@ -5,8 +5,17 @@
     "language": "CSS",
     "name": "AndyZhang666666/AndyZhang666666.github.io",
     "stars": 0,
-    "updated_at": "2026-09-14T08:15:07Z",
+    "updated_at": "2026-09-14T08:23:24Z",
     "url": "https://github.com/AndyZhang666666/AndyZhang666666.github.io"
+  },
+  {
+    "description": "\u6ca1\u8dd1\u8fc7 = \u4e0d\u51fa\u5382\u3002no eval, no ship.",
+    "id": "SmartStudio/baize-prompts",
+    "language": "\u2014",
+    "name": "SmartStudio/baize-prompts",
+    "stars": 1,
+    "updated_at": "2026-09-14T08:22:31Z",
+    "url": "https://github.com/SmartStudio/baize-prompts"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
@@ -349,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T21:26:12Z",
     "url": "https://github.com/fabio-barboza/logistic-platform"
-  },
-  {
-    "description": "\u6ca1\u8dd1\u8fc7 = \u4e0d\u51fa\u5382\u3002no eval, no ship.",
-    "id": "SmartStudio/baize-prompts",
-    "language": "\u2014",
-    "name": "SmartStudio/baize-prompts",
-    "stars": 1,
-    "updated_at": "2026-09-07T12:32:58Z",
-    "url": "https://github.com/SmartStudio/baize-prompts"
   },
   {
     "description": "Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches ",
