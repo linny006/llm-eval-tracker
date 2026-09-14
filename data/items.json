@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11454,
+    "updated_at": "2026-09-14T12:56:36Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Personal site with two interactive LLM eval harness demos",
     "id": "AndyZhang666666/AndyZhang666666.github.io",
     "language": "CSS",
@@ -85,7 +94,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25089,
+    "stars": 25090,
     "updated_at": "2026-09-14T07:03:35Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -115,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-09-13T20:37:21Z",
     "url": "https://github.com/ChelseaKR/plumbline"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11453,
-    "updated_at": "2026-09-14T12:29:32Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
