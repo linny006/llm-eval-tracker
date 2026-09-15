@@ -1,5 +1,32 @@
 [
   {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3552,
+    "updated_at": "2026-09-15T14:32:52Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 350,
+    "updated_at": "2026-09-15T14:32:21Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25129,
+    "updated_at": "2026-09-15T14:37:11Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -9,24 +36,6 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25128,
-    "updated_at": "2026-09-15T14:21:07Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3552,
-    "updated_at": "2026-09-15T13:44:40Z",
-    "url": "https://github.com/truera/trulens"
-  },
-  {
     "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
     "id": "goldbarth/chartula-evals",
     "language": "Python",
@@ -34,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T10:46:37Z",
     "url": "https://github.com/goldbarth/chartula-evals"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 350,
-    "updated_at": "2026-09-15T10:43:50Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "toolfit finds the specific places your MCP server confuses models, rewrites the tool descriptions and schemas to fix the",
@@ -130,7 +130,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5816,
+    "stars": 5815,
     "updated_at": "2026-09-14T15:11:33Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },

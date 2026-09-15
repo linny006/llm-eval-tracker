@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-15 14:30 UTC
+> ⏰ Last updated: 2026-09-15 14:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11469 | Python | 2026-09-15 | AI Observability & Evaluation |
-| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25128 | TypeScript | 2026-09-15 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 3 | [truera/trulens](https://github.com/truera/trulens) | 3552 | Python | 2026-09-15 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 4 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-15 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
-| 5 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 350 | TypeScript | 2026-09-15 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 1 | [truera/trulens](https://github.com/truera/trulens) | 3552 | Python | 2026-09-15 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 2 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 350 | TypeScript | 2026-09-15 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25129 | TypeScript | 2026-09-15 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11469 | Python | 2026-09-15 | AI Observability & Evaluation |
+| 5 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-15 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
 | 6 | [sreshtalluri/toolfit](https://github.com/sreshtalluri/toolfit) | 0 | Python | 2026-09-15 | toolfit finds the specific places your MCP server confuses models, rewrites the tool descriptions and schemas to fix the |
 | 7 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-15 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 8 | [SmartStudio/baize-prompts](https://github.com/SmartStudio/baize-prompts) | 1 | — | 2026-09-15 | 没跑过 = 不出厂。no eval, no ship. |
@@ -56,7 +56,7 @@ expired items removed — so you can rely on what you see being current.
 | 12 | [Ed-Marcavage/awesome-eval-engineering](https://github.com/Ed-Marcavage/awesome-eval-engineering) | 0 | — | 2026-09-15 | Awesome list for eval engineering (evals engineering): tools that automate LLM evals and agent evals, turn traces into t |
 | 13 | [wynxing/agent-flight-recorder](https://github.com/wynxing/agent-flight-recorder) | 0 | Python | 2026-09-15 | Replay, debug and evaluate AI agents like software — AI Agent 的黑匣子与可回放调试平台：录制、回放、对比、回归用例。 |
 | 14 | [cannonade-ai/cannonade](https://github.com/cannonade-ai/cannonade) | 2 | TypeScript | 2026-09-14 | Local-first desktop app for building LLM test suites and running them against many local or cloud models at once |
-| 15 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5816 | Python | 2026-09-14 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 15 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5815 | Python | 2026-09-14 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 16 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 27 | TypeScript | 2026-09-14 | A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance? |
 | 17 | [AndyZhang666666/AndyZhang666666.github.io](https://github.com/AndyZhang666666/AndyZhang666666.github.io) | 0 | CSS | 2026-09-14 | Personal site with two interactive LLM eval harness demos |
 | 18 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-09-14 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
