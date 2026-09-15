@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-15 01:40 UTC
+> ⏰ Last updated: 2026-09-15 01:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25102 | TypeScript | 2026-09-15 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 2 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-09-15 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
-| 3 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-09-15 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11462 | Python | 2026-09-15 | AI Observability & Evaluation |
-| 5 | [wynxing/agent-flight-recorder](https://github.com/wynxing/agent-flight-recorder) | 0 | Python | 2026-09-15 | Replay, debug and evaluate AI agents like software — AI Agent 的黑匣子与可回放调试平台：录制、回放、对比、回归用例。 |
+| 1 | [wynxing/agent-flight-recorder](https://github.com/wynxing/agent-flight-recorder) | 0 | Python | 2026-09-15 | Replay, debug and evaluate AI agents like software — AI Agent 的黑匣子与可回放调试平台：录制、回放、对比、回归用例。 |
+| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25102 | TypeScript | 2026-09-15 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 3 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-09-15 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
+| 4 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-09-15 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
+| 5 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11463 | Python | 2026-09-15 | AI Observability & Evaluation |
 | 6 | [cannonade-ai/cannonade](https://github.com/cannonade-ai/cannonade) | 2 | TypeScript | 2026-09-14 | Local-first desktop app for building LLM test suites and running them against many local or cloud models at once |
 | 7 | [truera/trulens](https://github.com/truera/trulens) | 3550 | Python | 2026-09-14 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 8 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 27 | TypeScript | 2026-09-14 | A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance? |
-| 9 | [AndyZhang666666/AndyZhang666666.github.io](https://github.com/AndyZhang666666/AndyZhang666666.github.io) | 0 | CSS | 2026-09-14 | Personal site with two interactive LLM eval harness demos |
-| 10 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 350 | TypeScript | 2026-09-14 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 11 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5815 | Python | 2026-09-14 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 8 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5814 | Python | 2026-09-14 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 9 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 27 | TypeScript | 2026-09-14 | A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance? |
+| 10 | [AndyZhang666666/AndyZhang666666.github.io](https://github.com/AndyZhang666666/AndyZhang666666.github.io) | 0 | CSS | 2026-09-14 | Personal site with two interactive LLM eval harness demos |
+| 11 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 350 | TypeScript | 2026-09-14 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 12 | [SmartStudio/baize-prompts](https://github.com/SmartStudio/baize-prompts) | 1 | — | 2026-09-14 | 没跑过 = 不出厂。no eval, no ship. |
 | 13 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-09-14 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
 | 14 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-09-14 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
