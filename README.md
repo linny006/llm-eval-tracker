@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-15 19:00 UTC
+> ⏰ Last updated: 2026-09-15 19:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,10 +43,10 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [IcodeNet/eval-dashboards](https://github.com/IcodeNet/eval-dashboards) | 1 | TypeScript | 2026-09-15 | Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style — bring y |
-| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25138 | TypeScript | 2026-09-15 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25142 | TypeScript | 2026-09-15 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11472 | Python | 2026-09-15 | AI Observability & Evaluation |
 | 4 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-15 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
-| 5 | [truera/trulens](https://github.com/truera/trulens) | 3552 | Python | 2026-09-15 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 5 | [truera/trulens](https://github.com/truera/trulens) | 3553 | Python | 2026-09-15 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 6 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 350 | TypeScript | 2026-09-15 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 7 | [sreshtalluri/toolfit](https://github.com/sreshtalluri/toolfit) | 0 | Python | 2026-09-15 | toolfit finds the specific places your MCP server confuses models, rewrites the tool descriptions and schemas to fix the |
 | 8 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-15 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
@@ -57,7 +57,7 @@ expired items removed — so you can rely on what you see being current.
 | 13 | [Ed-Marcavage/awesome-eval-engineering](https://github.com/Ed-Marcavage/awesome-eval-engineering) | 0 | — | 2026-09-15 | Awesome list for eval engineering (evals engineering): tools that automate LLM evals and agent evals, turn traces into t |
 | 14 | [wynxing/agent-flight-recorder](https://github.com/wynxing/agent-flight-recorder) | 0 | Python | 2026-09-15 | Replay, debug and evaluate AI agents like software — AI Agent 的黑匣子与可回放调试平台：录制、回放、对比、回归用例。 |
 | 15 | [cannonade-ai/cannonade](https://github.com/cannonade-ai/cannonade) | 2 | TypeScript | 2026-09-14 | Local-first desktop app for building LLM test suites and running them against many local or cloud models at once |
-| 16 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5815 | Python | 2026-09-14 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 16 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5816 | Python | 2026-09-14 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 17 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 27 | TypeScript | 2026-09-15 | A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance? |
 | 18 | [AndyZhang666666/AndyZhang666666.github.io](https://github.com/AndyZhang666666/AndyZhang666666.github.io) | 0 | CSS | 2026-09-14 | Personal site with two interactive LLM eval harness demos |
 | 19 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-09-14 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
