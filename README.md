@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-15 05:45 UTC
+> ⏰ Last updated: 2026-09-15 06:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-09-15 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
-| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25107 | TypeScript | 2026-09-15 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 3 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-09-15 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
-| 4 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-09-15 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 5 | [Ed-Marcavage/awesome-eval-engineering](https://github.com/Ed-Marcavage/awesome-eval-engineering) | 0 | — | 2026-09-15 | Awesome list for eval engineering (evals engineering): tools that automate LLM evals and agent evals, turn traces into t |
-| 6 | [wynxing/agent-flight-recorder](https://github.com/wynxing/agent-flight-recorder) | 0 | Python | 2026-09-15 | Replay, debug and evaluate AI agents like software — AI Agent 的黑匣子与可回放调试平台：录制、回放、对比、回归用例。 |
-| 7 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11463 | Python | 2026-09-15 | AI Observability & Evaluation |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25107 | TypeScript | 2026-09-15 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11464 | Python | 2026-09-15 | AI Observability & Evaluation |
+| 3 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-09-15 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
+| 4 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-09-15 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
+| 5 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-09-15 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
+| 6 | [Ed-Marcavage/awesome-eval-engineering](https://github.com/Ed-Marcavage/awesome-eval-engineering) | 0 | — | 2026-09-15 | Awesome list for eval engineering (evals engineering): tools that automate LLM evals and agent evals, turn traces into t |
+| 7 | [wynxing/agent-flight-recorder](https://github.com/wynxing/agent-flight-recorder) | 0 | Python | 2026-09-15 | Replay, debug and evaluate AI agents like software — AI Agent 的黑匣子与可回放调试平台：录制、回放、对比、回归用例。 |
 | 8 | [cannonade-ai/cannonade](https://github.com/cannonade-ai/cannonade) | 2 | TypeScript | 2026-09-14 | Local-first desktop app for building LLM test suites and running them against many local or cloud models at once |
 | 9 | [truera/trulens](https://github.com/truera/trulens) | 3550 | Python | 2026-09-14 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 10 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5814 | Python | 2026-09-14 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
