@@ -1,11 +1,20 @@
 [
   {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3551,
+    "updated_at": "2026-09-15T13:44:40Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25123,
-    "updated_at": "2026-09-15T13:22:01Z",
+    "stars": 25126,
+    "updated_at": "2026-09-15T13:39:01Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -115,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-09-14T21:56:27Z",
     "url": "https://github.com/cannonade-ai/cannonade"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3551,
-    "updated_at": "2026-09-14T15:17:42Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
