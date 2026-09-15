@@ -1,11 +1,20 @@
 [
   {
+    "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
+    "id": "IcodeNet/eval-dashboards",
+    "language": "TypeScript",
+    "name": "IcodeNet/eval-dashboards",
+    "stars": 1,
+    "updated_at": "2026-09-15T18:57:52Z",
+    "url": "https://github.com/IcodeNet/eval-dashboards"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25138,
-    "updated_at": "2026-09-15T18:38:22Z",
+    "updated_at": "2026-09-15T18:48:56Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11472,
-    "updated_at": "2026-09-15T18:43:59Z",
+    "updated_at": "2026-09-15T18:59:04Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -41,7 +50,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 350,
-    "updated_at": "2026-09-15T14:32:21Z",
+    "updated_at": "2026-09-15T18:56:43Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-14T11:02:55Z",
     "url": "https://github.com/valbaudo/awf"
-  },
-  {
-    "description": "Benchmark: do LLMs silently trust plausible-but-wrong tool data?",
-    "id": "Onur45500/SilentTrustBench",
-    "language": "Python",
-    "name": "Onur45500/SilentTrustBench",
-    "stars": 1,
-    "updated_at": "2026-09-03T21:28:40Z",
-    "url": "https://github.com/Onur45500/SilentTrustBench"
   }
 ]
