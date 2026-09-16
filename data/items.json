@@ -1,11 +1,29 @@
 [
   {
+    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
+    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "language": "\u2014",
+    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "stars": 0,
+    "updated_at": "2026-09-16T17:06:16Z",
+    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
+  },
+  {
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-09-16T17:05:36Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 351,
-    "updated_at": "2026-09-16T16:59:42Z",
+    "updated_at": "2026-09-16T17:15:04Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -23,7 +41,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25180,
-    "updated_at": "2026-09-16T16:59:47Z",
+    "updated_at": "2026-09-16T17:05:59Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -31,27 +49,9 @@
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3560,
+    "stars": 3561,
     "updated_at": "2026-09-16T16:13:13Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-09-16T14:55:51Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
-    "id": "bhavya7995/AI_governance",
-    "language": "PowerShell",
-    "name": "bhavya7995/AI_governance",
-    "stars": 1,
-    "updated_at": "2026-09-16T14:55:01Z",
-    "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -59,7 +59,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11489,
-    "updated_at": "2026-09-16T16:49:05Z",
+    "updated_at": "2026-09-16T17:10:26Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -337,7 +337,7 @@
     "id": "NoesisVision/nasde-toolkit",
     "language": "Python",
     "name": "NoesisVision/nasde-toolkit",
-    "stars": 13,
+    "stars": 14,
     "updated_at": "2026-09-12T09:57:16Z",
     "url": "https://github.com/NoesisVision/nasde-toolkit"
   },
