@@ -1,10 +1,19 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 350,
+    "updated_at": "2026-09-16T08:18:53Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25160,
+    "stars": 25162,
     "updated_at": "2026-09-16T07:50:42Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11479,
-    "updated_at": "2026-09-16T08:01:57Z",
+    "updated_at": "2026-09-16T08:30:08Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -79,15 +88,6 @@
     "stars": 3558,
     "updated_at": "2026-09-15T14:32:52Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 350,
-    "updated_at": "2026-09-15T18:56:43Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "toolfit finds the specific places your MCP server confuses models, rewrites the tool descriptions and schemas to fix the",
