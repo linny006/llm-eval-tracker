@@ -1,5 +1,23 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 351,
+    "updated_at": "2026-09-16T17:26:55Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
+    "description": "Local RAG eval on real SEC 10-Ks that catches confident financial hallucinations \u2014 and surfaced a metric bug now merged ",
+    "id": "Ruthwik-Data/finrag-eval",
+    "language": "Python",
+    "name": "Ruthwik-Data/finrag-eval",
+    "stars": 0,
+    "updated_at": "2026-09-16T17:22:46Z",
+    "url": "https://github.com/Ruthwik-Data/finrag-eval"
+  },
+  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -7,6 +25,15 @@
     "stars": 0,
     "updated_at": "2026-09-16T17:06:16Z",
     "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25182,
+    "updated_at": "2026-09-16T17:05:59Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
@@ -18,15 +45,6 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 351,
-    "updated_at": "2026-09-16T17:15:04Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
     "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
     "id": "goldbarth/chartula-evals",
     "language": "Python",
@@ -34,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-09-16T16:59:22Z",
     "url": "https://github.com/goldbarth/chartula-evals"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25180,
-    "updated_at": "2026-09-16T17:05:59Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -59,7 +68,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11489,
-    "updated_at": "2026-09-16T17:10:26Z",
+    "updated_at": "2026-09-16T17:18:51Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-07T00:55:35Z",
     "url": "https://github.com/sailikhithk/eval-infra-for-agents"
-  },
-  {
-    "description": "Production reference architecture for Conversational Financial QA (ConvFinQA), AST-sandboxed execution, and AI Forward-D",
-    "id": "CloudsDocker/AI-FDE-Playbook",
-    "language": "Python",
-    "name": "CloudsDocker/AI-FDE-Playbook",
-    "stars": 1,
-    "updated_at": "2026-09-06T11:01:30Z",
-    "url": "https://github.com/CloudsDocker/AI-FDE-Playbook"
   }
 ]
