@@ -1,5 +1,23 @@
 [
   {
+    "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
+    "id": "IcodeNet/eval-dashboards",
+    "language": "TypeScript",
+    "name": "IcodeNet/eval-dashboards",
+    "stars": 1,
+    "updated_at": "2026-09-16T17:58:22Z",
+    "url": "https://github.com/IcodeNet/eval-dashboards"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25185,
+    "updated_at": "2026-09-16T17:52:38Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -7,15 +25,6 @@
     "stars": 351,
     "updated_at": "2026-09-16T17:45:07Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
-    "id": "IcodeNet/eval-dashboards",
-    "language": "TypeScript",
-    "name": "IcodeNet/eval-dashboards",
-    "stars": 1,
-    "updated_at": "2026-09-16T17:44:23Z",
-    "url": "https://github.com/IcodeNet/eval-dashboards"
   },
   {
     "description": "Local RAG eval on real SEC 10-Ks that catches confident financial hallucinations \u2014 and surfaced a metric bug now merged ",
@@ -34,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-09-16T17:06:16Z",
     "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25184,
-    "updated_at": "2026-09-16T17:05:59Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
