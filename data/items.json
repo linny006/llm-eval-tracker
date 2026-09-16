@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25178,
+    "updated_at": "2026-09-16T14:13:42Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
     "id": "goldbarth/chartula-evals",
     "language": "Python",
@@ -43,15 +52,6 @@
     "stars": 351,
     "updated_at": "2026-09-16T13:22:50Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25177,
-    "updated_at": "2026-09-16T11:21:08Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
