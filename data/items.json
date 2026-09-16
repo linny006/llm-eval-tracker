@@ -1,5 +1,23 @@
 [
   {
+    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
+    "id": "multivon-ai/multivon-eval",
+    "language": "Python",
+    "name": "multivon-ai/multivon-eval",
+    "stars": 25,
+    "updated_at": "2026-09-16T19:58:17Z",
+    "url": "https://github.com/multivon-ai/multivon-eval"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11493,
+    "updated_at": "2026-09-16T19:56:59Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -18,16 +36,7 @@
     "url": "https://github.com/IcodeNet/eval-dashboards"
   },
   {
-    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
-    "id": "multivon-ai/multivon-eval",
-    "language": "Python",
-    "name": "multivon-ai/multivon-eval",
-    "stars": 25,
-    "updated_at": "2026-09-16T19:31:22Z",
-    "url": "https://github.com/multivon-ai/multivon-eval"
-  },
-  {
-    "description": "Trojan Harbor \u2014 indirect prompt-injection eval for Harbor with eight attack/clean twin families and deterministic admiss",
+    "description": "An indirect prompt injection evaluation suite for Harbor, with eight matched attack and clean task families and determin",
     "id": "crashlabsai/trojan-harbor",
     "language": "Python",
     "name": "crashlabsai/trojan-harbor",
@@ -43,15 +52,6 @@
     "stars": 25186,
     "updated_at": "2026-09-16T19:31:44Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11491,
-    "updated_at": "2026-09-16T19:27:43Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
