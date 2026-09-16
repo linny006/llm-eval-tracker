@@ -1,5 +1,23 @@
 [
   {
+    "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
+    "id": "IcodeNet/eval-dashboards",
+    "language": "TypeScript",
+    "name": "IcodeNet/eval-dashboards",
+    "stars": 1,
+    "updated_at": "2026-09-16T18:30:08Z",
+    "url": "https://github.com/IcodeNet/eval-dashboards"
+  },
+  {
+    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
+    "id": "homemade-software-inc/completion-kit",
+    "language": "Ruby",
+    "name": "homemade-software-inc/completion-kit",
+    "stars": 3,
+    "updated_at": "2026-09-16T18:26:52Z",
+    "url": "https://github.com/homemade-software-inc/completion-kit"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -7,15 +25,6 @@
     "stars": 351,
     "updated_at": "2026-09-16T18:14:53Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
-    "id": "IcodeNet/eval-dashboards",
-    "language": "TypeScript",
-    "name": "IcodeNet/eval-dashboards",
-    "stars": 1,
-    "updated_at": "2026-09-16T18:13:34Z",
-    "url": "https://github.com/IcodeNet/eval-dashboards"
   },
   {
     "description": "Local RAG eval on real SEC 10-Ks that catches confident financial hallucinations \u2014 and surfaced a metric bug now merged ",
@@ -32,7 +41,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25185,
-    "updated_at": "2026-09-16T18:10:55Z",
+    "updated_at": "2026-09-16T18:26:49Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -41,7 +50,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11491,
-    "updated_at": "2026-09-16T17:18:51Z",
+    "updated_at": "2026-09-16T18:26:22Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 44,
     "updated_at": "2026-09-07T05:34:13Z",
     "url": "https://github.com/sunxin-ai/dsh-design-qa"
-  },
-  {
-    "description": "Field guide to building production-grade evaluation infrastructure for LLM agent systems. Based on real production work ",
-    "id": "sailikhithk/eval-infra-for-agents",
-    "language": "Jupyter Notebook",
-    "name": "sailikhithk/eval-infra-for-agents",
-    "stars": 0,
-    "updated_at": "2026-09-07T00:55:35Z",
-    "url": "https://github.com/sailikhithk/eval-infra-for-agents"
   }
 ]
