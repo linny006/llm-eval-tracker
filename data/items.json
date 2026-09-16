@@ -1,5 +1,14 @@
 [
   {
+    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
+    "id": "multivon-ai/multivon-eval",
+    "language": "Python",
+    "name": "multivon-ai/multivon-eval",
+    "stars": 25,
+    "updated_at": "2026-09-16T21:54:07Z",
+    "url": "https://github.com/multivon-ai/multivon-eval"
+  },
+  {
     "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
     "id": "cannonade-ai/cannonade",
     "language": "TypeScript",
@@ -14,17 +23,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11499,
-    "updated_at": "2026-09-16T21:42:41Z",
+    "updated_at": "2026-09-16T21:48:32Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
-    "id": "multivon-ai/multivon-eval",
-    "language": "Python",
-    "name": "multivon-ai/multivon-eval",
-    "stars": 25,
-    "updated_at": "2026-09-16T21:18:46Z",
-    "url": "https://github.com/multivon-ai/multivon-eval"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
