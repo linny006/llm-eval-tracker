@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-16 02:00 UTC
+> ⏰ Last updated: 2026-09-16 02:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25148 | TypeScript | 2026-09-16 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 2 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-16 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
-| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11474 | Python | 2026-09-16 | AI Observability & Evaluation |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11475 | Python | 2026-09-16 | AI Observability & Evaluation |
+| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25148 | TypeScript | 2026-09-16 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 3 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-16 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 4 | [IcodeNet/eval-dashboards](https://github.com/IcodeNet/eval-dashboards) | 1 | TypeScript | 2026-09-15 | Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style — bring y |
 | 5 | [SFX-TECH/sfx-lead-intelligence](https://github.com/SFX-TECH/sfx-lead-intelligence) | 0 | — | 2026-09-15 | SFX Lead Intelligence Command Center: local-LLM hub plus lead dashboard, quality lifted 61 to 99 percent via a ground-tr |
 | 6 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-15 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
