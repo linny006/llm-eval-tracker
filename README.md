@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-16 16:00 UTC
+> ⏰ Last updated: 2026-09-16 16:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25180 | TypeScript | 2026-09-16 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 2 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-09-16 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
-| 3 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-09-16 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
-| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11489 | Python | 2026-09-16 | AI Observability & Evaluation |
-| 5 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-16 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
-| 6 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 351 | TypeScript | 2026-09-16 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 7 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5819 | Python | 2026-09-16 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 8 | [crashlabsai/harbor-pi-eval](https://github.com/crashlabsai/harbor-pi-eval) | 0 | Python | 2026-09-16 | Indirect prompt-injection eval for Harbor — eight attack/clean twin families with deterministic admission grading |
-| 9 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-16 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
-| 10 | [anejakartik/evalstack](https://github.com/anejakartik/evalstack) | 0 | Python | 2026-09-16 | Open-source LLM evaluation framework — drop-in SDK + CI plugin. LLM-as-judge, regression detection, free + self-hostable |
-| 11 | [lokesh75-kank/agenteval](https://github.com/lokesh75-kank/agenteval) | 0 | TypeScript | 2026-09-16 | Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou |
-| 12 | [IcodeNet/eval-dashboards](https://github.com/IcodeNet/eval-dashboards) | 1 | TypeScript | 2026-09-16 | Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style — bring y |
-| 13 | [SFX-TECH/sfx-lead-intelligence](https://github.com/SFX-TECH/sfx-lead-intelligence) | 0 | — | 2026-09-15 | SFX Lead Intelligence Command Center: local-LLM hub plus lead dashboard, quality lifted 61 to 99 percent via a ground-tr |
-| 14 | [truera/trulens](https://github.com/truera/trulens) | 3560 | Python | 2026-09-15 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 1 | [truera/trulens](https://github.com/truera/trulens) | 3560 | Python | 2026-09-16 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25180 | TypeScript | 2026-09-16 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 3 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-09-16 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
+| 4 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-09-16 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
+| 5 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11489 | Python | 2026-09-16 | AI Observability & Evaluation |
+| 6 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-16 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
+| 7 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 351 | TypeScript | 2026-09-16 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 8 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5819 | Python | 2026-09-16 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 9 | [crashlabsai/harbor-pi-eval](https://github.com/crashlabsai/harbor-pi-eval) | 0 | Python | 2026-09-16 | Indirect prompt-injection eval for Harbor — eight attack/clean twin families with deterministic admission grading |
+| 10 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-16 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
+| 11 | [anejakartik/evalstack](https://github.com/anejakartik/evalstack) | 0 | Python | 2026-09-16 | Open-source LLM evaluation framework — drop-in SDK + CI plugin. LLM-as-judge, regression detection, free + self-hostable |
+| 12 | [lokesh75-kank/agenteval](https://github.com/lokesh75-kank/agenteval) | 0 | TypeScript | 2026-09-16 | Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou |
+| 13 | [IcodeNet/eval-dashboards](https://github.com/IcodeNet/eval-dashboards) | 1 | TypeScript | 2026-09-16 | Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style — bring y |
+| 14 | [SFX-TECH/sfx-lead-intelligence](https://github.com/SFX-TECH/sfx-lead-intelligence) | 0 | — | 2026-09-15 | SFX Lead Intelligence Command Center: local-LLM hub plus lead dashboard, quality lifted 61 to 99 percent via a ground-tr |
 | 15 | [sreshtalluri/toolfit](https://github.com/sreshtalluri/toolfit) | 0 | Python | 2026-09-15 | toolfit finds the specific places your MCP server confuses models, rewrites the tool descriptions and schemas to fix the |
 | 16 | [SmartStudio/baize-prompts](https://github.com/SmartStudio/baize-prompts) | 1 | — | 2026-09-15 | 没跑过 = 不出厂。no eval, no ship. |
 | 17 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-09-15 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
