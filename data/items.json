@@ -1,5 +1,23 @@
 [
   {
+    "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
+    "id": "cannonade-ai/cannonade",
+    "language": "TypeScript",
+    "name": "cannonade-ai/cannonade",
+    "stars": 2,
+    "updated_at": "2026-09-16T21:39:20Z",
+    "url": "https://github.com/cannonade-ai/cannonade"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11499,
+    "updated_at": "2026-09-16T21:42:41Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
     "id": "multivon-ai/multivon-eval",
     "language": "Python",
@@ -9,21 +27,12 @@
     "url": "https://github.com/multivon-ai/multivon-eval"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11498,
-    "updated_at": "2026-09-16T21:29:42Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 352,
-    "updated_at": "2026-09-16T21:13:17Z",
+    "updated_at": "2026-09-16T21:32:07Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -32,7 +41,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25187,
-    "updated_at": "2026-09-16T21:11:27Z",
+    "updated_at": "2026-09-16T21:41:39Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -214,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T01:44:30Z",
     "url": "https://github.com/wynxing/agent-flight-recorder"
-  },
-  {
-    "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
-    "id": "cannonade-ai/cannonade",
-    "language": "TypeScript",
-    "name": "cannonade-ai/cannonade",
-    "stars": 2,
-    "updated_at": "2026-09-14T21:56:27Z",
-    "url": "https://github.com/cannonade-ai/cannonade"
   },
   {
     "description": "A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance?",
