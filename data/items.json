@@ -5,8 +5,17 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 351,
-    "updated_at": "2026-09-16T16:43:20Z",
+    "updated_at": "2026-09-16T16:59:42Z",
     "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
+    "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
+    "id": "goldbarth/chartula-evals",
+    "language": "Python",
+    "name": "goldbarth/chartula-evals",
+    "stars": 0,
+    "updated_at": "2026-09-16T16:59:22Z",
+    "url": "https://github.com/goldbarth/chartula-evals"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25180,
-    "updated_at": "2026-09-16T16:36:43Z",
+    "updated_at": "2026-09-16T16:59:47Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -50,17 +59,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11489,
-    "updated_at": "2026-09-16T16:30:16Z",
+    "updated_at": "2026-09-16T16:49:05Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
-    "id": "goldbarth/chartula-evals",
-    "language": "Python",
-    "name": "goldbarth/chartula-evals",
-    "stars": 0,
-    "updated_at": "2026-09-16T13:26:15Z",
-    "url": "https://github.com/goldbarth/chartula-evals"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
