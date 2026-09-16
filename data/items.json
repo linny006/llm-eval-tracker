@@ -1,11 +1,20 @@
 [
   {
+    "description": "Indirect prompt-injection eval for Harbor \u2014 eight attack/clean twin families with deterministic admission grading",
+    "id": "crashlabsai/harbor-pi-eval",
+    "language": "Python",
+    "name": "crashlabsai/harbor-pi-eval",
+    "stars": 0,
+    "updated_at": "2026-09-16T08:43:20Z",
+    "url": "https://github.com/crashlabsai/harbor-pi-eval"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 350,
-    "updated_at": "2026-09-16T08:18:53Z",
+    "updated_at": "2026-09-16T08:34:33Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -13,8 +22,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25162,
-    "updated_at": "2026-09-16T07:50:42Z",
+    "stars": 25163,
+    "updated_at": "2026-09-16T08:33:09Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11479,
-    "updated_at": "2026-09-16T08:30:08Z",
+    "updated_at": "2026-09-16T08:44:17Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -85,7 +94,7 @@
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3558,
+    "stars": 3559,
     "updated_at": "2026-09-15T14:32:52Z",
     "url": "https://github.com/truera/trulens"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-06T11:01:30Z",
     "url": "https://github.com/CloudsDocker/AI-FDE-Playbook"
-  },
-  {
-    "description": "Five local QA judges that review B2B and B2C customer-support replies, catch the risky parts, and explain what to fix. ",
-    "id": "gititya/support-quality-agency",
-    "language": "Python",
-    "name": "gititya/support-quality-agency",
-    "stars": 0,
-    "updated_at": "2026-09-05T12:44:53Z",
-    "url": "https://github.com/gititya/support-quality-agency"
   }
 ]
