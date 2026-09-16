@@ -4,8 +4,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25166,
-    "updated_at": "2026-09-16T10:08:32Z",
+    "stars": 25167,
+    "updated_at": "2026-09-16T10:21:38Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -36,6 +36,15 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11480,
+    "updated_at": "2026-09-16T08:44:17Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Indirect prompt-injection eval for Harbor \u2014 eight attack/clean twin families with deterministic admission grading",
     "id": "crashlabsai/harbor-pi-eval",
     "language": "Python",
@@ -43,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-09-16T08:43:20Z",
     "url": "https://github.com/crashlabsai/harbor-pi-eval"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11479,
-    "updated_at": "2026-09-16T08:44:17Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
