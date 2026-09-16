@@ -4,8 +4,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25179,
-    "updated_at": "2026-09-16T15:26:13Z",
+    "stars": 25180,
+    "updated_at": "2026-09-16T15:45:23Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -121,7 +121,7 @@
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3561,
+    "stars": 3560,
     "updated_at": "2026-09-15T14:32:52Z",
     "url": "https://github.com/truera/trulens"
   },
