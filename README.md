@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-16 18:30 UTC
+> ⏰ Last updated: 2026-09-16 18:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [IcodeNet/eval-dashboards](https://github.com/IcodeNet/eval-dashboards) | 1 | TypeScript | 2026-09-16 | Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style — bring y |
-| 2 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 3 | Ruby | 2026-09-16 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
-| 3 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 351 | TypeScript | 2026-09-16 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 4 | [Ruthwik-Data/finrag-eval](https://github.com/Ruthwik-Data/finrag-eval) | 0 | Python | 2026-09-16 | Local RAG eval on real SEC 10-Ks that catches confident financial hallucinations — and surfaced a metric bug now merged  |
-| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25185 | TypeScript | 2026-09-16 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25185 | TypeScript | 2026-09-16 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 2 | [IcodeNet/eval-dashboards](https://github.com/IcodeNet/eval-dashboards) | 1 | TypeScript | 2026-09-16 | Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style — bring y |
+| 3 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 3 | Ruby | 2026-09-16 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
+| 4 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 351 | TypeScript | 2026-09-16 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 5 | [Ruthwik-Data/finrag-eval](https://github.com/Ruthwik-Data/finrag-eval) | 1 | Python | 2026-09-16 | Local RAG eval on real SEC 10-Ks that catches confident financial hallucinations — and surfaced a metric bug now merged  |
 | 6 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11491 | Python | 2026-09-16 | AI Observability & Evaluation |
 | 7 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-09-16 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
 | 8 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-09-16 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |

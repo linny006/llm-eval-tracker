@@ -1,11 +1,20 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25185,
+    "updated_at": "2026-09-16T18:44:24Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
     "id": "IcodeNet/eval-dashboards",
     "language": "TypeScript",
     "name": "IcodeNet/eval-dashboards",
     "stars": 1,
-    "updated_at": "2026-09-16T18:30:08Z",
+    "updated_at": "2026-09-16T18:41:00Z",
     "url": "https://github.com/IcodeNet/eval-dashboards"
   },
   {
@@ -31,18 +40,9 @@
     "id": "Ruthwik-Data/finrag-eval",
     "language": "Python",
     "name": "Ruthwik-Data/finrag-eval",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-09-16T18:06:18Z",
     "url": "https://github.com/Ruthwik-Data/finrag-eval"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25185,
-    "updated_at": "2026-09-16T18:26:49Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AI Observability & Evaluation",
