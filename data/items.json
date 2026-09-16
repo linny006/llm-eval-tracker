@@ -1,10 +1,19 @@
 [
   {
+    "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
+    "id": "goldbarth/chartula-evals",
+    "language": "Python",
+    "name": "goldbarth/chartula-evals",
+    "stars": 0,
+    "updated_at": "2026-09-16T13:26:15Z",
+    "url": "https://github.com/goldbarth/chartula-evals"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11486,
+    "stars": 11487,
     "updated_at": "2026-09-16T13:10:57Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -32,7 +41,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 351,
-    "updated_at": "2026-09-16T12:42:15Z",
+    "updated_at": "2026-09-16T13:22:50Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -108,20 +117,11 @@
     "url": "https://github.com/SFX-TECH/sfx-lead-intelligence"
   },
   {
-    "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
-    "id": "goldbarth/chartula-evals",
-    "language": "Python",
-    "name": "goldbarth/chartula-evals",
-    "stars": 0,
-    "updated_at": "2026-09-15T16:58:30Z",
-    "url": "https://github.com/goldbarth/chartula-evals"
-  },
-  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3559,
+    "stars": 3560,
     "updated_at": "2026-09-15T14:32:52Z",
     "url": "https://github.com/truera/trulens"
   },
