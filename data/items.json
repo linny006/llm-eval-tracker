@@ -5,8 +5,17 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 351,
-    "updated_at": "2026-09-16T17:26:55Z",
+    "updated_at": "2026-09-16T17:45:07Z",
     "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
+    "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
+    "id": "IcodeNet/eval-dashboards",
+    "language": "TypeScript",
+    "name": "IcodeNet/eval-dashboards",
+    "stars": 1,
+    "updated_at": "2026-09-16T17:44:23Z",
+    "url": "https://github.com/IcodeNet/eval-dashboards"
   },
   {
     "description": "Local RAG eval on real SEC 10-Ks that catches confident financial hallucinations \u2014 and surfaced a metric bug now merged ",
@@ -31,7 +40,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25182,
+    "stars": 25184,
     "updated_at": "2026-09-16T17:05:59Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -115,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-16T02:42:45Z",
     "url": "https://github.com/lokesh75-kank/agenteval"
-  },
-  {
-    "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
-    "id": "IcodeNet/eval-dashboards",
-    "language": "TypeScript",
-    "name": "IcodeNet/eval-dashboards",
-    "stars": 1,
-    "updated_at": "2026-09-16T06:35:33Z",
-    "url": "https://github.com/IcodeNet/eval-dashboards"
   },
   {
     "description": "SFX Lead Intelligence Command Center: local-LLM hub plus lead dashboard, quality lifted 61 to 99 percent via a ground-tr",
