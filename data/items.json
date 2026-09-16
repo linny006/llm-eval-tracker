@@ -1,5 +1,14 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 351,
+    "updated_at": "2026-09-16T12:42:15Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -13,7 +22,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25175,
+    "stars": 25176,
     "updated_at": "2026-09-16T11:21:08Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -43,15 +52,6 @@
     "stars": 5819,
     "updated_at": "2026-09-16T09:32:30Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 350,
-    "updated_at": "2026-09-16T09:02:28Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Indirect prompt-injection eval for Harbor \u2014 eight attack/clean twin families with deterministic admission grading",
