@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-17 22:00 UTC
+> ⏰ Last updated: 2026-09-17 22:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -58,7 +58,7 @@ expired items removed — so you can rely on what you see being current.
 | 14 | [IcodeNet/eval-dashboards](https://github.com/IcodeNet/eval-dashboards) | 1 | TypeScript | 2026-09-16 | Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style — bring y |
 | 15 | [crashlabsai/trojan-harbor](https://github.com/crashlabsai/trojan-harbor) | 0 | Python | 2026-09-16 | An indirect prompt injection evaluation suite for Harbor, with eight matched attack and clean task families and determin |
 | 16 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 3 | Ruby | 2026-09-16 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
-| 17 | [Ruthwik-Data/finrag-eval](https://github.com/Ruthwik-Data/finrag-eval) | 1 | Python | 2026-09-16 | Local RAG eval on real SEC 10-Ks that catches confident financial hallucinations — and surfaced a metric bug now merged  |
+| 17 | [Ruthwik-Data/finrag-eval](https://github.com/Ruthwik-Data/finrag-eval) | 1 | Python | 2026-09-17 | Local RAG eval on real SEC 10-Ks that catches confident financial hallucinations — and surfaced a metric bug now merged  |
 | 18 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-16 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
 | 19 | [truera/trulens](https://github.com/truera/trulens) | 3561 | Python | 2026-09-16 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 20 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5823 | Python | 2026-09-16 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
