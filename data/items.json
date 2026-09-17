@@ -1,11 +1,29 @@
 [
   {
+    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
+    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "language": "\u2014",
+    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "stars": 0,
+    "updated_at": "2026-09-17T02:42:34Z",
+    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
+  },
+  {
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-09-17T02:42:00Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
     "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
     "id": "multivon-ai/multivon-eval",
     "language": "Python",
     "name": "multivon-ai/multivon-eval",
     "stars": 25,
-    "updated_at": "2026-09-17T02:10:37Z",
+    "updated_at": "2026-09-17T02:36:19Z",
     "url": "https://github.com/multivon-ai/multivon-eval"
   },
   {
@@ -14,8 +32,17 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25187,
-    "updated_at": "2026-09-17T00:53:36Z",
+    "updated_at": "2026-09-17T02:39:40Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11501,
+    "updated_at": "2026-09-17T00:47:08Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\u6ca1\u8dd1\u8fc7 = \u4e0d\u51fa\u5382\u3002no eval, no ship.",
@@ -25,33 +52,6 @@
     "stars": 1,
     "updated_at": "2026-09-17T00:46:26Z",
     "url": "https://github.com/SmartStudio/baize-prompts"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-09-17T00:33:06Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
-    "id": "bhavya7995/AI_governance",
-    "language": "PowerShell",
-    "name": "bhavya7995/AI_governance",
-    "stars": 1,
-    "updated_at": "2026-09-17T00:32:33Z",
-    "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11500,
-    "updated_at": "2026-09-17T00:47:08Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
