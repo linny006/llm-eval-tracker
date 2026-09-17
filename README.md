@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-17 14:00 UTC
+> ⏰ Last updated: 2026-09-17 14:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25220 | TypeScript | 2026-09-17 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25222 | TypeScript | 2026-09-17 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 2 | [isatimur/book-mash](https://github.com/isatimur/book-mash) | 0 | Python | 2026-09-17 |  |
 | 3 | [isatimur/mash-core](https://github.com/isatimur/mash-core) | 0 | Python | 2026-09-17 |  |
-| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11516 | Python | 2026-09-17 | AI Observability & Evaluation |
+| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11517 | Python | 2026-09-17 | AI Observability & Evaluation |
 | 5 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 352 | TypeScript | 2026-09-17 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 6 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-09-17 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
 | 7 | [genesiscode2026/prompt-regression-examples](https://github.com/genesiscode2026/prompt-regression-examples) | 0 | — | 2026-09-17 | Production prompt regression fixtures, subtle anti-patterns, and CI test suites for LLM application teams. |
