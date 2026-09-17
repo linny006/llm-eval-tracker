@@ -4,8 +4,8 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11512,
-    "updated_at": "2026-09-17T10:25:45Z",
+    "stars": 11514,
+    "updated_at": "2026-09-17T10:39:47Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -14,7 +14,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 352,
-    "updated_at": "2026-09-17T10:23:34Z",
+    "updated_at": "2026-09-17T10:36:53Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -67,7 +67,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25212,
+    "stars": 25213,
     "updated_at": "2026-09-17T04:02:20Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
