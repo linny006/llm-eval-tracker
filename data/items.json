@@ -1,5 +1,32 @@
 [
   {
+    "description": "",
+    "id": "isatimur/book-mash",
+    "language": "Python",
+    "name": "isatimur/book-mash",
+    "stars": 0,
+    "updated_at": "2026-09-17T13:27:52Z",
+    "url": "https://github.com/isatimur/book-mash"
+  },
+  {
+    "description": "",
+    "id": "isatimur/mash-core",
+    "language": "Python",
+    "name": "isatimur/mash-core",
+    "stars": 0,
+    "updated_at": "2026-09-17T13:27:40Z",
+    "url": "https://github.com/isatimur/mash-core"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11516,
+    "updated_at": "2026-09-17T13:11:17Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -43,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-09-17T11:57:34Z",
     "url": "https://github.com/cannonade-ai/cannonade"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11515,
-    "updated_at": "2026-09-17T13:11:17Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
@@ -252,15 +270,6 @@
     "url": "https://github.com/ChelseaKR/gauntlet"
   },
   {
-    "description": "",
-    "id": "isatimur/book-mash",
-    "language": "Python",
-    "name": "isatimur/book-mash",
-    "stars": 0,
-    "updated_at": "2026-09-13T22:41:54Z",
-    "url": "https://github.com/isatimur/book-mash"
-  },
-  {
     "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
     "id": "ChelseaKR/plumbline",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-08T09:01:59Z",
     "url": "https://github.com/jafeeri/llm-eval-bench"
-  },
-  {
-    "description": "Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring Sec",
-    "id": "fabio-barboza/logistic-platform",
-    "language": "Java",
-    "name": "fabio-barboza/logistic-platform",
-    "stars": 0,
-    "updated_at": "2026-09-07T21:26:12Z",
-    "url": "https://github.com/fabio-barboza/logistic-platform"
   }
 ]
