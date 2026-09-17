@@ -1,5 +1,14 @@
 [
   {
+    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
+    "id": "multivon-ai/multivon-eval",
+    "language": "Python",
+    "name": "multivon-ai/multivon-eval",
+    "stars": 25,
+    "updated_at": "2026-09-17T04:55:04Z",
+    "url": "https://github.com/multivon-ai/multivon-eval"
+  },
+  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -18,21 +27,12 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
-    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
-    "id": "multivon-ai/multivon-eval",
-    "language": "Python",
-    "name": "multivon-ai/multivon-eval",
-    "stars": 25,
-    "updated_at": "2026-09-17T04:26:41Z",
-    "url": "https://github.com/multivon-ai/multivon-eval"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11503,
-    "updated_at": "2026-09-17T04:26:00Z",
+    "updated_at": "2026-09-17T04:46:40Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -40,7 +40,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25193,
+    "stars": 25195,
     "updated_at": "2026-09-17T04:02:20Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -130,7 +130,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5820,
+    "stars": 5821,
     "updated_at": "2026-09-16T09:32:30Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
