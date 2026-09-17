@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "multivon-ai/multivon-eval",
     "stars": 25,
-    "updated_at": "2026-09-17T05:15:11Z",
+    "updated_at": "2026-09-17T05:22:13Z",
     "url": "https://github.com/multivon-ai/multivon-eval"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11505,
+    "updated_at": "2026-09-17T05:21:56Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
@@ -25,15 +34,6 @@
     "stars": 1,
     "updated_at": "2026-09-17T04:33:45Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11503,
-    "updated_at": "2026-09-17T05:01:41Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
