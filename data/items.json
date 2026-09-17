@@ -1,5 +1,14 @@
 [
   {
+    "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
+    "id": "ahmedmoha9088/PhoenixFish",
+    "language": "Java",
+    "name": "ahmedmoha9088/PhoenixFish",
+    "stars": 0,
+    "updated_at": "2026-09-17T23:05:25Z",
+    "url": "https://github.com/ahmedmoha9088/PhoenixFish"
+  },
+  {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
     "id": "saddled-panicattack529/idea-evaluation-pipeline",
     "language": "\u2014",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11520,
-    "updated_at": "2026-09-17T22:34:36Z",
+    "updated_at": "2026-09-17T23:12:18Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -32,17 +41,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25234,
-    "updated_at": "2026-09-17T22:51:12Z",
+    "updated_at": "2026-09-17T23:11:36Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
-    "id": "ahmedmoha9088/PhoenixFish",
-    "language": "Java",
-    "name": "ahmedmoha9088/PhoenixFish",
-    "stars": 0,
-    "updated_at": "2026-09-17T19:58:18Z",
-    "url": "https://github.com/ahmedmoha9088/PhoenixFish"
   },
   {
     "description": "",
