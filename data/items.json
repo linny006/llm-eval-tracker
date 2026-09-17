@@ -1,11 +1,20 @@
 [
   {
+    "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
+    "id": "cannonade-ai/cannonade",
+    "language": "TypeScript",
+    "name": "cannonade-ai/cannonade",
+    "stars": 2,
+    "updated_at": "2026-09-17T11:57:34Z",
+    "url": "https://github.com/cannonade-ai/cannonade"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 352,
-    "updated_at": "2026-09-17T11:29:25Z",
+    "updated_at": "2026-09-17T11:53:24Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11514,
-    "updated_at": "2026-09-17T11:44:15Z",
+    "updated_at": "2026-09-17T11:55:29Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -79,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-09-17T00:46:26Z",
     "url": "https://github.com/SmartStudio/baize-prompts"
-  },
-  {
-    "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
-    "id": "cannonade-ai/cannonade",
-    "language": "TypeScript",
-    "name": "cannonade-ai/cannonade",
-    "stars": 2,
-    "updated_at": "2026-09-16T21:39:20Z",
-    "url": "https://github.com/cannonade-ai/cannonade"
   },
   {
     "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
