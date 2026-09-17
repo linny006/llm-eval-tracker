@@ -1,5 +1,23 @@
 [
   {
+    "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
+    "id": "ahmedmoha9088/PhoenixFish",
+    "language": "Java",
+    "name": "ahmedmoha9088/PhoenixFish",
+    "stars": 0,
+    "updated_at": "2026-09-17T08:58:53Z",
+    "url": "https://github.com/ahmedmoha9088/PhoenixFish"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 352,
+    "updated_at": "2026-09-17T08:55:53Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
     "id": "saddled-panicattack529/idea-evaluation-pipeline",
     "language": "\u2014",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11510,
-    "updated_at": "2026-09-17T08:43:42Z",
+    "updated_at": "2026-09-17T08:58:22Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -49,7 +67,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25209,
+    "stars": 25210,
     "updated_at": "2026-09-17T04:02:20Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -70,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-09-16T21:39:20Z",
     "url": "https://github.com/cannonade-ai/cannonade"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 352,
-    "updated_at": "2026-09-16T21:32:07Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
@@ -187,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T09:42:50Z",
     "url": "https://github.com/sreshtalluri/toolfit"
-  },
-  {
-    "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
-    "id": "ahmedmoha9088/PhoenixFish",
-    "language": "Java",
-    "name": "ahmedmoha9088/PhoenixFish",
-    "stars": 0,
-    "updated_at": "2026-09-15T07:08:11Z",
-    "url": "https://github.com/ahmedmoha9088/PhoenixFish"
   },
   {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
