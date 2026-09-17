@@ -1,29 +1,11 @@
 [
   {
-    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
-    "id": "multivon-ai/multivon-eval",
-    "language": "Python",
-    "name": "multivon-ai/multivon-eval",
-    "stars": 25,
-    "updated_at": "2026-09-17T06:12:52Z",
-    "url": "https://github.com/multivon-ai/multivon-eval"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11506,
-    "updated_at": "2026-09-17T05:49:46Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
     "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "stars": 0,
-    "updated_at": "2026-09-17T04:34:19Z",
+    "updated_at": "2026-09-17T06:37:02Z",
     "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
   },
   {
@@ -32,8 +14,26 @@
     "language": "PowerShell",
     "name": "bhavya7995/AI_governance",
     "stars": 1,
-    "updated_at": "2026-09-17T04:33:45Z",
+    "updated_at": "2026-09-17T06:36:31Z",
     "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
+    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
+    "id": "multivon-ai/multivon-eval",
+    "language": "Python",
+    "name": "multivon-ai/multivon-eval",
+    "stars": 25,
+    "updated_at": "2026-09-17T06:33:07Z",
+    "url": "https://github.com/multivon-ai/multivon-eval"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11507,
+    "updated_at": "2026-09-17T05:49:46Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
