@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-17 21:15 UTC
+> ⏰ Last updated: 2026-09-17 21:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -74,7 +74,7 @@ expired items removed — so you can rely on what you see being current.
 | 30 | [AndyZhang666666/AndyZhang666666.github.io](https://github.com/AndyZhang666666/AndyZhang666666.github.io) | 0 | CSS | 2026-09-14 | Personal site with two interactive LLM eval harness demos |
 | 31 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-09-14 | pip install gauntlet-evals · v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against |
 | 32 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-09-16 | v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic |
-| 33 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-09-13 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
+| 33 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-09-17 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
 | 34 | [sammyjdev/gnomon-eval](https://github.com/sammyjdev/gnomon-eval) | 0 | Python | 2026-09-13 | Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first. |
 | 35 | [abhishek2512mishra/deepswe-benchmaxxing-detector](https://github.com/abhishek2512mishra/deepswe-benchmaxxing-detector) | 0 | Python | 2026-09-13 | Forensic audit scanner for SWE-bench & DeepSWE v1.1 containers detecting .git reflog leakage and test harness spoofing. |
 | 36 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-09-17 | Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu |
