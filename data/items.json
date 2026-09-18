@@ -1,5 +1,14 @@
 [
   {
+    "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
+    "id": "ChelseaKR/plumbline",
+    "language": "Python",
+    "name": "ChelseaKR/plumbline",
+    "stars": 1,
+    "updated_at": "2026-09-18T18:26:33Z",
+    "url": "https://github.com/ChelseaKR/plumbline"
+  },
+  {
     "description": "Blind, reproducible benchmark for production phone voice agents. Measures barge-in latency, false-stop rate and the late",
     "id": "arunash/earshot",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T18:05:09Z",
     "url": "https://github.com/arunash/earshot"
-  },
-  {
-    "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
-    "id": "ChelseaKR/plumbline",
-    "language": "Python",
-    "name": "ChelseaKR/plumbline",
-    "stars": 1,
-    "updated_at": "2026-09-18T18:02:02Z",
-    "url": "https://github.com/ChelseaKR/plumbline"
   },
   {
     "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
@@ -50,7 +50,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11535,
-    "updated_at": "2026-09-18T18:09:34Z",
+    "updated_at": "2026-09-18T18:27:48Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
