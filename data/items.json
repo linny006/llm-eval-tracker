@@ -1,11 +1,29 @@
 [
   {
+    "description": "Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu",
+    "id": "ChelseaKR/fare-policy-assistant",
+    "language": "HTML",
+    "name": "ChelseaKR/fare-policy-assistant",
+    "stars": 1,
+    "updated_at": "2026-09-18T13:49:32Z",
+    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11533,
+    "updated_at": "2026-09-18T13:51:33Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
     "id": "ChelseaKR/sprout",
     "language": "Python",
     "name": "ChelseaKR/sprout",
     "stars": 1,
-    "updated_at": "2026-09-18T13:43:03Z",
+    "updated_at": "2026-09-18T13:56:18Z",
     "url": "https://github.com/ChelseaKR/sprout"
   },
   {
@@ -16,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T12:45:02Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11533,
-    "updated_at": "2026-09-18T09:47:47Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
@@ -324,15 +333,6 @@
     "url": "https://github.com/abhishek2512mishra/deepswe-benchmaxxing-detector"
   },
   {
-    "description": "Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu",
-    "id": "ChelseaKR/fare-policy-assistant",
-    "language": "HTML",
-    "name": "ChelseaKR/fare-policy-assistant",
-    "stars": 1,
-    "updated_at": "2026-09-18T13:40:24Z",
-    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
-  },
-  {
     "description": "\u957f\u6587\u672c LLM \u8f93\u51fa\u8bc4\u6d4b\u5de5\u5177\uff08\u7b2c\u4e8c\u7248\uff09\uff1a\u4e24\u7248 prompt \u8fde\u8dd1\u5bf9\u6bd4 + Bad Case \u5bfc\u51fa + \u9010\u5b57\u8bc1\u636e\u62bd\u53d6\uff0c\u9644 30 \u6761\u91d1\u6807\u96c6\u88c1\u5224\u6821\u9a8c",
     "id": "AndyZhang666666/llm-output-eval",
     "language": "TypeScript",
@@ -419,7 +419,7 @@
     "language": "TypeScript",
     "name": "pdxlab/trustmodel-mcp-server",
     "stars": 0,
-    "updated_at": "2026-09-10T16:16:10Z",
+    "updated_at": "2026-09-18T13:59:32Z",
     "url": "https://github.com/pdxlab/trustmodel-mcp-server"
   },
   {
