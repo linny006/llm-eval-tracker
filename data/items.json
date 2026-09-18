@@ -9,6 +9,15 @@
     "url": "https://github.com/IcodeNet/eval-dashboards"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25252,
+    "updated_at": "2026-09-18T07:59:45Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
     "id": "ahmedmoha9088/PhoenixFish",
     "language": "Java",
@@ -70,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-09-18T02:57:45Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25251,
-    "updated_at": "2026-09-18T07:59:45Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
