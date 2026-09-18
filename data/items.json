@@ -9,6 +9,15 @@
     "url": "https://github.com/Kondwani10/Origin-Continuum"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11529,
+    "updated_at": "2026-09-18T09:09:05Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
     "id": "IcodeNet/eval-dashboards",
     "language": "TypeScript",
@@ -61,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-09-18T06:37:23Z",
     "url": "https://github.com/ChelseaKR/plumbline"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11528,
-    "updated_at": "2026-09-18T08:31:42Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\u6ca1\u8dd1\u8fc7 = \u4e0d\u51fa\u5382\u3002no eval, no ship.",
