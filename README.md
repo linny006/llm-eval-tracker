@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-18 07:30 UTC
+> ⏰ Last updated: 2026-09-18 07:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -49,8 +49,8 @@ expired items removed — so you can rely on what you see being current.
 | 5 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11528 | Python | 2026-09-18 | AI Observability & Evaluation |
 | 6 | [SmartStudio/baize-prompts](https://github.com/SmartStudio/baize-prompts) | 1 | — | 2026-09-18 | 没跑过 = 不出厂。no eval, no ship. |
 | 7 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 2 | TypeScript | 2026-09-18 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
-| 8 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25249 | TypeScript | 2026-09-18 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 9 | [cannonade-ai/cannonade](https://github.com/cannonade-ai/cannonade) | 4 | TypeScript | 2026-09-17 | Local-first desktop app for building LLM test suites and running them against many local or cloud models at once |
+| 8 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25251 | TypeScript | 2026-09-18 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 9 | [cannonade-ai/cannonade](https://github.com/cannonade-ai/cannonade) | 7 | TypeScript | 2026-09-17 | Local-first desktop app for building LLM test suites and running them against many local or cloud models at once |
 | 10 | [isatimur/book-mash](https://github.com/isatimur/book-mash) | 0 | Python | 2026-09-17 |  |
 | 11 | [isatimur/mash-core](https://github.com/isatimur/mash-core) | 0 | Python | 2026-09-17 |  |
 | 12 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 352 | TypeScript | 2026-09-17 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
