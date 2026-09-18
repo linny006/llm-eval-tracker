@@ -1,21 +1,21 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11535,
-    "updated_at": "2026-09-18T19:59:55Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
     "id": "ChelseaKR/sprout",
     "language": "Python",
     "name": "ChelseaKR/sprout",
     "stars": 1,
-    "updated_at": "2026-09-18T19:46:29Z",
+    "updated_at": "2026-09-18T20:12:34Z",
     "url": "https://github.com/ChelseaKR/sprout"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11535,
+    "updated_at": "2026-09-18T20:05:57Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
