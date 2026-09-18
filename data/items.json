@@ -1,5 +1,14 @@
 [
   {
+    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
+    "id": "ChelseaKR/sprout",
+    "language": "Python",
+    "name": "ChelseaKR/sprout",
+    "stars": 1,
+    "updated_at": "2026-09-18T13:43:03Z",
+    "url": "https://github.com/ChelseaKR/sprout"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -13,7 +22,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11532,
+    "stars": 11533,
     "updated_at": "2026-09-18T09:47:47Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -297,15 +306,6 @@
     "url": "https://github.com/AndyZhang666666/AndyZhang666666.github.io"
   },
   {
-    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
-    "id": "ChelseaKR/sprout",
-    "language": "Python",
-    "name": "ChelseaKR/sprout",
-    "stars": 1,
-    "updated_at": "2026-09-18T06:53:49Z",
-    "url": "https://github.com/ChelseaKR/sprout"
-  },
-  {
     "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
     "id": "sammyjdev/gnomon-eval",
     "language": "Python",
@@ -329,7 +329,7 @@
     "language": "HTML",
     "name": "ChelseaKR/fare-policy-assistant",
     "stars": 1,
-    "updated_at": "2026-09-18T07:18:00Z",
+    "updated_at": "2026-09-18T13:40:24Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
