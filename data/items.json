@@ -1,5 +1,14 @@
 [
   {
+    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
+    "id": "ChelseaKR/sprout",
+    "language": "Python",
+    "name": "ChelseaKR/sprout",
+    "stars": 1,
+    "updated_at": "2026-09-18T18:54:00Z",
+    "url": "https://github.com/ChelseaKR/sprout"
+  },
+  {
     "description": "pip install gauntlet-evals \u00b7 v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against",
     "id": "ChelseaKR/gauntlet",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 1,
     "updated_at": "2026-09-18T18:35:11Z",
     "url": "https://github.com/ChelseaKR/gauntlet"
-  },
-  {
-    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
-    "id": "ChelseaKR/sprout",
-    "language": "Python",
-    "name": "ChelseaKR/sprout",
-    "stars": 1,
-    "updated_at": "2026-09-18T18:35:54Z",
-    "url": "https://github.com/ChelseaKR/sprout"
   },
   {
     "description": "Blind, reproducible benchmark for production phone voice agents. Measures barge-in latency, false-stop rate and the late",
@@ -59,7 +59,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11535,
-    "updated_at": "2026-09-18T18:42:01Z",
+    "updated_at": "2026-09-18T18:48:02Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
