@@ -1,11 +1,20 @@
 [
   {
+    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
+    "id": "ChelseaKR/sprout",
+    "language": "Python",
+    "name": "ChelseaKR/sprout",
+    "stars": 1,
+    "updated_at": "2026-09-18T17:56:51Z",
+    "url": "https://github.com/ChelseaKR/sprout"
+  },
+  {
     "description": "Blind, reproducible benchmark for production phone voice agents. Measures barge-in latency, false-stop rate and the late",
     "id": "arunash/earshot",
     "language": "Python",
     "name": "arunash/earshot",
     "stars": 0,
-    "updated_at": "2026-09-18T17:37:52Z",
+    "updated_at": "2026-09-18T17:52:36Z",
     "url": "https://github.com/arunash/earshot"
   },
   {
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11535,
-    "updated_at": "2026-09-18T17:43:54Z",
+    "updated_at": "2026-09-18T17:51:34Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -43,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-09-18T15:40:11Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
-  },
-  {
-    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
-    "id": "ChelseaKR/sprout",
-    "language": "Python",
-    "name": "ChelseaKR/sprout",
-    "stars": 1,
-    "updated_at": "2026-09-18T17:36:06Z",
-    "url": "https://github.com/ChelseaKR/sprout"
   },
   {
     "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
