@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-19 02:15 UTC
+> ⏰ Last updated: 2026-09-19 02:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -48,7 +48,7 @@ expired items removed — so you can rely on what you see being current.
 | 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11538 | Python | 2026-09-19 | AI Observability & Evaluation |
 | 5 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-09-19 | Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu |
 | 6 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-09-18 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
-| 7 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-09-18 | pip install gauntlet-evals · v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against |
+| 7 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-09-19 | pip install gauntlet-evals · v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against |
 | 8 | [arunash/earshot](https://github.com/arunash/earshot) | 0 | Python | 2026-09-18 | Blind, reproducible benchmark for production phone voice agents. Measures barge-in latency, false-stop rate and the late |
 | 9 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5825 | Python | 2026-09-18 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 10 | [truera/trulens](https://github.com/truera/trulens) | 3562 | Python | 2026-09-18 | Evaluation and Tracking for LLM Experiments and AI Agents |
