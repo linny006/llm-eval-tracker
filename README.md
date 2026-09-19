@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-19 03:00 UTC
+> ⏰ Last updated: 2026-09-19 03:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,21 +42,21 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-09-19 | pip install gauntlet-evals · v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against |
-| 2 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-09-19 | Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu |
-| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25270 | TypeScript | 2026-09-19 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 4 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-19 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
-| 5 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-09-19 | v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic |
-| 6 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11538 | Python | 2026-09-19 | AI Observability & Evaluation |
-| 7 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-09-18 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
-| 8 | [arunash/earshot](https://github.com/arunash/earshot) | 0 | Python | 2026-09-18 | Blind, reproducible benchmark for production phone voice agents. Measures barge-in latency, false-stop rate and the late |
-| 9 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5825 | Python | 2026-09-18 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 10 | [truera/trulens](https://github.com/truera/trulens) | 3562 | Python | 2026-09-18 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 11 | [IcodeNet/eval-dashboards](https://github.com/IcodeNet/eval-dashboards) | 1 | TypeScript | 2026-09-18 | Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style — bring y |
-| 12 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-09-18 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
-| 13 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-09-18 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 14 | [SmartStudio/baize-prompts](https://github.com/SmartStudio/baize-prompts) | 1 | — | 2026-09-18 | 没跑过 = 不出厂。no eval, no ship. |
-| 15 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 2 | TypeScript | 2026-09-18 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
+| 1 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 2 | TypeScript | 2026-09-19 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
+| 2 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-09-19 | pip install gauntlet-evals · v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against |
+| 3 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-09-19 | Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu |
+| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25270 | TypeScript | 2026-09-19 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 5 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-19 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
+| 6 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-09-19 | v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic |
+| 7 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11538 | Python | 2026-09-19 | AI Observability & Evaluation |
+| 8 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-09-18 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
+| 9 | [arunash/earshot](https://github.com/arunash/earshot) | 0 | Python | 2026-09-18 | Blind, reproducible benchmark for production phone voice agents. Measures barge-in latency, false-stop rate and the late |
+| 10 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5825 | Python | 2026-09-18 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 11 | [truera/trulens](https://github.com/truera/trulens) | 3562 | Python | 2026-09-18 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 12 | [IcodeNet/eval-dashboards](https://github.com/IcodeNet/eval-dashboards) | 1 | TypeScript | 2026-09-18 | Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style — bring y |
+| 13 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-09-18 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
+| 14 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-09-18 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
+| 15 | [SmartStudio/baize-prompts](https://github.com/SmartStudio/baize-prompts) | 1 | — | 2026-09-18 | 没跑过 = 不出厂。no eval, no ship. |
 | 16 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 354 | TypeScript | 2026-09-18 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 17 | [cannonade-ai/cannonade](https://github.com/cannonade-ai/cannonade) | 7 | TypeScript | 2026-09-17 | Local-first desktop app for building LLM test suites and running them against many local or cloud models at once |
 | 18 | [isatimur/book-mash](https://github.com/isatimur/book-mash) | 0 | Python | 2026-09-17 |  |
