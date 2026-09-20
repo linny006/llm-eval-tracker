@@ -1,5 +1,14 @@
 [
   {
+    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
+    "id": "saddled-panicattack529/idea-evaluation-pipeline",
+    "language": "\u2014",
+    "name": "saddled-panicattack529/idea-evaluation-pipeline",
+    "stars": 0,
+    "updated_at": "2026-09-20T13:34:30Z",
+    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
+  },
+  {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
     "id": "ahmedmoha9088/PhoenixFish",
     "language": "Java",
@@ -7,15 +16,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T11:42:02Z",
     "url": "https://github.com/ahmedmoha9088/PhoenixFish"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-09-20T11:26:25Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
@@ -31,7 +31,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25303,
+    "stars": 25304,
     "updated_at": "2026-09-20T08:08:19Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -86,7 +86,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11548,
-    "updated_at": "2026-09-19T07:21:00Z",
+    "updated_at": "2026-09-20T13:31:32Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
