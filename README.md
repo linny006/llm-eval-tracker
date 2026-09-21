@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-21 11:15 UTC
+> ⏰ Last updated: 2026-09-21 11:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ColeFang35/llm-judge-eval](https://github.com/ColeFang35/llm-judge-eval) | 1 | Python | 2026-09-21 | 面向 Agent 任务的双层评测框架：能程序判定的用代码判，只有开放式质量才交给 LLM 分档打分；并量化裁判自身的可靠性（Cohen's kappa、自一致性、位置偏见）。纯标准库实现，零依赖 |
-| 2 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 354 | TypeScript | 2026-09-21 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 3 | [lilyco-42/lyco-router-eval](https://github.com/lilyco-42/lyco-router-eval) | 0 | — | 2026-09-21 | Independent-eval-Qwen3-0.6B-ondevice-router-40cases |
-| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25331 | TypeScript | 2026-09-21 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 5 | [virtualman333/jev-decision-arena](https://github.com/virtualman333/jev-decision-arena) | 0 | HTML | 2026-09-21 | Same maze, same rules, N decision backends. A zero-key, zero-dependency arena that measures Jev / LLM / local decision m |
-| 6 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-21 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
+| 1 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-21 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
+| 2 | [ColeFang35/llm-judge-eval](https://github.com/ColeFang35/llm-judge-eval) | 1 | Python | 2026-09-21 | 面向 Agent 任务的双层评测框架：能程序判定的用代码判，只有开放式质量才交给 LLM 分档打分；并量化裁判自身的可靠性（Cohen's kappa、自一致性、位置偏见）。纯标准库实现，零依赖 |
+| 3 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 354 | TypeScript | 2026-09-21 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 4 | [lilyco-42/lyco-router-eval](https://github.com/lilyco-42/lyco-router-eval) | 0 | — | 2026-09-21 | Independent-eval-Qwen3-0.6B-ondevice-router-40cases |
+| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25332 | TypeScript | 2026-09-21 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 6 | [virtualman333/jev-decision-arena](https://github.com/virtualman333/jev-decision-arena) | 0 | HTML | 2026-09-21 | Same maze, same rules, N decision backends. A zero-key, zero-dependency arena that measures Jev / LLM / local decision m |
 | 7 | [logicrw/ask-jev](https://github.com/logicrw/ask-jev) | 1 | Python | 2026-09-21 | Ultra-fast, fail-open advisory decisions and verbatim extractive reading view for AI coding agents and CLI pipelines |
 | 8 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11561 | Python | 2026-09-21 | AI Observability & Evaluation |
 | 9 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-09-21 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
