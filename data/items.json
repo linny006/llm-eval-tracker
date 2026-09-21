@@ -5,8 +5,26 @@
     "language": "JavaScript",
     "name": "beingcognitive/jev-go",
     "stars": 0,
-    "updated_at": "2026-09-21T15:35:48Z",
+    "updated_at": "2026-09-21T15:39:43Z",
     "url": "https://github.com/beingcognitive/jev-go"
+  },
+  {
+    "description": "First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs",
+    "id": "instax-dutta/sysone-bench",
+    "language": "Python",
+    "name": "instax-dutta/sysone-bench",
+    "stars": 0,
+    "updated_at": "2026-09-21T15:39:08Z",
+    "url": "https://github.com/instax-dutta/sysone-bench"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11563,
+    "updated_at": "2026-09-21T15:40:41Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
@@ -23,17 +41,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25334,
-    "updated_at": "2026-09-21T15:25:42Z",
+    "updated_at": "2026-09-21T15:43:45Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11563,
-    "updated_at": "2026-09-21T15:29:15Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
@@ -68,7 +77,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5833,
-    "updated_at": "2026-09-21T10:27:26Z",
+    "updated_at": "2026-09-21T15:41:40Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -157,7 +166,7 @@
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3569,
+    "stars": 3570,
     "updated_at": "2026-09-21T02:17:06Z",
     "url": "https://github.com/truera/trulens"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-12T14:45:39Z",
     "url": "https://github.com/lftherios/session-link"
-  },
-  {
-    "description": "\u516c\u544a\u6458\u8981\u7684\u65ad\u8a00\u7ea7\u4e8b\u5b9e\u6838\u67e5\u88c1\u5224\uff1a\u5e7b\u89c9\u68c0\u51fa / \u8bef\u62a5 / \u5173\u952e\u4fe1\u606f\u8986\u76d6\u4e09\u8f74\u5ea6\u91cf",
-    "id": "AndyZhang666666/filing-eval",
-    "language": "JavaScript",
-    "name": "AndyZhang666666/filing-eval",
-    "stars": 0,
-    "updated_at": "2026-09-12T14:19:48Z",
-    "url": "https://github.com/AndyZhang666666/filing-eval"
   }
 ]
