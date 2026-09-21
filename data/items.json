@@ -1,5 +1,14 @@
 [
   {
+    "description": "EvalFloor: is your LLM eval improvement real? Trying k prompt variants and keeping the best scores points on noise alone",
+    "id": "novaleolin/evalfloor",
+    "language": "Python",
+    "name": "novaleolin/evalfloor",
+    "stars": 1,
+    "updated_at": "2026-09-21T03:47:10Z",
+    "url": "https://github.com/novaleolin/evalfloor"
+  },
+  {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
     "id": "ahmedmoha9088/PhoenixFish",
     "language": "Java",
@@ -7,15 +16,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T03:41:36Z",
     "url": "https://github.com/ahmedmoha9088/PhoenixFish"
-  },
-  {
-    "description": "EvalFloor: is your LLM eval improvement real? Trying k prompt variants and keeping the best scores points on noise alone",
-    "id": "novaleolin/evalfloor",
-    "language": "Python",
-    "name": "novaleolin/evalfloor",
-    "stars": 1,
-    "updated_at": "2026-09-21T03:40:58Z",
-    "url": "https://github.com/novaleolin/evalfloor"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
