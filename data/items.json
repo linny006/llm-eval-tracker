@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11564,
+    "updated_at": "2026-09-21T17:12:32Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs",
     "id": "instax-dutta/sysone-bench",
     "language": "Python",
@@ -52,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T15:49:36Z",
     "url": "https://github.com/beingcognitive/jev-go"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11563,
-    "updated_at": "2026-09-21T16:50:12Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
