@@ -1,5 +1,14 @@
 [
   {
+    "description": "Is Jev a good Gomoku player? Is Jev a great Go player? Play TypeSafe's System One decision model on Cloudflare Pages, wi",
+    "id": "beingcognitive/jev-go",
+    "language": "JavaScript",
+    "name": "beingcognitive/jev-go",
+    "stars": 0,
+    "updated_at": "2026-09-21T04:42:07Z",
+    "url": "https://github.com/beingcognitive/jev-go"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -7,15 +16,6 @@
     "stars": 25319,
     "updated_at": "2026-09-21T04:23:01Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Is Jev a good Gomoku player? Is Jev a great Go player? Play TypeSafe's System One decision model on Cloudflare Pages, wi",
-    "id": "beingcognitive/jev-go",
-    "language": "JavaScript",
-    "name": "beingcognitive/jev-go",
-    "stars": 0,
-    "updated_at": "2026-09-21T04:09:31Z",
-    "url": "https://github.com/beingcognitive/jev-go"
   },
   {
     "description": "EvalFloor: is your LLM eval improvement real? Trying k prompt variants and keeping the best scores points on noise alone",
@@ -67,7 +67,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11557,
+    "stars": 11558,
     "updated_at": "2026-09-20T13:31:32Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
