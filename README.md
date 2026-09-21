@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-21 16:15 UTC
+> ⏰ Last updated: 2026-09-21 16:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -79,7 +79,7 @@ expired items removed — so you can rely on what you see being current.
 | 35 | [crashlabsai/trojan-harbor](https://github.com/crashlabsai/trojan-harbor) | 0 | Python | 2026-09-16 | An indirect prompt injection evaluation suite for Harbor, with eight matched attack and clean task families and determin |
 | 36 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 3 | Ruby | 2026-09-16 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
 | 37 | [Ruthwik-Data/finrag-eval](https://github.com/Ruthwik-Data/finrag-eval) | 1 | Python | 2026-09-17 | Local RAG eval on real SEC 10-Ks that catches confident financial hallucinations — and surfaced a metric bug now merged  |
-| 38 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-16 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
+| 38 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-21 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
 | 39 | [anejakartik/evalstack](https://github.com/anejakartik/evalstack) | 0 | Python | 2026-09-16 | Open-source LLM evaluation framework — drop-in SDK + CI plugin. LLM-as-judge, regression detection, free + self-hostable |
 | 40 | [lokesh75-kank/agenteval](https://github.com/lokesh75-kank/agenteval) | 0 | TypeScript | 2026-09-16 | Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou |
 | 41 | [SFX-TECH/sfx-lead-intelligence](https://github.com/SFX-TECH/sfx-lead-intelligence) | 0 | — | 2026-09-15 | SFX Lead Intelligence Command Center: local-LLM hub plus lead dashboard, quality lifted 61 to 99 percent via a ground-tr |
