@@ -1,19 +1,46 @@
 [
   {
+    "description": "Same maze, same rules, N decision backends. A zero-key, zero-dependency arena that measures Jev / LLM / local decision m",
+    "id": "virtualman333/jev-decision-arena",
+    "language": "HTML",
+    "name": "virtualman333/jev-decision-arena",
+    "stars": 0,
+    "updated_at": "2026-09-21T09:12:07Z",
+    "url": "https://github.com/virtualman333/jev-decision-arena"
+  },
+  {
+    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
+    "id": "Kondwani10/Origin-Continuum",
+    "language": "\u2014",
+    "name": "Kondwani10/Origin-Continuum",
+    "stars": 0,
+    "updated_at": "2026-09-21T09:11:27Z",
+    "url": "https://github.com/Kondwani10/Origin-Continuum"
+  },
+  {
     "description": "Can you beat Jev at Gomoku, Go or chess? Play TypeSafe's System One decision model on Cloudflare Pages, with every API c",
     "id": "beingcognitive/jev-go",
     "language": "JavaScript",
     "name": "beingcognitive/jev-go",
     "stars": 0,
-    "updated_at": "2026-09-21T09:00:13Z",
+    "updated_at": "2026-09-21T09:11:01Z",
     "url": "https://github.com/beingcognitive/jev-go"
+  },
+  {
+    "description": "Ultra-fast, fail-open advisory decisions and verbatim extractive reading view for AI coding agents and CLI pipelines",
+    "id": "logicrw/ask-jev",
+    "language": "Python",
+    "name": "logicrw/ask-jev",
+    "stars": 1,
+    "updated_at": "2026-09-21T09:08:14Z",
+    "url": "https://github.com/logicrw/ask-jev"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25328,
+    "stars": 25329,
     "updated_at": "2026-09-21T08:47:25Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -142,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-09-19T14:06:06Z",
     "url": "https://github.com/connectedGraph/claude-jev-warden"
-  },
-  {
-    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
-    "id": "Kondwani10/Origin-Continuum",
-    "language": "\u2014",
-    "name": "Kondwani10/Origin-Continuum",
-    "stars": 0,
-    "updated_at": "2026-09-19T07:14:02Z",
-    "url": "https://github.com/Kondwani10/Origin-Continuum"
   },
   {
     "description": "pip install gauntlet-evals \u00b7 v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-12T14:19:47Z",
     "url": "https://github.com/AndyZhang666666/creative-eval"
-  },
-  {
-    "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
-    "id": "NoesisVision/nasde-toolkit",
-    "language": "Python",
-    "name": "NoesisVision/nasde-toolkit",
-    "stars": 14,
-    "updated_at": "2026-09-12T09:57:16Z",
-    "url": "https://github.com/NoesisVision/nasde-toolkit"
-  },
-  {
-    "description": "\ud83e\uddea Automated evaluation pipeline for detecting factual hallucinations, toxicity, and answer relevance in LLM generation",
-    "id": "T9113/eval-llm-hallucination-detector",
-    "language": "Python",
-    "name": "T9113/eval-llm-hallucination-detector",
-    "stars": 0,
-    "updated_at": "2026-09-11T17:58:31Z",
-    "url": "https://github.com/T9113/eval-llm-hallucination-detector"
   }
 ]
