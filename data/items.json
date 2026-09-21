@@ -1,11 +1,11 @@
 [
   {
-    "description": "Is Jev a good Gomoku, Go, or chess player? Play TypeSafe's System One decision model on Cloudflare Pages, with every API",
+    "description": "Can you beat Jev at Gomoku, Go or chess? Play TypeSafe's System One decision model on Cloudflare Pages, with every API c",
     "id": "beingcognitive/jev-go",
     "language": "JavaScript",
     "name": "beingcognitive/jev-go",
     "stars": 0,
-    "updated_at": "2026-09-21T08:12:56Z",
+    "updated_at": "2026-09-21T08:15:44Z",
     "url": "https://github.com/beingcognitive/jev-go"
   },
   {
@@ -13,7 +13,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25325,
+    "stars": 25326,
     "updated_at": "2026-09-21T08:14:02Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
