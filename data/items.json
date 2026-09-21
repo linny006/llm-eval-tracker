@@ -1,12 +1,12 @@
 [
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25319,
-    "updated_at": "2026-09-21T03:01:49Z",
-    "url": "https://github.com/promptfoo/promptfoo"
+    "description": "\u6ca1\u8dd1\u8fc7 = \u4e0d\u51fa\u5382\u3002no eval, no ship.",
+    "id": "SmartStudio/baize-prompts",
+    "language": "\u2014",
+    "name": "SmartStudio/baize-prompts",
+    "stars": 1,
+    "updated_at": "2026-09-21T03:13:16Z",
+    "url": "https://github.com/SmartStudio/baize-prompts"
   },
   {
     "description": "EvalFloor: is your LLM eval improvement real? Trying k prompt variants and keeping the best scores points on noise alone",
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "novaleolin/evalfloor",
     "stars": 1,
-    "updated_at": "2026-09-21T02:54:01Z",
+    "updated_at": "2026-09-21T03:12:41Z",
     "url": "https://github.com/novaleolin/evalfloor"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25319,
+    "updated_at": "2026-09-21T03:01:49Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -178,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-09-18T08:10:41Z",
     "url": "https://github.com/IcodeNet/eval-dashboards"
-  },
-  {
-    "description": "\u6ca1\u8dd1\u8fc7 = \u4e0d\u51fa\u5382\u3002no eval, no ship.",
-    "id": "SmartStudio/baize-prompts",
-    "language": "\u2014",
-    "name": "SmartStudio/baize-prompts",
-    "stars": 1,
-    "updated_at": "2026-09-18T03:38:51Z",
-    "url": "https://github.com/SmartStudio/baize-prompts"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
