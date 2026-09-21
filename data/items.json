@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11565,
+    "updated_at": "2026-09-21T22:58:00Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Can you beat Jev at Gomoku, Go or chess? Play TypeSafe's System One decision model on Cloudflare Pages, with every API c",
     "id": "beingcognitive/jev-go",
     "language": "JavaScript",
@@ -7,15 +16,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T22:26:48Z",
     "url": "https://github.com/beingcognitive/jev-go"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11565,
-    "updated_at": "2026-09-21T22:35:17Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -193,7 +193,7 @@
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3570,
+    "stars": 3569,
     "updated_at": "2026-09-21T02:17:06Z",
     "url": "https://github.com/truera/trulens"
   },
