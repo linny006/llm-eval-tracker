@@ -63,6 +63,15 @@
     "url": "https://github.com/SmartStudio/baize-prompts"
   },
   {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3567,
+    "updated_at": "2026-09-21T02:17:06Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -178,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T18:31:46Z",
     "url": "https://github.com/arunash/earshot"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3566,
-    "updated_at": "2026-09-21T02:17:06Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
