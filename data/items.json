@@ -1,5 +1,14 @@
 [
   {
+    "description": "Can you beat Jev at Gomoku, Go or chess? Play TypeSafe's System One decision model on Cloudflare Pages, with every API c",
+    "id": "beingcognitive/jev-go",
+    "language": "JavaScript",
+    "name": "beingcognitive/jev-go",
+    "stars": 0,
+    "updated_at": "2026-09-21T15:35:48Z",
+    "url": "https://github.com/beingcognitive/jev-go"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-12T14:19:48Z",
     "url": "https://github.com/AndyZhang666666/filing-eval"
-  },
-  {
-    "description": "\u77ed\u5267\u5267\u672c\u521d\u7a3f\u7684 LLM \u8bc4\u5206\u88c1\u5224\uff1a5 \u7ef4\u5ea6 rubric + 40 \u6761\u91d1\u6807\u96c6 + \u88c1\u5224\u53ef\u9760\u6027\u6821\u9a8c",
-    "id": "AndyZhang666666/creative-eval",
-    "language": "JavaScript",
-    "name": "AndyZhang666666/creative-eval",
-    "stars": 0,
-    "updated_at": "2026-09-12T14:19:47Z",
-    "url": "https://github.com/AndyZhang666666/creative-eval"
   }
 ]
