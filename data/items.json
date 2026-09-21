@@ -1,10 +1,19 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 356,
+    "updated_at": "2026-09-21T14:45:40Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25333,
+    "stars": 25334,
     "updated_at": "2026-09-21T14:31:50Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -43,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-09-21T12:39:27Z",
     "url": "https://github.com/ColeFang35/llm-judge-eval"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 356,
-    "updated_at": "2026-09-21T13:08:19Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Independent-eval-Qwen3-0.6B-ondevice-router-40cases",
