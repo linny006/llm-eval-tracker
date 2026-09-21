@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-21 09:15 UTC
+> ⏰ Last updated: 2026-09-21 09:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [virtualman333/jev-decision-arena](https://github.com/virtualman333/jev-decision-arena) | 0 | HTML | 2026-09-21 | Same maze, same rules, N decision backends. A zero-key, zero-dependency arena that measures Jev / LLM / local decision m |
-| 2 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-21 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
-| 3 | [beingcognitive/jev-go](https://github.com/beingcognitive/jev-go) | 0 | JavaScript | 2026-09-21 | Can you beat Jev at Gomoku, Go or chess? Play TypeSafe's System One decision model on Cloudflare Pages, with every API c |
+| 1 | [beingcognitive/jev-go](https://github.com/beingcognitive/jev-go) | 0 | JavaScript | 2026-09-21 | Can you beat Jev at Gomoku, Go or chess? Play TypeSafe's System One decision model on Cloudflare Pages, with every API c |
+| 2 | [virtualman333/jev-decision-arena](https://github.com/virtualman333/jev-decision-arena) | 0 | HTML | 2026-09-21 | Same maze, same rules, N decision backends. A zero-key, zero-dependency arena that measures Jev / LLM / local decision m |
+| 3 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-21 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 4 | [logicrw/ask-jev](https://github.com/logicrw/ask-jev) | 1 | Python | 2026-09-21 | Ultra-fast, fail-open advisory decisions and verbatim extractive reading view for AI coding agents and CLI pipelines |
-| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25329 | TypeScript | 2026-09-21 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25330 | TypeScript | 2026-09-21 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 6 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-09-21 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
 | 7 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-09-21 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 8 | [IcodeNet/eval-dashboards](https://github.com/IcodeNet/eval-dashboards) | 1 | TypeScript | 2026-09-21 | Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style — bring y |

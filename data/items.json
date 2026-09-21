@@ -1,5 +1,14 @@
 [
   {
+    "description": "Can you beat Jev at Gomoku, Go or chess? Play TypeSafe's System One decision model on Cloudflare Pages, with every API c",
+    "id": "beingcognitive/jev-go",
+    "language": "JavaScript",
+    "name": "beingcognitive/jev-go",
+    "stars": 0,
+    "updated_at": "2026-09-21T09:18:45Z",
+    "url": "https://github.com/beingcognitive/jev-go"
+  },
+  {
     "description": "Same maze, same rules, N decision backends. A zero-key, zero-dependency arena that measures Jev / LLM / local decision m",
     "id": "virtualman333/jev-decision-arena",
     "language": "HTML",
@@ -18,15 +27,6 @@
     "url": "https://github.com/Kondwani10/Origin-Continuum"
   },
   {
-    "description": "Can you beat Jev at Gomoku, Go or chess? Play TypeSafe's System One decision model on Cloudflare Pages, with every API c",
-    "id": "beingcognitive/jev-go",
-    "language": "JavaScript",
-    "name": "beingcognitive/jev-go",
-    "stars": 0,
-    "updated_at": "2026-09-21T09:11:01Z",
-    "url": "https://github.com/beingcognitive/jev-go"
-  },
-  {
     "description": "Ultra-fast, fail-open advisory decisions and verbatim extractive reading view for AI coding agents and CLI pipelines",
     "id": "logicrw/ask-jev",
     "language": "Python",
@@ -40,7 +40,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25329,
+    "stars": 25330,
     "updated_at": "2026-09-21T08:47:25Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
