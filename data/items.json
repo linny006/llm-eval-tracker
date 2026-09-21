@@ -14,8 +14,17 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25334,
-    "updated_at": "2026-09-21T14:31:50Z",
+    "updated_at": "2026-09-21T15:14:27Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11563,
+    "updated_at": "2026-09-21T15:10:23Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
@@ -25,15 +34,6 @@
     "stars": 25,
     "updated_at": "2026-09-21T14:12:28Z",
     "url": "https://github.com/multivon-ai/multivon-eval"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11562,
-    "updated_at": "2026-09-21T14:16:43Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -52,6 +52,15 @@
     "stars": 1,
     "updated_at": "2026-09-21T12:39:27Z",
     "url": "https://github.com/ColeFang35/llm-judge-eval"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5833,
+    "updated_at": "2026-09-21T10:27:26Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Independent-eval-Qwen3-0.6B-ondevice-router-40cases",
@@ -117,15 +126,6 @@
     "url": "https://github.com/open-compass/opencompass"
   },
   {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5832,
-    "updated_at": "2026-09-21T10:27:26Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
     "description": "EvalFloor: is your LLM eval improvement real? Trying k prompt variants and keeping the best scores points on noise alone",
     "id": "novaleolin/evalfloor",
     "language": "Python",
@@ -148,7 +148,7 @@
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3568,
+    "stars": 3569,
     "updated_at": "2026-09-21T02:17:06Z",
     "url": "https://github.com/truera/trulens"
   },

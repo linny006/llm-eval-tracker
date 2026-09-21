@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-21 15:00 UTC
+> ⏰ Last updated: 2026-09-21 15:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -44,21 +44,21 @@ expired items removed — so you can rely on what you see being current.
 |---|------|---|------|---------|-------------|
 | 1 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 356 | TypeScript | 2026-09-21 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25334 | TypeScript | 2026-09-21 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 3 | [multivon-ai/multivon-eval](https://github.com/multivon-ai/multivon-eval) | 25 | Python | 2026-09-21 | Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI |
-| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11562 | Python | 2026-09-21 | AI Observability & Evaluation |
+| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11563 | Python | 2026-09-21 | AI Observability & Evaluation |
+| 4 | [multivon-ai/multivon-eval](https://github.com/multivon-ai/multivon-eval) | 25 | Python | 2026-09-21 | Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI |
 | 5 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-21 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 6 | [ColeFang35/llm-judge-eval](https://github.com/ColeFang35/llm-judge-eval) | 1 | Python | 2026-09-21 | 面向 Agent 任务的双层评测框架：能程序判定的用代码判，只有开放式质量才交给 LLM 分档打分；并量化裁判自身的可靠性（Cohen's kappa、自一致性、位置偏见）。纯标准库实现，零依赖 |
-| 7 | [lilyco-42/lyco-router-eval](https://github.com/lilyco-42/lyco-router-eval) | 0 | — | 2026-09-21 | Independent-eval-Qwen3-0.6B-ondevice-router-40cases |
-| 8 | [virtualman333/jev-decision-arena](https://github.com/virtualman333/jev-decision-arena) | 0 | HTML | 2026-09-21 | Same maze, same rules, N decision backends. A zero-key, zero-dependency arena that measures Jev / LLM / local decision m |
-| 9 | [logicrw/ask-jev](https://github.com/logicrw/ask-jev) | 1 | Python | 2026-09-21 | Ultra-fast, fail-open advisory decisions and verbatim extractive reading view for AI coding agents and CLI pipelines |
-| 10 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-09-21 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
-| 11 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-09-21 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 12 | [IcodeNet/eval-dashboards](https://github.com/IcodeNet/eval-dashboards) | 1 | TypeScript | 2026-09-21 | Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style — bring y |
-| 13 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7462 | Python | 2026-09-21 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
-| 14 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5832 | Python | 2026-09-21 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 7 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5833 | Python | 2026-09-21 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 8 | [lilyco-42/lyco-router-eval](https://github.com/lilyco-42/lyco-router-eval) | 0 | — | 2026-09-21 | Independent-eval-Qwen3-0.6B-ondevice-router-40cases |
+| 9 | [virtualman333/jev-decision-arena](https://github.com/virtualman333/jev-decision-arena) | 0 | HTML | 2026-09-21 | Same maze, same rules, N decision backends. A zero-key, zero-dependency arena that measures Jev / LLM / local decision m |
+| 10 | [logicrw/ask-jev](https://github.com/logicrw/ask-jev) | 1 | Python | 2026-09-21 | Ultra-fast, fail-open advisory decisions and verbatim extractive reading view for AI coding agents and CLI pipelines |
+| 11 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-09-21 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
+| 12 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-09-21 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
+| 13 | [IcodeNet/eval-dashboards](https://github.com/IcodeNet/eval-dashboards) | 1 | TypeScript | 2026-09-21 | Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style — bring y |
+| 14 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7462 | Python | 2026-09-21 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
 | 15 | [novaleolin/evalfloor](https://github.com/novaleolin/evalfloor) | 1 | Python | 2026-09-21 | EvalFloor: is your LLM eval improvement real? Trying k prompt variants and keeping the best scores points on noise alone |
 | 16 | [SmartStudio/baize-prompts](https://github.com/SmartStudio/baize-prompts) | 1 | — | 2026-09-21 | 没跑过 = 不出厂。no eval, no ship. |
-| 17 | [truera/trulens](https://github.com/truera/trulens) | 3568 | Python | 2026-09-21 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 17 | [truera/trulens](https://github.com/truera/trulens) | 3569 | Python | 2026-09-21 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 18 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-09-20 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
 | 19 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-09-20 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
 | 20 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-09-20 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
