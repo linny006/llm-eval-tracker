@@ -4,8 +4,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25331,
-    "updated_at": "2026-09-21T11:56:58Z",
+    "stars": 25332,
+    "updated_at": "2026-09-21T12:14:28Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -99,6 +99,15 @@
     "url": "https://github.com/IcodeNet/eval-dashboards"
   },
   {
+    "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
+    "id": "open-compass/opencompass",
+    "language": "Python",
+    "name": "open-compass/opencompass",
+    "stars": 7462,
+    "updated_at": "2026-09-21T06:28:36Z",
+    "url": "https://github.com/open-compass/opencompass"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -142,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T09:49:08Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
-    "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
-    "id": "open-compass/opencompass",
-    "language": "Python",
-    "name": "open-compass/opencompass",
-    "stars": 7463,
-    "updated_at": "2026-09-21T06:28:36Z",
-    "url": "https://github.com/open-compass/opencompass"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",

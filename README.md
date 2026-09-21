@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-21 12:00 UTC
+> ⏰ Last updated: 2026-09-21 12:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,7 +42,7 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25331 | TypeScript | 2026-09-21 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25332 | TypeScript | 2026-09-21 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 2 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-21 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 3 | [ColeFang35/llm-judge-eval](https://github.com/ColeFang35/llm-judge-eval) | 1 | Python | 2026-09-21 | 面向 Agent 任务的双层评测框架：能程序判定的用代码判，只有开放式质量才交给 LLM 分档打分；并量化裁判自身的可靠性（Cohen's kappa、自一致性、位置偏见）。纯标准库实现，零依赖 |
 | 4 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 354 | TypeScript | 2026-09-21 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
@@ -53,12 +53,12 @@ expired items removed — so you can rely on what you see being current.
 | 9 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-09-21 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
 | 10 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-09-21 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 11 | [IcodeNet/eval-dashboards](https://github.com/IcodeNet/eval-dashboards) | 1 | TypeScript | 2026-09-21 | Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style — bring y |
-| 12 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5832 | Python | 2026-09-21 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 13 | [novaleolin/evalfloor](https://github.com/novaleolin/evalfloor) | 1 | Python | 2026-09-21 | EvalFloor: is your LLM eval improvement real? Trying k prompt variants and keeping the best scores points on noise alone |
-| 14 | [SmartStudio/baize-prompts](https://github.com/SmartStudio/baize-prompts) | 1 | — | 2026-09-21 | 没跑过 = 不出厂。no eval, no ship. |
-| 15 | [truera/trulens](https://github.com/truera/trulens) | 3568 | Python | 2026-09-21 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 16 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-09-20 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
-| 17 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7463 | Python | 2026-09-21 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
+| 12 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7462 | Python | 2026-09-21 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
+| 13 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5832 | Python | 2026-09-21 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 14 | [novaleolin/evalfloor](https://github.com/novaleolin/evalfloor) | 1 | Python | 2026-09-21 | EvalFloor: is your LLM eval improvement real? Trying k prompt variants and keeping the best scores points on noise alone |
+| 15 | [SmartStudio/baize-prompts](https://github.com/SmartStudio/baize-prompts) | 1 | — | 2026-09-21 | 没跑过 = 不出厂。no eval, no ship. |
+| 16 | [truera/trulens](https://github.com/truera/trulens) | 3568 | Python | 2026-09-21 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 17 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-09-20 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
 | 18 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-09-20 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
 | 19 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-09-20 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
 | 20 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 2 | TypeScript | 2026-09-20 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
