@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-21 21:45 UTC
+> ⏰ Last updated: 2026-09-21 22:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11564 | Python | 2026-09-21 | AI Observability & Evaluation |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11565 | Python | 2026-09-21 | AI Observability & Evaluation |
 | 2 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-21 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 3 | [instax-dutta/sysone-bench](https://github.com/instax-dutta/sysone-bench) | 2 | Python | 2026-09-21 | First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs |
 | 4 | [arunash/earshot](https://github.com/arunash/earshot) | 0 | Python | 2026-09-21 | Blind, reproducible benchmark for production phone voice agents. Measures barge-in latency, false-stop rate and the late |
 | 5 | [abhishek2512mishra/deepswe-benchmaxxing-detector](https://github.com/abhishek2512mishra/deepswe-benchmaxxing-detector) | 0 | Python | 2026-09-21 | Forensic audit scanner for SWE-bench & DeepSWE v1.1 containers detecting .git reflog leakage and test harness spoofing. |
 | 6 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-21 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
-| 7 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25340 | TypeScript | 2026-09-21 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 7 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25341 | TypeScript | 2026-09-21 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 8 | [beingcognitive/jev-go](https://github.com/beingcognitive/jev-go) | 0 | JavaScript | 2026-09-21 | Can you beat Jev at Gomoku, Go or chess? Play TypeSafe's System One decision model on Cloudflare Pages, with every API c |
 | 9 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5833 | Python | 2026-09-21 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 10 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 356 | TypeScript | 2026-09-21 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
