@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11562,
+    "updated_at": "2026-09-21T19:42:55Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs",
     "id": "instax-dutta/sysone-bench",
     "language": "Python",
@@ -16,15 +25,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T19:19:34Z",
     "url": "https://github.com/arunash/earshot"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11563,
-    "updated_at": "2026-09-21T19:21:34Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Forensic audit scanner for SWE-bench & DeepSWE v1.1 containers detecting .git reflog leakage and test harness spoofing.",
@@ -72,6 +72,15 @@
     "url": "https://github.com/beingcognitive/jev-go"
   },
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5833,
+    "updated_at": "2026-09-21T15:41:40Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -97,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-09-21T12:39:27Z",
     "url": "https://github.com/ColeFang35/llm-judge-eval"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5833,
-    "updated_at": "2026-09-21T15:41:40Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Independent-eval-Qwen3-0.6B-ondevice-router-40cases",
