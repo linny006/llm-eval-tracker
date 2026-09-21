@@ -1,5 +1,32 @@
 [
   {
+    "description": "First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs",
+    "id": "instax-dutta/sysone-bench",
+    "language": "Python",
+    "name": "instax-dutta/sysone-bench",
+    "stars": 0,
+    "updated_at": "2026-09-21T16:09:42Z",
+    "url": "https://github.com/instax-dutta/sysone-bench"
+  },
+  {
+    "description": "Forensic audit scanner for SWE-bench & DeepSWE v1.1 containers detecting .git reflog leakage and test harness spoofing.",
+    "id": "abhishek2512mishra/deepswe-benchmaxxing-detector",
+    "language": "Python",
+    "name": "abhishek2512mishra/deepswe-benchmaxxing-detector",
+    "stars": 0,
+    "updated_at": "2026-09-21T16:06:31Z",
+    "url": "https://github.com/abhishek2512mishra/deepswe-benchmaxxing-detector"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25336,
+    "updated_at": "2026-09-21T16:04:17Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -9,15 +36,6 @@
     "url": "https://github.com/Kondwani10/Origin-Continuum"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25336,
-    "updated_at": "2026-09-21T15:51:15Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Can you beat Jev at Gomoku, Go or chess? Play TypeSafe's System One decision model on Cloudflare Pages, with every API c",
     "id": "beingcognitive/jev-go",
     "language": "JavaScript",
@@ -25,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T15:49:36Z",
     "url": "https://github.com/beingcognitive/jev-go"
-  },
-  {
-    "description": "First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs",
-    "id": "instax-dutta/sysone-bench",
-    "language": "Python",
-    "name": "instax-dutta/sysone-bench",
-    "stars": 0,
-    "updated_at": "2026-09-21T15:39:08Z",
-    "url": "https://github.com/instax-dutta/sysone-bench"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -403,15 +412,6 @@
     "stars": 0,
     "updated_at": "2026-09-13T17:44:51Z",
     "url": "https://github.com/sammyjdev/gnomon-eval"
-  },
-  {
-    "description": "Forensic audit scanner for SWE-bench & DeepSWE v1.1 containers detecting .git reflog leakage and test harness spoofing.",
-    "id": "abhishek2512mishra/deepswe-benchmaxxing-detector",
-    "language": "Python",
-    "name": "abhishek2512mishra/deepswe-benchmaxxing-detector",
-    "stars": 0,
-    "updated_at": "2026-09-13T17:41:29Z",
-    "url": "https://github.com/abhishek2512mishra/deepswe-benchmaxxing-detector"
   },
   {
     "description": "\u957f\u6587\u672c LLM \u8f93\u51fa\u8bc4\u6d4b\u5de5\u5177\uff08\u7b2c\u4e8c\u7248\uff09\uff1a\u4e24\u7248 prompt \u8fde\u8dd1\u5bf9\u6bd4 + Bad Case \u5bfc\u51fa + \u9010\u5b57\u8bc1\u636e\u62bd\u53d6\uff0c\u9644 30 \u6761\u91d1\u6807\u96c6\u88c1\u5224\u6821\u9a8c",
