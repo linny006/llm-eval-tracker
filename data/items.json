@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25331,
+    "updated_at": "2026-09-21T11:56:58Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -34,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T09:48:51Z",
     "url": "https://github.com/lilyco-42/lyco-router-eval"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25331,
-    "updated_at": "2026-09-21T11:39:51Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Same maze, same rules, N decision backends. A zero-key, zero-dependency arena that measures Jev / LLM / local decision m",
