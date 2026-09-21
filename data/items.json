@@ -1,11 +1,29 @@
 [
   {
+    "description": "Is Jev a good Gomoku, Go, or chess player? Play TypeSafe's System One decision model on Cloudflare Pages, with every API",
+    "id": "beingcognitive/jev-go",
+    "language": "JavaScript",
+    "name": "beingcognitive/jev-go",
+    "stars": 0,
+    "updated_at": "2026-09-21T07:45:08Z",
+    "url": "https://github.com/beingcognitive/jev-go"
+  },
+  {
+    "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
+    "id": "ahmedmoha9088/PhoenixFish",
+    "language": "Java",
+    "name": "ahmedmoha9088/PhoenixFish",
+    "stars": 0,
+    "updated_at": "2026-09-21T07:34:55Z",
+    "url": "https://github.com/ahmedmoha9088/PhoenixFish"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25323,
-    "updated_at": "2026-09-21T07:30:14Z",
+    "stars": 25324,
+    "updated_at": "2026-09-21T07:31:08Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -18,15 +36,6 @@
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
-    "description": "Is Jev a good Gomoku, Go, or chess player? Play TypeSafe's System One decision model on Cloudflare Pages, with every API",
-    "id": "beingcognitive/jev-go",
-    "language": "JavaScript",
-    "name": "beingcognitive/jev-go",
-    "stars": 0,
-    "updated_at": "2026-09-21T07:01:42Z",
-    "url": "https://github.com/beingcognitive/jev-go"
-  },
-  {
     "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
     "id": "IcodeNet/eval-dashboards",
     "language": "TypeScript",
@@ -34,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-09-21T07:00:36Z",
     "url": "https://github.com/IcodeNet/eval-dashboards"
-  },
-  {
-    "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
-    "id": "ahmedmoha9088/PhoenixFish",
-    "language": "Java",
-    "name": "ahmedmoha9088/PhoenixFish",
-    "stars": 0,
-    "updated_at": "2026-09-21T05:41:14Z",
-    "url": "https://github.com/ahmedmoha9088/PhoenixFish"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -203,7 +203,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 354,
-    "updated_at": "2026-09-21T06:23:24Z",
+    "updated_at": "2026-09-21T07:34:27Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
