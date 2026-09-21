@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-21 21:30 UTC
+> ⏰ Last updated: 2026-09-21 21:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,8 +42,8 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-21 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
-| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11563 | Python | 2026-09-21 | AI Observability & Evaluation |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11564 | Python | 2026-09-21 | AI Observability & Evaluation |
+| 2 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-21 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 3 | [instax-dutta/sysone-bench](https://github.com/instax-dutta/sysone-bench) | 2 | Python | 2026-09-21 | First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs |
 | 4 | [arunash/earshot](https://github.com/arunash/earshot) | 0 | Python | 2026-09-21 | Blind, reproducible benchmark for production phone voice agents. Measures barge-in latency, false-stop rate and the late |
 | 5 | [abhishek2512mishra/deepswe-benchmaxxing-detector](https://github.com/abhishek2512mishra/deepswe-benchmaxxing-detector) | 0 | Python | 2026-09-21 | Forensic audit scanner for SWE-bench & DeepSWE v1.1 containers detecting .git reflog leakage and test harness spoofing. |
