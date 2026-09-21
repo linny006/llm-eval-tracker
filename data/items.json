@@ -1,5 +1,14 @@
 [
   {
+    "description": "Is Jev a good Gomoku, Go, or chess player? Play TypeSafe's System One decision model on Cloudflare Pages, with every API",
+    "id": "beingcognitive/jev-go",
+    "language": "JavaScript",
+    "name": "beingcognitive/jev-go",
+    "stars": 0,
+    "updated_at": "2026-09-21T06:25:37Z",
+    "url": "https://github.com/beingcognitive/jev-go"
+  },
+  {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
     "id": "ahmedmoha9088/PhoenixFish",
     "language": "Java",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25320,
-    "updated_at": "2026-09-21T05:39:44Z",
+    "updated_at": "2026-09-21T06:19:10Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -34,15 +43,6 @@
     "stars": 5831,
     "updated_at": "2026-09-21T05:10:19Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Is Jev a good Gomoku, Go, or chess player? Play TypeSafe's System One decision model on Cloudflare Pages, with every API",
-    "id": "beingcognitive/jev-go",
-    "language": "JavaScript",
-    "name": "beingcognitive/jev-go",
-    "stars": 0,
-    "updated_at": "2026-09-21T04:47:06Z",
-    "url": "https://github.com/beingcognitive/jev-go"
   },
   {
     "description": "EvalFloor: is your LLM eval improvement real? Trying k prompt variants and keeping the best scores points on noise alone",
@@ -95,7 +95,7 @@
     "language": "Python",
     "name": "open-compass/opencompass",
     "stars": 7463,
-    "updated_at": "2026-09-20T07:45:53Z",
+    "updated_at": "2026-09-21T06:28:36Z",
     "url": "https://github.com/open-compass/opencompass"
   },
   {
@@ -203,7 +203,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 354,
-    "updated_at": "2026-09-21T01:13:50Z",
+    "updated_at": "2026-09-21T06:23:24Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
