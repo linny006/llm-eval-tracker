@@ -1,5 +1,23 @@
 [
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5831,
+    "updated_at": "2026-09-21T02:38:39Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25319,
+    "updated_at": "2026-09-21T02:35:55Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
     "id": "ahmedmoha9088/PhoenixFish",
     "language": "Java",
@@ -16,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T01:35:16Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25318,
-    "updated_at": "2026-09-20T23:03:33Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -142,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T18:31:46Z",
     "url": "https://github.com/arunash/earshot"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5831,
-    "updated_at": "2026-09-21T02:28:53Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
