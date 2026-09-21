@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "instax-dutta/sysone-bench",
     "stars": 0,
-    "updated_at": "2026-09-21T16:09:42Z",
+    "updated_at": "2026-09-21T16:38:12Z",
     "url": "https://github.com/instax-dutta/sysone-bench"
+  },
+  {
+    "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
+    "id": "goldbarth/chartula-evals",
+    "language": "Python",
+    "name": "goldbarth/chartula-evals",
+    "stars": 0,
+    "updated_at": "2026-09-21T16:32:24Z",
+    "url": "https://github.com/goldbarth/chartula-evals"
   },
   {
     "description": "Forensic audit scanner for SWE-bench & DeepSWE v1.1 containers detecting .git reflog leakage and test harness spoofing.",
@@ -50,7 +59,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11563,
-    "updated_at": "2026-09-21T16:19:44Z",
+    "updated_at": "2026-09-21T16:35:33Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -331,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-09-17T22:06:43Z",
     "url": "https://github.com/Ruthwik-Data/finrag-eval"
-  },
-  {
-    "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
-    "id": "goldbarth/chartula-evals",
-    "language": "Python",
-    "name": "goldbarth/chartula-evals",
-    "stars": 0,
-    "updated_at": "2026-09-21T16:21:50Z",
-    "url": "https://github.com/goldbarth/chartula-evals"
   },
   {
     "description": "Open-source LLM evaluation framework \u2014 drop-in SDK + CI plugin. LLM-as-judge, regression detection, free + self-hostable",
