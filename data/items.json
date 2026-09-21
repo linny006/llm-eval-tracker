@@ -1,20 +1,11 @@
 [
   {
-    "description": "Can you beat Jev at Gomoku, Go or chess? Play TypeSafe's System One decision model on Cloudflare Pages, with every API c",
-    "id": "beingcognitive/jev-go",
-    "language": "JavaScript",
-    "name": "beingcognitive/jev-go",
-    "stars": 0,
-    "updated_at": "2026-09-21T09:44:50Z",
-    "url": "https://github.com/beingcognitive/jev-go"
-  },
-  {
     "description": "Independent-eval-Qwen3-0.6B-ondevice-router-40cases",
     "id": "lilyco-42/lyco-router-eval",
     "language": "\u2014",
     "name": "lilyco-42/lyco-router-eval",
     "stars": 0,
-    "updated_at": "2026-09-21T09:40:40Z",
+    "updated_at": "2026-09-21T09:48:51Z",
     "url": "https://github.com/lilyco-42/lyco-router-eval"
   },
   {
@@ -58,7 +49,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11560,
+    "stars": 11561,
     "updated_at": "2026-09-21T08:00:59Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -448,5 +439,14 @@
     "stars": 0,
     "updated_at": "2026-09-12T14:19:48Z",
     "url": "https://github.com/AndyZhang666666/filing-eval"
+  },
+  {
+    "description": "\u77ed\u5267\u5267\u672c\u521d\u7a3f\u7684 LLM \u8bc4\u5206\u88c1\u5224\uff1a5 \u7ef4\u5ea6 rubric + 40 \u6761\u91d1\u6807\u96c6 + \u88c1\u5224\u53ef\u9760\u6027\u6821\u9a8c",
+    "id": "AndyZhang666666/creative-eval",
+    "language": "JavaScript",
+    "name": "AndyZhang666666/creative-eval",
+    "stars": 0,
+    "updated_at": "2026-09-12T14:19:47Z",
+    "url": "https://github.com/AndyZhang666666/creative-eval"
   }
 ]
