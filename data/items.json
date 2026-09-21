@@ -1,5 +1,14 @@
 [
   {
+    "description": "Forensic audit scanner for SWE-bench & DeepSWE v1.1 containers detecting .git reflog leakage and test harness spoofing.",
+    "id": "abhishek2512mishra/deepswe-benchmaxxing-detector",
+    "language": "Python",
+    "name": "abhishek2512mishra/deepswe-benchmaxxing-detector",
+    "stars": 0,
+    "updated_at": "2026-09-21T18:16:26Z",
+    "url": "https://github.com/abhishek2512mishra/deepswe-benchmaxxing-detector"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11564,
-    "updated_at": "2026-09-21T17:47:56Z",
+    "updated_at": "2026-09-21T18:28:15Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -34,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T16:32:24Z",
     "url": "https://github.com/goldbarth/chartula-evals"
-  },
-  {
-    "description": "Forensic audit scanner for SWE-bench & DeepSWE v1.1 containers detecting .git reflog leakage and test harness spoofing.",
-    "id": "abhishek2512mishra/deepswe-benchmaxxing-detector",
-    "language": "Python",
-    "name": "abhishek2512mishra/deepswe-benchmaxxing-detector",
-    "stars": 0,
-    "updated_at": "2026-09-21T16:06:31Z",
-    "url": "https://github.com/abhishek2512mishra/deepswe-benchmaxxing-detector"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -68,7 +68,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 356,
-    "updated_at": "2026-09-21T14:45:40Z",
+    "updated_at": "2026-09-21T18:27:59Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
