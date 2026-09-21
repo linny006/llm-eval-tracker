@@ -1,5 +1,14 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 354,
+    "updated_at": "2026-09-21T10:43:38Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "Independent-eval-Qwen3-0.6B-ondevice-router-40cases",
     "id": "lilyco-42/lyco-router-eval",
     "language": "\u2014",
@@ -214,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T18:31:46Z",
     "url": "https://github.com/arunash/earshot"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 354,
-    "updated_at": "2026-09-21T07:34:27Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
