@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "instax-dutta/sysone-bench",
     "stars": 1,
-    "updated_at": "2026-09-21T18:49:11Z",
+    "updated_at": "2026-09-21T19:19:39Z",
     "url": "https://github.com/instax-dutta/sysone-bench"
+  },
+  {
+    "description": "Blind, reproducible benchmark for production phone voice agents. Measures barge-in latency, false-stop rate and the late",
+    "id": "arunash/earshot",
+    "language": "Python",
+    "name": "arunash/earshot",
+    "stars": 0,
+    "updated_at": "2026-09-21T19:19:34Z",
+    "url": "https://github.com/arunash/earshot"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11563,
-    "updated_at": "2026-09-21T19:12:06Z",
+    "updated_at": "2026-09-21T19:21:34Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -268,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-09-18T20:12:34Z",
     "url": "https://github.com/ChelseaKR/sprout"
-  },
-  {
-    "description": "Blind, reproducible benchmark for production phone voice agents. Measures barge-in latency, false-stop rate and the late",
-    "id": "arunash/earshot",
-    "language": "Python",
-    "name": "arunash/earshot",
-    "stars": 0,
-    "updated_at": "2026-09-18T18:31:46Z",
-    "url": "https://github.com/arunash/earshot"
   },
   {
     "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
