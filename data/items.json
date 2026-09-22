@@ -1,5 +1,23 @@
 [
   {
+    "description": "Can you beat Jev at Gomoku, Go or chess? Play TypeSafe's System One decision model on Cloudflare Pages, with every API c",
+    "id": "beingcognitive/jev-go",
+    "language": "JavaScript",
+    "name": "beingcognitive/jev-go",
+    "stars": 0,
+    "updated_at": "2026-09-22T04:12:59Z",
+    "url": "https://github.com/beingcognitive/jev-go"
+  },
+  {
+    "description": "Blind, reproducible benchmark for production phone voice agents. Measures barge-in latency, false-stop rate and the late",
+    "id": "arunash/earshot",
+    "language": "Python",
+    "name": "arunash/earshot",
+    "stars": 0,
+    "updated_at": "2026-09-22T04:07:05Z",
+    "url": "https://github.com/arunash/earshot"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -32,7 +50,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11567,
-    "updated_at": "2026-09-22T00:58:12Z",
+    "updated_at": "2026-09-22T04:14:20Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -45,15 +63,6 @@
     "url": "https://github.com/fabio-barboza/logistic-platform"
   },
   {
-    "description": "Can you beat Jev at Gomoku, Go or chess? Play TypeSafe's System One decision model on Cloudflare Pages, with every API c",
-    "id": "beingcognitive/jev-go",
-    "language": "JavaScript",
-    "name": "beingcognitive/jev-go",
-    "stars": 0,
-    "updated_at": "2026-09-21T22:26:48Z",
-    "url": "https://github.com/beingcognitive/jev-go"
-  },
-  {
     "description": "First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs",
     "id": "instax-dutta/sysone-bench",
     "language": "Python",
@@ -61,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-09-21T19:19:39Z",
     "url": "https://github.com/instax-dutta/sysone-bench"
-  },
-  {
-    "description": "Blind, reproducible benchmark for production phone voice agents. Measures barge-in latency, false-stop rate and the late",
-    "id": "arunash/earshot",
-    "language": "Python",
-    "name": "arunash/earshot",
-    "stars": 0,
-    "updated_at": "2026-09-21T19:19:34Z",
-    "url": "https://github.com/arunash/earshot"
   },
   {
     "description": "Forensic audit scanner for SWE-bench & DeepSWE v1.1 containers detecting .git reflog leakage and test harness spoofing.",
