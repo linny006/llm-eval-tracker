@@ -1,10 +1,19 @@
 [
   {
+    "description": "Personal site with two interactive LLM eval harness demos",
+    "id": "AndyZhang666666/AndyZhang666666.github.io",
+    "language": "CSS",
+    "name": "AndyZhang666666/AndyZhang666666.github.io",
+    "stars": 0,
+    "updated_at": "2026-09-22T02:40:00Z",
+    "url": "https://github.com/AndyZhang666666/AndyZhang666666.github.io"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25346,
+    "stars": 25347,
     "updated_at": "2026-09-22T02:29:07Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -175,7 +184,7 @@
     "id": "open-compass/opencompass",
     "language": "Python",
     "name": "open-compass/opencompass",
-    "stars": 7462,
+    "stars": 7463,
     "updated_at": "2026-09-21T06:28:36Z",
     "url": "https://github.com/open-compass/opencompass"
   },
@@ -403,15 +412,6 @@
     "stars": 27,
     "updated_at": "2026-09-15T16:47:35Z",
     "url": "https://github.com/sx4im/skillcheck"
-  },
-  {
-    "description": "Personal site with two interactive LLM eval harness demos",
-    "id": "AndyZhang666666/AndyZhang666666.github.io",
-    "language": "CSS",
-    "name": "AndyZhang666666/AndyZhang666666.github.io",
-    "stars": 0,
-    "updated_at": "2026-09-14T12:44:26Z",
-    "url": "https://github.com/AndyZhang666666/AndyZhang666666.github.io"
   },
   {
     "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
