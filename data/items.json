@@ -1,5 +1,23 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11576,
+    "updated_at": "2026-09-22T15:15:15Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 356,
+    "updated_at": "2026-09-22T15:13:44Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "Can you beat Jev at Gomoku, Go or chess? Play TypeSafe's System One decision model on Cloudflare Pages, with every API c",
     "id": "beingcognitive/jev-go",
     "language": "JavaScript",
@@ -34,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-09-22T14:24:21Z",
     "url": "https://github.com/arunash/earshot"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11576,
-    "updated_at": "2026-09-22T15:00:11Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -133,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T16:32:24Z",
     "url": "https://github.com/goldbarth/chartula-evals"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 356,
-    "updated_at": "2026-09-22T10:32:20Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
