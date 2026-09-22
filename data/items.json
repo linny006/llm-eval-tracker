@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25354,
+    "updated_at": "2026-09-22T07:29:25Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -16,15 +25,6 @@
     "stars": 11567,
     "updated_at": "2026-09-22T06:19:40Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25353,
-    "updated_at": "2026-09-22T07:13:19Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Blind, reproducible benchmark for production phone voice agents. Measures barge-in latency, false-stop rate and the late",
@@ -95,7 +95,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5833,
-    "updated_at": "2026-09-22T06:39:55Z",
+    "updated_at": "2026-09-22T07:17:08Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -184,7 +184,7 @@
     "id": "open-compass/opencompass",
     "language": "Python",
     "name": "open-compass/opencompass",
-    "stars": 7464,
+    "stars": 7465,
     "updated_at": "2026-09-21T06:28:36Z",
     "url": "https://github.com/open-compass/opencompass"
   },
