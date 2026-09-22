@@ -1,5 +1,14 @@
 [
   {
+    "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
+    "id": "open-compass/opencompass",
+    "language": "Python",
+    "name": "open-compass/opencompass",
+    "stars": 7467,
+    "updated_at": "2026-09-22T11:53:21Z",
+    "url": "https://github.com/open-compass/opencompass"
+  },
+  {
     "description": "Can you beat Jev at Gomoku, Go or chess? Play TypeSafe's System One decision model on Cloudflare Pages, with every API c",
     "id": "beingcognitive/jev-go",
     "language": "JavaScript",
@@ -7,6 +16,15 @@
     "stars": 0,
     "updated_at": "2026-09-22T11:24:17Z",
     "url": "https://github.com/beingcognitive/jev-go"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5834,
+    "updated_at": "2026-09-22T10:28:00Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
@@ -34,15 +52,6 @@
     "stars": 25366,
     "updated_at": "2026-09-22T10:06:27Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
-    "id": "open-compass/opencompass",
-    "language": "Python",
-    "name": "open-compass/opencompass",
-    "stars": 7467,
-    "updated_at": "2026-09-22T08:28:57Z",
-    "url": "https://github.com/open-compass/opencompass"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -124,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T16:32:24Z",
     "url": "https://github.com/goldbarth/chartula-evals"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5833,
-    "updated_at": "2026-09-22T10:28:00Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
