@@ -1,11 +1,20 @@
 [
   {
+    "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
+    "id": "open-compass/opencompass",
+    "language": "Python",
+    "name": "open-compass/opencompass",
+    "stars": 7466,
+    "updated_at": "2026-09-22T08:28:57Z",
+    "url": "https://github.com/open-compass/opencompass"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25356,
-    "updated_at": "2026-09-22T08:15:01Z",
+    "updated_at": "2026-09-22T08:27:02Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -22,7 +31,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11567,
+    "stars": 11568,
     "updated_at": "2026-09-22T06:19:40Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -178,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-09-21T07:00:36Z",
     "url": "https://github.com/IcodeNet/eval-dashboards"
-  },
-  {
-    "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
-    "id": "open-compass/opencompass",
-    "language": "Python",
-    "name": "open-compass/opencompass",
-    "stars": 7465,
-    "updated_at": "2026-09-21T06:28:36Z",
-    "url": "https://github.com/open-compass/opencompass"
   },
   {
     "description": "EvalFloor: is your LLM eval improvement real? Trying k prompt variants and keeping the best scores points on noise alone",
