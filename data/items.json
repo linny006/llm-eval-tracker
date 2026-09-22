@@ -1,5 +1,23 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11578,
+    "updated_at": "2026-09-22T20:10:14Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3570,
+    "updated_at": "2026-09-22T20:07:21Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs",
     "id": "instax-dutta/sysone-bench",
     "language": "Python",
@@ -16,15 +34,6 @@
     "stars": 356,
     "updated_at": "2026-09-22T19:56:07Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11579,
-    "updated_at": "2026-09-22T19:50:50Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
@@ -54,15 +63,6 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3570,
-    "updated_at": "2026-09-22T17:20:33Z",
-    "url": "https://github.com/truera/trulens"
-  },
-  {
     "description": "Can you beat Jev at Gomoku, Go or chess? Play TypeSafe's System One decision model on Cloudflare Pages, with every API c",
     "id": "beingcognitive/jev-go",
     "language": "JavaScript",
@@ -85,7 +85,7 @@
     "id": "open-compass/opencompass",
     "language": "Python",
     "name": "open-compass/opencompass",
-    "stars": 7467,
+    "stars": 7468,
     "updated_at": "2026-09-22T11:53:21Z",
     "url": "https://github.com/open-compass/opencompass"
   },

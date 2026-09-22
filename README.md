@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-22 20:00 UTC
+> ⏰ Last updated: 2026-09-22 20:11 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [instax-dutta/sysone-bench](https://github.com/instax-dutta/sysone-bench) | 4 | Python | 2026-09-22 | First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs |
-| 2 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 356 | TypeScript | 2026-09-22 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11579 | Python | 2026-09-22 | AI Observability & Evaluation |
-| 4 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-09-22 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
-| 5 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-09-22 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
-| 6 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25372 | TypeScript | 2026-09-22 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 7 | [truera/trulens](https://github.com/truera/trulens) | 3570 | Python | 2026-09-22 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11578 | Python | 2026-09-22 | AI Observability & Evaluation |
+| 2 | [truera/trulens](https://github.com/truera/trulens) | 3570 | Python | 2026-09-22 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 3 | [instax-dutta/sysone-bench](https://github.com/instax-dutta/sysone-bench) | 4 | Python | 2026-09-22 | First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs |
+| 4 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 356 | TypeScript | 2026-09-22 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 5 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-09-22 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
+| 6 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-09-22 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
+| 7 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25372 | TypeScript | 2026-09-22 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 8 | [beingcognitive/jev-go](https://github.com/beingcognitive/jev-go) | 0 | JavaScript | 2026-09-22 | Can you beat Jev at Gomoku, Go or chess? Play TypeSafe's System One decision model on Cloudflare Pages, with every API c |
 | 9 | [arunash/earshot](https://github.com/arunash/earshot) | 0 | Python | 2026-09-22 | Blind, reproducible benchmark for production phone voice agents. Measures barge-in latency, false-stop rate and the late |
-| 10 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7467 | Python | 2026-09-22 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
+| 10 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7468 | Python | 2026-09-22 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
 | 11 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5834 | Python | 2026-09-22 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 12 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-22 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 13 | [AndyZhang666666/AndyZhang666666.github.io](https://github.com/AndyZhang666666/AndyZhang666666.github.io) | 0 | CSS | 2026-09-22 | Personal site with two interactive LLM eval harness demos |
