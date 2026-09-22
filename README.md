@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-22 17:30 UTC
+> ⏰ Last updated: 2026-09-22 17:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -44,7 +44,7 @@ expired items removed — so you can rely on what you see being current.
 |---|------|---|------|---------|-------------|
 | 1 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 356 | TypeScript | 2026-09-22 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 2 | [truera/trulens](https://github.com/truera/trulens) | 3570 | Python | 2026-09-22 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25370 | TypeScript | 2026-09-22 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25371 | TypeScript | 2026-09-22 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11577 | Python | 2026-09-22 | AI Observability & Evaluation |
 | 5 | [beingcognitive/jev-go](https://github.com/beingcognitive/jev-go) | 0 | JavaScript | 2026-09-22 | Can you beat Jev at Gomoku, Go or chess? Play TypeSafe's System One decision model on Cloudflare Pages, with every API c |
 | 6 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-09-22 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
