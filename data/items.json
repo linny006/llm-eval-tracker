@@ -1,11 +1,20 @@
 [
   {
+    "description": "Blind, reproducible benchmark for production phone voice agents. Measures barge-in latency, false-stop rate and the late",
+    "id": "arunash/earshot",
+    "language": "Python",
+    "name": "arunash/earshot",
+    "stars": 0,
+    "updated_at": "2026-09-22T05:36:41Z",
+    "url": "https://github.com/arunash/earshot"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11567,
-    "updated_at": "2026-09-22T05:26:45Z",
+    "updated_at": "2026-09-22T05:37:47Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -27,21 +36,12 @@
     "url": "https://github.com/beingcognitive/jev-go"
   },
   {
-    "description": "Blind, reproducible benchmark for production phone voice agents. Measures barge-in latency, false-stop rate and the late",
-    "id": "arunash/earshot",
-    "language": "Python",
-    "name": "arunash/earshot",
-    "stars": 0,
-    "updated_at": "2026-09-22T04:07:05Z",
-    "url": "https://github.com/arunash/earshot"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25351,
-    "updated_at": "2026-09-22T02:54:42Z",
+    "updated_at": "2026-09-22T05:44:04Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -212,7 +212,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3570,
-    "updated_at": "2026-09-21T02:17:06Z",
+    "updated_at": "2026-09-22T05:38:05Z",
     "url": "https://github.com/truera/trulens"
   },
   {
