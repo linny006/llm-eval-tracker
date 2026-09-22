@@ -1,11 +1,20 @@
 [
   {
+    "description": "judge-drift-sentinel \u00b7 judge-reliability-kit \u00b7 agent-loop-engine \u00b7 trace-gate \u00b7 ai-eng-skill-range",
+    "id": "homayoun-safarpour/homayoun-safarpour",
+    "language": "\u2014",
+    "name": "homayoun-safarpour/homayoun-safarpour",
+    "stars": 0,
+    "updated_at": "2026-09-22T21:13:42Z",
+    "url": "https://github.com/homayoun-safarpour/homayoun-safarpour"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11579,
-    "updated_at": "2026-09-22T20:56:45Z",
+    "updated_at": "2026-09-22T21:13:50Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-13T10:50:11Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "L10 self-evolving LLM evaluation harness that learns from failures \u2014 faithfulness, relevance, toxicity, format metrics w",
-    "id": "mrodgersjs-web/rig-enhanced-evals",
-    "language": "Python",
-    "name": "mrodgersjs-web/rig-enhanced-evals",
-    "stars": 0,
-    "updated_at": "2026-09-12T19:23:39Z",
-    "url": "https://github.com/mrodgersjs-web/rig-enhanced-evals"
   }
 ]
