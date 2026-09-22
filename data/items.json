@@ -1,11 +1,29 @@
 [
   {
+    "description": "First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs",
+    "id": "instax-dutta/sysone-bench",
+    "language": "Python",
+    "name": "instax-dutta/sysone-bench",
+    "stars": 4,
+    "updated_at": "2026-09-22T19:27:55Z",
+    "url": "https://github.com/instax-dutta/sysone-bench"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 356,
+    "updated_at": "2026-09-22T19:22:32Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11579,
-    "updated_at": "2026-09-22T19:10:46Z",
+    "updated_at": "2026-09-22T19:26:35Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -34,15 +52,6 @@
     "stars": 25372,
     "updated_at": "2026-09-22T18:11:29Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 356,
-    "updated_at": "2026-09-22T19:08:10Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -115,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-22T00:09:29Z",
     "url": "https://github.com/fabio-barboza/logistic-platform"
-  },
-  {
-    "description": "First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs",
-    "id": "instax-dutta/sysone-bench",
-    "language": "Python",
-    "name": "instax-dutta/sysone-bench",
-    "stars": 4,
-    "updated_at": "2026-09-21T19:19:39Z",
-    "url": "https://github.com/instax-dutta/sysone-bench"
   },
   {
     "description": "Forensic audit scanner for SWE-bench & DeepSWE v1.1 containers detecting .git reflog leakage and test harness spoofing.",
