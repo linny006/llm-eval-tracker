@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-22 08:00 UTC
+> ⏰ Last updated: 2026-09-22 08:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,7 +42,7 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25355 | TypeScript | 2026-09-22 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25356 | TypeScript | 2026-09-22 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 2 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-22 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11567 | Python | 2026-09-22 | AI Observability & Evaluation |
 | 4 | [arunash/earshot](https://github.com/arunash/earshot) | 0 | Python | 2026-09-22 | Blind, reproducible benchmark for production phone voice agents. Measures barge-in latency, false-stop rate and the late |
