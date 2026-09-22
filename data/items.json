@@ -1,21 +1,57 @@
 [
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25371,
-    "updated_at": "2026-09-22T14:12:59Z",
-    "url": "https://github.com/promptfoo/promptfoo"
+    "description": "Can you beat Jev at Gomoku, Go or chess? Play TypeSafe's System One decision model on Cloudflare Pages, with every API c",
+    "id": "beingcognitive/jev-go",
+    "language": "JavaScript",
+    "name": "beingcognitive/jev-go",
+    "stars": 0,
+    "updated_at": "2026-09-22T14:27:56Z",
+    "url": "https://github.com/beingcognitive/jev-go"
+  },
+  {
+    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
+    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "language": "\u2014",
+    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "stars": 0,
+    "updated_at": "2026-09-22T14:25:30Z",
+    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
+  },
+  {
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-09-22T14:24:48Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
+    "description": "Blind, reproducible benchmark for production phone voice agents. Measures barge-in latency, false-stop rate and the late",
+    "id": "arunash/earshot",
+    "language": "Python",
+    "name": "arunash/earshot",
+    "stars": 0,
+    "updated_at": "2026-09-22T14:24:21Z",
+    "url": "https://github.com/arunash/earshot"
   },
   {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11575,
-    "updated_at": "2026-09-22T14:02:33Z",
+    "stars": 11576,
+    "updated_at": "2026-09-22T14:25:38Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25371,
+    "updated_at": "2026-09-22T14:19:14Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
@@ -27,15 +63,6 @@
     "url": "https://github.com/open-compass/opencompass"
   },
   {
-    "description": "Can you beat Jev at Gomoku, Go or chess? Play TypeSafe's System One decision model on Cloudflare Pages, with every API c",
-    "id": "beingcognitive/jev-go",
-    "language": "JavaScript",
-    "name": "beingcognitive/jev-go",
-    "stars": 0,
-    "updated_at": "2026-09-22T11:24:17Z",
-    "url": "https://github.com/beingcognitive/jev-go"
-  },
-  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -43,24 +70,6 @@
     "stars": 5834,
     "updated_at": "2026-09-22T10:28:00Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-09-22T10:27:10Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
-    "id": "bhavya7995/AI_governance",
-    "language": "PowerShell",
-    "name": "bhavya7995/AI_governance",
-    "stars": 1,
-    "updated_at": "2026-09-22T10:26:13Z",
-    "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -79,15 +88,6 @@
     "stars": 3571,
     "updated_at": "2026-09-22T06:28:11Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Blind, reproducible benchmark for production phone voice agents. Measures barge-in latency, false-stop rate and the late",
-    "id": "arunash/earshot",
-    "language": "Python",
-    "name": "arunash/earshot",
-    "stars": 0,
-    "updated_at": "2026-09-22T05:36:41Z",
-    "url": "https://github.com/arunash/earshot"
   },
   {
     "description": "Personal site with two interactive LLM eval harness demos",
@@ -112,7 +112,7 @@
     "id": "instax-dutta/sysone-bench",
     "language": "Python",
     "name": "instax-dutta/sysone-bench",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-09-21T19:19:39Z",
     "url": "https://github.com/instax-dutta/sysone-bench"
   },
