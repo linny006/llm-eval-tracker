@@ -1,11 +1,20 @@
 [
   {
+    "description": "Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring Sec",
+    "id": "fabio-barboza/logistic-platform",
+    "language": "Java",
+    "name": "fabio-barboza/logistic-platform",
+    "stars": 0,
+    "updated_at": "2026-09-22T00:09:29Z",
+    "url": "https://github.com/fabio-barboza/logistic-platform"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11565,
-    "updated_at": "2026-09-22T00:00:39Z",
+    "stars": 11566,
+    "updated_at": "2026-09-22T00:10:20Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -67,7 +76,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25342,
+    "stars": 25344,
     "updated_at": "2026-09-21T16:04:17Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -86,7 +95,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 356,
-    "updated_at": "2026-09-21T21:03:57Z",
+    "updated_at": "2026-09-22T00:15:21Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-12T19:23:39Z",
     "url": "https://github.com/mrodgersjs-web/rig-enhanced-evals"
-  },
-  {
-    "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
-    "id": "lftherios/session-link",
-    "language": "Go",
-    "name": "lftherios/session-link",
-    "stars": 0,
-    "updated_at": "2026-09-12T14:45:39Z",
-    "url": "https://github.com/lftherios/session-link"
   }
 ]
