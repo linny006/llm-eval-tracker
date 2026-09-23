@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-23 23:30 UTC
+> ⏰ Last updated: 2026-09-23 23:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-09-23 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 2 | [truera/trulens](https://github.com/truera/trulens) | 3571 | Python | 2026-09-23 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 3 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-09-23 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
+| 1 | [truera/trulens](https://github.com/truera/trulens) | 3571 | Python | 2026-09-23 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 2 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-09-23 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
+| 3 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-09-23 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11591 | Python | 2026-09-23 | AI Observability & Evaluation |
-| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25403 | TypeScript | 2026-09-23 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25404 | TypeScript | 2026-09-23 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 6 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 358 | TypeScript | 2026-09-23 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 7 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-23 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
 | 8 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-09-23 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
@@ -75,7 +75,7 @@ expired items removed — so you can rely on what you see being current.
 | 31 | [connectedGraph/claude-jev-warden](https://github.com/connectedGraph/claude-jev-warden) | 1 | HTML | 2026-09-19 | Real-time quality gate and Art Director Warden for Claude Code powered by TypeSafe Jev 1.13 non-autoregressive decision  |
 | 32 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-09-19 | pip install gauntlet-evals · v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against |
 | 33 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-09-19 | Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu |
-| 34 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-09-19 | v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic |
+| 34 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-09-23 | v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic |
 | 35 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-09-18 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
 | 36 | [cannonade-ai/cannonade](https://github.com/cannonade-ai/cannonade) | 7 | TypeScript | 2026-09-17 | Local-first desktop app for building LLM test suites and running them against many local or cloud models at once |
 | 37 | [isatimur/book-mash](https://github.com/isatimur/book-mash) | 0 | Python | 2026-09-17 |  |
