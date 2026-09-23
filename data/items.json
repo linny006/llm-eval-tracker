@@ -27,6 +27,15 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25376,
+    "updated_at": "2026-09-22T23:20:32Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "judge-drift-sentinel \u00b7 judge-reliability-kit \u00b7 agent-loop-engine \u00b7 trace-gate \u00b7 ai-eng-skill-range",
     "id": "homayoun-safarpour/homayoun-safarpour",
     "language": "\u2014",
@@ -61,15 +70,6 @@
     "stars": 356,
     "updated_at": "2026-09-22T22:48:59Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25375,
-    "updated_at": "2026-09-22T23:20:32Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Can you beat Jev at Gomoku, Go or chess? Play TypeSafe's System One decision model on Cloudflare Pages, with every API c",
