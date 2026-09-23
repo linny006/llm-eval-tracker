@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-23 08:30 UTC
+> ⏰ Last updated: 2026-09-23 08:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-09-23 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
-| 2 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-09-23 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
-| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11584 | Python | 2026-09-23 | AI Observability & Evaluation |
-| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25385 | TypeScript | 2026-09-23 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 5 | [homayoun-safarpour/homayoun-safarpour](https://github.com/homayoun-safarpour/homayoun-safarpour) | 0 | — | 2026-09-22 | judge-drift-sentinel · judge-reliability-kit · agent-loop-engine · trace-gate · ai-eng-skill-range |
-| 6 | [truera/trulens](https://github.com/truera/trulens) | 3571 | Python | 2026-09-23 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 7 | [instax-dutta/sysone-bench](https://github.com/instax-dutta/sysone-bench) | 4 | Python | 2026-09-22 | First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs |
-| 8 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 356 | TypeScript | 2026-09-23 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 1 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 357 | TypeScript | 2026-09-23 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 2 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-09-23 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
+| 3 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-09-23 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
+| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11583 | Python | 2026-09-23 | AI Observability & Evaluation |
+| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25385 | TypeScript | 2026-09-23 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 6 | [homayoun-safarpour/homayoun-safarpour](https://github.com/homayoun-safarpour/homayoun-safarpour) | 0 | — | 2026-09-22 | judge-drift-sentinel · judge-reliability-kit · agent-loop-engine · trace-gate · ai-eng-skill-range |
+| 7 | [truera/trulens](https://github.com/truera/trulens) | 3571 | Python | 2026-09-23 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 8 | [instax-dutta/sysone-bench](https://github.com/instax-dutta/sysone-bench) | 4 | Python | 2026-09-22 | First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs |
 | 9 | [beingcognitive/jev-go](https://github.com/beingcognitive/jev-go) | 0 | JavaScript | 2026-09-22 | Can you beat Jev at Gomoku, Go or chess? Play TypeSafe's System One decision model on Cloudflare Pages, with every API c |
 | 10 | [arunash/earshot](https://github.com/arunash/earshot) | 0 | Python | 2026-09-22 | Blind, reproducible benchmark for production phone voice agents. Measures barge-in latency, false-stop rate and the late |
 | 11 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7471 | Python | 2026-09-22 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
