@@ -1,11 +1,20 @@
 [
   {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3571,
+    "updated_at": "2026-09-23T20:11:00Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11591,
-    "updated_at": "2026-09-23T19:59:50Z",
+    "updated_at": "2026-09-23T20:07:10Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -97,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-22T21:13:42Z",
     "url": "https://github.com/homayoun-safarpour/homayoun-safarpour"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3571,
-    "updated_at": "2026-09-23T03:35:43Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs",
