@@ -1,5 +1,14 @@
 [
   {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-09-23T10:07:14Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
     "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
     "id": "open-compass/opencompass",
     "language": "Python",
@@ -27,15 +36,6 @@
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-09-23T09:18:50Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -50,7 +50,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 357,
-    "updated_at": "2026-09-23T08:26:33Z",
+    "updated_at": "2026-09-23T10:09:09Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -76,7 +76,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25390,
+    "stars": 25392,
     "updated_at": "2026-09-23T05:43:03Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
