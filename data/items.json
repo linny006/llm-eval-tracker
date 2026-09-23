@@ -1,11 +1,20 @@
 [
   {
+    "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
+    "id": "goldbarth/chartula-evals",
+    "language": "Python",
+    "name": "goldbarth/chartula-evals",
+    "stars": 0,
+    "updated_at": "2026-09-23T17:20:22Z",
+    "url": "https://github.com/goldbarth/chartula-evals"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 358,
-    "updated_at": "2026-09-23T16:35:23Z",
+    "updated_at": "2026-09-23T17:29:40Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11586,
-    "updated_at": "2026-09-23T16:20:27Z",
+    "updated_at": "2026-09-23T17:16:27Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -169,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T18:16:26Z",
     "url": "https://github.com/abhishek2512mishra/deepswe-benchmaxxing-detector"
-  },
-  {
-    "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
-    "id": "goldbarth/chartula-evals",
-    "language": "Python",
-    "name": "goldbarth/chartula-evals",
-    "stars": 0,
-    "updated_at": "2026-09-21T16:32:24Z",
-    "url": "https://github.com/goldbarth/chartula-evals"
   },
   {
     "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
