@@ -1,11 +1,20 @@
 [
   {
+    "description": "Can you beat Jev at Gomoku, Go or chess? Play TypeSafe's System One decision model on Cloudflare Pages, with every API c",
+    "id": "beingcognitive/jev-go",
+    "language": "JavaScript",
+    "name": "beingcognitive/jev-go",
+    "stars": 0,
+    "updated_at": "2026-09-24T00:10:39Z",
+    "url": "https://github.com/beingcognitive/jev-go"
+  },
+  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3571,
-    "updated_at": "2026-09-23T23:58:30Z",
+    "updated_at": "2026-09-24T00:09:40Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -115,15 +124,6 @@
     "stars": 4,
     "updated_at": "2026-09-22T19:30:45Z",
     "url": "https://github.com/instax-dutta/sysone-bench"
-  },
-  {
-    "description": "Can you beat Jev at Gomoku, Go or chess? Play TypeSafe's System One decision model on Cloudflare Pages, with every API c",
-    "id": "beingcognitive/jev-go",
-    "language": "JavaScript",
-    "name": "beingcognitive/jev-go",
-    "stars": 0,
-    "updated_at": "2026-09-22T14:27:56Z",
-    "url": "https://github.com/beingcognitive/jev-go"
   },
   {
     "description": "Blind, reproducible benchmark for production phone voice agents. Measures barge-in latency, false-stop rate and the late",
