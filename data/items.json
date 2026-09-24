@@ -1,5 +1,23 @@
 [
   {
+    "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
+    "id": "ahmedmoha9088/PhoenixFish",
+    "language": "Java",
+    "name": "ahmedmoha9088/PhoenixFish",
+    "stars": 0,
+    "updated_at": "2026-09-24T05:27:34Z",
+    "url": "https://github.com/ahmedmoha9088/PhoenixFish"
+  },
+  {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-09-24T05:25:17Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
     "id": "saddled-panicattack529/idea-evaluation-pipeline",
     "language": "\u2014",
@@ -13,18 +31,9 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25410,
+    "stars": 25411,
     "updated_at": "2026-09-24T03:55:24Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
-    "id": "ahmedmoha9088/PhoenixFish",
-    "language": "Java",
-    "name": "ahmedmoha9088/PhoenixFish",
-    "stars": 0,
-    "updated_at": "2026-09-24T03:29:48Z",
-    "url": "https://github.com/ahmedmoha9088/PhoenixFish"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -70,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T17:20:22Z",
     "url": "https://github.com/goldbarth/chartula-evals"
-  },
-  {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-09-23T10:07:14Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
@@ -131,7 +131,7 @@
     "language": "TypeScript",
     "name": "sx4im/skillcheck",
     "stars": 28,
-    "updated_at": "2026-09-22T16:45:17Z",
+    "updated_at": "2026-09-24T05:29:15Z",
     "url": "https://github.com/sx4im/skillcheck"
   },
   {
