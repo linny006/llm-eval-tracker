@@ -14,7 +14,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11605,
-    "updated_at": "2026-09-24T22:10:48Z",
+    "updated_at": "2026-09-24T22:28:43Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -32,7 +32,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25423,
-    "updated_at": "2026-09-24T14:27:00Z",
+    "updated_at": "2026-09-24T22:23:06Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -198,6 +198,15 @@
     "url": "https://github.com/fabio-barboza/logistic-platform"
   },
   {
+    "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
+    "id": "jeremylongshore/j-rig-skill-binary-eval",
+    "language": "TypeScript",
+    "name": "jeremylongshore/j-rig-skill-binary-eval",
+    "stars": 3,
+    "updated_at": "2026-09-21T23:55:40Z",
+    "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
+  },
+  {
     "description": "Forensic audit scanner for SWE-bench & DeepSWE v1.1 containers detecting .git reflog leakage and test harness spoofing.",
     "id": "abhishek2512mishra/deepswe-benchmaxxing-detector",
     "language": "Python",
@@ -286,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T01:47:53Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
-    "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
-    "id": "jeremylongshore/j-rig-skill-binary-eval",
-    "language": "TypeScript",
-    "name": "jeremylongshore/j-rig-skill-binary-eval",
-    "stars": 2,
-    "updated_at": "2026-09-21T23:55:40Z",
-    "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
     "description": "Real-time quality gate and Art Director Warden for Claude Code powered by TypeSafe Jev 1.13 non-autoregressive decision ",
