@@ -1,5 +1,14 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 358,
+    "updated_at": "2026-09-24T05:41:54Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance?",
     "id": "sx4im/skillcheck",
     "language": "TypeScript",
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-09-24T05:25:17Z",
+    "updated_at": "2026-09-24T05:33:18Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
@@ -70,15 +79,6 @@
     "stars": 3571,
     "updated_at": "2026-09-24T00:09:40Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 358,
-    "updated_at": "2026-09-23T21:57:49Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
