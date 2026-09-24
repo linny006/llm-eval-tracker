@@ -5,7 +5,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25409,
-    "updated_at": "2026-09-24T03:39:57Z",
+    "updated_at": "2026-09-24T03:55:24Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -124,6 +124,15 @@
     "stars": 4,
     "updated_at": "2026-09-22T19:30:45Z",
     "url": "https://github.com/instax-dutta/sysone-bench"
+  },
+  {
+    "description": "A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance?",
+    "id": "sx4im/skillcheck",
+    "language": "TypeScript",
+    "name": "sx4im/skillcheck",
+    "stars": 28,
+    "updated_at": "2026-09-22T16:45:17Z",
+    "url": "https://github.com/sx4im/skillcheck"
   },
   {
     "description": "Blind, reproducible benchmark for production phone voice agents. Measures barge-in latency, false-stop rate and the late",
@@ -421,15 +430,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T02:49:26Z",
     "url": "https://github.com/Ed-Marcavage/awesome-eval-engineering"
-  },
-  {
-    "description": "A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance?",
-    "id": "sx4im/skillcheck",
-    "language": "TypeScript",
-    "name": "sx4im/skillcheck",
-    "stars": 27,
-    "updated_at": "2026-09-22T16:45:17Z",
-    "url": "https://github.com/sx4im/skillcheck"
   },
   {
     "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
