@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-24 09:15 UTC
+> ⏰ Last updated: 2026-09-24 09:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -49,7 +49,7 @@ expired items removed — so you can rely on what you see being current.
 | 5 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 358 | TypeScript | 2026-09-24 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 6 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 28 | TypeScript | 2026-09-24 | A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance? |
 | 7 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-09-24 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
-| 8 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25414 | TypeScript | 2026-09-24 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 8 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25415 | TypeScript | 2026-09-24 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 9 | [beingcognitive/jev-go](https://github.com/beingcognitive/jev-go) | 0 | JavaScript | 2026-09-24 | Can you beat Jev at Gomoku, Go or chess? Play TypeSafe's System One decision model on Cloudflare Pages, with every API c |
 | 10 | [truera/trulens](https://github.com/truera/trulens) | 3572 | Python | 2026-09-24 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 11 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-23 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
