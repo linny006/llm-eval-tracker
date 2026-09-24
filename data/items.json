@@ -9,6 +9,15 @@
     "url": "https://github.com/ahmedmoha9088/PhoenixFish"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11596,
+    "updated_at": "2026-09-24T07:12:47Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
     "id": "saddled-panicattack529/idea-evaluation-pipeline",
     "language": "\u2014",
@@ -25,15 +34,6 @@
     "stars": 358,
     "updated_at": "2026-09-24T06:52:46Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11595,
-    "updated_at": "2026-09-24T07:12:47Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance?",
@@ -58,7 +58,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25411,
+    "stars": 25412,
     "updated_at": "2026-09-24T03:55:24Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
