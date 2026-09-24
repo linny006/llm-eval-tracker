@@ -1,12 +1,12 @@
 [
   {
-    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
-    "id": "Kondwani10/Origin-Continuum",
-    "language": "\u2014",
-    "name": "Kondwani10/Origin-Continuum",
-    "stars": 0,
-    "updated_at": "2026-09-24T12:50:09Z",
-    "url": "https://github.com/Kondwani10/Origin-Continuum"
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3572,
+    "updated_at": "2026-09-24T13:23:44Z",
+    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -14,8 +14,17 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25416,
-    "updated_at": "2026-09-24T12:42:09Z",
+    "updated_at": "2026-09-24T13:23:36Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
+    "id": "Kondwani10/Origin-Continuum",
+    "language": "\u2014",
+    "name": "Kondwani10/Origin-Continuum",
+    "stars": 0,
+    "updated_at": "2026-09-24T12:50:09Z",
+    "url": "https://github.com/Kondwani10/Origin-Continuum"
   },
   {
     "description": "Five local QA judges that review B2B and B2C customer-support replies, catch the risky parts, and explain what to fix. ",
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11600,
-    "updated_at": "2026-09-24T13:11:03Z",
+    "updated_at": "2026-09-24T13:19:31Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -88,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T02:42:38Z",
     "url": "https://github.com/beingcognitive/jev-go"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3572,
-    "updated_at": "2026-09-24T00:09:40Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
