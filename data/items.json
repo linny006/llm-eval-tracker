@@ -5,8 +5,17 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 358,
-    "updated_at": "2026-09-24T06:10:44Z",
+    "updated_at": "2026-09-24T06:36:00Z",
     "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11595,
+    "updated_at": "2026-09-24T06:35:15Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance?",
@@ -52,15 +61,6 @@
     "stars": 25411,
     "updated_at": "2026-09-24T03:55:24Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11594,
-    "updated_at": "2026-09-24T06:13:50Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Can you beat Jev at Gomoku, Go or chess? Play TypeSafe's System One decision model on Cloudflare Pages, with every API c",
