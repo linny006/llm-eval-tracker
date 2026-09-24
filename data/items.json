@@ -1,5 +1,14 @@
 [
   {
+    "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
+    "id": "ahmedmoha9088/PhoenixFish",
+    "language": "Java",
+    "name": "ahmedmoha9088/PhoenixFish",
+    "stars": 0,
+    "updated_at": "2026-09-24T03:29:48Z",
+    "url": "https://github.com/ahmedmoha9088/PhoenixFish"
+  },
+  {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
     "id": "saddled-panicattack529/idea-evaluation-pipeline",
     "language": "\u2014",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25411,
-    "updated_at": "2026-09-24T02:57:32Z",
+    "updated_at": "2026-09-24T03:26:32Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T02:42:38Z",
     "url": "https://github.com/beingcognitive/jev-go"
-  },
-  {
-    "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
-    "id": "ahmedmoha9088/PhoenixFish",
-    "language": "Java",
-    "name": "ahmedmoha9088/PhoenixFish",
-    "stars": 0,
-    "updated_at": "2026-09-24T01:39:35Z",
-    "url": "https://github.com/ahmedmoha9088/PhoenixFish"
   },
   {
     "description": "AI Observability & Evaluation",
