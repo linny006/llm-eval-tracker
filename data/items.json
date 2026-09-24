@@ -27,6 +27,15 @@
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11594,
+    "updated_at": "2026-09-24T02:50:13Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Can you beat Jev at Gomoku, Go or chess? Play TypeSafe's System One decision model on Cloudflare Pages, with every API c",
     "id": "beingcognitive/jev-go",
     "language": "JavaScript",
@@ -34,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T02:42:38Z",
     "url": "https://github.com/beingcognitive/jev-go"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11593,
-    "updated_at": "2026-09-24T02:50:13Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
