@@ -1,5 +1,14 @@
 [
   {
+    "description": "Five local QA judges that review B2B and B2C customer-support replies, catch the risky parts, and explain what to fix. ",
+    "id": "gititya/support-quality-agency",
+    "language": "Python",
+    "name": "gititya/support-quality-agency",
+    "stars": 0,
+    "updated_at": "2026-09-24T12:14:42Z",
+    "url": "https://github.com/gititya/support-quality-agency"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -103,7 +112,7 @@
     "id": "open-compass/opencompass",
     "language": "Python",
     "name": "open-compass/opencompass",
-    "stars": 7472,
+    "stars": 7473,
     "updated_at": "2026-09-23T09:48:34Z",
     "url": "https://github.com/open-compass/opencompass"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-13T17:44:51Z",
     "url": "https://github.com/sammyjdev/gnomon-eval"
-  },
-  {
-    "description": "\u957f\u6587\u672c LLM \u8f93\u51fa\u8bc4\u6d4b\u5de5\u5177\uff08\u7b2c\u4e8c\u7248\uff09\uff1a\u4e24\u7248 prompt \u8fde\u8dd1\u5bf9\u6bd4 + Bad Case \u5bfc\u51fa + \u9010\u5b57\u8bc1\u636e\u62bd\u53d6\uff0c\u9644 30 \u6761\u91d1\u6807\u96c6\u88c1\u5224\u6821\u9a8c",
-    "id": "AndyZhang666666/llm-output-eval",
-    "language": "TypeScript",
-    "name": "AndyZhang666666/llm-output-eval",
-    "stars": 0,
-    "updated_at": "2026-09-13T11:47:17Z",
-    "url": "https://github.com/AndyZhang666666/llm-output-eval"
   }
 ]
