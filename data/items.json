@@ -1,5 +1,23 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11602,
+    "updated_at": "2026-09-24T17:27:00Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Eval harness that audits agent trajectories for verification, not just pass/fail \u2014 lucky-pass detection on a hardened ex",
+    "id": "empire-mind/honestbench",
+    "language": "Python",
+    "name": "empire-mind/honestbench",
+    "stars": 0,
+    "updated_at": "2026-09-24T17:20:01Z",
+    "url": "https://github.com/empire-mind/honestbench"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -13,7 +31,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25421,
+    "stars": 25422,
     "updated_at": "2026-09-24T14:27:00Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -34,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T12:14:42Z",
     "url": "https://github.com/gititya/support-quality-agency"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11600,
-    "updated_at": "2026-09-24T16:47:06Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-15T02:49:26Z",
     "url": "https://github.com/Ed-Marcavage/awesome-eval-engineering"
-  },
-  {
-    "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
-    "id": "sammyjdev/gnomon-eval",
-    "language": "Python",
-    "name": "sammyjdev/gnomon-eval",
-    "stars": 0,
-    "updated_at": "2026-09-13T17:44:51Z",
-    "url": "https://github.com/sammyjdev/gnomon-eval"
   }
 ]
