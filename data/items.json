@@ -1,5 +1,14 @@
 [
   {
+    "description": "Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai",
+    "id": "ozlar34/job-match-radar",
+    "language": "Python",
+    "name": "ozlar34/job-match-radar",
+    "stars": 1,
+    "updated_at": "2026-09-25T18:46:26Z",
+    "url": "https://github.com/ozlar34/job-match-radar"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -58,7 +67,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25457,
+    "stars": 25458,
     "updated_at": "2026-09-25T16:03:38Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-17T22:06:43Z",
     "url": "https://github.com/Ruthwik-Data/finrag-eval"
-  },
-  {
-    "description": "Open-source CLI for auditing AI and LLM applications for production readiness across evaluation, observability, guardrai",
-    "id": "uzairkhatri/production-ai-readiness",
-    "language": "Python",
-    "name": "uzairkhatri/production-ai-readiness",
-    "stars": 0,
-    "updated_at": "2026-09-16T10:30:12Z",
-    "url": "https://github.com/uzairkhatri/production-ai-readiness"
   }
 ]
