@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11613,
-    "updated_at": "2026-09-25T16:44:24Z",
+    "updated_at": "2026-09-25T16:57:38Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -34,6 +34,15 @@
     "stars": 25453,
     "updated_at": "2026-09-25T16:03:38Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Do LLM judges know when they're wrong? Three open-weight judges (Qwen2.5-7B, kev-8b, auto-j-13b) graded against MT-Bench",
+    "id": "senguptashubham/judge-calibration",
+    "language": "Python",
+    "name": "senguptashubham/judge-calibration",
+    "stars": 1,
+    "updated_at": "2026-09-25T15:47:05Z",
+    "url": "https://github.com/senguptashubham/judge-calibration"
   },
   {
     "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-16T04:15:17Z",
     "url": "https://github.com/anejakartik/evalstack"
-  },
-  {
-    "description": "Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou",
-    "id": "lokesh75-kank/agenteval",
-    "language": "TypeScript",
-    "name": "lokesh75-kank/agenteval",
-    "stars": 0,
-    "updated_at": "2026-09-16T02:42:45Z",
-    "url": "https://github.com/lokesh75-kank/agenteval"
   }
 ]
