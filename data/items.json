@@ -9,6 +9,15 @@
     "url": "https://github.com/Kondwani10/Origin-Continuum"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11606,
+    "updated_at": "2026-09-25T06:36:59Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
     "id": "jeremylongshore/j-rig-skill-binary-eval",
     "language": "TypeScript",
@@ -41,17 +50,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25431,
-    "updated_at": "2026-09-25T06:45:07Z",
+    "updated_at": "2026-09-25T06:55:06Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11605,
-    "updated_at": "2026-09-25T06:36:59Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Eval harness that audits agent trajectories for verification, not just pass/fail \u2014 lucky-pass detection on a hardened ex",
