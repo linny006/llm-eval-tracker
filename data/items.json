@@ -1,5 +1,14 @@
 [
   {
+    "description": "Five local QA judges that review B2B and B2C customer-support replies, catch the risky parts, and explain what to fix. ",
+    "id": "gititya/support-quality-agency",
+    "language": "Python",
+    "name": "gititya/support-quality-agency",
+    "stars": 0,
+    "updated_at": "2026-09-25T07:39:05Z",
+    "url": "https://github.com/gititya/support-quality-agency"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -61,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T17:20:01Z",
     "url": "https://github.com/empire-mind/honestbench"
-  },
-  {
-    "description": "Five local QA judges that review B2B and B2C customer-support replies, catch the risky parts, and explain what to fix. ",
-    "id": "gititya/support-quality-agency",
-    "language": "Python",
-    "name": "gititya/support-quality-agency",
-    "stars": 0,
-    "updated_at": "2026-09-24T12:14:42Z",
-    "url": "https://github.com/gititya/support-quality-agency"
   },
   {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
