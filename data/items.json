@@ -1,5 +1,14 @@
 [
   {
+    "description": "Autonomous code-repair ReAct agent that reads failing pytest suites, forms root-cause hypotheses, writes patches, and re",
+    "id": "AyushCipher/Patch-Pilot",
+    "language": "Python",
+    "name": "AyushCipher/Patch-Pilot",
+    "stars": 0,
+    "updated_at": "2026-09-25T13:11:31Z",
+    "url": "https://github.com/AyushCipher/Patch-Pilot"
+  },
+  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -27,15 +36,6 @@
     "url": "https://github.com/sx4im/skillcheck"
   },
   {
-    "description": "Autonomous code-repair ReAct agent that reads failing pytest suites, forms root-cause hypotheses, writes patches, and re",
-    "id": "AyushCipher/Patch-Pilot",
-    "language": "Python",
-    "name": "AyushCipher/Patch-Pilot",
-    "stars": 0,
-    "updated_at": "2026-09-25T09:22:06Z",
-    "url": "https://github.com/AyushCipher/Patch-Pilot"
-  },
-  {
     "description": "LLM-as-judge validated vs humans (Cohen's \u03ba), with position-bias exposed.",
     "id": "christianmacion/judge-harness",
     "language": "Python",
@@ -58,7 +58,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25443,
+    "stars": 25444,
     "updated_at": "2026-09-25T07:02:47Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -77,7 +77,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11610,
-    "updated_at": "2026-09-25T12:44:52Z",
+    "updated_at": "2026-09-25T13:11:23Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
