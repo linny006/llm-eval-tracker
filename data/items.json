@@ -1,5 +1,14 @@
 [
   {
+    "description": "Autonomous code-repair ReAct agent that reads failing pytest suites, forms root-cause hypotheses, writes patches, and re",
+    "id": "AyushCipher/Patch-Pilot",
+    "language": "Python",
+    "name": "AyushCipher/Patch-Pilot",
+    "stars": 0,
+    "updated_at": "2026-09-25T09:22:06Z",
+    "url": "https://github.com/AyushCipher/Patch-Pilot"
+  },
+  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -40,7 +49,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25437,
+    "stars": 25439,
     "updated_at": "2026-09-25T07:02:47Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-16T02:42:45Z",
     "url": "https://github.com/lokesh75-kank/agenteval"
-  },
-  {
-    "description": "SFX Lead Intelligence Command Center: local-LLM hub plus lead dashboard, quality lifted 61 to 99 percent via a ground-tr",
-    "id": "SFX-TECH/sfx-lead-intelligence",
-    "language": "\u2014",
-    "name": "SFX-TECH/sfx-lead-intelligence",
-    "stars": 0,
-    "updated_at": "2026-09-15T19:27:13Z",
-    "url": "https://github.com/SFX-TECH/sfx-lead-intelligence"
   }
 ]
