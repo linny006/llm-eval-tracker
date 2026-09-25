@@ -1,5 +1,14 @@
 [
   {
+    "description": "Independent CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep, OpenViking); publishes raw eval logs.",
+    "id": "RudrenduPaul/memtrust",
+    "language": "Python",
+    "name": "RudrenduPaul/memtrust",
+    "stars": 2,
+    "updated_at": "2026-09-25T01:09:56Z",
+    "url": "https://github.com/RudrenduPaul/memtrust"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -22,7 +31,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25424,
+    "stars": 25425,
     "updated_at": "2026-09-24T22:23:06Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-15T09:42:50Z",
     "url": "https://github.com/sreshtalluri/toolfit"
-  },
-  {
-    "description": "Awesome list for eval engineering (evals engineering): tools that automate LLM evals and agent evals, turn traces into t",
-    "id": "Ed-Marcavage/awesome-eval-engineering",
-    "language": "\u2014",
-    "name": "Ed-Marcavage/awesome-eval-engineering",
-    "stars": 0,
-    "updated_at": "2026-09-15T02:49:26Z",
-    "url": "https://github.com/Ed-Marcavage/awesome-eval-engineering"
   }
 ]
