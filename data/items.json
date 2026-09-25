@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25432,
+    "updated_at": "2026-09-25T07:02:47Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -43,15 +52,6 @@
     "stars": 2,
     "updated_at": "2026-09-25T04:35:49Z",
     "url": "https://github.com/RudrenduPaul/memtrust"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25431,
-    "updated_at": "2026-09-25T06:55:06Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Eval harness that audits agent trajectories for verification, not just pass/fail \u2014 lucky-pass detection on a hardened ex",
