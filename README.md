@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-25 16:15 UTC
+> ⏰ Last updated: 2026-09-25 16:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-09-25 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
-| 2 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-09-25 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
-| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25453 | TypeScript | 2026-09-25 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 4 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-25 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
-| 5 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11612 | Python | 2026-09-25 | AI Observability & Evaluation |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11612 | Python | 2026-09-25 | AI Observability & Evaluation |
+| 2 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-09-25 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
+| 3 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-09-25 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
+| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25453 | TypeScript | 2026-09-25 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 5 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-25 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
 | 6 | [AyushCipher/Patch-Pilot](https://github.com/AyushCipher/Patch-Pilot) | 0 | Python | 2026-09-25 | Autonomous code-repair ReAct agent that reads failing pytest suites, forms root-cause hypotheses, writes patches, and re |
 | 7 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 28 | TypeScript | 2026-09-25 | Controlled A/B testing for AI agent skills, .cursorrules, CLAUDE.md & system prompts: blind grading, bootstrap CIs, and  |
 | 8 | [christianmacion/judge-harness](https://github.com/christianmacion/judge-harness) | 0 | Python | 2026-09-25 | LLM-as-judge validated vs humans (Cohen's κ), with position-bias exposed. |

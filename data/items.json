@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11612,
+    "updated_at": "2026-09-25T16:29:59Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -34,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T15:35:01Z",
     "url": "https://github.com/goldbarth/chartula-evals"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11612,
-    "updated_at": "2026-09-25T16:09:14Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Autonomous code-repair ReAct agent that reads failing pytest suites, forms root-cause hypotheses, writes patches, and re",
@@ -149,7 +149,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 358,
-    "updated_at": "2026-09-25T16:14:15Z",
+    "updated_at": "2026-09-25T16:30:16Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
