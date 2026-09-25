@@ -1,20 +1,11 @@
 [
   {
-    "description": "Controlled A/B testing for AI agent skills, .cursorrules, CLAUDE.md & system prompts: blind grading, bootstrap CIs, and ",
-    "id": "sx4im/skillcheck",
-    "language": "TypeScript",
-    "name": "sx4im/skillcheck",
-    "stars": 28,
-    "updated_at": "2026-09-25T10:55:44Z",
-    "url": "https://github.com/sx4im/skillcheck"
-  },
-  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
     "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "stars": 0,
-    "updated_at": "2026-09-25T10:30:32Z",
+    "updated_at": "2026-09-25T12:47:40Z",
     "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
   },
   {
@@ -23,8 +14,17 @@
     "language": "PowerShell",
     "name": "bhavya7995/AI_governance",
     "stars": 1,
-    "updated_at": "2026-09-25T10:29:33Z",
+    "updated_at": "2026-09-25T12:46:15Z",
     "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
+    "description": "Controlled A/B testing for AI agent skills, .cursorrules, CLAUDE.md & system prompts: blind grading, bootstrap CIs, and ",
+    "id": "sx4im/skillcheck",
+    "language": "TypeScript",
+    "name": "sx4im/skillcheck",
+    "stars": 28,
+    "updated_at": "2026-09-25T10:55:44Z",
+    "url": "https://github.com/sx4im/skillcheck"
   },
   {
     "description": "Autonomous code-repair ReAct agent that reads failing pytest suites, forms root-cause hypotheses, writes patches, and re",
