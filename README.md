@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-25 12:00 UTC
+> ⏰ Last updated: 2026-09-25 12:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -48,7 +48,7 @@ expired items removed — so you can rely on what you see being current.
 | 4 | [AyushCipher/Patch-Pilot](https://github.com/AyushCipher/Patch-Pilot) | 0 | Python | 2026-09-25 | Autonomous code-repair ReAct agent that reads failing pytest suites, forms root-cause hypotheses, writes patches, and re |
 | 5 | [christianmacion/judge-harness](https://github.com/christianmacion/judge-harness) | 0 | Python | 2026-09-25 | LLM-as-judge validated vs humans (Cohen's κ), with position-bias exposed. |
 | 6 | [gititya/support-quality-agency](https://github.com/gititya/support-quality-agency) | 0 | Python | 2026-09-25 | Five local QA judges that review B2B and B2C customer-support replies, catch the risky parts, and explain what to fix.  |
-| 7 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25441 | TypeScript | 2026-09-25 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 7 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25443 | TypeScript | 2026-09-25 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 8 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-25 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 9 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11610 | Python | 2026-09-25 | AI Observability & Evaluation |
 | 10 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 3 | TypeScript | 2026-09-25 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
@@ -65,7 +65,7 @@ expired items removed — so you can rely on what you see being current.
 | 21 | [homayoun-safarpour/homayoun-safarpour](https://github.com/homayoun-safarpour/homayoun-safarpour) | 0 | — | 2026-09-22 | judge-drift-sentinel · judge-reliability-kit · agent-loop-engine · trace-gate · ai-eng-skill-range |
 | 22 | [instax-dutta/sysone-bench](https://github.com/instax-dutta/sysone-bench) | 4 | Python | 2026-09-22 | First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs |
 | 23 | [arunash/earshot](https://github.com/arunash/earshot) | 0 | Python | 2026-09-22 | Blind, reproducible benchmark for production phone voice agents. Measures barge-in latency, false-stop rate and the late |
-| 24 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5836 | Python | 2026-09-22 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 24 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5837 | Python | 2026-09-22 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 25 | [AndyZhang666666/AndyZhang666666.github.io](https://github.com/AndyZhang666666/AndyZhang666666.github.io) | 0 | CSS | 2026-09-22 | Personal site with two interactive LLM eval harness demos |
 | 26 | [fabio-barboza/logistic-platform](https://github.com/fabio-barboza/logistic-platform) | 0 | Java | 2026-09-22 | Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring Sec |
 | 27 | [abhishek2512mishra/deepswe-benchmaxxing-detector](https://github.com/abhishek2512mishra/deepswe-benchmaxxing-detector) | 0 | Python | 2026-09-21 | Forensic audit scanner for SWE-bench & DeepSWE v1.1 containers detecting .git reflog leakage and test harness spoofing. |
