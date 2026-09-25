@@ -1,5 +1,14 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 358,
+    "updated_at": "2026-09-25T18:38:46Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -27,15 +36,6 @@
     "url": "https://github.com/senguptashubham/judge-calibration"
   },
   {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 358,
-    "updated_at": "2026-09-25T17:42:40Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
@@ -58,7 +58,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25455,
+    "stars": 25457,
     "updated_at": "2026-09-25T16:03:38Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
