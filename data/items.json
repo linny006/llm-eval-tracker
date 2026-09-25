@@ -1,5 +1,14 @@
 [
   {
+    "description": "Independent CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep, OpenViking); publishes raw eval logs.",
+    "id": "RudrenduPaul/memtrust",
+    "language": "Python",
+    "name": "RudrenduPaul/memtrust",
+    "stars": 2,
+    "updated_at": "2026-09-25T02:20:45Z",
+    "url": "https://github.com/RudrenduPaul/memtrust"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -7,15 +16,6 @@
     "stars": 25426,
     "updated_at": "2026-09-25T02:14:56Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Independent CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep, OpenViking); publishes raw eval logs.",
-    "id": "RudrenduPaul/memtrust",
-    "language": "Python",
-    "name": "RudrenduPaul/memtrust",
-    "stars": 2,
-    "updated_at": "2026-09-25T02:00:22Z",
-    "url": "https://github.com/RudrenduPaul/memtrust"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -40,7 +40,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11605,
+    "stars": 11606,
     "updated_at": "2026-09-25T00:44:01Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
