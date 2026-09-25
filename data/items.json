@@ -1,5 +1,32 @@
 [
   {
+    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
+    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "language": "\u2014",
+    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "stars": 0,
+    "updated_at": "2026-09-25T08:36:36Z",
+    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
+  },
+  {
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-09-25T08:36:13Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
+    "description": "LLM-as-judge validated vs humans (Cohen's \u03ba), with position-bias exposed.",
+    "id": "christianmacion/judge-harness",
+    "language": "Python",
+    "name": "christianmacion/judge-harness",
+    "stars": 0,
+    "updated_at": "2026-09-25T08:31:37Z",
+    "url": "https://github.com/christianmacion/judge-harness"
+  },
+  {
     "description": "Five local QA judges that review B2B and B2C customer-support replies, catch the risky parts, and explain what to fix. ",
     "id": "gititya/support-quality-agency",
     "language": "Python",
@@ -13,7 +40,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25436,
+    "stars": 25437,
     "updated_at": "2026-09-25T07:02:47Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -31,7 +58,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11607,
+    "stars": 11608,
     "updated_at": "2026-09-25T06:36:59Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -142,24 +169,6 @@
     "stars": 7473,
     "updated_at": "2026-09-23T09:48:34Z",
     "url": "https://github.com/open-compass/opencompass"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-09-23T07:08:50Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
-    "id": "bhavya7995/AI_governance",
-    "language": "PowerShell",
-    "name": "bhavya7995/AI_governance",
-    "stars": 1,
-    "updated_at": "2026-09-23T07:08:25Z",
-    "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
     "description": "judge-drift-sentinel \u00b7 judge-reliability-kit \u00b7 agent-loop-engine \u00b7 trace-gate \u00b7 ai-eng-skill-range",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-15T19:27:13Z",
     "url": "https://github.com/SFX-TECH/sfx-lead-intelligence"
-  },
-  {
-    "description": "toolfit finds the specific places your MCP server confuses models, rewrites the tool descriptions and schemas to fix the",
-    "id": "sreshtalluri/toolfit",
-    "language": "Python",
-    "name": "sreshtalluri/toolfit",
-    "stars": 0,
-    "updated_at": "2026-09-15T09:42:50Z",
-    "url": "https://github.com/sreshtalluri/toolfit"
   }
 ]
