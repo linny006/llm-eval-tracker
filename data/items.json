@@ -1,5 +1,14 @@
 [
   {
+    "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
+    "id": "goldbarth/chartula-evals",
+    "language": "Python",
+    "name": "goldbarth/chartula-evals",
+    "stars": 0,
+    "updated_at": "2026-09-25T15:35:01Z",
+    "url": "https://github.com/goldbarth/chartula-evals"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -160,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T02:42:38Z",
     "url": "https://github.com/beingcognitive/jev-go"
-  },
-  {
-    "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
-    "id": "goldbarth/chartula-evals",
-    "language": "Python",
-    "name": "goldbarth/chartula-evals",
-    "stars": 0,
-    "updated_at": "2026-09-23T17:20:22Z",
-    "url": "https://github.com/goldbarth/chartula-evals"
   },
   {
     "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
