@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-26 10:45 UTC
+> ⏰ Last updated: 2026-09-26 11:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -51,7 +51,7 @@ expired items removed — so you can rely on what you see being current.
 | 7 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 28 | TypeScript | 2026-09-26 | Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct |
 | 8 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11625 | Python | 2026-09-26 | AI Observability & Evaluation |
 | 9 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 358 | TypeScript | 2026-09-25 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 10 | [truera/trulens](https://github.com/truera/trulens) | 3572 | Python | 2026-09-25 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 10 | [truera/trulens](https://github.com/truera/trulens) | 3573 | Python | 2026-09-25 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 11 | [ozlar34/job-match-radar](https://github.com/ozlar34/job-match-radar) | 1 | Python | 2026-09-25 | Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai |
 | 12 | [senguptashubham/judge-calibration](https://github.com/senguptashubham/judge-calibration) | 3 | Python | 2026-09-25 | Do LLM judges know when they're wrong? Three open-weight judges (Qwen2.5-7B, kev-8b, auto-j-13b) graded against MT-Bench |
 | 13 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-25 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
