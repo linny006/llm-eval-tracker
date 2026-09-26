@@ -1,5 +1,14 @@
 [
   {
+    "description": "First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs",
+    "id": "instax-dutta/sysone-bench",
+    "language": "Python",
+    "name": "instax-dutta/sysone-bench",
+    "stars": 4,
+    "updated_at": "2026-09-26T18:42:23Z",
+    "url": "https://github.com/instax-dutta/sysone-bench"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -50,7 +59,7 @@
     "language": "TypeScript",
     "name": "sx4im/skillcheck",
     "stars": 28,
-    "updated_at": "2026-09-26T18:15:09Z",
+    "updated_at": "2026-09-26T18:40:12Z",
     "url": "https://github.com/sx4im/skillcheck"
   },
   {
@@ -97,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-09-26T07:01:02Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs",
-    "id": "instax-dutta/sysone-bench",
-    "language": "Python",
-    "name": "instax-dutta/sysone-bench",
-    "stars": 4,
-    "updated_at": "2026-09-26T06:51:48Z",
-    "url": "https://github.com/instax-dutta/sysone-bench"
   },
   {
     "description": "Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai",
