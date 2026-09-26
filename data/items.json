@@ -4,8 +4,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25464,
-    "updated_at": "2026-09-26T07:47:23Z",
+    "stars": 25465,
+    "updated_at": "2026-09-26T08:25:26Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -49,7 +49,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11623,
+    "stars": 11624,
     "updated_at": "2026-09-26T03:11:24Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -61,6 +61,15 @@
     "stars": 358,
     "updated_at": "2026-09-25T22:49:19Z",
     "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3572,
+    "updated_at": "2026-09-25T20:05:40Z",
+    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai",
@@ -79,15 +88,6 @@
     "stars": 3,
     "updated_at": "2026-09-25T17:48:24Z",
     "url": "https://github.com/senguptashubham/judge-calibration"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3571,
-    "updated_at": "2026-09-25T20:05:40Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
