@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-27 11:00 UTC
+> ⏰ Last updated: 2026-09-27 11:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -51,7 +51,7 @@ expired items removed — so you can rely on what you see being current.
 | 7 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 359 | TypeScript | 2026-09-26 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 8 | [instax-dutta/sysone-bench](https://github.com/instax-dutta/sysone-bench) | 4 | Python | 2026-09-26 | First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs |
 | 9 | [IcodeNet/eval-dashboards](https://github.com/IcodeNet/eval-dashboards) | 1 | TypeScript | 2026-09-26 | Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style — bring y |
-| 10 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11629 | Python | 2026-09-26 | AI Observability & Evaluation |
+| 10 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11629 | Python | 2026-09-27 | AI Observability & Evaluation |
 | 11 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 28 | TypeScript | 2026-09-26 | Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct |
 | 12 | [amareshhebbar/gitgrounded](https://github.com/amareshhebbar/gitgrounded) | 0 | Python | 2026-09-26 | Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old  |
 | 13 | [truera/trulens](https://github.com/truera/trulens) | 3573 | Python | 2026-09-26 | Evaluation and Tracking for LLM Experiments and AI Agents |
