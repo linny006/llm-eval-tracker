@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-27 08:15 UTC
+> ⏰ Last updated: 2026-09-27 08:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -68,7 +68,7 @@ expired items removed — so you can rely on what you see being current.
 | 24 | [empire-mind/honestbench](https://github.com/empire-mind/honestbench) | 0 | Python | 2026-09-26 | Eval harness that audits agent trajectories for verification, not just pass/fail — lucky-pass detection on a hardened ex |
 | 25 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-09-24 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
 | 26 | [beingcognitive/jev-go](https://github.com/beingcognitive/jev-go) | 1 | JavaScript | 2026-09-24 | Can you beat Jev at Gomoku, Go or chess? Play TypeSafe's System One decision model on Cloudflare Pages, with every API c |
-| 27 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7476 | Python | 2026-09-23 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
+| 27 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7477 | Python | 2026-09-23 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
 | 28 | [homayoun-safarpour/homayoun-safarpour](https://github.com/homayoun-safarpour/homayoun-safarpour) | 0 | — | 2026-09-22 | judge-drift-sentinel · judge-reliability-kit · agent-loop-engine · trace-gate · ai-eng-skill-range |
 | 29 | [arunash/earshot](https://github.com/arunash/earshot) | 0 | Python | 2026-09-22 | Blind, reproducible benchmark for production phone voice agents. Measures barge-in latency, false-stop rate and the late |
 | 30 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5838 | Python | 2026-09-22 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
