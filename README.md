@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-27 22:30 UTC
+> ⏰ Last updated: 2026-09-27 22:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25501 | TypeScript | 2026-09-27 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 2 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-27 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
-| 3 | [VioletScar-Hui/sparkjury](https://github.com/VioletScar-Hui/sparkjury) | 1 | Python | 2026-09-27 | 给别人的 Agent 做体检的评测 Agent：本地三家族裁判打分、分歧交云端仲裁、badcase 聚类、证据卡片、pass^3 回归 \| 第三届 NVIDIA DGX Spark 黑客松 · 能工智人5X |
-| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11638 | Python | 2026-09-27 | AI Observability & Evaluation |
-| 5 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-09-27 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
-| 6 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-09-27 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 7 | [lyr-ai/agentseism](https://github.com/lyr-ai/agentseism) | 2 | Python | 2026-09-27 | CI for stochastic AI agents |
-| 8 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 359 | TypeScript | 2026-09-27 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 9 | [instax-dutta/sysone-bench](https://github.com/instax-dutta/sysone-bench) | 4 | Python | 2026-09-26 | First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs |
-| 10 | [IcodeNet/eval-dashboards](https://github.com/IcodeNet/eval-dashboards) | 1 | TypeScript | 2026-09-26 | Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style — bring y |
-| 11 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 28 | TypeScript | 2026-09-26 | Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct |
-| 12 | [amareshhebbar/gitgrounded](https://github.com/amareshhebbar/gitgrounded) | 0 | Python | 2026-09-26 | Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old  |
-| 13 | [truera/trulens](https://github.com/truera/trulens) | 3575 | Python | 2026-09-26 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 14 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-09-26 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
-| 15 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-09-26 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
-| 16 | [ozlar34/job-match-radar](https://github.com/ozlar34/job-match-radar) | 1 | Python | 2026-09-25 | Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai |
+| 1 | [ozlar34/job-match-radar](https://github.com/ozlar34/job-match-radar) | 1 | Python | 2026-09-27 | Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai |
+| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25501 | TypeScript | 2026-09-27 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 3 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-27 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
+| 4 | [VioletScar-Hui/sparkjury](https://github.com/VioletScar-Hui/sparkjury) | 1 | Python | 2026-09-27 | 给别人的 Agent 做体检的评测 Agent：本地三家族裁判打分、分歧交云端仲裁、badcase 聚类、证据卡片、pass^3 回归 \| 第三届 NVIDIA DGX Spark 黑客松 · 能工智人5X |
+| 5 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11638 | Python | 2026-09-27 | AI Observability & Evaluation |
+| 6 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-09-27 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
+| 7 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-09-27 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
+| 8 | [lyr-ai/agentseism](https://github.com/lyr-ai/agentseism) | 2 | Python | 2026-09-27 | CI for stochastic AI agents |
+| 9 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 359 | TypeScript | 2026-09-27 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 10 | [instax-dutta/sysone-bench](https://github.com/instax-dutta/sysone-bench) | 4 | Python | 2026-09-26 | First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs |
+| 11 | [IcodeNet/eval-dashboards](https://github.com/IcodeNet/eval-dashboards) | 1 | TypeScript | 2026-09-26 | Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style — bring y |
+| 12 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 28 | TypeScript | 2026-09-26 | Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct |
+| 13 | [amareshhebbar/gitgrounded](https://github.com/amareshhebbar/gitgrounded) | 0 | Python | 2026-09-26 | Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old  |
+| 14 | [truera/trulens](https://github.com/truera/trulens) | 3575 | Python | 2026-09-26 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 15 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-09-26 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
+| 16 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-09-26 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
 | 17 | [senguptashubham/judge-calibration](https://github.com/senguptashubham/judge-calibration) | 3 | Python | 2026-09-25 | Do LLM judges know when they're wrong? Three open-weight judges (Qwen2.5-7B, kev-8b, auto-j-13b) graded against MT-Bench |
 | 18 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-25 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
 | 19 | [AyushCipher/Patch-Pilot](https://github.com/AyushCipher/Patch-Pilot) | 0 | Python | 2026-09-25 | Autonomous code-repair ReAct agent powered by FastMCP, AST pre-validation, token-efficient diff patching, and a scored 1 |
