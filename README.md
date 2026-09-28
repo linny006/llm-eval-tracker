@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-28 07:30 UTC
+> ⏰ Last updated: 2026-09-28 07:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,8 +42,8 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-28 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
-| 2 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 359 | TypeScript | 2026-09-28 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 1 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 359 | TypeScript | 2026-09-28 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 2 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-28 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 3 | [IcodeNet/eval-dashboards](https://github.com/IcodeNet/eval-dashboards) | 1 | TypeScript | 2026-09-28 | Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style — bring y |
 | 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11642 | Python | 2026-09-28 | AI Observability & Evaluation |
 | 5 | [VioletScar-Hui/sparkjury](https://github.com/VioletScar-Hui/sparkjury) | 1 | Python | 2026-09-28 | 给别人的 Agent 做体检的评测 Agent：本地三家族裁判打分、分歧交云端仲裁、badcase 聚类、证据卡片、pass^3 回归 \| 第三届 NVIDIA DGX Spark 黑客松 · 能工智人5X |
