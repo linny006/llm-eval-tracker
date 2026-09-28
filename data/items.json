@@ -4,9 +4,18 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25521,
-    "updated_at": "2026-09-28T09:38:21Z",
+    "stars": 25522,
+    "updated_at": "2026-09-28T09:59:51Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "A tiny, dependency-free Python harness for scoring LLM answers against a gold set (exact / contains / numeric matching, ",
+    "id": "zahid23saim/llm-eval-harness",
+    "language": "Python",
+    "name": "zahid23saim/llm-eval-harness",
+    "stars": 1,
+    "updated_at": "2026-09-28T09:49:23Z",
+    "url": "https://github.com/zahid23saim/llm-eval-harness"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
@@ -77,7 +86,7 @@
     "language": "Python",
     "name": "VioletScar-Hui/sparkjury",
     "stars": 1,
-    "updated_at": "2026-09-28T08:13:19Z",
+    "updated_at": "2026-09-28T09:50:28Z",
     "url": "https://github.com/VioletScar-Hui/sparkjury"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-17T13:27:52Z",
     "url": "https://github.com/isatimur/book-mash"
-  },
-  {
-    "description": "",
-    "id": "isatimur/mash-core",
-    "language": "Python",
-    "name": "isatimur/mash-core",
-    "stars": 0,
-    "updated_at": "2026-09-17T13:27:40Z",
-    "url": "https://github.com/isatimur/mash-core"
   }
 ]
