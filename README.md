@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-28 04:15 UTC
+> ⏰ Last updated: 2026-09-28 04:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -56,7 +56,7 @@ expired items removed — so you can rely on what you see being current.
 | 12 | [IcodeNet/eval-dashboards](https://github.com/IcodeNet/eval-dashboards) | 1 | TypeScript | 2026-09-26 | Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style — bring y |
 | 13 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 28 | TypeScript | 2026-09-26 | Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct |
 | 14 | [amareshhebbar/gitgrounded](https://github.com/amareshhebbar/gitgrounded) | 0 | Python | 2026-09-26 | Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old  |
-| 15 | [truera/trulens](https://github.com/truera/trulens) | 3575 | Python | 2026-09-26 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 15 | [truera/trulens](https://github.com/truera/trulens) | 3575 | Python | 2026-09-28 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 16 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-09-26 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
 | 17 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-09-26 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
 | 18 | [senguptashubham/judge-calibration](https://github.com/senguptashubham/judge-calibration) | 3 | Python | 2026-09-25 | Do LLM judges know when they're wrong? Three open-weight judges (Qwen2.5-7B, kev-8b, auto-j-13b) graded against MT-Bench |
