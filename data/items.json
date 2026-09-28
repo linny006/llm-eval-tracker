@@ -1,11 +1,20 @@
 [
   {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3576,
+    "updated_at": "2026-09-28T15:21:16Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25530,
-    "updated_at": "2026-09-28T15:00:59Z",
+    "updated_at": "2026-09-28T15:17:25Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -14,17 +23,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11644,
-    "updated_at": "2026-09-28T15:04:08Z",
+    "updated_at": "2026-09-28T15:30:21Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3576,
-    "updated_at": "2026-09-28T15:13:19Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
@@ -77,7 +77,7 @@
     "language": "Python",
     "name": "VioletScar-Hui/sparkjury",
     "stars": 1,
-    "updated_at": "2026-09-28T14:04:24Z",
+    "updated_at": "2026-09-28T15:30:11Z",
     "url": "https://github.com/VioletScar-Hui/sparkjury"
   },
   {
@@ -95,7 +95,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5841,
-    "updated_at": "2026-09-28T09:12:33Z",
+    "updated_at": "2026-09-28T15:15:37Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
