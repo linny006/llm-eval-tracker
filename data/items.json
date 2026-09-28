@@ -1,12 +1,12 @@
 [
   {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3576,
-    "updated_at": "2026-09-28T20:44:26Z",
-    "url": "https://github.com/truera/trulens"
+    "name": "Arize-ai/phoenix",
+    "stars": 11645,
+    "updated_at": "2026-09-28T21:00:05Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -14,17 +14,17 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25537,
-    "updated_at": "2026-09-28T20:38:01Z",
+    "updated_at": "2026-09-28T20:57:28Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
     "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11645,
-    "updated_at": "2026-09-28T20:40:36Z",
-    "url": "https://github.com/Arize-ai/phoenix"
+    "name": "truera/trulens",
+    "stars": 3576,
+    "updated_at": "2026-09-28T20:44:26Z",
+    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
@@ -49,7 +49,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5842,
+    "stars": 5843,
     "updated_at": "2026-09-28T16:09:42Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
