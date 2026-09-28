@@ -1,5 +1,32 @@
 [
   {
+    "description": "Ultra-fast, fail-open advisory decisions and verbatim extractive reading view for AI coding agents and CLI pipelines",
+    "id": "logicrw/ask-jev",
+    "language": "Python",
+    "name": "logicrw/ask-jev",
+    "stars": 1,
+    "updated_at": "2026-09-28T11:18:46Z",
+    "url": "https://github.com/logicrw/ask-jev"
+  },
+  {
+    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
+    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "language": "\u2014",
+    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "stars": 0,
+    "updated_at": "2026-09-28T11:17:56Z",
+    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
+  },
+  {
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-09-28T11:17:27Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
     "description": "Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old ",
     "id": "amareshhebbar/gitgrounded",
     "language": "Python",
@@ -14,7 +41,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25524,
-    "updated_at": "2026-09-28T11:14:29Z",
+    "updated_at": "2026-09-28T11:30:05Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -43,24 +70,6 @@
     "stars": 1,
     "updated_at": "2026-09-28T09:49:23Z",
     "url": "https://github.com/zahid23saim/llm-eval-harness"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-09-28T09:10:29Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
-    "id": "bhavya7995/AI_governance",
-    "language": "PowerShell",
-    "name": "bhavya7995/AI_governance",
-    "stars": 1,
-    "updated_at": "2026-09-28T09:10:04Z",
-    "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
     "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
@@ -349,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T09:12:07Z",
     "url": "https://github.com/virtualman333/jev-decision-arena"
-  },
-  {
-    "description": "Ultra-fast, fail-open advisory decisions and verbatim extractive reading view for AI coding agents and CLI pipelines",
-    "id": "logicrw/ask-jev",
-    "language": "Python",
-    "name": "logicrw/ask-jev",
-    "stars": 1,
-    "updated_at": "2026-09-21T09:08:14Z",
-    "url": "https://github.com/logicrw/ask-jev"
   },
   {
     "description": "EvalFloor: is your LLM eval improvement real? Trying k prompt variants and keeping the best scores points on noise alone",
