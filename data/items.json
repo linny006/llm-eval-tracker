@@ -4,9 +4,18 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25529,
-    "updated_at": "2026-09-28T14:39:09Z",
+    "stars": 25530,
+    "updated_at": "2026-09-28T14:56:57Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11644,
+    "updated_at": "2026-09-28T14:50:36Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -43,15 +52,6 @@
     "stars": 359,
     "updated_at": "2026-09-28T14:32:22Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11644,
-    "updated_at": "2026-09-28T14:44:37Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old ",
