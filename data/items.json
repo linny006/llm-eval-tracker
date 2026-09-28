@@ -1,5 +1,14 @@
 [
   {
+    "description": "\u7ed9\u522b\u4eba\u7684 Agent \u505a\u4f53\u68c0\u7684\u8bc4\u6d4b Agent\uff1a\u672c\u5730\u4e09\u5bb6\u65cf\u88c1\u5224\u6253\u5206\u3001\u5206\u6b67\u4ea4\u4e91\u7aef\u4ef2\u88c1\u3001badcase \u805a\u7c7b\u3001\u8bc1\u636e\u5361\u7247\u3001pass^3 \u56de\u5f52 | \u7b2c\u4e09\u5c4a NVIDIA DGX Spark \u9ed1\u5ba2\u677e \u00b7 \u80fd\u5de5\u667a\u4eba5X",
+    "id": "VioletScar-Hui/sparkjury",
+    "language": "Python",
+    "name": "VioletScar-Hui/sparkjury",
+    "stars": 1,
+    "updated_at": "2026-09-28T06:15:58Z",
+    "url": "https://github.com/VioletScar-Hui/sparkjury"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -13,7 +22,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25511,
+    "stars": 25512,
     "updated_at": "2026-09-28T04:49:11Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-09-28T03:44:07Z",
     "url": "https://github.com/ramenprotokol/hallucination-hunter"
-  },
-  {
-    "description": "\u7ed9\u522b\u4eba\u7684 Agent \u505a\u4f53\u68c0\u7684\u8bc4\u6d4b Agent\uff1a\u672c\u5730\u4e09\u5bb6\u65cf\u88c1\u5224\u6253\u5206\u3001\u5206\u6b67\u4ea4\u4e91\u7aef\u4ef2\u88c1\u3001badcase \u805a\u7c7b\u3001\u8bc1\u636e\u5361\u7247\u3001pass^3 \u56de\u5f52 | \u7b2c\u4e09\u5c4a NVIDIA DGX Spark \u9ed1\u5ba2\u677e \u00b7 \u80fd\u5de5\u667a\u4eba5X",
-    "id": "VioletScar-Hui/sparkjury",
-    "language": "Python",
-    "name": "VioletScar-Hui/sparkjury",
-    "stars": 1,
-    "updated_at": "2026-09-28T05:57:20Z",
-    "url": "https://github.com/VioletScar-Hui/sparkjury"
   },
   {
     "description": "Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai",
@@ -50,7 +50,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11641,
-    "updated_at": "2026-09-28T03:59:08Z",
+    "updated_at": "2026-09-28T06:26:45Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
