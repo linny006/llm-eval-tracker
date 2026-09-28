@@ -1,11 +1,20 @@
 [
   {
+    "description": "Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring Sec",
+    "id": "fabio-barboza/logistic-platform",
+    "language": "Java",
+    "name": "fabio-barboza/logistic-platform",
+    "stars": 0,
+    "updated_at": "2026-09-28T23:41:38Z",
+    "url": "https://github.com/fabio-barboza/logistic-platform"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25538,
-    "updated_at": "2026-09-28T23:28:20Z",
+    "updated_at": "2026-09-28T23:37:24Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -304,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-09-22T02:40:00Z",
     "url": "https://github.com/AndyZhang666666/AndyZhang666666.github.io"
-  },
-  {
-    "description": "Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring Sec",
-    "id": "fabio-barboza/logistic-platform",
-    "language": "Java",
-    "name": "fabio-barboza/logistic-platform",
-    "stars": 0,
-    "updated_at": "2026-09-22T00:09:29Z",
-    "url": "https://github.com/fabio-barboza/logistic-platform"
   },
   {
     "description": "Forensic audit scanner for SWE-bench & DeepSWE v1.1 containers detecting .git reflog leakage and test harness spoofing.",
