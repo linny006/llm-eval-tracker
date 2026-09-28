@@ -1,11 +1,38 @@
 [
   {
+    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
+    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "language": "\u2014",
+    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "stars": 0,
+    "updated_at": "2026-09-28T13:13:49Z",
+    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
+  },
+  {
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-09-28T13:13:20Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 359,
+    "updated_at": "2026-09-28T13:08:07Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11644,
-    "updated_at": "2026-09-28T12:24:41Z",
+    "updated_at": "2026-09-28T13:14:47Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -13,8 +40,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25528,
-    "updated_at": "2026-09-28T11:36:30Z",
+    "stars": 25529,
+    "updated_at": "2026-09-28T13:13:02Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -34,33 +61,6 @@
     "stars": 1,
     "updated_at": "2026-09-28T11:18:46Z",
     "url": "https://github.com/logicrw/ask-jev"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-09-28T11:17:56Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
-    "id": "bhavya7995/AI_governance",
-    "language": "PowerShell",
-    "name": "bhavya7995/AI_governance",
-    "stars": 1,
-    "updated_at": "2026-09-28T11:17:27Z",
-    "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 359,
-    "updated_at": "2026-09-28T10:52:49Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "\u7ed9\u522b\u4eba\u7684 Agent \u505a\u4f53\u68c0\u7684\u8bc4\u6d4b Agent\uff1a\u672c\u5730\u4e09\u5bb6\u65cf\u88c1\u5224\u6253\u5206\u3001\u5206\u6b67\u4ea4\u4e91\u7aef\u4ef2\u88c1\u3001badcase \u805a\u7c7b\u3001\u8bc1\u636e\u5361\u7247\u3001pass^3 \u56de\u5f52 | \u7b2c\u4e09\u5c4a NVIDIA DGX Spark \u9ed1\u5ba2\u677e \u00b7 \u80fd\u5de5\u667a\u4eba5X",
