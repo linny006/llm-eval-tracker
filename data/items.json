@@ -31,7 +31,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11641,
+    "stars": 11642,
     "updated_at": "2026-09-28T06:26:45Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -41,7 +41,7 @@
     "language": "Python",
     "name": "VioletScar-Hui/sparkjury",
     "stars": 1,
-    "updated_at": "2026-09-28T07:58:19Z",
+    "updated_at": "2026-09-28T08:13:19Z",
     "url": "https://github.com/VioletScar-Hui/sparkjury"
   },
   {
@@ -52,6 +52,15 @@
     "stars": 25515,
     "updated_at": "2026-09-28T04:49:11Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5841,
+    "updated_at": "2026-09-28T04:00:17Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Detect & score LLM hallucinations by groundedness \u2014 labeled data, precision/recall/F1, runs offline with no API key. Plu",
@@ -268,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-09-22T14:24:21Z",
     "url": "https://github.com/arunash/earshot"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5840,
-    "updated_at": "2026-09-28T04:00:17Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Personal site with two interactive LLM eval harness demos",
