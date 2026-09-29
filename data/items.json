@@ -1,10 +1,28 @@
 [
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5844,
+    "updated_at": "2026-09-29T07:00:01Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct",
+    "id": "sx4im/skillcheck",
+    "language": "TypeScript",
+    "name": "sx4im/skillcheck",
+    "stars": 28,
+    "updated_at": "2026-09-29T06:57:29Z",
+    "url": "https://github.com/sx4im/skillcheck"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25547,
+    "stars": 25548,
     "updated_at": "2026-09-29T04:22:30Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -25,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-09-29T04:10:00Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5844,
-    "updated_at": "2026-09-29T06:32:58Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -187,15 +196,6 @@
     "stars": 4,
     "updated_at": "2026-09-26T18:42:23Z",
     "url": "https://github.com/instax-dutta/sysone-bench"
-  },
-  {
-    "description": "Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct",
-    "id": "sx4im/skillcheck",
-    "language": "TypeScript",
-    "name": "sx4im/skillcheck",
-    "stars": 28,
-    "updated_at": "2026-09-26T18:40:12Z",
-    "url": "https://github.com/sx4im/skillcheck"
   },
   {
     "description": "Do LLM judges know when they're wrong? Three open-weight judges (Qwen2.5-7B, kev-8b, auto-j-13b) graded against MT-Bench",
