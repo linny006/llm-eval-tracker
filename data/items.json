@@ -1,28 +1,28 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11653,
+    "updated_at": "2026-09-29T19:44:17Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Measure quantization quality loss on Apple Silicon MLX \u2014 KL divergence, top-token flip rate and perplexity delta for KV-",
     "id": "IonDen/mlx-quant-fidelity",
     "language": "Python",
     "name": "IonDen/mlx-quant-fidelity",
     "stars": 4,
-    "updated_at": "2026-09-29T19:28:57Z",
+    "updated_at": "2026-09-29T19:30:39Z",
     "url": "https://github.com/IonDen/mlx-quant-fidelity"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11654,
-    "updated_at": "2026-09-29T19:17:05Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
-    "stars": 360,
+    "stars": 361,
     "updated_at": "2026-09-29T19:16:02Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
@@ -41,7 +41,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25560,
-    "updated_at": "2026-09-29T19:29:32Z",
+    "updated_at": "2026-09-29T19:40:50Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
