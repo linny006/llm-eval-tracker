@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-29 20:00 UTC
+> ⏰ Last updated: 2026-09-29 20:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,10 +43,10 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11654 | Python | 2026-09-29 | AI Observability & Evaluation |
-| 2 | [IonDen/mlx-quant-fidelity](https://github.com/IonDen/mlx-quant-fidelity) | 4 | Python | 2026-09-29 | Measure quantization quality loss on Apple Silicon MLX — KL divergence, top-token flip rate and perplexity delta for KV- |
-| 3 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 361 | TypeScript | 2026-09-29 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 4 | [lehigh-university-libraries/htr](https://github.com/lehigh-university-libraries/htr) | 2 | Go | 2026-09-29 | Handwritten Text Recognition llm eval tool |
-| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25560 | TypeScript | 2026-09-29 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25561 | TypeScript | 2026-09-29 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 3 | [IonDen/mlx-quant-fidelity](https://github.com/IonDen/mlx-quant-fidelity) | 4 | Python | 2026-09-29 | Measure quantization quality loss on Apple Silicon MLX — KL divergence, top-token flip rate and perplexity delta for KV- |
+| 4 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 361 | TypeScript | 2026-09-29 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 5 | [lehigh-university-libraries/htr](https://github.com/lehigh-university-libraries/htr) | 2 | Go | 2026-09-29 | Handwritten Text Recognition llm eval tool |
 | 6 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-09-29 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 7 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-29 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
 | 8 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-09-29 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
