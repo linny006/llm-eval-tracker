@@ -1,20 +1,11 @@
 [
   {
-    "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
-    "id": "ahmedmoha9088/PhoenixFish",
-    "language": "Java",
-    "name": "ahmedmoha9088/PhoenixFish",
-    "stars": 0,
-    "updated_at": "2026-09-29T15:21:28Z",
-    "url": "https://github.com/ahmedmoha9088/PhoenixFish"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25557,
-    "updated_at": "2026-09-29T16:00:13Z",
+    "stars": 25555,
+    "updated_at": "2026-09-29T16:14:48Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -22,9 +13,18 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11652,
-    "updated_at": "2026-09-29T15:58:27Z",
+    "stars": 11653,
+    "updated_at": "2026-09-29T16:07:58Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
+    "id": "ahmedmoha9088/PhoenixFish",
+    "language": "Java",
+    "name": "ahmedmoha9088/PhoenixFish",
+    "stars": 0,
+    "updated_at": "2026-09-29T15:21:28Z",
+    "url": "https://github.com/ahmedmoha9088/PhoenixFish"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -59,7 +59,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5846,
-    "updated_at": "2026-09-29T09:18:50Z",
+    "updated_at": "2026-09-29T16:14:12Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
