@@ -1,5 +1,23 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25549,
+    "updated_at": "2026-09-29T08:59:14Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
+    "id": "lftherios/session-link",
+    "language": "Go",
+    "name": "lftherios/session-link",
+    "stars": 0,
+    "updated_at": "2026-09-29T08:46:43Z",
+    "url": "https://github.com/lftherios/session-link"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -7,15 +25,6 @@
     "stars": 359,
     "updated_at": "2026-09-29T08:42:56Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25549,
-    "updated_at": "2026-09-29T08:44:00Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -58,7 +67,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11647,
+    "stars": 11648,
     "updated_at": "2026-09-29T06:40:36Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-24T21:16:46Z",
     "url": "https://github.com/ChelseaKR/sprout"
-  },
-  {
-    "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
-    "id": "cannonade-ai/cannonade",
-    "language": "TypeScript",
-    "name": "cannonade-ai/cannonade",
-    "stars": 7,
-    "updated_at": "2026-09-17T21:30:05Z",
-    "url": "https://github.com/cannonade-ai/cannonade"
   }
 ]
