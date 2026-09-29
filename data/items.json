@@ -4,7 +4,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25545,
+    "stars": 25546,
     "updated_at": "2026-09-29T04:22:30Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -25,6 +25,15 @@
     "stars": 1,
     "updated_at": "2026-09-29T04:10:00Z",
     "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5844,
+    "updated_at": "2026-09-29T03:58:37Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -61,15 +70,6 @@
     "stars": 3577,
     "updated_at": "2026-09-28T20:44:26Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5843,
-    "updated_at": "2026-09-29T03:58:37Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
