@@ -1,5 +1,32 @@
 [
   {
+    "description": "Measure quantization quality loss on Apple Silicon MLX \u2014 KL divergence, top-token flip rate and perplexity delta for KV-",
+    "id": "IonDen/mlx-quant-fidelity",
+    "language": "Python",
+    "name": "IonDen/mlx-quant-fidelity",
+    "stars": 4,
+    "updated_at": "2026-09-29T19:28:57Z",
+    "url": "https://github.com/IonDen/mlx-quant-fidelity"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11654,
+    "updated_at": "2026-09-29T19:17:05Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 360,
+    "updated_at": "2026-09-29T19:16:02Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "Handwritten Text Recognition llm eval tool",
     "id": "lehigh-university-libraries/htr",
     "language": "Go",
@@ -14,17 +41,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25560,
-    "updated_at": "2026-09-29T19:14:45Z",
+    "updated_at": "2026-09-29T19:29:32Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11654,
-    "updated_at": "2026-09-29T19:05:16Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
@@ -34,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-09-29T18:25:49Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 360,
-    "updated_at": "2026-09-29T18:20:13Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-19T02:40:35Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
-  },
-  {
-    "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
-    "id": "ChelseaKR/plumbline",
-    "language": "Python",
-    "name": "ChelseaKR/plumbline",
-    "stars": 1,
-    "updated_at": "2026-09-23T23:45:14Z",
-    "url": "https://github.com/ChelseaKR/plumbline"
   }
 ]
