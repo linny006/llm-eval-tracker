@@ -1,11 +1,20 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 360,
+    "updated_at": "2026-09-30T17:00:12Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25594,
-    "updated_at": "2026-09-30T16:33:47Z",
+    "updated_at": "2026-09-30T16:53:46Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11662,
-    "updated_at": "2026-09-30T16:42:33Z",
+    "updated_at": "2026-09-30T16:59:53Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -97,15 +106,6 @@
     "stars": 4,
     "updated_at": "2026-09-29T19:30:39Z",
     "url": "https://github.com/IonDen/mlx-quant-fidelity"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 360,
-    "updated_at": "2026-09-30T09:02:38Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Handwritten Text Recognition llm eval tool",
