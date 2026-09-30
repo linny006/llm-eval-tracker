@@ -5,7 +5,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25564,
-    "updated_at": "2026-09-29T23:44:22Z",
+    "updated_at": "2026-09-29T23:58:56Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -223,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-09-27T22:33:18Z",
     "url": "https://github.com/ozlar34/job-match-radar"
-  },
-  {
-    "description": "A local-first, safety-bounded LLM evaluation dashboard for authorized red-team testing.",
-    "id": "qtjg/llm-redteam-workbench",
-    "language": "JavaScript",
-    "name": "qtjg/llm-redteam-workbench",
-    "stars": 0,
-    "updated_at": "2026-09-29T07:12:20Z",
-    "url": "https://github.com/qtjg/llm-redteam-workbench"
   },
   {
     "description": "CI for stochastic AI agents",
