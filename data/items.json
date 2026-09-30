@@ -1,5 +1,14 @@
 [
   {
+    "description": "Eval harness that audits agent trajectories for verification, not just pass/fail \u2014 lucky-pass detection on a hardened ex",
+    "id": "empire-mind/honestbench",
+    "language": "Python",
+    "name": "empire-mind/honestbench",
+    "stars": 0,
+    "updated_at": "2026-09-30T18:32:15Z",
+    "url": "https://github.com/empire-mind/honestbench"
+  },
+  {
     "description": "Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct",
     "id": "sx4im/skillcheck",
     "language": "TypeScript",
@@ -23,17 +32,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25594,
-    "updated_at": "2026-09-30T18:24:01Z",
+    "updated_at": "2026-09-30T18:38:01Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Eval harness that audits agent trajectories for verification, not just pass/fail \u2014 lucky-pass detection on a hardened ex",
-    "id": "empire-mind/honestbench",
-    "language": "Python",
-    "name": "empire-mind/honestbench",
-    "stars": 0,
-    "updated_at": "2026-09-30T17:24:41Z",
-    "url": "https://github.com/empire-mind/honestbench"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
@@ -41,7 +41,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-09-30T18:29:08Z",
+    "updated_at": "2026-09-30T18:43:51Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -59,7 +59,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11662,
-    "updated_at": "2026-09-30T17:59:53Z",
+    "updated_at": "2026-09-30T18:35:10Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
