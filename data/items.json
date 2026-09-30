@@ -1,5 +1,14 @@
 [
   {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3578,
+    "updated_at": "2026-09-30T18:00:40Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -23,7 +32,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-09-30T17:58:19Z",
+    "updated_at": "2026-09-30T18:13:32Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -88,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T06:12:07Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3578,
-    "updated_at": "2026-09-30T16:14:58Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
