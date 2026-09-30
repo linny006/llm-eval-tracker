@@ -1,11 +1,20 @@
 [
   {
+    "description": "Eval harness that audits agent trajectories for verification, not just pass/fail \u2014 lucky-pass detection on a hardened ex",
+    "id": "empire-mind/honestbench",
+    "language": "Python",
+    "name": "empire-mind/honestbench",
+    "stars": 0,
+    "updated_at": "2026-09-30T17:24:41Z",
+    "url": "https://github.com/empire-mind/honestbench"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-09-30T17:03:57Z",
+    "updated_at": "2026-09-30T17:30:22Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25594,
-    "updated_at": "2026-09-30T16:53:46Z",
+    "updated_at": "2026-09-30T17:20:48Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -259,15 +268,6 @@
     "stars": 6,
     "updated_at": "2026-09-26T18:42:23Z",
     "url": "https://github.com/instax-dutta/sysone-bench"
-  },
-  {
-    "description": "Eval harness that audits agent trajectories for verification, not just pass/fail \u2014 lucky-pass detection on a hardened ex",
-    "id": "empire-mind/honestbench",
-    "language": "Python",
-    "name": "empire-mind/honestbench",
-    "stars": 0,
-    "updated_at": "2026-09-26T07:31:48Z",
-    "url": "https://github.com/empire-mind/honestbench"
   },
   {
     "description": "Do LLM judges know when they're wrong? Three open-weight judges (Qwen2.5-7B, kev-8b, auto-j-13b) graded against MT-Bench",
