@@ -1,5 +1,14 @@
 [
   {
+    "description": "Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct",
+    "id": "sx4im/skillcheck",
+    "language": "TypeScript",
+    "name": "sx4im/skillcheck",
+    "stars": 28,
+    "updated_at": "2026-09-30T18:22:28Z",
+    "url": "https://github.com/sx4im/skillcheck"
+  },
+  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25594,
-    "updated_at": "2026-09-30T17:55:59Z",
+    "updated_at": "2026-09-30T18:24:01Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -32,7 +41,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-09-30T18:13:32Z",
+    "updated_at": "2026-09-30T18:29:08Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -169,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-09-29T07:16:09Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct",
-    "id": "sx4im/skillcheck",
-    "language": "TypeScript",
-    "name": "sx4im/skillcheck",
-    "stars": 28,
-    "updated_at": "2026-09-29T16:45:55Z",
-    "url": "https://github.com/sx4im/skillcheck"
   },
   {
     "description": "Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring Sec",
