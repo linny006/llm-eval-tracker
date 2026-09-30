@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25595,
+    "updated_at": "2026-09-30T18:56:02Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Eval harness that audits agent trajectories for verification, not just pass/fail \u2014 lucky-pass detection on a hardened ex",
     "id": "empire-mind/honestbench",
     "language": "Python",
@@ -27,21 +36,12 @@
     "url": "https://github.com/truera/trulens"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25594,
-    "updated_at": "2026-09-30T18:38:01Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-09-30T18:43:51Z",
+    "updated_at": "2026-09-30T18:50:29Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -59,7 +59,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11662,
-    "updated_at": "2026-09-30T18:35:10Z",
+    "updated_at": "2026-09-30T18:59:19Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
