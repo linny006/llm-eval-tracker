@@ -4,9 +4,18 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25595,
-    "updated_at": "2026-09-30T19:07:38Z",
+    "stars": 25596,
+    "updated_at": "2026-09-30T19:29:53Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11663,
+    "updated_at": "2026-09-30T18:59:19Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Eval harness that audits agent trajectories for verification, not just pass/fail \u2014 lucky-pass detection on a hardened ex",
@@ -41,7 +50,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-09-30T18:50:29Z",
+    "updated_at": "2026-09-30T19:23:05Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -52,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-09-30T15:57:13Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11662,
-    "updated_at": "2026-09-30T18:59:19Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Automated LLM Evaluation Harness (Superseded by Passmark & Bench-Suite)",
