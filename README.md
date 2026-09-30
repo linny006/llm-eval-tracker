@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-30 04:45 UTC
+> ⏰ Last updated: 2026-09-30 05:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -52,7 +52,7 @@ expired items removed — so you can rely on what you see being current.
 | 8 | [lehigh-university-libraries/htr](https://github.com/lehigh-university-libraries/htr) | 2 | Go | 2026-09-29 | Handwritten Text Recognition llm eval tool |
 | 9 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-29 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
 | 10 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5847 | Python | 2026-09-29 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 11 | [truera/trulens](https://github.com/truera/trulens) | 3579 | Python | 2026-09-29 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 11 | [truera/trulens](https://github.com/truera/trulens) | 3579 | Python | 2026-09-30 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 12 | [VioletScar-Hui/sparkjury](https://github.com/VioletScar-Hui/sparkjury) | 2 | Python | 2026-09-29 | 给别人的 Agent 做体检的评测 Agent：本地三家族裁判打分、分歧交云端仲裁、badcase 聚类、证据卡片、pass^3 回归 \| 第三届 NVIDIA DGX Spark 黑客松 · 能工智人5X |
 | 13 | [lftherios/session-link](https://github.com/lftherios/session-link) | 0 | Go | 2026-09-29 | A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit. |
 | 14 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-09-29 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
