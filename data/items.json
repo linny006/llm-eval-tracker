@@ -1,5 +1,14 @@
 [
   {
+    "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
+    "id": "goldbarth/chartula-evals",
+    "language": "Python",
+    "name": "goldbarth/chartula-evals",
+    "stars": 0,
+    "updated_at": "2026-09-30T12:15:54Z",
+    "url": "https://github.com/goldbarth/chartula-evals"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -97,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-09-29T18:48:15Z",
     "url": "https://github.com/lehigh-university-libraries/htr"
-  },
-  {
-    "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
-    "id": "goldbarth/chartula-evals",
-    "language": "Python",
-    "name": "goldbarth/chartula-evals",
-    "stars": 0,
-    "updated_at": "2026-09-30T12:01:33Z",
-    "url": "https://github.com/goldbarth/chartula-evals"
   },
   {
     "description": "\u7ed9\u522b\u4eba\u7684 Agent \u505a\u4f53\u68c0\u7684\u8bc4\u6d4b Agent\uff1a\u672c\u5730\u4e09\u5bb6\u65cf\u88c1\u5224\u6253\u5206\u3001\u5206\u6b67\u4ea4\u4e91\u7aef\u4ef2\u88c1\u3001badcase \u805a\u7c7b\u3001\u8bc1\u636e\u5361\u7247\u3001pass^3 \u56de\u5f52 | \u7b2c\u4e09\u5c4a NVIDIA DGX Spark \u9ed1\u5ba2\u677e \u00b7 \u80fd\u5de5\u667a\u4eba5X",
