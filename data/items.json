@@ -1,21 +1,30 @@
 [
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25601,
-    "updated_at": "2026-10-01T00:00:19Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11667,
-    "updated_at": "2026-09-30T23:43:01Z",
+    "updated_at": "2026-10-01T00:14:11Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Automated LLM bias and toxicity auditing pipeline with flexible scoring and Streamlit UI.",
+    "id": "gopals09920/llm-bias-toxicity-audit",
+    "language": "\u2014",
+    "name": "gopals09920/llm-bias-toxicity-audit",
+    "stars": 0,
+    "updated_at": "2026-10-01T00:08:06Z",
+    "url": "https://github.com/gopals09920/llm-bias-toxicity-audit"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25601,
+    "updated_at": "2026-10-01T00:02:28Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "judge-drift-sentinel \u00b7 judge-reliability-kit \u00b7 agent-loop-engine \u00b7 trace-gate \u00b7 ai-eng-skill-range",
@@ -151,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-09-29T13:43:32Z",
     "url": "https://github.com/VioletScar-Hui/sparkjury"
-  },
-  {
-    "description": "Automated LLM bias and toxicity auditing pipeline with flexible scoring and Streamlit UI.",
-    "id": "gopals09920/llm-bias-toxicity-audit",
-    "language": "Python",
-    "name": "gopals09920/llm-bias-toxicity-audit",
-    "stars": 0,
-    "updated_at": "2026-09-29T11:32:48Z",
-    "url": "https://github.com/gopals09920/llm-bias-toxicity-audit"
   },
   {
     "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
