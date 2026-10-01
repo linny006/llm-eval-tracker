@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-01 09:15 UTC
+> ⏰ Last updated: 2026-10-01 09:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -47,15 +47,15 @@ expired items removed — so you can rely on what you see being current.
 | 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25610 | TypeScript | 2026-10-01 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 4 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-10-01 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
 | 5 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-10-01 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
-| 6 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 1 | — | 2026-10-01 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
-| 7 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5847 | Python | 2026-10-01 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 8 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11668 | Python | 2026-10-01 | AI Observability & Evaluation |
+| 6 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11669 | Python | 2026-10-01 | AI Observability & Evaluation |
+| 7 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 1 | — | 2026-10-01 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
+| 8 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5847 | Python | 2026-10-01 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 9 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-01 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
 | 10 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 3 | TypeScript | 2026-10-01 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 11 | [gopals09920/llm-bias-toxicity-audit](https://github.com/gopals09920/llm-bias-toxicity-audit) | 0 | — | 2026-10-01 | Automated LLM bias and toxicity auditing pipeline with flexible scoring and Streamlit UI. |
 | 12 | [homayoun-safarpour/homayoun-safarpour](https://github.com/homayoun-safarpour/homayoun-safarpour) | 0 | — | 2026-09-30 | judge-drift-sentinel · judge-reliability-kit · agent-loop-engine · trace-gate · ai-eng-skill-range |
 | 13 | [empire-mind/honestbench](https://github.com/empire-mind/honestbench) | 0 | Python | 2026-09-30 | Eval harness that audits agent trajectories for verification, not just pass/fail — lucky-pass detection on a hardened ex |
-| 14 | [truera/trulens](https://github.com/truera/trulens) | 3580 | Python | 2026-09-30 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 14 | [truera/trulens](https://github.com/truera/trulens) | 3581 | Python | 2026-09-30 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 15 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 360 | TypeScript | 2026-09-30 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 16 | [therealfullmetal55555/llm-eval-harness](https://github.com/therealfullmetal55555/llm-eval-harness) | 1 | Python | 2026-09-30 | Automated LLM Evaluation Harness (Superseded by Passmark & Bench-Suite) |
 | 17 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-30 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |

@@ -5,7 +5,7 @@
     "language": "Go",
     "name": "lftherios/session-link",
     "stars": 0,
-    "updated_at": "2026-10-01T09:12:40Z",
+    "updated_at": "2026-10-01T09:29:17Z",
     "url": "https://github.com/lftherios/session-link"
   },
   {
@@ -14,7 +14,7 @@
     "language": "TypeScript",
     "name": "sx4im/skillcheck",
     "stars": 28,
-    "updated_at": "2026-10-01T09:04:10Z",
+    "updated_at": "2026-10-01T09:24:39Z",
     "url": "https://github.com/sx4im/skillcheck"
   },
   {
@@ -45,6 +45,15 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11669,
+    "updated_at": "2026-10-01T06:59:43Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -61,15 +70,6 @@
     "stars": 5847,
     "updated_at": "2026-10-01T08:27:46Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11668,
-    "updated_at": "2026-10-01T06:59:43Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -121,7 +121,7 @@
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3580,
+    "stars": 3581,
     "updated_at": "2026-09-30T18:00:40Z",
     "url": "https://github.com/truera/trulens"
   },
