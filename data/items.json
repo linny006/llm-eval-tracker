@@ -1,11 +1,20 @@
 [
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5847,
+    "updated_at": "2026-10-01T03:42:49Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25602,
-    "updated_at": "2026-10-01T03:01:46Z",
+    "updated_at": "2026-10-01T03:36:29Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -115,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T12:15:54Z",
     "url": "https://github.com/goldbarth/chartula-evals"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5847,
-    "updated_at": "2026-10-01T03:26:17Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
