@@ -9,6 +9,15 @@
     "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
   },
   {
+    "description": "Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct",
+    "id": "sx4im/skillcheck",
+    "language": "TypeScript",
+    "name": "sx4im/skillcheck",
+    "stars": 28,
+    "updated_at": "2026-10-01T10:40:09Z",
+    "url": "https://github.com/sx4im/skillcheck"
+  },
+  {
     "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
     "id": "bhavya7995/AI_governance",
     "language": "PowerShell",
@@ -25,15 +34,6 @@
     "stars": 25611,
     "updated_at": "2026-10-01T10:28:42Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct",
-    "id": "sx4im/skillcheck",
-    "language": "TypeScript",
-    "name": "sx4im/skillcheck",
-    "stars": 28,
-    "updated_at": "2026-10-01T10:40:09Z",
-    "url": "https://github.com/sx4im/skillcheck"
   },
   {
     "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
