@@ -1,11 +1,20 @@
 [
   {
+    "description": "Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct",
+    "id": "sx4im/skillcheck",
+    "language": "TypeScript",
+    "name": "sx4im/skillcheck",
+    "stars": 28,
+    "updated_at": "2026-10-01T05:11:45Z",
+    "url": "https://github.com/sx4im/skillcheck"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25603,
-    "updated_at": "2026-10-01T04:58:05Z",
+    "updated_at": "2026-10-01T05:05:50Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5847,
-    "updated_at": "2026-10-01T03:52:52Z",
+    "updated_at": "2026-10-01T05:10:55Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -79,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T18:32:15Z",
     "url": "https://github.com/empire-mind/honestbench"
-  },
-  {
-    "description": "Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct",
-    "id": "sx4im/skillcheck",
-    "language": "TypeScript",
-    "name": "sx4im/skillcheck",
-    "stars": 28,
-    "updated_at": "2026-09-30T18:22:28Z",
-    "url": "https://github.com/sx4im/skillcheck"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
