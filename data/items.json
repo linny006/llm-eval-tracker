@@ -1,5 +1,23 @@
 [
   {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-01T02:13:10Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11668,
+    "updated_at": "2026-10-01T02:06:01Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
     "id": "jeremylongshore/j-rig-skill-binary-eval",
     "language": "TypeScript",
@@ -16,15 +34,6 @@
     "stars": 25602,
     "updated_at": "2026-10-01T01:34:30Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11668,
-    "updated_at": "2026-10-01T01:19:36Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Automated LLM bias and toxicity auditing pipeline with flexible scoring and Streamlit UI.",
@@ -113,7 +122,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5847,
-    "updated_at": "2026-09-30T08:48:30Z",
+    "updated_at": "2026-10-01T02:06:23Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -322,15 +331,6 @@
     "stars": 2,
     "updated_at": "2026-09-25T04:35:49Z",
     "url": "https://github.com/RudrenduPaul/memtrust"
-  },
-  {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-09-24T05:33:18Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "Can you beat Jev at Gomoku, Go or chess? Play TypeSafe's System One decision model on Cloudflare Pages, with every API c",
