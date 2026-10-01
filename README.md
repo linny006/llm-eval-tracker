@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-01 04:15 UTC
+> ⏰ Last updated: 2026-10-01 04:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,7 +42,7 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25602 | TypeScript | 2026-10-01 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25603 | TypeScript | 2026-10-01 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 2 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5847 | Python | 2026-10-01 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 3 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 1 | — | 2026-10-01 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11668 | Python | 2026-10-01 | AI Observability & Evaluation |
