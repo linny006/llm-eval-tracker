@@ -1,5 +1,14 @@
 [
   {
+    "description": "Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct",
+    "id": "sx4im/skillcheck",
+    "language": "TypeScript",
+    "name": "sx4im/skillcheck",
+    "stars": 28,
+    "updated_at": "2026-10-02T05:03:50Z",
+    "url": "https://github.com/sx4im/skillcheck"
+  },
+  {
     "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
     "id": "ChelseaKR/sprout",
     "language": "Python",
@@ -97,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T22:39:16Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
-    "description": "Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct",
-    "id": "sx4im/skillcheck",
-    "language": "TypeScript",
-    "name": "sx4im/skillcheck",
-    "stars": 28,
-    "updated_at": "2026-10-01T13:41:26Z",
-    "url": "https://github.com/sx4im/skillcheck"
   },
   {
     "description": "Agricultural-advisory QA benchmark in 11 Indian languages \u2014 500 questions \u00d7 11, built from real Kisan Call Centre farmer",
