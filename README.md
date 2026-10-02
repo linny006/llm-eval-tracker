@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-02 04:45 UTC
+> ⏰ Last updated: 2026-10-02 05:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -51,7 +51,7 @@ expired items removed — so you can rely on what you see being current.
 | 7 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-10-02 | v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic |
 | 8 | [truera/trulens](https://github.com/truera/trulens) | 3584 | Python | 2026-10-02 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 9 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-10-02 | pip install gauntlet-evals · v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against |
-| 10 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25632 | TypeScript | 2026-10-01 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 10 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25633 | TypeScript | 2026-10-01 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 11 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-10-01 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
 | 12 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 28 | TypeScript | 2026-10-01 | Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct |
 | 13 | [sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark](https://github.com/sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark) | 1 | Python | 2026-10-01 | Agricultural-advisory QA benchmark in 11 Indian languages — 500 questions × 11, built from real Kisan Call Centre farmer |
