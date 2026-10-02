@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-02 09:30 UTC
+> ⏰ Last updated: 2026-10-02 09:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -50,7 +50,7 @@ expired items removed — so you can rely on what you see being current.
 | 6 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 28 | TypeScript | 2026-10-02 | Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct |
 | 7 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-10-02 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
 | 8 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-10-02 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
-| 9 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5850 | Python | 2026-10-02 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 9 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5851 | Python | 2026-10-02 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 10 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11679 | Python | 2026-10-02 | AI Observability & Evaluation |
 | 11 | [Deivid9920/PROMETHEUSV2-NEUROTOPOLOGY](https://github.com/Deivid9920/PROMETHEUSV2-NEUROTOPOLOGY) | 0 | Python | 2026-10-02 | Topological Data Analysis (TDA) layer for LLM self-improvement loops featuring persistent homology promotion gates, repr |
 | 12 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-10-02 | v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic |
