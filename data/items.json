@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11681,
-    "updated_at": "2026-10-02T15:44:15Z",
+    "updated_at": "2026-10-02T15:58:13Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Eval harness that audits agent trajectories for verification, not just pass/fail \u2014 lucky-pass detection on a hardened ex",
+    "id": "empire-mind/honestbench",
+    "language": "Python",
+    "name": "empire-mind/honestbench",
+    "stars": 0,
+    "updated_at": "2026-10-02T15:49:45Z",
+    "url": "https://github.com/empire-mind/honestbench"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25644,
-    "updated_at": "2026-10-02T14:32:44Z",
+    "updated_at": "2026-10-02T15:59:49Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -52,15 +61,6 @@
     "stars": 28,
     "updated_at": "2026-10-02T11:19:41Z",
     "url": "https://github.com/sx4im/skillcheck"
-  },
-  {
-    "description": "Eval harness that audits agent trajectories for verification, not just pass/fail \u2014 lucky-pass detection on a hardened ex",
-    "id": "empire-mind/honestbench",
-    "language": "Python",
-    "name": "empire-mind/honestbench",
-    "stars": 0,
-    "updated_at": "2026-10-02T15:23:43Z",
-    "url": "https://github.com/empire-mind/honestbench"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
