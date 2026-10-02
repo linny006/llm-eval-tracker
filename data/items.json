@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11674,
-    "updated_at": "2026-10-02T00:50:02Z",
+    "updated_at": "2026-10-02T01:08:19Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5849,
+    "updated_at": "2026-10-02T01:13:56Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
@@ -97,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-10-01T13:24:07Z",
     "url": "https://github.com/sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5849,
-    "updated_at": "2026-10-01T23:22:39Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
