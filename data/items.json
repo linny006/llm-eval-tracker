@@ -1,5 +1,14 @@
 [
   {
+    "description": "Eval harness that audits agent trajectories for verification, not just pass/fail \u2014 lucky-pass detection on a hardened ex",
+    "id": "empire-mind/honestbench",
+    "language": "Python",
+    "name": "empire-mind/honestbench",
+    "stars": 0,
+    "updated_at": "2026-10-02T09:09:53Z",
+    "url": "https://github.com/empire-mind/honestbench"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -76,7 +85,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11678,
+    "stars": 11679,
     "updated_at": "2026-10-02T03:45:44Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -171,21 +180,12 @@
     "url": "https://github.com/homayoun-safarpour/homayoun-safarpour"
   },
   {
-    "description": "Eval harness that audits agent trajectories for verification, not just pass/fail \u2014 lucky-pass detection on a hardened ex",
-    "id": "empire-mind/honestbench",
-    "language": "Python",
-    "name": "empire-mind/honestbench",
-    "stars": 0,
-    "updated_at": "2026-10-02T08:57:42Z",
-    "url": "https://github.com/empire-mind/honestbench"
-  },
-  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-10-02T08:55:57Z",
+    "updated_at": "2026-10-02T09:04:47Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
