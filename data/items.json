@@ -4,9 +4,18 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25636,
+    "stars": 25638,
     "updated_at": "2026-10-02T08:02:37Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3586,
+    "updated_at": "2026-10-02T07:30:28Z",
+    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
@@ -70,15 +79,6 @@
     "stars": 11678,
     "updated_at": "2026-10-02T03:45:44Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3585,
-    "updated_at": "2026-10-02T07:30:28Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Topological Data Analysis (TDA) layer for LLM self-improvement loops featuring persistent homology promotion gates, repr",
@@ -185,7 +185,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-10-01T22:36:57Z",
+    "updated_at": "2026-10-02T08:32:47Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
