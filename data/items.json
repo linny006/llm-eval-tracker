@@ -1,5 +1,32 @@
 [
   {
+    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
+    "id": "ChelseaKR/sprout",
+    "language": "Python",
+    "name": "ChelseaKR/sprout",
+    "stars": 1,
+    "updated_at": "2026-10-02T00:12:21Z",
+    "url": "https://github.com/ChelseaKR/sprout"
+  },
+  {
+    "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
+    "id": "ChelseaKR/plumbline",
+    "language": "Python",
+    "name": "ChelseaKR/plumbline",
+    "stars": 1,
+    "updated_at": "2026-10-02T00:10:04Z",
+    "url": "https://github.com/ChelseaKR/plumbline"
+  },
+  {
+    "description": "pip install gauntlet-evals \u00b7 v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against",
+    "id": "ChelseaKR/gauntlet",
+    "language": "Python",
+    "name": "ChelseaKR/gauntlet",
+    "stars": 1,
+    "updated_at": "2026-10-02T00:08:14Z",
+    "url": "https://github.com/ChelseaKR/gauntlet"
+  },
+  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-21T09:12:07Z",
     "url": "https://github.com/virtualman333/jev-decision-arena"
-  },
-  {
-    "description": "EvalFloor: is your LLM eval improvement real? Trying k prompt variants and keeping the best scores points on noise alone",
-    "id": "novaleolin/evalfloor",
-    "language": "Python",
-    "name": "novaleolin/evalfloor",
-    "stars": 1,
-    "updated_at": "2026-09-21T03:47:10Z",
-    "url": "https://github.com/novaleolin/evalfloor"
-  },
-  {
-    "description": "\u6ca1\u8dd1\u8fc7 = \u4e0d\u51fa\u5382\u3002no eval, no ship.",
-    "id": "SmartStudio/baize-prompts",
-    "language": "\u2014",
-    "name": "SmartStudio/baize-prompts",
-    "stars": 1,
-    "updated_at": "2026-09-21T03:13:16Z",
-    "url": "https://github.com/SmartStudio/baize-prompts"
-  },
-  {
-    "description": "Real-time quality gate and Art Director Warden for Claude Code powered by TypeSafe Jev 1.13 non-autoregressive decision ",
-    "id": "connectedGraph/claude-jev-warden",
-    "language": "HTML",
-    "name": "connectedGraph/claude-jev-warden",
-    "stars": 1,
-    "updated_at": "2026-09-19T14:06:06Z",
-    "url": "https://github.com/connectedGraph/claude-jev-warden"
   }
 ]
