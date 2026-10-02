@@ -54,6 +54,24 @@
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11677,
+    "updated_at": "2026-10-02T03:45:44Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3585,
+    "updated_at": "2026-10-02T02:44:44Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "Topological Data Analysis (TDA) layer for LLM self-improvement loops featuring persistent homology promotion gates, repr",
     "id": "Deivid9920/PROMETHEUSV2-NEUROTOPOLOGY",
     "language": "Python",
@@ -63,15 +81,6 @@
     "url": "https://github.com/Deivid9920/PROMETHEUSV2-NEUROTOPOLOGY"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11676,
-    "updated_at": "2026-10-02T03:45:44Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
     "id": "ChelseaKR/plumbline",
     "language": "Python",
@@ -79,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-10-02T00:27:52Z",
     "url": "https://github.com/ChelseaKR/plumbline"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3584,
-    "updated_at": "2026-10-02T02:44:44Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
