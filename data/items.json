@@ -1,5 +1,14 @@
 [
   {
+    "description": "Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct",
+    "id": "sx4im/skillcheck",
+    "language": "TypeScript",
+    "name": "sx4im/skillcheck",
+    "stars": 28,
+    "updated_at": "2026-10-02T11:02:45Z",
+    "url": "https://github.com/sx4im/skillcheck"
+  },
+  {
     "description": "Eval harness that audits agent trajectories for verification, not just pass/fail \u2014 lucky-pass detection on a hardened ex",
     "id": "empire-mind/honestbench",
     "language": "Python",
@@ -13,7 +22,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25638,
+    "stars": 25639,
     "updated_at": "2026-10-02T08:02:37Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -43,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-10-02T05:58:38Z",
     "url": "https://github.com/ChelseaKR/gauntlet"
-  },
-  {
-    "description": "Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct",
-    "id": "sx4im/skillcheck",
-    "language": "TypeScript",
-    "name": "sx4im/skillcheck",
-    "stars": 28,
-    "updated_at": "2026-10-02T10:55:23Z",
-    "url": "https://github.com/sx4im/skillcheck"
   },
   {
     "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
@@ -185,7 +185,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-10-02T10:28:24Z",
+    "updated_at": "2026-10-02T11:01:02Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
