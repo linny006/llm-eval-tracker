@@ -1,5 +1,14 @@
 [
   {
+    "description": "Route each ADK request to the right Gemini tier with Laya on a CPU-only container (Cloud Run), plus an eval scored by co",
+    "id": "derrickqin/google-adk-laya-router",
+    "language": "Python",
+    "name": "derrickqin/google-adk-laya-router",
+    "stars": 0,
+    "updated_at": "2026-10-02T12:54:33Z",
+    "url": "https://github.com/derrickqin/google-adk-laya-router"
+  },
+  {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
     "id": "ahmedmoha9088/PhoenixFish",
     "language": "Java",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-21T12:39:27Z",
     "url": "https://github.com/ColeFang35/llm-judge-eval"
-  },
-  {
-    "description": "Independent-eval-Qwen3-0.6B-ondevice-router-40cases",
-    "id": "lilyco-42/lyco-router-eval",
-    "language": "\u2014",
-    "name": "lilyco-42/lyco-router-eval",
-    "stars": 0,
-    "updated_at": "2026-09-21T09:48:51Z",
-    "url": "https://github.com/lilyco-42/lyco-router-eval"
   }
 ]
