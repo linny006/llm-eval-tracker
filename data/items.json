@@ -1,11 +1,20 @@
 [
   {
+    "description": "Topological Data Analysis (TDA) layer for LLM self-improvement loops featuring persistent homology promotion gates, repr",
+    "id": "Deivid9920/PROMETHEUSV2-NEUROTOPOLOGY",
+    "language": "Python",
+    "name": "Deivid9920/PROMETHEUSV2-NEUROTOPOLOGY",
+    "stars": 0,
+    "updated_at": "2026-10-02T01:34:20Z",
+    "url": "https://github.com/Deivid9920/PROMETHEUSV2-NEUROTOPOLOGY"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5849,
-    "updated_at": "2026-10-02T01:30:17Z",
+    "updated_at": "2026-10-02T01:30:24Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-21T09:48:51Z",
     "url": "https://github.com/lilyco-42/lyco-router-eval"
-  },
-  {
-    "description": "Same maze, same rules, N decision backends. A zero-key, zero-dependency arena that measures Jev / LLM / local decision m",
-    "id": "virtualman333/jev-decision-arena",
-    "language": "HTML",
-    "name": "virtualman333/jev-decision-arena",
-    "stars": 0,
-    "updated_at": "2026-09-21T09:12:07Z",
-    "url": "https://github.com/virtualman333/jev-decision-arena"
   }
 ]
