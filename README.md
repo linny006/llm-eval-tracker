@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-03 16:45 UTC
+> ⏰ Last updated: 2026-10-03 17:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -55,7 +55,7 @@ expired items removed — so you can rely on what you see being current.
 | 11 | [derrickqin/google-adk-laya-router](https://github.com/derrickqin/google-adk-laya-router) | 1 | Python | 2026-10-02 | Route each ADK request to the right Gemini tier with Laya on a CPU-only container (Cloud Run), plus an eval scored by co |
 | 12 | [truera/trulens](https://github.com/truera/trulens) | 3589 | Python | 2026-10-02 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 13 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-10-02 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
-| 14 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-10-02 | pip install gauntlet-evals · v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against |
+| 14 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-10-03 | pip install gauntlet-evals · v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against |
 | 15 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-10-02 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
 | 16 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5857 | Python | 2026-10-02 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 17 | [Deivid9920/PROMETHEUSV2-NEUROTOPOLOGY](https://github.com/Deivid9920/PROMETHEUSV2-NEUROTOPOLOGY) | 0 | Python | 2026-10-02 | Topological Data Analysis (TDA) layer for LLM self-improvement loops featuring persistent homology promotion gates, repr |
