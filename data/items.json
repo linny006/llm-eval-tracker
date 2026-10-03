@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25679,
+    "updated_at": "2026-10-03T22:48:42Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs",
     "id": "instax-dutta/sysone-bench",
     "language": "Python",
@@ -18,20 +27,11 @@
     "url": "https://github.com/Kondwani10/Origin-Continuum"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25678,
-    "updated_at": "2026-10-03T21:19:56Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11695,
+    "stars": 11696,
     "updated_at": "2026-10-03T19:15:38Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -148,7 +148,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5859,
+    "stars": 5860,
     "updated_at": "2026-10-02T03:55:04Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
