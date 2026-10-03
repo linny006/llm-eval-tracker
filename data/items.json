@@ -1,5 +1,14 @@
 [
   {
+    "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
+    "id": "Icaro0310/devin-evals",
+    "language": "Python",
+    "name": "Icaro0310/devin-evals",
+    "stars": 1,
+    "updated_at": "2026-10-03T19:01:07Z",
+    "url": "https://github.com/Icaro0310/devin-evals"
+  },
+  {
     "description": "First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs",
     "id": "instax-dutta/sysone-bench",
     "language": "Python",
@@ -9,21 +18,12 @@
     "url": "https://github.com/instax-dutta/sysone-bench"
   },
   {
-    "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
-    "id": "Icaro0310/devin-evals",
-    "language": "Python",
-    "name": "Icaro0310/devin-evals",
-    "stars": 1,
-    "updated_at": "2026-10-03T18:39:26Z",
-    "url": "https://github.com/Icaro0310/devin-evals"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25675,
-    "updated_at": "2026-10-03T18:54:28Z",
+    "updated_at": "2026-10-03T19:13:28Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -148,7 +148,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5857,
+    "stars": 5858,
     "updated_at": "2026-10-02T03:55:04Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
