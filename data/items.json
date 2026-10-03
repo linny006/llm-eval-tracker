@@ -1,5 +1,14 @@
 [
   {
+    "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
+    "id": "Icaro0310/devin-evals",
+    "language": "Python",
+    "name": "Icaro0310/devin-evals",
+    "stars": 0,
+    "updated_at": "2026-10-03T11:10:06Z",
+    "url": "https://github.com/Icaro0310/devin-evals"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -50,7 +59,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11689,
-    "updated_at": "2026-10-03T03:05:44Z",
+    "updated_at": "2026-10-03T11:38:54Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-21T18:16:26Z",
     "url": "https://github.com/abhishek2512mishra/deepswe-benchmaxxing-detector"
-  },
-  {
-    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
-    "id": "multivon-ai/multivon-eval",
-    "language": "Python",
-    "name": "multivon-ai/multivon-eval",
-    "stars": 26,
-    "updated_at": "2026-09-21T14:12:28Z",
-    "url": "https://github.com/multivon-ai/multivon-eval"
   }
 ]
