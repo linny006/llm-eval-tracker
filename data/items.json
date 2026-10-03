@@ -1,5 +1,14 @@
 [
   {
+    "description": "Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct",
+    "id": "sx4im/skillcheck",
+    "language": "TypeScript",
+    "name": "sx4im/skillcheck",
+    "stars": 28,
+    "updated_at": "2026-10-03T07:07:50Z",
+    "url": "https://github.com/sx4im/skillcheck"
+  },
+  {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
     "id": "ahmedmoha9088/PhoenixFish",
     "language": "Java",
@@ -70,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-10-02T12:54:33Z",
     "url": "https://github.com/derrickqin/google-adk-laya-router"
-  },
-  {
-    "description": "Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct",
-    "id": "sx4im/skillcheck",
-    "language": "TypeScript",
-    "name": "sx4im/skillcheck",
-    "stars": 28,
-    "updated_at": "2026-10-02T11:19:41Z",
-    "url": "https://github.com/sx4im/skillcheck"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
