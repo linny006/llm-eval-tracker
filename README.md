@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-03 06:00 UTC
+> ⏰ Last updated: 2026-10-03 06:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -44,18 +44,18 @@ expired items removed — so you can rely on what you see being current.
 |---|------|---|------|---------|-------------|
 | 1 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-10-03 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
 | 2 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-10-03 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11688 | Python | 2026-10-03 | AI Observability & Evaluation |
+| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11689 | Python | 2026-10-03 | AI Observability & Evaluation |
 | 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25661 | TypeScript | 2026-10-03 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 5 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-10-02 | Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu |
 | 6 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-10-02 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
 | 7 | [empire-mind/honestbench](https://github.com/empire-mind/honestbench) | 0 | Python | 2026-10-02 | Eval harness that audits agent trajectories for verification, not just pass/fail — lucky-pass detection on a hardened ex |
 | 8 | [derrickqin/google-adk-laya-router](https://github.com/derrickqin/google-adk-laya-router) | 1 | Python | 2026-10-02 | Route each ADK request to the right Gemini tier with Laya on a CPU-only container (Cloud Run), plus an eval scored by co |
 | 9 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 28 | TypeScript | 2026-10-02 | Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct |
-| 10 | [truera/trulens](https://github.com/truera/trulens) | 3588 | Python | 2026-10-02 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 10 | [truera/trulens](https://github.com/truera/trulens) | 3589 | Python | 2026-10-02 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 11 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-10-02 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
 | 12 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-10-02 | pip install gauntlet-evals · v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against |
 | 13 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-10-02 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
-| 14 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5854 | Python | 2026-10-02 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 14 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5856 | Python | 2026-10-02 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 15 | [Deivid9920/PROMETHEUSV2-NEUROTOPOLOGY](https://github.com/Deivid9920/PROMETHEUSV2-NEUROTOPOLOGY) | 0 | Python | 2026-10-02 | Topological Data Analysis (TDA) layer for LLM self-improvement loops featuring persistent homology promotion gates, repr |
 | 16 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-10-02 | v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic |
 | 17 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-10-01 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
