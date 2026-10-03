@@ -18,11 +18,20 @@
     "url": "https://github.com/Kondwani10/Origin-Continuum"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11690,
+    "updated_at": "2026-10-03T11:38:54Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25666,
+    "stars": 25667,
     "updated_at": "2026-10-03T09:44:10Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -52,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T07:26:47Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11689,
-    "updated_at": "2026-10-03T11:38:54Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu",
