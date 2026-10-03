@@ -1,5 +1,23 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11687,
+    "updated_at": "2026-10-03T03:05:44Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25657,
+    "updated_at": "2026-10-03T02:47:54Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
     "id": "ahmedmoha9088/PhoenixFish",
     "language": "Java",
@@ -9,15 +27,6 @@
     "url": "https://github.com/ahmedmoha9088/PhoenixFish"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25658,
-    "updated_at": "2026-10-03T02:47:54Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
     "id": "saddled-panicattack529/idea-evaluation-pipeline",
     "language": "\u2014",
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T02:11:20Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11686,
-    "updated_at": "2026-10-03T00:06:08Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu",
