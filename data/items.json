@@ -1,11 +1,20 @@
 [
   {
+    "description": "First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs",
+    "id": "instax-dutta/sysone-bench",
+    "language": "Python",
+    "name": "instax-dutta/sysone-bench",
+    "stars": 6,
+    "updated_at": "2026-10-04T10:51:29Z",
+    "url": "https://github.com/instax-dutta/sysone-bench"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25694,
-    "updated_at": "2026-10-04T10:36:45Z",
+    "updated_at": "2026-10-04T10:58:39Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -70,15 +79,6 @@
     "stars": 3,
     "updated_at": "2026-10-04T03:37:55Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
-  },
-  {
-    "description": "First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs",
-    "id": "instax-dutta/sysone-bench",
-    "language": "Python",
-    "name": "instax-dutta/sysone-bench",
-    "stars": 6,
-    "updated_at": "2026-10-03T22:35:00Z",
-    "url": "https://github.com/instax-dutta/sysone-bench"
   },
   {
     "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
