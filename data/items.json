@@ -1,5 +1,14 @@
 [
   {
+    "description": "Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct",
+    "id": "sx4im/skillcheck",
+    "language": "TypeScript",
+    "name": "sx4im/skillcheck",
+    "stars": 28,
+    "updated_at": "2026-10-04T11:55:41Z",
+    "url": "https://github.com/sx4im/skillcheck"
+  },
+  {
     "description": "First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs",
     "id": "instax-dutta/sysone-bench",
     "language": "Python",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25694,
-    "updated_at": "2026-10-04T11:42:17Z",
+    "updated_at": "2026-10-04T11:58:04Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -43,15 +52,6 @@
     "stars": 11703,
     "updated_at": "2026-10-04T08:31:43Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct",
-    "id": "sx4im/skillcheck",
-    "language": "TypeScript",
-    "name": "sx4im/skillcheck",
-    "stars": 28,
-    "updated_at": "2026-10-04T08:32:02Z",
-    "url": "https://github.com/sx4im/skillcheck"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
