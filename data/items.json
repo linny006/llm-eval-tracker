@@ -1,10 +1,19 @@
 [
   {
+    "description": "Pazaryeri k\u00e2r hesaplar\u0131 i\u00e7in Python/Django test ve kalite g\u00fcvence projesi",
+    "id": "nowackk-cp/karkontrol",
+    "language": "Python",
+    "name": "nowackk-cp/karkontrol",
+    "stars": 0,
+    "updated_at": "2026-10-04T00:10:52Z",
+    "url": "https://github.com/nowackk-cp/karkontrol"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25679,
+    "stars": 25680,
     "updated_at": "2026-10-03T23:59:37Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-22T02:40:00Z",
     "url": "https://github.com/AndyZhang666666/AndyZhang666666.github.io"
-  },
-  {
-    "description": "Forensic audit scanner for SWE-bench & DeepSWE v1.1 containers detecting .git reflog leakage and test harness spoofing.",
-    "id": "abhishek2512mishra/deepswe-benchmaxxing-detector",
-    "language": "Python",
-    "name": "abhishek2512mishra/deepswe-benchmaxxing-detector",
-    "stars": 0,
-    "updated_at": "2026-09-21T18:16:26Z",
-    "url": "https://github.com/abhishek2512mishra/deepswe-benchmaxxing-detector"
   }
 ]
