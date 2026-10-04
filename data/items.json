@@ -5,7 +5,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25692,
-    "updated_at": "2026-10-04T09:58:04Z",
+    "updated_at": "2026-10-04T10:10:19Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -27,6 +27,15 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11702,
+    "updated_at": "2026-10-04T08:31:43Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct",
     "id": "sx4im/skillcheck",
     "language": "TypeScript",
@@ -43,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-10-04T07:00:10Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11701,
-    "updated_at": "2026-10-04T08:31:43Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Pazaryeri k\u00e2r hesaplar\u0131 i\u00e7in Python/Django test ve kalite g\u00fcvence projesi",
