@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "Icaro0310/devin-evals",
     "stars": 1,
-    "updated_at": "2026-10-04T15:54:21Z",
+    "updated_at": "2026-10-04T16:12:07Z",
     "url": "https://github.com/Icaro0310/devin-evals"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11704,
+    "updated_at": "2026-10-04T14:38:21Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
@@ -52,15 +61,6 @@
     "stars": 28,
     "updated_at": "2026-10-04T12:20:22Z",
     "url": "https://github.com/sx4im/skillcheck"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11703,
-    "updated_at": "2026-10-04T14:38:21Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
