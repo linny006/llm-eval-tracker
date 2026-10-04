@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25686,
+    "updated_at": "2026-10-04T04:57:17Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Pazaryeri k\u00e2r hesaplar\u0131 i\u00e7in Python/Django test ve kalite g\u00fcvence projesi",
     "id": "nowackk-cp/karkontrol",
     "language": "Python",
@@ -27,21 +36,12 @@
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25685,
-    "updated_at": "2026-10-04T04:44:32Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11699,
-    "updated_at": "2026-10-03T23:44:26Z",
+    "updated_at": "2026-10-04T04:47:31Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
