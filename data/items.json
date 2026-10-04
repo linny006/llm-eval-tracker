@@ -1,11 +1,20 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25691,
+    "updated_at": "2026-10-04T08:39:07Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct",
     "id": "sx4im/skillcheck",
     "language": "TypeScript",
     "name": "sx4im/skillcheck",
     "stars": 28,
-    "updated_at": "2026-10-04T07:28:12Z",
+    "updated_at": "2026-10-04T08:32:02Z",
     "url": "https://github.com/sx4im/skillcheck"
   },
   {
@@ -18,21 +27,12 @@
     "url": "https://github.com/Kondwani10/Origin-Continuum"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25690,
-    "updated_at": "2026-10-04T08:29:03Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11701,
-    "updated_at": "2026-10-04T04:47:31Z",
+    "updated_at": "2026-10-04T08:31:43Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
