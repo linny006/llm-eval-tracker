@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-04 04:03 UTC
+> ⏰ Last updated: 2026-10-04 04:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -46,7 +46,7 @@ expired items removed — so you can rely on what you see being current.
 | 2 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 1 | — | 2026-10-04 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 3 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 3 | TypeScript | 2026-10-04 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25685 | TypeScript | 2026-10-03 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 5 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11698 | Python | 2026-10-03 | AI Observability & Evaluation |
+| 5 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11699 | Python | 2026-10-03 | AI Observability & Evaluation |
 | 6 | [instax-dutta/sysone-bench](https://github.com/instax-dutta/sysone-bench) | 6 | Python | 2026-10-03 | First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs |
 | 7 | [Icaro0310/devin-evals](https://github.com/Icaro0310/devin-evals) | 1 | Python | 2026-10-03 | Deterministic eval harness: replay recorded Devin sessions against rubric graders |
 | 8 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-10-03 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
@@ -56,7 +56,7 @@ expired items removed — so you can rely on what you see being current.
 | 12 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-10-02 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
 | 13 | [empire-mind/honestbench](https://github.com/empire-mind/honestbench) | 0 | Python | 2026-10-02 | Eval harness that audits agent trajectories for verification, not just pass/fail — lucky-pass detection on a hardened ex |
 | 14 | [derrickqin/google-adk-laya-router](https://github.com/derrickqin/google-adk-laya-router) | 1 | Python | 2026-10-02 | Route each ADK request to the right Gemini tier with Laya on a CPU-only container (Cloud Run), plus an eval scored by co |
-| 15 | [truera/trulens](https://github.com/truera/trulens) | 3589 | Python | 2026-10-02 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 15 | [truera/trulens](https://github.com/truera/trulens) | 3589 | Python | 2026-10-04 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 16 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-10-02 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
 | 17 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-10-03 | pip install gauntlet-evals · v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against |
 | 18 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-10-02 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
