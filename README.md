@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-04 18:00 UTC
+> ⏰ Last updated: 2026-10-04 18:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,41 +42,41 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Icaro0310/devin-evals](https://github.com/Icaro0310/devin-evals) | 1 | Python | 2026-10-04 | Deterministic eval harness: replay recorded Devin sessions against rubric graders |
-| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11704 | Python | 2026-10-04 | AI Observability & Evaluation |
-| 3 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-10-04 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
-| 4 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-10-04 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
-| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25699 | TypeScript | 2026-10-04 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 6 | [instax-dutta/sysone-bench](https://github.com/instax-dutta/sysone-bench) | 6 | Python | 2026-10-04 | First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs |
-| 7 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 28 | TypeScript | 2026-10-04 | Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct |
-| 8 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 1 | — | 2026-10-04 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
-| 9 | [nowackk-cp/karkontrol](https://github.com/nowackk-cp/karkontrol) | 0 | Python | 2026-10-04 | Pazaryeri kâr hesapları için Python/Django test ve kalite güvence projesi |
-| 10 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 3 | TypeScript | 2026-10-04 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
-| 11 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-10-03 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
-| 12 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-10-03 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 13 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-10-02 | Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu |
-| 14 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-10-02 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
-| 15 | [empire-mind/honestbench](https://github.com/empire-mind/honestbench) | 0 | Python | 2026-10-04 | Eval harness that audits agent trajectories for verification, not just pass/fail — lucky-pass detection on a hardened ex |
-| 16 | [derrickqin/google-adk-laya-router](https://github.com/derrickqin/google-adk-laya-router) | 1 | Python | 2026-10-02 | Route each ADK request to the right Gemini tier with Laya on a CPU-only container (Cloud Run), plus an eval scored by co |
-| 17 | [truera/trulens](https://github.com/truera/trulens) | 3589 | Python | 2026-10-04 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 18 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-10-03 | pip install gauntlet-evals · v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against |
-| 19 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5861 | Python | 2026-10-02 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 20 | [Deivid9920/PROMETHEUSV2-NEUROTOPOLOGY](https://github.com/Deivid9920/PROMETHEUSV2-NEUROTOPOLOGY) | 0 | Python | 2026-10-02 | Topological Data Analysis (TDA) layer for LLM self-improvement loops featuring persistent homology promotion gates, repr |
-| 21 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-10-02 | v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic |
-| 22 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-10-01 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
-| 23 | [sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark](https://github.com/sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark) | 1 | Python | 2026-10-01 | Agricultural-advisory QA benchmark in 11 Indian languages — 500 questions × 11, built from real Kisan Call Centre farmer |
-| 24 | [lftherios/session-link](https://github.com/lftherios/session-link) | 0 | Go | 2026-10-01 | A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit. |
-| 25 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-01 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
-| 26 | [gopals09920/llm-bias-toxicity-audit](https://github.com/gopals09920/llm-bias-toxicity-audit) | 0 | — | 2026-10-01 | Automated LLM bias and toxicity auditing pipeline with flexible scoring and Streamlit UI. |
-| 27 | [homayoun-safarpour/homayoun-safarpour](https://github.com/homayoun-safarpour/homayoun-safarpour) | 0 | — | 2026-09-30 | judge-drift-sentinel · judge-reliability-kit · agent-loop-engine · trace-gate · ai-eng-skill-range |
-| 28 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 360 | TypeScript | 2026-10-04 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 29 | [therealfullmetal55555/llm-eval-harness](https://github.com/therealfullmetal55555/llm-eval-harness) | 1 | Python | 2026-09-30 | Automated LLM Evaluation Harness (Superseded by Passmark & Bench-Suite) |
-| 30 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-30 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
-| 31 | [IonDen/mlx-quant-fidelity](https://github.com/IonDen/mlx-quant-fidelity) | 4 | Python | 2026-09-29 | Measure quantization quality loss on Apple Silicon MLX — KL divergence, top-token flip rate and perplexity delta for KV- |
-| 32 | [lehigh-university-libraries/htr](https://github.com/lehigh-university-libraries/htr) | 2 | Go | 2026-09-29 | Handwritten Text Recognition llm eval tool |
-| 33 | [VioletScar-Hui/sparkjury](https://github.com/VioletScar-Hui/sparkjury) | 2 | Python | 2026-09-29 | 给别人的 Agent 做体检的评测 Agent：本地三家族裁判打分、分歧交云端仲裁、badcase 聚类、证据卡片、pass^3 回归 \| 第三届 NVIDIA DGX Spark 黑客松 · 能工智人5X |
-| 34 | [fabio-barboza/logistic-platform](https://github.com/fabio-barboza/logistic-platform) | 0 | Java | 2026-09-28 | Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring Sec |
-| 35 | [amareshhebbar/gitgrounded](https://github.com/amareshhebbar/gitgrounded) | 0 | Python | 2026-10-04 | Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old  |
+| 1 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-10-04 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
+| 2 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-10-04 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
+| 3 | [amareshhebbar/gitgrounded](https://github.com/amareshhebbar/gitgrounded) | 0 | Python | 2026-10-04 | Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old  |
+| 4 | [Icaro0310/devin-evals](https://github.com/Icaro0310/devin-evals) | 1 | Python | 2026-10-04 | Deterministic eval harness: replay recorded Devin sessions against rubric graders |
+| 5 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11704 | Python | 2026-10-04 | AI Observability & Evaluation |
+| 6 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25699 | TypeScript | 2026-10-04 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 7 | [instax-dutta/sysone-bench](https://github.com/instax-dutta/sysone-bench) | 6 | Python | 2026-10-04 | First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs |
+| 8 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 28 | TypeScript | 2026-10-04 | Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct |
+| 9 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 1 | — | 2026-10-04 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
+| 10 | [nowackk-cp/karkontrol](https://github.com/nowackk-cp/karkontrol) | 0 | Python | 2026-10-04 | Pazaryeri kâr hesapları için Python/Django test ve kalite güvence projesi |
+| 11 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 3 | TypeScript | 2026-10-04 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
+| 12 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-10-03 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
+| 13 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-10-03 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
+| 14 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-10-02 | Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu |
+| 15 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-10-02 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
+| 16 | [empire-mind/honestbench](https://github.com/empire-mind/honestbench) | 0 | Python | 2026-10-04 | Eval harness that audits agent trajectories for verification, not just pass/fail — lucky-pass detection on a hardened ex |
+| 17 | [derrickqin/google-adk-laya-router](https://github.com/derrickqin/google-adk-laya-router) | 1 | Python | 2026-10-02 | Route each ADK request to the right Gemini tier with Laya on a CPU-only container (Cloud Run), plus an eval scored by co |
+| 18 | [truera/trulens](https://github.com/truera/trulens) | 3589 | Python | 2026-10-04 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 19 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-10-03 | pip install gauntlet-evals · v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against |
+| 20 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5861 | Python | 2026-10-02 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 21 | [Deivid9920/PROMETHEUSV2-NEUROTOPOLOGY](https://github.com/Deivid9920/PROMETHEUSV2-NEUROTOPOLOGY) | 0 | Python | 2026-10-02 | Topological Data Analysis (TDA) layer for LLM self-improvement loops featuring persistent homology promotion gates, repr |
+| 22 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-10-02 | v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic |
+| 23 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-10-01 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
+| 24 | [sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark](https://github.com/sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark) | 1 | Python | 2026-10-01 | Agricultural-advisory QA benchmark in 11 Indian languages — 500 questions × 11, built from real Kisan Call Centre farmer |
+| 25 | [lftherios/session-link](https://github.com/lftherios/session-link) | 0 | Go | 2026-10-01 | A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit. |
+| 26 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-01 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
+| 27 | [gopals09920/llm-bias-toxicity-audit](https://github.com/gopals09920/llm-bias-toxicity-audit) | 0 | — | 2026-10-01 | Automated LLM bias and toxicity auditing pipeline with flexible scoring and Streamlit UI. |
+| 28 | [homayoun-safarpour/homayoun-safarpour](https://github.com/homayoun-safarpour/homayoun-safarpour) | 0 | — | 2026-09-30 | judge-drift-sentinel · judge-reliability-kit · agent-loop-engine · trace-gate · ai-eng-skill-range |
+| 29 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 360 | TypeScript | 2026-10-04 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 30 | [therealfullmetal55555/llm-eval-harness](https://github.com/therealfullmetal55555/llm-eval-harness) | 1 | Python | 2026-09-30 | Automated LLM Evaluation Harness (Superseded by Passmark & Bench-Suite) |
+| 31 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-30 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
+| 32 | [IonDen/mlx-quant-fidelity](https://github.com/IonDen/mlx-quant-fidelity) | 4 | Python | 2026-09-29 | Measure quantization quality loss on Apple Silicon MLX — KL divergence, top-token flip rate and perplexity delta for KV- |
+| 33 | [lehigh-university-libraries/htr](https://github.com/lehigh-university-libraries/htr) | 2 | Go | 2026-09-29 | Handwritten Text Recognition llm eval tool |
+| 34 | [VioletScar-Hui/sparkjury](https://github.com/VioletScar-Hui/sparkjury) | 2 | Python | 2026-09-29 | 给别人的 Agent 做体检的评测 Agent：本地三家族裁判打分、分歧交云端仲裁、badcase 聚类、证据卡片、pass^3 回归 \| 第三届 NVIDIA DGX Spark 黑客松 · 能工智人5X |
+| 35 | [fabio-barboza/logistic-platform](https://github.com/fabio-barboza/logistic-platform) | 0 | Java | 2026-09-28 | Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring Sec |
 | 36 | [logicrw/ask-jev](https://github.com/logicrw/ask-jev) | 1 | Python | 2026-09-28 | Ultra-fast, fail-open advisory decisions and verbatim extractive reading view for AI coding agents and CLI pipelines |
 | 37 | [zahid23saim/llm-eval-harness](https://github.com/zahid23saim/llm-eval-harness) | 1 | Python | 2026-09-28 | A tiny, dependency-free Python harness for scoring LLM answers against a gold set (exact / contains / numeric matching,  |
 | 38 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7491 | Python | 2026-09-28 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
