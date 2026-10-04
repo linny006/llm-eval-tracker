@@ -31,9 +31,18 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25684,
+    "stars": 25685,
     "updated_at": "2026-10-03T23:59:37Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11697,
+    "updated_at": "2026-10-03T23:44:26Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs",
@@ -43,15 +52,6 @@
     "stars": 6,
     "updated_at": "2026-10-03T22:35:00Z",
     "url": "https://github.com/instax-dutta/sysone-bench"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11696,
-    "updated_at": "2026-10-03T23:44:26Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
