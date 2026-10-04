@@ -1,21 +1,21 @@
 [
   {
-    "description": "Pazaryeri k\u00e2r hesaplar\u0131 i\u00e7in Python/Django test ve kalite g\u00fcvence projesi",
-    "id": "nowackk-cp/karkontrol",
-    "language": "Python",
-    "name": "nowackk-cp/karkontrol",
-    "stars": 0,
-    "updated_at": "2026-10-04T02:43:45Z",
-    "url": "https://github.com/nowackk-cp/karkontrol"
-  },
-  {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
     "id": "jeremylongshore/j-rig-skill-binary-eval",
     "language": "TypeScript",
     "name": "jeremylongshore/j-rig-skill-binary-eval",
     "stars": 3,
-    "updated_at": "2026-10-04T02:41:41Z",
+    "updated_at": "2026-10-04T02:57:23Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
+  },
+  {
+    "description": "Pazaryeri k\u00e2r hesaplar\u0131 i\u00e7in Python/Django test ve kalite g\u00fcvence projesi",
+    "id": "nowackk-cp/karkontrol",
+    "language": "Python",
+    "name": "nowackk-cp/karkontrol",
+    "stars": 0,
+    "updated_at": "2026-10-04T02:45:32Z",
+    "url": "https://github.com/nowackk-cp/karkontrol"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
