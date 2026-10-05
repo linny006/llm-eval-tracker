@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-05 10:00 UTC
+> ⏰ Last updated: 2026-10-05 10:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -60,7 +60,7 @@ expired items removed — so you can rely on what you see being current.
 | 16 | [jatinsihag2345/llm-eval-toolkit](https://github.com/jatinsihag2345/llm-eval-toolkit) | 1 | Python | 2026-10-04 | Modular Python SDK for deterministic grading, AST semantic diffing, sandboxed execution, and fuzzy scoring of LLM output |
 | 17 | [amareshhebbar/gitgrounded](https://github.com/amareshhebbar/gitgrounded) | 0 | Python | 2026-10-05 | Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old  |
 | 18 | [Icaro0310/devin-evals](https://github.com/Icaro0310/devin-evals) | 1 | Python | 2026-10-04 | Deterministic eval harness: replay recorded Devin sessions against rubric graders |
-| 19 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11709 | Python | 2026-10-04 | AI Observability & Evaluation |
+| 19 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11710 | Python | 2026-10-04 | AI Observability & Evaluation |
 | 20 | [instax-dutta/sysone-bench](https://github.com/instax-dutta/sysone-bench) | 6 | Python | 2026-10-04 | First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs |
 | 21 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 28 | TypeScript | 2026-10-04 | Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct |
 | 22 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 1 | — | 2026-10-04 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
@@ -85,7 +85,7 @@ expired items removed — so you can rely on what you see being current.
 | 41 | [fabio-barboza/logistic-platform](https://github.com/fabio-barboza/logistic-platform) | 0 | Java | 2026-09-28 | Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring Sec |
 | 42 | [logicrw/ask-jev](https://github.com/logicrw/ask-jev) | 1 | Python | 2026-09-28 | Ultra-fast, fail-open advisory decisions and verbatim extractive reading view for AI coding agents and CLI pipelines |
 | 43 | [zahid23saim/llm-eval-harness](https://github.com/zahid23saim/llm-eval-harness) | 1 | Python | 2026-09-28 | A tiny, dependency-free Python harness for scoring LLM answers against a gold set (exact / contains / numeric matching,  |
-| 44 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7492 | Python | 2026-09-28 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
+| 44 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7493 | Python | 2026-09-28 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
 | 45 | [ramenprotokol/hallucination-hunter](https://github.com/ramenprotokol/hallucination-hunter) | 0 | Python | 2026-09-28 | Detect & score LLM hallucinations by groundedness — labeled data, precision/recall/F1, runs offline with no API key. Plu |
 | 46 | [ozlar34/job-match-radar](https://github.com/ozlar34/job-match-radar) | 1 | Python | 2026-09-27 | Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai |
 | 47 | [lyr-ai/agentseism](https://github.com/lyr-ai/agentseism) | 2 | Python | 2026-09-27 | CI for stochastic AI agents |
