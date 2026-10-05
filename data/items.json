@@ -1,11 +1,20 @@
 [
   {
+    "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
+    "id": "IcodeNet/eval-dashboards",
+    "language": "TypeScript",
+    "name": "IcodeNet/eval-dashboards",
+    "stars": 1,
+    "updated_at": "2026-10-05T07:11:24Z",
+    "url": "https://github.com/IcodeNet/eval-dashboards"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25712,
-    "updated_at": "2026-10-05T07:00:19Z",
+    "updated_at": "2026-10-05T07:08:22Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -376,15 +385,6 @@
     "stars": 7492,
     "updated_at": "2026-09-28T08:23:57Z",
     "url": "https://github.com/open-compass/opencompass"
-  },
-  {
-    "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
-    "id": "IcodeNet/eval-dashboards",
-    "language": "TypeScript",
-    "name": "IcodeNet/eval-dashboards",
-    "stars": 1,
-    "updated_at": "2026-10-05T06:35:31Z",
-    "url": "https://github.com/IcodeNet/eval-dashboards"
   },
   {
     "description": "Detect & score LLM hallucinations by groundedness \u2014 labeled data, precision/recall/F1, runs offline with no API key. Plu",
