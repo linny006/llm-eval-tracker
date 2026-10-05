@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-05 01:00 UTC
+> ⏰ Last updated: 2026-10-05 01:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -55,7 +55,7 @@ expired items removed — so you can rely on what you see being current.
 | 11 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 28 | TypeScript | 2026-10-04 | Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct |
 | 12 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 1 | — | 2026-10-04 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 13 | [nowackk-cp/karkontrol](https://github.com/nowackk-cp/karkontrol) | 0 | Python | 2026-10-05 | Pazaryeri kâr hesapları için Python/Django test ve kalite güvence projesi |
-| 14 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 3 | TypeScript | 2026-10-04 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
+| 14 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 3 | TypeScript | 2026-10-05 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 15 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-10-03 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
 | 16 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-10-03 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 17 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-10-02 | Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu |
@@ -72,7 +72,7 @@ expired items removed — so you can rely on what you see being current.
 | 28 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-01 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
 | 29 | [gopals09920/llm-bias-toxicity-audit](https://github.com/gopals09920/llm-bias-toxicity-audit) | 0 | — | 2026-10-01 | Automated LLM bias and toxicity auditing pipeline with flexible scoring and Streamlit UI. |
 | 30 | [homayoun-safarpour/homayoun-safarpour](https://github.com/homayoun-safarpour/homayoun-safarpour) | 0 | — | 2026-09-30 | judge-drift-sentinel · judge-reliability-kit · agent-loop-engine · trace-gate · ai-eng-skill-range |
-| 31 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 360 | TypeScript | 2026-10-04 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 31 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 360 | TypeScript | 2026-10-05 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 32 | [therealfullmetal55555/llm-eval-harness](https://github.com/therealfullmetal55555/llm-eval-harness) | 1 | Python | 2026-09-30 | Automated LLM Evaluation Harness (Superseded by Passmark & Bench-Suite) |
 | 33 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-30 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
 | 34 | [IonDen/mlx-quant-fidelity](https://github.com/IonDen/mlx-quant-fidelity) | 4 | Python | 2026-09-29 | Measure quantization quality loss on Apple Silicon MLX — KL divergence, top-token flip rate and perplexity delta for KV- |
