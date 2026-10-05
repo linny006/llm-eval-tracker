@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-05 09:30 UTC
+> ⏰ Last updated: 2026-10-05 09:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,7 +42,7 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25713 | TypeScript | 2026-10-05 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25714 | TypeScript | 2026-10-05 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 2 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-10-05 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
 | 3 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-10-05 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 4 | [SFX-TECH/sfx-lead-intelligence](https://github.com/SFX-TECH/sfx-lead-intelligence) | 1 | — | 2026-10-05 | SFX Lead Intelligence Command Center: local-LLM hub plus lead dashboard, quality lifted 61 to 99 percent via a ground-tr |
@@ -58,7 +58,7 @@ expired items removed — so you can rely on what you see being current.
 | 14 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 3 | TypeScript | 2026-10-05 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 15 | [jatinsihag2345/awesome-ai-evaluations](https://github.com/jatinsihag2345/awesome-ai-evaluations) | 1 | — | 2026-10-04 | A curated list of frontier AI evaluation benchmarks, long-horizon agent test suites, terminal sandboxes, RLVR math verif |
 | 16 | [jatinsihag2345/llm-eval-toolkit](https://github.com/jatinsihag2345/llm-eval-toolkit) | 1 | Python | 2026-10-04 | Modular Python SDK for deterministic grading, AST semantic diffing, sandboxed execution, and fuzzy scoring of LLM output |
-| 17 | [amareshhebbar/gitgrounded](https://github.com/amareshhebbar/gitgrounded) | 0 | Python | 2026-10-04 | Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old  |
+| 17 | [amareshhebbar/gitgrounded](https://github.com/amareshhebbar/gitgrounded) | 0 | Python | 2026-10-05 | Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old  |
 | 18 | [Icaro0310/devin-evals](https://github.com/Icaro0310/devin-evals) | 1 | Python | 2026-10-04 | Deterministic eval harness: replay recorded Devin sessions against rubric graders |
 | 19 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11709 | Python | 2026-10-04 | AI Observability & Evaluation |
 | 20 | [instax-dutta/sysone-bench](https://github.com/instax-dutta/sysone-bench) | 6 | Python | 2026-10-04 | First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs |
