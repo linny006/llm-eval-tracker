@@ -1,10 +1,19 @@
 [
   {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3589,
+    "updated_at": "2026-10-05T13:44:34Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25718,
+    "stars": 25720,
     "updated_at": "2026-10-05T13:27:41Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -167,7 +176,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11713,
-    "updated_at": "2026-10-04T14:38:21Z",
+    "updated_at": "2026-10-05T13:43:41Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -216,15 +225,6 @@
     "url": "https://github.com/ChelseaKR/sprout"
   },
   {
-    "description": "Eval harness that audits agent trajectories for verification, not just pass/fail \u2014 lucky-pass detection on a hardened ex",
-    "id": "empire-mind/honestbench",
-    "language": "Python",
-    "name": "empire-mind/honestbench",
-    "stars": 0,
-    "updated_at": "2026-10-04T05:26:25Z",
-    "url": "https://github.com/empire-mind/honestbench"
-  },
-  {
     "description": "Route each ADK request to the right Gemini tier with Laya on a CPU-only container (Cloud Run), plus an eval scored by co",
     "id": "derrickqin/google-adk-laya-router",
     "language": "Python",
@@ -232,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-10-02T12:54:33Z",
     "url": "https://github.com/derrickqin/google-adk-laya-router"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3589,
-    "updated_at": "2026-10-05T07:34:23Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "pip install gauntlet-evals \u00b7 v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against",
@@ -448,5 +439,14 @@
     "stars": 0,
     "updated_at": "2026-09-25T08:31:37Z",
     "url": "https://github.com/christianmacion/judge-harness"
+  },
+  {
+    "description": "Five local QA judges that review B2B and B2C customer-support replies, catch the risky parts, and explain what to fix. ",
+    "id": "gititya/support-quality-agency",
+    "language": "Python",
+    "name": "gititya/support-quality-agency",
+    "stars": 0,
+    "updated_at": "2026-09-25T07:39:05Z",
+    "url": "https://github.com/gititya/support-quality-agency"
   }
 ]
