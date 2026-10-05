@@ -1,11 +1,20 @@
 [
   {
+    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
+    "id": "saddled-panicattack529/idea-evaluation-pipeline",
+    "language": "\u2014",
+    "name": "saddled-panicattack529/idea-evaluation-pipeline",
+    "stars": 0,
+    "updated_at": "2026-10-05T21:58:42Z",
+    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-10-05T21:36:28Z",
+    "updated_at": "2026-10-05T21:54:00Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11716,
-    "updated_at": "2026-10-05T21:28:12Z",
+    "updated_at": "2026-10-05T21:56:08Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -36,15 +45,6 @@
     "url": "https://github.com/Striveworks/valor"
   },
   {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-10-05T20:08:51Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
@@ -58,7 +58,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25728,
+    "stars": 25729,
     "updated_at": "2026-10-05T19:39:53Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
