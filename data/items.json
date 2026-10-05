@@ -1,21 +1,21 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25708,
+    "updated_at": "2026-10-05T01:55:11Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Pazaryeri k\u00e2r hesaplar\u0131 i\u00e7in Python/Django test ve kalite g\u00fcvence projesi",
     "id": "nowackk-cp/karkontrol",
     "language": "Python",
     "name": "nowackk-cp/karkontrol",
     "stars": 0,
-    "updated_at": "2026-10-05T01:43:09Z",
+    "updated_at": "2026-10-05T01:57:47Z",
     "url": "https://github.com/nowackk-cp/karkontrol"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25707,
-    "updated_at": "2026-10-05T01:44:49Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
