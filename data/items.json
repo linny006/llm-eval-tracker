@@ -1,5 +1,41 @@
 [
   {
+    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
+    "id": "HaileyStorm/Creative-Writing-Rubrics",
+    "language": "Python",
+    "name": "HaileyStorm/Creative-Writing-Rubrics",
+    "stars": 0,
+    "updated_at": "2026-10-05T20:39:46Z",
+    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
+    "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
+    "id": "Icaro0310/devin-evals",
+    "language": "Python",
+    "name": "Icaro0310/devin-evals",
+    "stars": 1,
+    "updated_at": "2026-10-05T20:37:20Z",
+    "url": "https://github.com/Icaro0310/devin-evals"
+  },
+  {
+    "description": "Valor is a lightweight, numpy-based library designed for fast and seamless evaluation of machine learning models.",
+    "id": "Striveworks/valor",
+    "language": "Python",
+    "name": "Striveworks/valor",
+    "stars": 40,
+    "updated_at": "2026-10-05T20:29:19Z",
+    "url": "https://github.com/Striveworks/valor"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11716,
+    "updated_at": "2026-10-05T20:39:05Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
     "id": "saddled-panicattack529/idea-evaluation-pipeline",
     "language": "\u2014",
@@ -9,15 +45,6 @@
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
-    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
-    "id": "HaileyStorm/Creative-Writing-Rubrics",
-    "language": "Python",
-    "name": "HaileyStorm/Creative-Writing-Rubrics",
-    "stars": 0,
-    "updated_at": "2026-10-05T20:07:34Z",
-    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
@@ -25,15 +52,6 @@
     "stars": 3590,
     "updated_at": "2026-10-05T19:42:58Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11715,
-    "updated_at": "2026-10-05T20:13:06Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -50,17 +68,8 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 359,
-    "updated_at": "2026-10-05T20:12:36Z",
+    "updated_at": "2026-10-05T20:22:59Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
-    "id": "Icaro0310/devin-evals",
-    "language": "Python",
-    "name": "Icaro0310/devin-evals",
-    "stars": 1,
-    "updated_at": "2026-10-05T17:33:34Z",
-    "url": "https://github.com/Icaro0310/devin-evals"
   },
   {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-25T08:31:37Z",
     "url": "https://github.com/christianmacion/judge-harness"
-  },
-  {
-    "description": "Five local QA judges that review B2B and B2C customer-support replies, catch the risky parts, and explain what to fix. ",
-    "id": "gititya/support-quality-agency",
-    "language": "Python",
-    "name": "gititya/support-quality-agency",
-    "stars": 0,
-    "updated_at": "2026-09-25T07:39:05Z",
-    "url": "https://github.com/gititya/support-quality-agency"
   }
 ]
