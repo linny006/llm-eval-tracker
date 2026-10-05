@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25717,
+    "updated_at": "2026-10-05T12:27:51Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Personal site with two interactive LLM eval harness demos",
     "id": "AndyZhang666666/AndyZhang666666.github.io",
     "language": "CSS",
@@ -7,15 +16,6 @@
     "stars": 0,
     "updated_at": "2026-10-05T12:09:07Z",
     "url": "https://github.com/AndyZhang666666/AndyZhang666666.github.io"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25717,
-    "updated_at": "2026-10-05T12:03:05Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
