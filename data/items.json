@@ -1,5 +1,23 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25711,
+    "updated_at": "2026-10-05T08:11:27Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 359,
+    "updated_at": "2026-10-05T08:07:51Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "Pazaryeri k\u00e2r hesaplar\u0131 i\u00e7in Python/Django test ve kalite g\u00fcvence projesi",
     "id": "nowackk-cp/karkontrol",
     "language": "Python",
@@ -13,7 +31,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5862,
+    "stars": 5861,
     "updated_at": "2026-10-05T07:36:26Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
@@ -25,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-10-05T07:11:24Z",
     "url": "https://github.com/IcodeNet/eval-dashboards"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25712,
-    "updated_at": "2026-10-05T07:56:35Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Personal site with two interactive LLM eval harness demos",
@@ -295,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T22:10:21Z",
     "url": "https://github.com/homayoun-safarpour/homayoun-safarpour"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 360,
-    "updated_at": "2026-10-05T07:35:30Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Automated LLM Evaluation Harness (Superseded by Passmark & Bench-Suite)",
