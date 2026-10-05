@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25718,
+    "updated_at": "2026-10-05T12:56:36Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
     "id": "Icaro0310/devin-evals",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 1,
     "updated_at": "2026-10-05T12:37:32Z",
     "url": "https://github.com/Icaro0310/devin-evals"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25718,
-    "updated_at": "2026-10-05T12:27:51Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Personal site with two interactive LLM eval harness demos",
