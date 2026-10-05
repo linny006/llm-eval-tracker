@@ -1,5 +1,23 @@
 [
   {
+    "description": "Pazaryeri k\u00e2r hesaplar\u0131 i\u00e7in Python/Django test ve kalite g\u00fcvence projesi",
+    "id": "nowackk-cp/karkontrol",
+    "language": "Python",
+    "name": "nowackk-cp/karkontrol",
+    "stars": 0,
+    "updated_at": "2026-10-05T06:12:06Z",
+    "url": "https://github.com/nowackk-cp/karkontrol"
+  },
+  {
+    "description": "Personal site with two interactive LLM eval harness demos",
+    "id": "AndyZhang666666/AndyZhang666666.github.io",
+    "language": "CSS",
+    "name": "AndyZhang666666/AndyZhang666666.github.io",
+    "stars": 0,
+    "updated_at": "2026-10-05T06:04:56Z",
+    "url": "https://github.com/AndyZhang666666/AndyZhang666666.github.io"
+  },
+  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -54,15 +72,6 @@
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
-    "description": "Pazaryeri k\u00e2r hesaplar\u0131 i\u00e7in Python/Django test ve kalite g\u00fcvence projesi",
-    "id": "nowackk-cp/karkontrol",
-    "language": "Python",
-    "name": "nowackk-cp/karkontrol",
-    "stars": 0,
-    "updated_at": "2026-10-05T05:59:10Z",
-    "url": "https://github.com/nowackk-cp/karkontrol"
-  },
-  {
     "description": "A curated list of frontier AI evaluation benchmarks, long-horizon agent test suites, terminal sandboxes, RLVR math verif",
     "id": "jatinsihag2345/awesome-ai-evaluations",
     "language": "\u2014",
@@ -103,7 +112,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11708,
+    "stars": 11709,
     "updated_at": "2026-10-04T14:38:21Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-25T07:39:05Z",
     "url": "https://github.com/gititya/support-quality-agency"
-  },
-  {
-    "description": "Independent CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep, OpenViking); publishes raw eval logs.",
-    "id": "RudrenduPaul/memtrust",
-    "language": "Python",
-    "name": "RudrenduPaul/memtrust",
-    "stars": 2,
-    "updated_at": "2026-09-25T04:35:49Z",
-    "url": "https://github.com/RudrenduPaul/memtrust"
   }
 ]
