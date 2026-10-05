@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3589,
-    "updated_at": "2026-10-05T14:27:05Z",
+    "updated_at": "2026-10-05T14:33:50Z",
     "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11714,
+    "updated_at": "2026-10-05T14:21:32Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -169,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-05T09:31:26Z",
     "url": "https://github.com/amareshhebbar/gitgrounded"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11713,
-    "updated_at": "2026-10-05T14:21:32Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs",
