@@ -1,11 +1,20 @@
 [
   {
+    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
+    "id": "HaileyStorm/Creative-Writing-Rubrics",
+    "language": "Python",
+    "name": "HaileyStorm/Creative-Writing-Rubrics",
+    "stars": 0,
+    "updated_at": "2026-10-05T02:51:21Z",
+    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25711,
-    "updated_at": "2026-10-05T02:45:19Z",
+    "updated_at": "2026-10-05T02:47:16Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -14,17 +23,8 @@
     "language": "TypeScript",
     "name": "jeremylongshore/j-rig-skill-binary-eval",
     "stars": 3,
-    "updated_at": "2026-10-05T02:41:20Z",
+    "updated_at": "2026-10-05T02:53:35Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
-  },
-  {
-    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
-    "id": "HaileyStorm/Creative-Writing-Rubrics",
-    "language": "Python",
-    "name": "HaileyStorm/Creative-Writing-Rubrics",
-    "stars": 0,
-    "updated_at": "2026-10-05T02:10:59Z",
-    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
     "description": "Pazaryeri k\u00e2r hesaplar\u0131 i\u00e7in Python/Django test ve kalite g\u00fcvence projesi",
@@ -203,7 +203,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5861,
-    "updated_at": "2026-10-02T03:55:04Z",
+    "updated_at": "2026-10-05T03:00:12Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
