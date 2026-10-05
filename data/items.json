@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5862,
+    "updated_at": "2026-10-05T07:36:26Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
     "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
     "id": "IcodeNet/eval-dashboards",
     "language": "TypeScript",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25712,
-    "updated_at": "2026-10-05T07:24:12Z",
+    "updated_at": "2026-10-05T07:44:38Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "nowackk-cp/karkontrol",
     "stars": 0,
-    "updated_at": "2026-10-05T06:17:18Z",
+    "updated_at": "2026-10-05T07:41:58Z",
     "url": "https://github.com/nowackk-cp/karkontrol"
   },
   {
@@ -70,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-10-05T04:14:53Z",
     "url": "https://github.com/nikolas-sapa/sigeval"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5862,
-    "updated_at": "2026-10-05T03:04:42Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
@@ -221,7 +221,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3589,
-    "updated_at": "2026-10-04T04:03:52Z",
+    "updated_at": "2026-10-05T07:34:23Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -302,7 +302,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-10-05T01:14:22Z",
+    "updated_at": "2026-10-05T07:35:30Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
