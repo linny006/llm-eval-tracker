@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-05 20:41 UTC
+> ⏰ Last updated: 2026-10-05 21:10 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-10-05 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
-| 2 | [Icaro0310/devin-evals](https://github.com/Icaro0310/devin-evals) | 1 | Python | 2026-10-05 | Deterministic eval harness: replay recorded Devin sessions against rubric graders |
-| 3 | [Striveworks/valor](https://github.com/Striveworks/valor) | 40 | Python | 2026-10-05 | Valor is a lightweight, numpy-based library designed for fast and seamless evaluation of machine learning models. |
-| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11716 | Python | 2026-10-05 | AI Observability & Evaluation |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11717 | Python | 2026-10-05 | AI Observability & Evaluation |
+| 2 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-10-05 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
+| 3 | [Icaro0310/devin-evals](https://github.com/Icaro0310/devin-evals) | 1 | Python | 2026-10-05 | Deterministic eval harness: replay recorded Devin sessions against rubric graders |
+| 4 | [Striveworks/valor](https://github.com/Striveworks/valor) | 40 | Python | 2026-10-05 | Valor is a lightweight, numpy-based library designed for fast and seamless evaluation of machine learning models. |
 | 5 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-10-05 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 6 | [truera/trulens](https://github.com/truera/trulens) | 3590 | Python | 2026-10-05 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 7 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25728 | TypeScript | 2026-10-05 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
