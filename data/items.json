@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5861,
+    "updated_at": "2026-10-06T08:51:15Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -7,6 +16,15 @@
     "stars": 0,
     "updated_at": "2026-10-06T08:40:00Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 360,
+    "updated_at": "2026-10-06T08:01:31Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -41,7 +59,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25738,
-    "updated_at": "2026-10-06T07:16:56Z",
+    "updated_at": "2026-10-06T08:46:38Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -108,15 +126,6 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 359,
-    "updated_at": "2026-10-06T08:01:31Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
     "description": "AI yazd\u0131, testler kan\u0131tlad\u0131: pazaryeri k\u00e2r motoru \u00b7 669 test \u00b7 %98,83 mutasyon skoru \u00b7 LLM eval 52/52",
     "id": "nowackk-cp/karkontrol",
     "language": "Python",
@@ -151,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-10-05T08:56:40Z",
     "url": "https://github.com/SFX-TECH/sfx-lead-intelligence"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5860,
-    "updated_at": "2026-10-06T08:43:37Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
