@@ -1,5 +1,14 @@
 [
   {
+    "description": "First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs",
+    "id": "instax-dutta/sysone-bench",
+    "language": "Python",
+    "name": "instax-dutta/sysone-bench",
+    "stars": 6,
+    "updated_at": "2026-10-06T21:34:49Z",
+    "url": "https://github.com/instax-dutta/sysone-bench"
+  },
+  {
     "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
     "id": "Icaro0310/devin-evals",
     "language": "Python",
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11733,
-    "updated_at": "2026-10-06T21:30:23Z",
+    "updated_at": "2026-10-06T21:33:50Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -79,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-10-06T15:30:03Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs",
-    "id": "instax-dutta/sysone-bench",
-    "language": "Python",
-    "name": "instax-dutta/sysone-bench",
-    "stars": 6,
-    "updated_at": "2026-10-06T13:05:31Z",
-    "url": "https://github.com/instax-dutta/sysone-bench"
   },
   {
     "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
