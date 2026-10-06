@@ -1,5 +1,14 @@
 [
   {
+    "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
+    "id": "Icaro0310/devin-evals",
+    "language": "Python",
+    "name": "Icaro0310/devin-evals",
+    "stars": 1,
+    "updated_at": "2026-10-06T12:28:55Z",
+    "url": "https://github.com/Icaro0310/devin-evals"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -16,6 +25,15 @@
     "stars": 0,
     "updated_at": "2026-10-06T11:21:26Z",
     "url": "https://github.com/lftherios/session-link"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11722,
+    "updated_at": "2026-10-06T11:16:21Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -126,15 +144,6 @@
     "url": "https://github.com/AndyZhang666666/AndyZhang666666.github.io"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11721,
-    "updated_at": "2026-10-06T11:16:21Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "AI yazd\u0131, testler kan\u0131tlad\u0131: pazaryeri k\u00e2r motoru \u00b7 669 test \u00b7 %98,83 mutasyon skoru \u00b7 LLM eval 52/52",
     "id": "nowackk-cp/karkontrol",
     "language": "Python",
@@ -142,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-05T23:36:23Z",
     "url": "https://github.com/nowackk-cp/karkontrol"
-  },
-  {
-    "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
-    "id": "Icaro0310/devin-evals",
-    "language": "Python",
-    "name": "Icaro0310/devin-evals",
-    "stars": 1,
-    "updated_at": "2026-10-05T20:37:20Z",
-    "url": "https://github.com/Icaro0310/devin-evals"
   },
   {
     "description": "Valor is a lightweight, numpy-based library designed for fast and seamless evaluation of machine learning models.",
