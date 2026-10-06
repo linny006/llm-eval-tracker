@@ -1,11 +1,29 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11733,
+    "updated_at": "2026-10-06T22:29:58Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Test AI customer service agents for confirmation-based PII disclosure.",
+    "id": "nxtaillc/disclosure-eval",
+    "language": "Python",
+    "name": "nxtaillc/disclosure-eval",
+    "stars": 0,
+    "updated_at": "2026-10-06T22:23:21Z",
+    "url": "https://github.com/nxtaillc/disclosure-eval"
+  },
+  {
     "description": "First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs",
     "id": "instax-dutta/sysone-bench",
     "language": "Python",
     "name": "instax-dutta/sysone-bench",
     "stars": 6,
-    "updated_at": "2026-10-06T22:09:02Z",
+    "updated_at": "2026-10-06T22:16:52Z",
     "url": "https://github.com/instax-dutta/sysone-bench"
   },
   {
@@ -36,15 +54,6 @@
     "url": "https://github.com/truera/trulens"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11733,
-    "updated_at": "2026-10-06T21:54:08Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Valor is a lightweight, numpy-based library designed for fast and seamless evaluation of machine learning models.",
     "id": "Striveworks/valor",
     "language": "Python",
@@ -58,7 +67,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25759,
+    "stars": 25760,
     "updated_at": "2026-10-06T19:41:13Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-25T17:48:24Z",
     "url": "https://github.com/senguptashubham/judge-calibration"
-  },
-  {
-    "description": "Autonomous code-repair ReAct agent powered by FastMCP, AST pre-validation, token-efficient diff patching, and a scored 1",
-    "id": "AyushCipher/Patch-Pilot",
-    "language": "Python",
-    "name": "AyushCipher/Patch-Pilot",
-    "stars": 0,
-    "updated_at": "2026-09-25T13:11:31Z",
-    "url": "https://github.com/AyushCipher/Patch-Pilot"
   }
 ]
