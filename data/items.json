@@ -1,5 +1,14 @@
 [
   {
+    "description": "First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs",
+    "id": "instax-dutta/sysone-bench",
+    "language": "Python",
+    "name": "instax-dutta/sysone-bench",
+    "stars": 6,
+    "updated_at": "2026-10-06T06:00:10Z",
+    "url": "https://github.com/instax-dutta/sysone-bench"
+  },
+  {
     "description": "Agricultural-advisory QA benchmark in 11 Indian languages \u2014 500 questions \u00d7 11, built from real Kisan Call Centre farmer",
     "id": "sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark",
     "language": "Python",
@@ -214,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-05T09:31:26Z",
     "url": "https://github.com/amareshhebbar/gitgrounded"
-  },
-  {
-    "description": "First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs",
-    "id": "instax-dutta/sysone-bench",
-    "language": "Python",
-    "name": "instax-dutta/sysone-bench",
-    "stars": 6,
-    "updated_at": "2026-10-04T12:05:55Z",
-    "url": "https://github.com/instax-dutta/sysone-bench"
   },
   {
     "description": "Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct",

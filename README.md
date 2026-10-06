@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-06 05:45 UTC
+> ⏰ Last updated: 2026-10-06 06:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,31 +42,31 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark](https://github.com/sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark) | 1 | Python | 2026-10-06 | Agricultural-advisory QA benchmark in 11 Indian languages — 500 questions × 11, built from real Kisan Call Centre farmer |
-| 2 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-10-06 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
-| 3 | [AndyZhang666666/AndyZhang666666.github.io](https://github.com/AndyZhang666666/AndyZhang666666.github.io) | 0 | CSS | 2026-10-06 | Personal site with two interactive LLM eval harness demos |
-| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25733 | TypeScript | 2026-10-06 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 5 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-06 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
-| 6 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-10-06 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
-| 7 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11719 | Python | 2026-10-06 | AI Observability & Evaluation |
-| 8 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-10-06 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 9 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 359 | TypeScript | 2026-10-06 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 10 | [crashlabsai/trojan-harbor](https://github.com/crashlabsai/trojan-harbor) | 0 | Python | 2026-10-06 | An indirect prompt injection evaluation suite for Harbor, with eight matched attack and clean task families and determin |
-| 11 | [nowackk-cp/karkontrol](https://github.com/nowackk-cp/karkontrol) | 0 | Python | 2026-10-05 | AI yazdı, testler kanıtladı: pazaryeri kâr motoru · 669 test · %98,83 mutasyon skoru · LLM eval 52/52 |
-| 12 | [Icaro0310/devin-evals](https://github.com/Icaro0310/devin-evals) | 1 | Python | 2026-10-05 | Deterministic eval harness: replay recorded Devin sessions against rubric graders |
-| 13 | [Striveworks/valor](https://github.com/Striveworks/valor) | 40 | Python | 2026-10-05 | Valor is a lightweight, numpy-based library designed for fast and seamless evaluation of machine learning models. |
-| 14 | [truera/trulens](https://github.com/truera/trulens) | 3590 | Python | 2026-10-06 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 15 | [SFX-TECH/sfx-lead-intelligence](https://github.com/SFX-TECH/sfx-lead-intelligence) | 1 | — | 2026-10-05 | SFX Lead Intelligence Command Center: local-LLM hub plus lead dashboard, quality lifted 61 to 99 percent via a ground-tr |
-| 16 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5860 | Python | 2026-10-06 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 17 | [IcodeNet/eval-dashboards](https://github.com/IcodeNet/eval-dashboards) | 1 | TypeScript | 2026-10-05 | Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style — bring y |
-| 18 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-10-05 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
-| 19 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-10-05 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
-| 20 | [nikolas-sapa/sigeval](https://github.com/nikolas-sapa/sigeval) | 2 | Python | 2026-10-05 | Statistically rigorous LLM evaluation for pytest — treats every eval as a proportion with a Wilson confidence interval,  |
-| 21 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 3 | TypeScript | 2026-10-05 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
-| 22 | [jatinsihag2345/awesome-ai-evaluations](https://github.com/jatinsihag2345/awesome-ai-evaluations) | 1 | — | 2026-10-04 | A curated list of frontier AI evaluation benchmarks, long-horizon agent test suites, terminal sandboxes, RLVR math verif |
-| 23 | [jatinsihag2345/llm-eval-toolkit](https://github.com/jatinsihag2345/llm-eval-toolkit) | 1 | Python | 2026-10-04 | Modular Python SDK for deterministic grading, AST semantic diffing, sandboxed execution, and fuzzy scoring of LLM output |
-| 24 | [amareshhebbar/gitgrounded](https://github.com/amareshhebbar/gitgrounded) | 0 | Python | 2026-10-05 | Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old  |
-| 25 | [instax-dutta/sysone-bench](https://github.com/instax-dutta/sysone-bench) | 6 | Python | 2026-10-04 | First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs |
+| 1 | [instax-dutta/sysone-bench](https://github.com/instax-dutta/sysone-bench) | 6 | Python | 2026-10-06 | First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs |
+| 2 | [sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark](https://github.com/sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark) | 1 | Python | 2026-10-06 | Agricultural-advisory QA benchmark in 11 Indian languages — 500 questions × 11, built from real Kisan Call Centre farmer |
+| 3 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-10-06 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
+| 4 | [AndyZhang666666/AndyZhang666666.github.io](https://github.com/AndyZhang666666/AndyZhang666666.github.io) | 0 | CSS | 2026-10-06 | Personal site with two interactive LLM eval harness demos |
+| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25733 | TypeScript | 2026-10-06 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 6 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-06 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
+| 7 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-10-06 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
+| 8 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11719 | Python | 2026-10-06 | AI Observability & Evaluation |
+| 9 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-10-06 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
+| 10 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 359 | TypeScript | 2026-10-06 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 11 | [crashlabsai/trojan-harbor](https://github.com/crashlabsai/trojan-harbor) | 0 | Python | 2026-10-06 | An indirect prompt injection evaluation suite for Harbor, with eight matched attack and clean task families and determin |
+| 12 | [nowackk-cp/karkontrol](https://github.com/nowackk-cp/karkontrol) | 0 | Python | 2026-10-05 | AI yazdı, testler kanıtladı: pazaryeri kâr motoru · 669 test · %98,83 mutasyon skoru · LLM eval 52/52 |
+| 13 | [Icaro0310/devin-evals](https://github.com/Icaro0310/devin-evals) | 1 | Python | 2026-10-05 | Deterministic eval harness: replay recorded Devin sessions against rubric graders |
+| 14 | [Striveworks/valor](https://github.com/Striveworks/valor) | 40 | Python | 2026-10-05 | Valor is a lightweight, numpy-based library designed for fast and seamless evaluation of machine learning models. |
+| 15 | [truera/trulens](https://github.com/truera/trulens) | 3590 | Python | 2026-10-06 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 16 | [SFX-TECH/sfx-lead-intelligence](https://github.com/SFX-TECH/sfx-lead-intelligence) | 1 | — | 2026-10-05 | SFX Lead Intelligence Command Center: local-LLM hub plus lead dashboard, quality lifted 61 to 99 percent via a ground-tr |
+| 17 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5860 | Python | 2026-10-06 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 18 | [IcodeNet/eval-dashboards](https://github.com/IcodeNet/eval-dashboards) | 1 | TypeScript | 2026-10-05 | Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style — bring y |
+| 19 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-10-05 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
+| 20 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-10-05 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
+| 21 | [nikolas-sapa/sigeval](https://github.com/nikolas-sapa/sigeval) | 2 | Python | 2026-10-05 | Statistically rigorous LLM evaluation for pytest — treats every eval as a proportion with a Wilson confidence interval,  |
+| 22 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 3 | TypeScript | 2026-10-05 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
+| 23 | [jatinsihag2345/awesome-ai-evaluations](https://github.com/jatinsihag2345/awesome-ai-evaluations) | 1 | — | 2026-10-04 | A curated list of frontier AI evaluation benchmarks, long-horizon agent test suites, terminal sandboxes, RLVR math verif |
+| 24 | [jatinsihag2345/llm-eval-toolkit](https://github.com/jatinsihag2345/llm-eval-toolkit) | 1 | Python | 2026-10-04 | Modular Python SDK for deterministic grading, AST semantic diffing, sandboxed execution, and fuzzy scoring of LLM output |
+| 25 | [amareshhebbar/gitgrounded](https://github.com/amareshhebbar/gitgrounded) | 0 | Python | 2026-10-05 | Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old  |
 | 26 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 28 | TypeScript | 2026-10-04 | Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct |
 | 27 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 1 | — | 2026-10-04 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 28 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-10-02 | Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu |
