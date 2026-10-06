@@ -1,11 +1,20 @@
 [
   {
+    "description": "Agricultural-advisory QA benchmark in 11 Indian languages \u2014 500 questions \u00d7 11, built from real Kisan Call Centre farmer",
+    "id": "sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark",
+    "language": "Python",
+    "name": "sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark",
+    "stars": 1,
+    "updated_at": "2026-10-06T05:27:35Z",
+    "url": "https://github.com/sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-10-06T05:14:25Z",
+    "updated_at": "2026-10-06T05:22:46Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
@@ -22,7 +31,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25734,
+    "stars": 25733,
     "updated_at": "2026-10-06T04:08:23Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -286,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-10-02T00:27:52Z",
     "url": "https://github.com/ChelseaKR/plumbline"
-  },
-  {
-    "description": "Agricultural-advisory QA benchmark in 11 Indian languages \u2014 500 questions \u00d7 11, built from real Kisan Call Centre farmer",
-    "id": "sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark",
-    "language": "Python",
-    "name": "sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark",
-    "stars": 1,
-    "updated_at": "2026-10-01T13:24:07Z",
-    "url": "https://github.com/sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark"
   },
   {
     "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
