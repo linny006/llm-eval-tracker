@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11717,
+    "updated_at": "2026-10-06T02:41:46Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -32,7 +41,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 359,
-    "updated_at": "2026-10-06T01:20:16Z",
+    "updated_at": "2026-10-06T02:31:51Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -43,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T01:08:59Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11716,
-    "updated_at": "2026-10-06T01:03:32Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "An indirect prompt injection evaluation suite for Harbor, with eight matched attack and clean task families and determin",
