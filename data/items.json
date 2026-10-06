@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-10-06T04:27:17Z",
+    "updated_at": "2026-10-06T05:14:25Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
+    "description": "Personal site with two interactive LLM eval harness demos",
+    "id": "AndyZhang666666/AndyZhang666666.github.io",
+    "language": "CSS",
+    "name": "AndyZhang666666/AndyZhang666666.github.io",
+    "stars": 0,
+    "updated_at": "2026-10-06T05:06:21Z",
+    "url": "https://github.com/AndyZhang666666/AndyZhang666666.github.io"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -106,15 +115,6 @@
     "stars": 3590,
     "updated_at": "2026-10-06T03:10:59Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Personal site with two interactive LLM eval harness demos",
-    "id": "AndyZhang666666/AndyZhang666666.github.io",
-    "language": "CSS",
-    "name": "AndyZhang666666/AndyZhang666666.github.io",
-    "stars": 0,
-    "updated_at": "2026-10-05T12:09:07Z",
-    "url": "https://github.com/AndyZhang666666/AndyZhang666666.github.io"
   },
   {
     "description": "SFX Lead Intelligence Command Center: local-LLM hub plus lead dashboard, quality lifted 61 to 99 percent via a ground-tr",
