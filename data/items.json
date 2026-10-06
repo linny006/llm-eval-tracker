@@ -1,10 +1,19 @@
 [
   {
+    "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
+    "id": "Icaro0310/devin-evals",
+    "language": "Python",
+    "name": "Icaro0310/devin-evals",
+    "stars": 1,
+    "updated_at": "2026-10-06T21:14:30Z",
+    "url": "https://github.com/Icaro0310/devin-evals"
+  },
+  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3590,
+    "stars": 3591,
     "updated_at": "2026-10-06T20:57:37Z",
     "url": "https://github.com/truera/trulens"
   },
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11733,
-    "updated_at": "2026-10-06T20:34:42Z",
+    "updated_at": "2026-10-06T21:13:16Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -59,7 +68,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-10-06T20:55:24Z",
+    "updated_at": "2026-10-06T21:05:16Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -70,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-10-06T15:30:03Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
-    "id": "Icaro0310/devin-evals",
-    "language": "Python",
-    "name": "Icaro0310/devin-evals",
-    "stars": 1,
-    "updated_at": "2026-10-06T15:06:25Z",
-    "url": "https://github.com/Icaro0310/devin-evals"
   },
   {
     "description": "First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs",
