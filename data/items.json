@@ -1,21 +1,12 @@
 [
   {
-    "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
-    "id": "Icaro0310/devin-evals",
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
     "language": "Python",
-    "name": "Icaro0310/devin-evals",
+    "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-10-06T15:06:25Z",
-    "url": "https://github.com/Icaro0310/devin-evals"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11725,
-    "updated_at": "2026-10-06T15:06:30Z",
-    "url": "https://github.com/Arize-ai/phoenix"
+    "updated_at": "2026-10-06T15:30:03Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
@@ -23,8 +14,26 @@
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-10-06T14:50:12Z",
+    "updated_at": "2026-10-06T15:27:58Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11728,
+    "updated_at": "2026-10-06T15:25:00Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
+    "id": "Icaro0310/devin-evals",
+    "language": "Python",
+    "name": "Icaro0310/devin-evals",
+    "stars": 1,
+    "updated_at": "2026-10-06T15:06:25Z",
+    "url": "https://github.com/Icaro0310/devin-evals"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -70,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T11:21:26Z",
     "url": "https://github.com/lftherios/session-link"
-  },
-  {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-06T10:40:12Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
