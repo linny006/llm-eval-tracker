@@ -27,12 +27,21 @@
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25739,
+    "updated_at": "2026-10-06T08:46:38Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-10-06T09:53:04Z",
+    "updated_at": "2026-10-06T10:14:34Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -61,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T07:20:24Z",
     "url": "https://github.com/crashlabsai/trojan-harbor"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25738,
-    "updated_at": "2026-10-06T08:46:38Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
