@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-06 22:00 UTC
+> ⏰ Last updated: 2026-10-06 22:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,13 +43,13 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [instax-dutta/sysone-bench](https://github.com/instax-dutta/sysone-bench) | 6 | Python | 2026-10-06 | First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs |
-| 2 | [Icaro0310/devin-evals](https://github.com/Icaro0310/devin-evals) | 1 | Python | 2026-10-06 | Deterministic eval harness: replay recorded Devin sessions against rubric graders |
-| 3 | [truera/trulens](https://github.com/truera/trulens) | 3591 | Python | 2026-10-06 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11733 | Python | 2026-10-06 | AI Observability & Evaluation |
-| 5 | [Striveworks/valor](https://github.com/Striveworks/valor) | 40 | Python | 2026-10-06 | Valor is a lightweight, numpy-based library designed for fast and seamless evaluation of machine learning models. |
-| 6 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25759 | TypeScript | 2026-10-06 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 7 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-10-06 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
-| 8 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 1 | — | 2026-10-06 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
+| 2 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 1 | — | 2026-10-06 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
+| 3 | [Icaro0310/devin-evals](https://github.com/Icaro0310/devin-evals) | 1 | Python | 2026-10-06 | Deterministic eval harness: replay recorded Devin sessions against rubric graders |
+| 4 | [truera/trulens](https://github.com/truera/trulens) | 3591 | Python | 2026-10-06 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 5 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11733 | Python | 2026-10-06 | AI Observability & Evaluation |
+| 6 | [Striveworks/valor](https://github.com/Striveworks/valor) | 40 | Python | 2026-10-06 | Valor is a lightweight, numpy-based library designed for fast and seamless evaluation of machine learning models. |
+| 7 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25759 | TypeScript | 2026-10-06 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 8 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-10-06 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
 | 9 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 360 | TypeScript | 2026-10-06 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 10 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-06 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
 | 11 | [lftherios/session-link](https://github.com/lftherios/session-link) | 0 | Go | 2026-10-06 | A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit. |
