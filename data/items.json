@@ -1,11 +1,29 @@
 [
   {
+    "description": "An indirect prompt injection evaluation suite for Harbor, with eight matched attack and clean task families and determin",
+    "id": "crashlabsai/trojan-harbor",
+    "language": "Python",
+    "name": "crashlabsai/trojan-harbor",
+    "stars": 0,
+    "updated_at": "2026-10-06T00:57:28Z",
+    "url": "https://github.com/crashlabsai/trojan-harbor"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11716,
+    "updated_at": "2026-10-06T00:48:21Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25730,
-    "updated_at": "2026-10-06T00:44:37Z",
+    "updated_at": "2026-10-06T00:58:27Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -16,24 +34,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T00:42:51Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11716,
-    "updated_at": "2026-10-06T00:35:12Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "An indirect prompt injection evaluation suite for Harbor, with eight matched attack and clean task families and determin",
-    "id": "crashlabsai/trojan-harbor",
-    "language": "Python",
-    "name": "crashlabsai/trojan-harbor",
-    "stars": 0,
-    "updated_at": "2026-10-06T00:19:30Z",
-    "url": "https://github.com/crashlabsai/trojan-harbor"
   },
   {
     "description": "AI yazd\u0131, testler kan\u0131tlad\u0131: pazaryeri k\u00e2r motoru \u00b7 669 test \u00b7 %98,83 mutasyon skoru \u00b7 LLM eval 52/52",
