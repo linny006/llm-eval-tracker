@@ -1,11 +1,20 @@
 [
   {
+    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
+    "id": "HaileyStorm/Creative-Writing-Rubrics",
+    "language": "Python",
+    "name": "HaileyStorm/Creative-Writing-Rubrics",
+    "stars": 0,
+    "updated_at": "2026-10-06T18:23:54Z",
+    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11732,
-    "updated_at": "2026-10-06T18:14:04Z",
+    "updated_at": "2026-10-06T18:22:43Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -32,7 +41,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-10-06T17:27:58Z",
+    "updated_at": "2026-10-06T18:22:12Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -43,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-10-06T15:30:03Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
-    "id": "HaileyStorm/Creative-Writing-Rubrics",
-    "language": "Python",
-    "name": "HaileyStorm/Creative-Writing-Rubrics",
-    "stars": 0,
-    "updated_at": "2026-10-06T15:27:58Z",
-    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
     "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
