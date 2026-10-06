@@ -1,11 +1,20 @@
 [
   {
+    "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
+    "id": "Icaro0310/devin-evals",
+    "language": "Python",
+    "name": "Icaro0310/devin-evals",
+    "stars": 1,
+    "updated_at": "2026-10-06T15:06:25Z",
+    "url": "https://github.com/Icaro0310/devin-evals"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11725,
-    "updated_at": "2026-10-06T14:57:17Z",
+    "updated_at": "2026-10-06T15:06:30Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -16,15 +25,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T14:50:12Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
-    "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
-    "id": "Icaro0310/devin-evals",
-    "language": "Python",
-    "name": "Icaro0310/devin-evals",
-    "stars": 1,
-    "updated_at": "2026-10-06T14:46:42Z",
-    "url": "https://github.com/Icaro0310/devin-evals"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
