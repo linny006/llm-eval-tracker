@@ -1,5 +1,14 @@
 [
   {
+    "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
+    "id": "lftherios/session-link",
+    "language": "Go",
+    "name": "lftherios/session-link",
+    "stars": 0,
+    "updated_at": "2026-10-06T11:21:26Z",
+    "url": "https://github.com/lftherios/session-link"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T11:09:40Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
-    "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
-    "id": "lftherios/session-link",
-    "language": "Go",
-    "name": "lftherios/session-link",
-    "stars": 0,
-    "updated_at": "2026-10-06T11:03:25Z",
-    "url": "https://github.com/lftherios/session-link"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -41,7 +41,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-10-06T10:27:01Z",
+    "updated_at": "2026-10-06T11:28:16Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -131,7 +131,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11721,
-    "updated_at": "2026-10-06T03:08:07Z",
+    "updated_at": "2026-10-06T11:16:21Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
