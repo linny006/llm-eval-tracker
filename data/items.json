@@ -1,21 +1,39 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
     "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11743,
-    "updated_at": "2026-10-07T16:22:32Z",
-    "url": "https://github.com/Arize-ai/phoenix"
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-07T17:14:22Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
+    "id": "Icaro0310/devin-evals",
+    "language": "Python",
+    "name": "Icaro0310/devin-evals",
+    "stars": 1,
+    "updated_at": "2026-10-07T16:51:01Z",
+    "url": "https://github.com/Icaro0310/devin-evals"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25790,
-    "updated_at": "2026-10-07T16:11:19Z",
+    "stars": 25791,
+    "updated_at": "2026-10-07T16:50:47Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11743,
+    "updated_at": "2026-10-07T17:08:38Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
@@ -23,7 +41,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-10-07T16:10:28Z",
+    "updated_at": "2026-10-07T16:51:15Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -81,15 +99,6 @@
     "url": "https://github.com/lftherios/session-link"
   },
   {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-07T13:02:46Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -133,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T22:23:21Z",
     "url": "https://github.com/nxtaillc/disclosure-eval"
-  },
-  {
-    "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
-    "id": "Icaro0310/devin-evals",
-    "language": "Python",
-    "name": "Icaro0310/devin-evals",
-    "stars": 1,
-    "updated_at": "2026-10-07T16:44:34Z",
-    "url": "https://github.com/Icaro0310/devin-evals"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
