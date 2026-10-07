@@ -1,10 +1,19 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11743,
+    "updated_at": "2026-10-07T16:22:32Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25789,
+    "stars": 25790,
     "updated_at": "2026-10-07T16:11:19Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -34,15 +43,6 @@
     "stars": 28,
     "updated_at": "2026-10-07T16:22:11Z",
     "url": "https://github.com/sx4im/skillcheck"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11742,
-    "updated_at": "2026-10-07T16:22:32Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
@@ -140,7 +140,7 @@
     "language": "Python",
     "name": "Icaro0310/devin-evals",
     "stars": 1,
-    "updated_at": "2026-10-07T15:45:59Z",
+    "updated_at": "2026-10-07T16:44:34Z",
     "url": "https://github.com/Icaro0310/devin-evals"
   },
   {
