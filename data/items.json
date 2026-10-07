@@ -5,8 +5,26 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-10-07T15:20:42Z",
+    "updated_at": "2026-10-07T15:42:10Z",
     "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
+    "description": "Blind, reproducible benchmark for production phone voice agents. Measures barge-in latency, false-stop rate and the late",
+    "id": "arunash/earshot",
+    "language": "Python",
+    "name": "arunash/earshot",
+    "stars": 0,
+    "updated_at": "2026-10-07T15:37:07Z",
+    "url": "https://github.com/arunash/earshot"
+  },
+  {
+    "description": "Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct",
+    "id": "sx4im/skillcheck",
+    "language": "TypeScript",
+    "name": "sx4im/skillcheck",
+    "stars": 28,
+    "updated_at": "2026-10-07T15:42:07Z",
+    "url": "https://github.com/sx4im/skillcheck"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -261,15 +279,6 @@
     "url": "https://github.com/amareshhebbar/gitgrounded"
   },
   {
-    "description": "Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct",
-    "id": "sx4im/skillcheck",
-    "language": "TypeScript",
-    "name": "sx4im/skillcheck",
-    "stars": 28,
-    "updated_at": "2026-10-06T16:46:54Z",
-    "url": "https://github.com/sx4im/skillcheck"
-  },
-  {
     "description": "Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu",
     "id": "ChelseaKR/fare-policy-assistant",
     "language": "HTML",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-27T22:33:18Z",
     "url": "https://github.com/ozlar34/job-match-radar"
-  },
-  {
-    "description": "CI for stochastic AI agents",
-    "id": "lyr-ai/agentseism",
-    "language": "Python",
-    "name": "lyr-ai/agentseism",
-    "stars": 2,
-    "updated_at": "2026-09-27T05:45:40Z",
-    "url": "https://github.com/lyr-ai/agentseism"
   }
 ]
