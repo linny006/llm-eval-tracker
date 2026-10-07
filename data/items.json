@@ -1,11 +1,29 @@
 [
   {
+    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
+    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "language": "\u2014",
+    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "stars": 0,
+    "updated_at": "2026-10-07T12:53:16Z",
+    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
+  },
+  {
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-10-07T12:52:43Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-10-07T12:38:14Z",
+    "updated_at": "2026-10-07T12:54:20Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -13,7 +31,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25783,
+    "stars": 25784,
     "updated_at": "2026-10-07T11:26:14Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -25,24 +43,6 @@
     "stars": 5869,
     "updated_at": "2026-10-07T09:58:45Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-10-07T09:46:43Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
-    "id": "bhavya7995/AI_governance",
-    "language": "PowerShell",
-    "name": "bhavya7995/AI_governance",
-    "stars": 1,
-    "updated_at": "2026-10-07T09:46:14Z",
-    "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
     "description": "First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs",
