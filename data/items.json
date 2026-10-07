@@ -1,5 +1,14 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 360,
+    "updated_at": "2026-10-07T14:45:05Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "13 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, portfolio publish",
     "id": "jin2004-cmd/codex-practical-skills",
     "language": "Python",
@@ -16,15 +25,6 @@
     "stars": 11741,
     "updated_at": "2026-10-07T14:17:55Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 360,
-    "updated_at": "2026-10-07T14:26:11Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
@@ -400,7 +400,7 @@
     "id": "logicrw/ask-jev",
     "language": "Python",
     "name": "logicrw/ask-jev",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-09-28T11:18:46Z",
     "url": "https://github.com/logicrw/ask-jev"
   },
