@@ -1,5 +1,14 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 360,
+    "updated_at": "2026-10-07T13:36:42Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
     "id": "lftherios/session-link",
     "language": "Go",
@@ -7,15 +16,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T13:20:11Z",
     "url": "https://github.com/lftherios/session-link"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 360,
-    "updated_at": "2026-10-07T13:08:19Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -32,7 +32,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11741,
-    "updated_at": "2026-10-07T13:22:12Z",
+    "updated_at": "2026-10-07T13:42:00Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {

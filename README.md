@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-07 13:30 UTC
+> ⏰ Last updated: 2026-10-07 13:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,8 +42,8 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [lftherios/session-link](https://github.com/lftherios/session-link) | 0 | Go | 2026-10-07 | A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit. |
-| 2 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 360 | TypeScript | 2026-10-07 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 1 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 360 | TypeScript | 2026-10-07 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 2 | [lftherios/session-link](https://github.com/lftherios/session-link) | 0 | Go | 2026-10-07 | A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit. |
 | 3 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-07 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
 | 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11741 | Python | 2026-10-07 | AI Observability & Evaluation |
 | 5 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-10-07 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
