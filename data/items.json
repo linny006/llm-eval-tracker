@@ -1,12 +1,30 @@
 [
   {
+    "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
+    "id": "Icaro0310/devin-evals",
+    "language": "Python",
+    "name": "Icaro0310/devin-evals",
+    "stars": 1,
+    "updated_at": "2026-10-07T19:42:44Z",
+    "url": "https://github.com/Icaro0310/devin-evals"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11744,
-    "updated_at": "2026-10-07T19:29:53Z",
+    "updated_at": "2026-10-07T19:39:17Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 360,
+    "updated_at": "2026-10-07T19:44:52Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
@@ -27,15 +45,6 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 360,
-    "updated_at": "2026-10-07T19:15:26Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
     "id": "decimal-labs/decimalai-python",
     "language": "Python",
@@ -43,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-10-07T17:14:22Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
-    "id": "Icaro0310/devin-evals",
-    "language": "Python",
-    "name": "Icaro0310/devin-evals",
-    "stars": 1,
-    "updated_at": "2026-10-07T17:42:18Z",
-    "url": "https://github.com/Icaro0310/devin-evals"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
