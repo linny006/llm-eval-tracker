@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11735,
+    "updated_at": "2026-10-07T01:46:49Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -25,15 +34,6 @@
     "stars": 1,
     "updated_at": "2026-10-06T23:57:58Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11733,
-    "updated_at": "2026-10-07T01:46:49Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test AI customer service agents for confirmation-based PII disclosure.",
