@@ -1,29 +1,29 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11735,
-    "updated_at": "2026-10-07T01:46:49Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-10-07T01:38:22Z",
+    "updated_at": "2026-10-07T02:27:19Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11735,
+    "updated_at": "2026-10-07T02:28:44Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25764,
-    "updated_at": "2026-10-07T01:59:13Z",
+    "stars": 25765,
+    "updated_at": "2026-10-07T02:22:30Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -86,7 +86,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-10-07T01:58:53Z",
+    "updated_at": "2026-10-07T02:23:12Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -112,7 +112,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5865,
+    "stars": 5866,
     "updated_at": "2026-10-06T08:51:15Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
