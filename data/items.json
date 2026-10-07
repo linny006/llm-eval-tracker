@@ -1,20 +1,11 @@
 [
   {
-    "description": "First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs",
-    "id": "instax-dutta/sysone-bench",
-    "language": "Python",
-    "name": "instax-dutta/sysone-bench",
-    "stars": 6,
-    "updated_at": "2026-10-07T08:12:23Z",
-    "url": "https://github.com/instax-dutta/sysone-bench"
-  },
-  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
     "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "stars": 0,
-    "updated_at": "2026-10-07T07:52:28Z",
+    "updated_at": "2026-10-07T09:46:43Z",
     "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
   },
   {
@@ -23,8 +14,17 @@
     "language": "PowerShell",
     "name": "bhavya7995/AI_governance",
     "stars": 1,
-    "updated_at": "2026-10-07T07:51:58Z",
+    "updated_at": "2026-10-07T09:46:14Z",
     "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
+    "description": "First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs",
+    "id": "instax-dutta/sysone-bench",
+    "language": "Python",
+    "name": "instax-dutta/sysone-bench",
+    "stars": 6,
+    "updated_at": "2026-10-07T08:12:23Z",
+    "url": "https://github.com/instax-dutta/sysone-bench"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -131,7 +131,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5866,
-    "updated_at": "2026-10-07T07:26:05Z",
+    "updated_at": "2026-10-07T09:58:45Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
