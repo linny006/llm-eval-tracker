@@ -1,21 +1,30 @@
 [
   {
-    "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
-    "id": "lftherios/session-link",
-    "language": "Go",
-    "name": "lftherios/session-link",
-    "stars": 0,
-    "updated_at": "2026-10-08T10:13:00Z",
-    "url": "https://github.com/lftherios/session-link"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25811,
-    "updated_at": "2026-10-08T10:13:53Z",
+    "updated_at": "2026-10-08T10:26:18Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 360,
+    "updated_at": "2026-10-08T10:22:08Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
+    "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
+    "id": "lftherios/session-link",
+    "language": "Go",
+    "name": "lftherios/session-link",
+    "stars": 0,
+    "updated_at": "2026-10-08T10:16:50Z",
+    "url": "https://github.com/lftherios/session-link"
   },
   {
     "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "Icaro0310/devin-evals",
     "stars": 1,
-    "updated_at": "2026-10-08T09:55:57Z",
+    "updated_at": "2026-10-08T10:21:12Z",
     "url": "https://github.com/Icaro0310/devin-evals"
   },
   {
@@ -115,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-10-08T01:53:09Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 360,
-    "updated_at": "2026-10-08T07:10:34Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Blind, reproducible benchmark for production phone voice agents. Measures barge-in latency, false-stop rate and the late",
