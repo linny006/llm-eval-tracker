@@ -1,10 +1,19 @@
 [
   {
+    "description": "Multi-agent simulation using LLMs. Agents autonomously decide actions for survival, reproduction, and social behavior in",
+    "id": "yukincom/llm-SugarScape",
+    "language": "Python",
+    "name": "yukincom/llm-SugarScape",
+    "stars": 7,
+    "updated_at": "2026-10-08T14:10:49Z",
+    "url": "https://github.com/yukincom/llm-SugarScape"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25815,
+    "stars": 25814,
     "updated_at": "2026-10-08T13:55:57Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -68,7 +77,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-10-08T13:35:32Z",
+    "updated_at": "2026-10-08T14:14:39Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-28T03:44:07Z",
     "url": "https://github.com/ramenprotokol/hallucination-hunter"
-  },
-  {
-    "description": "Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai",
-    "id": "ozlar34/job-match-radar",
-    "language": "Python",
-    "name": "ozlar34/job-match-radar",
-    "stars": 1,
-    "updated_at": "2026-09-27T22:33:18Z",
-    "url": "https://github.com/ozlar34/job-match-radar"
   }
 ]
