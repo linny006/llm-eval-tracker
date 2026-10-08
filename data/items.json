@@ -1,11 +1,20 @@
 [
   {
+    "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
+    "id": "ahmedmoha9088/PhoenixFish",
+    "language": "Java",
+    "name": "ahmedmoha9088/PhoenixFish",
+    "stars": 0,
+    "updated_at": "2026-10-08T21:05:01Z",
+    "url": "https://github.com/ahmedmoha9088/PhoenixFish"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25820,
-    "updated_at": "2026-10-08T20:59:21Z",
+    "updated_at": "2026-10-08T21:08:58Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11761,
-    "updated_at": "2026-10-08T20:52:01Z",
+    "updated_at": "2026-10-08T21:07:13Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -43,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-10-08T18:01:44Z",
     "url": "https://github.com/Icaro0310/devin-evals"
-  },
-  {
-    "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
-    "id": "ahmedmoha9088/PhoenixFish",
-    "language": "Java",
-    "name": "ahmedmoha9088/PhoenixFish",
-    "stars": 0,
-    "updated_at": "2026-10-08T17:51:10Z",
-    "url": "https://github.com/ahmedmoha9088/PhoenixFish"
   },
   {
     "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
@@ -68,7 +68,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-10-08T20:30:35Z",
+    "updated_at": "2026-10-08T21:05:40Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -311,7 +311,7 @@
     "language": "Python",
     "name": "ChelseaKR/sprout",
     "stars": 1,
-    "updated_at": "2026-10-02T17:34:12Z",
+    "updated_at": "2026-10-08T21:14:36Z",
     "url": "https://github.com/ChelseaKR/sprout"
   },
   {
