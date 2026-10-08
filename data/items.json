@@ -1,12 +1,39 @@
 [
   {
+    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
+    "id": "HaileyStorm/Creative-Writing-Rubrics",
+    "language": "Python",
+    "name": "HaileyStorm/Creative-Writing-Rubrics",
+    "stars": 0,
+    "updated_at": "2026-10-08T15:09:07Z",
+    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11753,
-    "updated_at": "2026-10-08T14:56:47Z",
+    "updated_at": "2026-10-08T15:14:43Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
+    "id": "ahmedmoha9088/PhoenixFish",
+    "language": "Java",
+    "name": "ahmedmoha9088/PhoenixFish",
+    "stars": 0,
+    "updated_at": "2026-10-08T15:06:22Z",
+    "url": "https://github.com/ahmedmoha9088/PhoenixFish"
+  },
+  {
+    "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
+    "id": "Icaro0310/devin-evals",
+    "language": "Python",
+    "name": "Icaro0310/devin-evals",
+    "stars": 1,
+    "updated_at": "2026-10-08T15:02:20Z",
+    "url": "https://github.com/Icaro0310/devin-evals"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
@@ -54,24 +81,6 @@
     "url": "https://github.com/lftherios/session-link"
   },
   {
-    "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
-    "id": "Icaro0310/devin-evals",
-    "language": "Python",
-    "name": "Icaro0310/devin-evals",
-    "stars": 1,
-    "updated_at": "2026-10-08T14:58:14Z",
-    "url": "https://github.com/Icaro0310/devin-evals"
-  },
-  {
-    "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
-    "id": "ahmedmoha9088/PhoenixFish",
-    "language": "Java",
-    "name": "ahmedmoha9088/PhoenixFish",
-    "stars": 0,
-    "updated_at": "2026-10-08T11:49:00Z",
-    "url": "https://github.com/ahmedmoha9088/PhoenixFish"
-  },
-  {
     "description": "judge-drift-sentinel \u00b7 judge-reliability-kit \u00b7 agent-loop-engine \u00b7 trace-gate \u00b7 ai-eng-skill-range",
     "id": "homayoun-safarpour/homayoun-safarpour",
     "language": "\u2014",
@@ -86,7 +95,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-10-08T14:38:37Z",
+    "updated_at": "2026-10-08T15:04:54Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -178,15 +187,6 @@
     "stars": 6,
     "updated_at": "2026-10-07T08:12:23Z",
     "url": "https://github.com/instax-dutta/sysone-bench"
-  },
-  {
-    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
-    "id": "HaileyStorm/Creative-Writing-Rubrics",
-    "language": "Python",
-    "name": "HaileyStorm/Creative-Writing-Rubrics",
-    "stars": 0,
-    "updated_at": "2026-10-07T05:22:53Z",
-    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
