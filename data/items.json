@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25815,
+    "updated_at": "2026-10-08T14:25:23Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Multi-agent simulation using LLMs. Agents autonomously decide actions for survival, reproduction, and social behavior in",
     "id": "yukincom/llm-SugarScape",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 7,
     "updated_at": "2026-10-08T14:10:49Z",
     "url": "https://github.com/yukincom/llm-SugarScape"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25814,
-    "updated_at": "2026-10-08T13:55:57Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
