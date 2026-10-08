@@ -1,11 +1,20 @@
 [
   {
+    "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
+    "id": "lftherios/session-link",
+    "language": "Go",
+    "name": "lftherios/session-link",
+    "stars": 0,
+    "updated_at": "2026-10-08T07:39:52Z",
+    "url": "https://github.com/lftherios/session-link"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25804,
-    "updated_at": "2026-10-08T07:28:56Z",
+    "stars": 25805,
+    "updated_at": "2026-10-08T07:34:09Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -22,7 +31,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11745,
+    "stars": 11746,
     "updated_at": "2026-10-08T06:34:57Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -124,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T14:07:56Z",
     "url": "https://github.com/jin2004-cmd/codex-practical-skills"
-  },
-  {
-    "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
-    "id": "lftherios/session-link",
-    "language": "Go",
-    "name": "lftherios/session-link",
-    "stars": 0,
-    "updated_at": "2026-10-07T13:20:11Z",
-    "url": "https://github.com/lftherios/session-link"
   },
   {
     "description": "First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs",
