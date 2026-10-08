@@ -4,9 +4,18 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25802,
-    "updated_at": "2026-10-08T06:51:27Z",
+    "stars": 25803,
+    "updated_at": "2026-10-08T07:02:21Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Agricultural-advisory QA benchmark in 11 Indian languages \u2014 500 questions \u00d7 11, built from real Kisan Call Centre farmer",
+    "id": "sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark",
+    "language": "Python",
+    "name": "sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark",
+    "stars": 1,
+    "updated_at": "2026-10-08T07:00:54Z",
+    "url": "https://github.com/sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -68,7 +77,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5872,
-    "updated_at": "2026-10-08T05:53:33Z",
+    "updated_at": "2026-10-08T07:10:15Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -77,7 +86,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-10-08T06:57:23Z",
+    "updated_at": "2026-10-08T07:10:34Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -205,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T06:07:16Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Agricultural-advisory QA benchmark in 11 Indian languages \u2014 500 questions \u00d7 11, built from real Kisan Call Centre farmer",
-    "id": "sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark",
-    "language": "Python",
-    "name": "sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark",
-    "stars": 1,
-    "updated_at": "2026-10-06T05:27:35Z",
-    "url": "https://github.com/sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark"
   },
   {
     "description": "Personal site with two interactive LLM eval harness demos",
