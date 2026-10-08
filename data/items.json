@@ -1,5 +1,14 @@
 [
   {
+    "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
+    "id": "Icaro0310/devin-evals",
+    "language": "Python",
+    "name": "Icaro0310/devin-evals",
+    "stars": 1,
+    "updated_at": "2026-10-08T09:08:49Z",
+    "url": "https://github.com/Icaro0310/devin-evals"
+  },
+  {
     "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
     "id": "lftherios/session-link",
     "language": "Go",
@@ -22,7 +31,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11749,
+    "stars": 11750,
     "updated_at": "2026-10-08T07:52:26Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -97,15 +106,6 @@
     "stars": 360,
     "updated_at": "2026-10-08T07:10:34Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
-    "id": "Icaro0310/devin-evals",
-    "language": "Python",
-    "name": "Icaro0310/devin-evals",
-    "stars": 1,
-    "updated_at": "2026-10-08T00:12:09Z",
-    "url": "https://github.com/Icaro0310/devin-evals"
   },
   {
     "description": "Blind, reproducible benchmark for production phone voice agents. Measures barge-in latency, false-stop rate and the late",
