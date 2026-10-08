@@ -5,8 +5,17 @@
     "language": "Go",
     "name": "lftherios/session-link",
     "stars": 0,
-    "updated_at": "2026-10-08T13:07:11Z",
+    "updated_at": "2026-10-08T13:23:54Z",
     "url": "https://github.com/lftherios/session-link"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11751,
+    "updated_at": "2026-10-08T13:16:52Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
@@ -25,15 +34,6 @@
     "stars": 25815,
     "updated_at": "2026-10-08T12:33:12Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11751,
-    "updated_at": "2026-10-08T12:15:48Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
@@ -68,7 +68,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-10-08T13:12:45Z",
+    "updated_at": "2026-10-08T13:25:29Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
