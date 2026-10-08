@@ -1,5 +1,14 @@
 [
   {
+    "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
+    "id": "lftherios/session-link",
+    "language": "Go",
+    "name": "lftherios/session-link",
+    "stars": 0,
+    "updated_at": "2026-10-08T13:07:11Z",
+    "url": "https://github.com/lftherios/session-link"
+  },
+  {
     "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
     "id": "Icaro0310/devin-evals",
     "language": "Python",
@@ -54,21 +63,12 @@
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
-    "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
-    "id": "lftherios/session-link",
-    "language": "Go",
-    "name": "lftherios/session-link",
-    "stars": 0,
-    "updated_at": "2026-10-08T11:16:27Z",
-    "url": "https://github.com/lftherios/session-link"
-  },
-  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-10-08T11:52:27Z",
+    "updated_at": "2026-10-08T13:12:45Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
