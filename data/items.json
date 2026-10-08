@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25802,
+    "updated_at": "2026-10-08T06:51:27Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -68,7 +77,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-10-08T06:45:07Z",
+    "updated_at": "2026-10-08T06:57:23Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -79,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-10-08T00:12:09Z",
     "url": "https://github.com/Icaro0310/devin-evals"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25802,
-    "updated_at": "2026-10-08T06:39:16Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Blind, reproducible benchmark for production phone voice agents. Measures barge-in latency, false-stop rate and the late",
