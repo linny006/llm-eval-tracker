@@ -5,8 +5,17 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25811,
-    "updated_at": "2026-10-08T10:38:20Z",
+    "updated_at": "2026-10-08T10:59:18Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
+    "id": "Icaro0310/devin-evals",
+    "language": "Python",
+    "name": "Icaro0310/devin-evals",
+    "stars": 1,
+    "updated_at": "2026-10-08T10:58:42Z",
+    "url": "https://github.com/Icaro0310/devin-evals"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-10-08T10:16:50Z",
     "url": "https://github.com/lftherios/session-link"
-  },
-  {
-    "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
-    "id": "Icaro0310/devin-evals",
-    "language": "Python",
-    "name": "Icaro0310/devin-evals",
-    "stars": 1,
-    "updated_at": "2026-10-08T10:30:40Z",
-    "url": "https://github.com/Icaro0310/devin-evals"
   },
   {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
