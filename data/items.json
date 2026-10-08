@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11744,
+    "updated_at": "2026-10-08T00:29:11Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
     "id": "jeremylongshore/j-rig-skill-binary-eval",
     "language": "TypeScript",
@@ -34,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-10-07T23:26:27Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11744,
-    "updated_at": "2026-10-08T00:12:22Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
