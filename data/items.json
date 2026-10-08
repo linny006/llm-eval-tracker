@@ -1,11 +1,20 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11745,
+    "updated_at": "2026-10-08T06:34:57Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
     "id": "IcodeNet/eval-dashboards",
     "language": "TypeScript",
     "name": "IcodeNet/eval-dashboards",
     "stars": 1,
-    "updated_at": "2026-10-08T06:27:53Z",
+    "updated_at": "2026-10-08T06:37:10Z",
     "url": "https://github.com/IcodeNet/eval-dashboards"
   },
   {
@@ -36,15 +45,6 @@
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11744,
-    "updated_at": "2026-10-08T06:11:30Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
     "id": "decimal-labs/decimalai-python",
     "language": "Python",
@@ -68,7 +68,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-10-08T01:17:04Z",
+    "updated_at": "2026-10-08T06:45:07Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -86,7 +86,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25802,
-    "updated_at": "2026-10-07T20:00:43Z",
+    "updated_at": "2026-10-08T06:39:16Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
