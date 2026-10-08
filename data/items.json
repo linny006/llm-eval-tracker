@@ -1,12 +1,30 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11757,
+    "updated_at": "2026-10-08T18:14:12Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25817,
-    "updated_at": "2026-10-08T17:56:44Z",
+    "updated_at": "2026-10-08T18:14:54Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
+    "id": "Icaro0310/devin-evals",
+    "language": "Python",
+    "name": "Icaro0310/devin-evals",
+    "stars": 1,
+    "updated_at": "2026-10-08T18:01:44Z",
+    "url": "https://github.com/Icaro0310/devin-evals"
   },
   {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
@@ -18,15 +36,6 @@
     "url": "https://github.com/ahmedmoha9088/PhoenixFish"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11757,
-    "updated_at": "2026-10-08T17:59:13Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
     "id": "saddled-panicattack529/idea-evaluation-pipeline",
     "language": "\u2014",
@@ -34,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-10-08T17:25:26Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
-    "id": "Icaro0310/devin-evals",
-    "language": "Python",
-    "name": "Icaro0310/devin-evals",
-    "stars": 1,
-    "updated_at": "2026-10-08T17:40:57Z",
-    "url": "https://github.com/Icaro0310/devin-evals"
   },
   {
     "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
@@ -103,7 +103,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5877,
+    "stars": 5878,
     "updated_at": "2026-10-08T07:10:15Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
