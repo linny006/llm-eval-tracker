@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25815,
+    "updated_at": "2026-10-08T13:55:57Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
     "id": "lftherios/session-link",
     "language": "Go",
@@ -25,15 +34,6 @@
     "stars": 1,
     "updated_at": "2026-10-08T13:00:19Z",
     "url": "https://github.com/Icaro0310/devin-evals"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25815,
-    "updated_at": "2026-10-08T12:33:12Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
