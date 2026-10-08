@@ -1,11 +1,29 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25817,
+    "updated_at": "2026-10-08T17:56:44Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
+    "id": "ahmedmoha9088/PhoenixFish",
+    "language": "Java",
+    "name": "ahmedmoha9088/PhoenixFish",
+    "stars": 0,
+    "updated_at": "2026-10-08T17:51:10Z",
+    "url": "https://github.com/ahmedmoha9088/PhoenixFish"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11757,
-    "updated_at": "2026-10-08T17:31:01Z",
+    "updated_at": "2026-10-08T17:59:13Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -16,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-10-08T17:25:26Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25815,
-    "updated_at": "2026-10-08T17:44:35Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
@@ -70,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-10-08T15:09:07Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
-    "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
-    "id": "ahmedmoha9088/PhoenixFish",
-    "language": "Java",
-    "name": "ahmedmoha9088/PhoenixFish",
-    "stars": 0,
-    "updated_at": "2026-10-08T15:06:22Z",
-    "url": "https://github.com/ahmedmoha9088/PhoenixFish"
   },
   {
     "description": "Multi-agent simulation using LLMs. Agents autonomously decide actions for survival, reproduction, and social behavior in",
