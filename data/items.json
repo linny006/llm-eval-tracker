@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11751,
+    "updated_at": "2026-10-08T12:15:48Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
     "id": "Icaro0310/devin-evals",
     "language": "Python",
@@ -50,7 +59,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25813,
-    "updated_at": "2026-10-08T10:59:18Z",
+    "updated_at": "2026-10-08T12:30:19Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -63,20 +72,11 @@
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11751,
-    "updated_at": "2026-10-08T11:17:11Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5875,
+    "stars": 5877,
     "updated_at": "2026-10-08T07:10:15Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
@@ -202,7 +202,7 @@
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3593,
+    "stars": 3594,
     "updated_at": "2026-10-06T21:16:19Z",
     "url": "https://github.com/truera/trulens"
   },
