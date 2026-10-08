@@ -1,5 +1,41 @@
 [
   {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-08T01:24:34Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5869,
+    "updated_at": "2026-10-08T01:26:58Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
+    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "language": "\u2014",
+    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "stars": 0,
+    "updated_at": "2026-10-08T01:19:26Z",
+    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
+  },
+  {
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-10-08T01:18:55Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
     "id": "jeremylongshore/j-rig-skill-binary-eval",
     "language": "TypeScript",
@@ -9,21 +45,12 @@
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5869,
-    "updated_at": "2026-10-08T01:04:29Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-10-08T01:15:19Z",
+    "updated_at": "2026-10-08T01:17:04Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -32,7 +59,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11744,
-    "updated_at": "2026-10-08T00:42:42Z",
+    "updated_at": "2026-10-08T01:16:19Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -43,24 +70,6 @@
     "stars": 1,
     "updated_at": "2026-10-08T00:12:09Z",
     "url": "https://github.com/Icaro0310/devin-evals"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-10-07T23:27:01Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
-    "id": "bhavya7995/AI_governance",
-    "language": "PowerShell",
-    "name": "bhavya7995/AI_governance",
-    "stars": 1,
-    "updated_at": "2026-10-07T23:26:27Z",
-    "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
     "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
@@ -79,15 +88,6 @@
     "stars": 25796,
     "updated_at": "2026-10-07T20:00:43Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-07T17:14:22Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "Blind, reproducible benchmark for production phone voice agents. Measures barge-in latency, false-stop rate and the late",
