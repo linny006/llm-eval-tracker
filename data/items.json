@@ -1,21 +1,30 @@
 [
   {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 360,
-    "updated_at": "2026-10-08T00:48:08Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
     "id": "jeremylongshore/j-rig-skill-binary-eval",
     "language": "TypeScript",
     "name": "jeremylongshore/j-rig-skill-binary-eval",
     "stars": 3,
-    "updated_at": "2026-10-08T00:45:51Z",
+    "updated_at": "2026-10-08T01:15:12Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5869,
+    "updated_at": "2026-10-08T01:04:29Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 360,
+    "updated_at": "2026-10-08T01:15:19Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -115,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T13:20:11Z",
     "url": "https://github.com/lftherios/session-link"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5869,
-    "updated_at": "2026-10-07T09:58:45Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs",

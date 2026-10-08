@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-08 01:00 UTC
+> ⏰ Last updated: 2026-10-08 01:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 360 | TypeScript | 2026-10-08 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 2 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 3 | TypeScript | 2026-10-08 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
-| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11744 | Python | 2026-10-08 | AI Observability & Evaluation |
-| 4 | [Icaro0310/devin-evals](https://github.com/Icaro0310/devin-evals) | 1 | Python | 2026-10-08 | Deterministic eval harness: replay recorded Devin sessions against rubric graders |
-| 5 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-10-07 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
-| 6 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-10-07 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
-| 7 | [IcodeNet/eval-dashboards](https://github.com/IcodeNet/eval-dashboards) | 1 | TypeScript | 2026-10-07 | Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style — bring y |
-| 8 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25796 | TypeScript | 2026-10-07 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 9 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-07 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
-| 10 | [arunash/earshot](https://github.com/arunash/earshot) | 0 | Python | 2026-10-07 | Blind, reproducible benchmark for production phone voice agents. Measures barge-in latency, false-stop rate and the late |
-| 11 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 28 | TypeScript | 2026-10-07 | Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct |
-| 12 | [jin2004-cmd/codex-practical-skills](https://github.com/jin2004-cmd/codex-practical-skills) | 0 | Python | 2026-10-07 | 13 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, portfolio publish |
-| 13 | [lftherios/session-link](https://github.com/lftherios/session-link) | 0 | Go | 2026-10-07 | A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit. |
-| 14 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5869 | Python | 2026-10-07 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 1 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 3 | TypeScript | 2026-10-08 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
+| 2 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5869 | Python | 2026-10-08 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 3 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 360 | TypeScript | 2026-10-08 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11744 | Python | 2026-10-08 | AI Observability & Evaluation |
+| 5 | [Icaro0310/devin-evals](https://github.com/Icaro0310/devin-evals) | 1 | Python | 2026-10-08 | Deterministic eval harness: replay recorded Devin sessions against rubric graders |
+| 6 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-10-07 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
+| 7 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-10-07 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
+| 8 | [IcodeNet/eval-dashboards](https://github.com/IcodeNet/eval-dashboards) | 1 | TypeScript | 2026-10-07 | Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style — bring y |
+| 9 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25796 | TypeScript | 2026-10-07 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 10 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-07 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
+| 11 | [arunash/earshot](https://github.com/arunash/earshot) | 0 | Python | 2026-10-07 | Blind, reproducible benchmark for production phone voice agents. Measures barge-in latency, false-stop rate and the late |
+| 12 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 28 | TypeScript | 2026-10-07 | Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct |
+| 13 | [jin2004-cmd/codex-practical-skills](https://github.com/jin2004-cmd/codex-practical-skills) | 0 | Python | 2026-10-07 | 13 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, portfolio publish |
+| 14 | [lftherios/session-link](https://github.com/lftherios/session-link) | 0 | Go | 2026-10-07 | A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit. |
 | 15 | [instax-dutta/sysone-bench](https://github.com/instax-dutta/sysone-bench) | 6 | Python | 2026-10-07 | First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs |
 | 16 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-10-07 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
 | 17 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 1 | — | 2026-10-07 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
