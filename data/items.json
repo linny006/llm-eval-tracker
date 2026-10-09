@@ -1,21 +1,30 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11769,
-    "updated_at": "2026-10-09T15:43:28Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25844,
-    "updated_at": "2026-10-09T15:43:12Z",
+    "updated_at": "2026-10-09T15:56:25Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct",
+    "id": "sx4im/skillcheck",
+    "language": "TypeScript",
+    "name": "sx4im/skillcheck",
+    "stars": 28,
+    "updated_at": "2026-10-09T15:48:11Z",
+    "url": "https://github.com/sx4im/skillcheck"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11769,
+    "updated_at": "2026-10-09T15:47:28Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
@@ -32,7 +41,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-10-09T15:15:11Z",
+    "updated_at": "2026-10-09T15:49:58Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -178,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T15:37:07Z",
     "url": "https://github.com/arunash/earshot"
-  },
-  {
-    "description": "Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct",
-    "id": "sx4im/skillcheck",
-    "language": "TypeScript",
-    "name": "sx4im/skillcheck",
-    "stars": 28,
-    "updated_at": "2026-10-07T16:22:11Z",
-    "url": "https://github.com/sx4im/skillcheck"
   },
   {
     "description": "13 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, portfolio publish",
