@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25823,
+    "updated_at": "2026-10-09T02:43:58Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 11762,
     "updated_at": "2026-10-09T02:29:55Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25822,
-    "updated_at": "2026-10-09T02:29:49Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -41,7 +41,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-10-09T02:29:19Z",
+    "updated_at": "2026-10-09T02:40:33Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -436,7 +436,7 @@
     "id": "open-compass/opencompass",
     "language": "Python",
     "name": "open-compass/opencompass",
-    "stars": 7498,
+    "stars": 7499,
     "updated_at": "2026-09-28T08:23:57Z",
     "url": "https://github.com/open-compass/opencompass"
   },
