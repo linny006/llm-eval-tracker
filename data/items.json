@@ -1,5 +1,23 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25820,
+    "updated_at": "2026-10-09T00:45:13Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11762,
+    "updated_at": "2026-10-09T00:41:00Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Automated LLM bias and toxicity auditing pipeline with flexible scoring and Streamlit UI.",
     "id": "gopals09920/llm-bias-toxicity-audit",
     "language": "Python",
@@ -7,15 +25,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T00:14:48Z",
     "url": "https://github.com/gopals09920/llm-bias-toxicity-audit"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25820,
-    "updated_at": "2026-10-09T00:28:39Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
@@ -61,15 +70,6 @@
     "stars": 3,
     "updated_at": "2026-10-08T20:44:44Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11761,
-    "updated_at": "2026-10-08T23:41:50Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
