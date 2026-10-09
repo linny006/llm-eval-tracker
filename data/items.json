@@ -1,11 +1,20 @@
 [
   {
+    "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
+    "id": "lftherios/session-link",
+    "language": "Go",
+    "name": "lftherios/session-link",
+    "stars": 0,
+    "updated_at": "2026-10-09T07:59:43Z",
+    "url": "https://github.com/lftherios/session-link"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-10-09T07:40:24Z",
+    "updated_at": "2026-10-09T07:52:43Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -88,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-10-08T18:01:44Z",
     "url": "https://github.com/Icaro0310/devin-evals"
-  },
-  {
-    "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
-    "id": "lftherios/session-link",
-    "language": "Go",
-    "name": "lftherios/session-link",
-    "stars": 0,
-    "updated_at": "2026-10-08T17:11:31Z",
-    "url": "https://github.com/lftherios/session-link"
   },
   {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
