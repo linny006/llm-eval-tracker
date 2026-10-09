@@ -1,11 +1,20 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11762,
+    "updated_at": "2026-10-09T02:29:55Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25821,
-    "updated_at": "2026-10-09T02:15:08Z",
+    "stars": 25822,
+    "updated_at": "2026-10-09T02:29:49Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5879,
-    "updated_at": "2026-10-09T02:13:22Z",
+    "updated_at": "2026-10-09T02:17:34Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -32,7 +41,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-10-09T02:09:32Z",
+    "updated_at": "2026-10-09T02:29:19Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -43,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T01:54:18Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11762,
-    "updated_at": "2026-10-09T01:25:06Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Automated LLM bias and toxicity auditing pipeline with flexible scoring and Streamlit UI.",
