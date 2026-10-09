@@ -1,11 +1,29 @@
 [
   {
+    "description": "Automated LLM bias and toxicity auditing pipeline with flexible scoring and Streamlit UI.",
+    "id": "gopals09920/llm-bias-toxicity-audit",
+    "language": "Python",
+    "name": "gopals09920/llm-bias-toxicity-audit",
+    "stars": 0,
+    "updated_at": "2026-10-09T00:14:48Z",
+    "url": "https://github.com/gopals09920/llm-bias-toxicity-audit"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25820,
+    "updated_at": "2026-10-09T00:14:31Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-10-08T23:57:19Z",
+    "updated_at": "2026-10-09T00:02:32Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -16,15 +34,6 @@
     "stars": 1,
     "updated_at": "2026-10-08T23:24:59Z",
     "url": "https://github.com/IcodeNet/eval-dashboards"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25820,
-    "updated_at": "2026-10-08T23:57:02Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
@@ -349,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-10-07T23:45:09Z",
     "url": "https://github.com/ChelseaKR/plumbline"
-  },
-  {
-    "description": "Automated LLM bias and toxicity auditing pipeline with flexible scoring and Streamlit UI.",
-    "id": "gopals09920/llm-bias-toxicity-audit",
-    "language": "\u2014",
-    "name": "gopals09920/llm-bias-toxicity-audit",
-    "stars": 0,
-    "updated_at": "2026-10-01T00:08:06Z",
-    "url": "https://github.com/gopals09920/llm-bias-toxicity-audit"
   },
   {
     "description": "Automated LLM Evaluation Harness (Superseded by Passmark & Bench-Suite)",
