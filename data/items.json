@@ -1,10 +1,19 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25844,
+    "updated_at": "2026-10-09T18:45:01Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11767,
+    "stars": 11766,
     "updated_at": "2026-10-09T18:29:59Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -16,15 +25,6 @@
     "stars": 1,
     "updated_at": "2026-10-09T18:27:06Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25845,
-    "updated_at": "2026-10-09T18:28:34Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
