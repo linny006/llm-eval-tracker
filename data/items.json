@@ -13,8 +13,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25845,
-    "updated_at": "2026-10-09T17:11:37Z",
+    "stars": 25843,
+    "updated_at": "2026-10-09T17:30:17Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -22,7 +22,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11769,
+    "stars": 11768,
     "updated_at": "2026-10-09T16:54:26Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -112,7 +112,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5881,
+    "stars": 5880,
     "updated_at": "2026-10-09T04:45:52Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
@@ -436,7 +436,7 @@
     "id": "open-compass/opencompass",
     "language": "Python",
     "name": "open-compass/opencompass",
-    "stars": 7503,
+    "stars": 7502,
     "updated_at": "2026-09-28T08:23:57Z",
     "url": "https://github.com/open-compass/opencompass"
   },
