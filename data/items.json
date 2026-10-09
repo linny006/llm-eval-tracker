@@ -1,11 +1,20 @@
 [
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5879,
+    "updated_at": "2026-10-09T02:53:58Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25823,
-    "updated_at": "2026-10-09T02:43:58Z",
+    "stars": 25824,
+    "updated_at": "2026-10-09T02:52:25Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -16,15 +25,6 @@
     "stars": 11762,
     "updated_at": "2026-10-09T02:29:55Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5879,
-    "updated_at": "2026-10-09T02:17:34Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
@@ -436,7 +436,7 @@
     "id": "open-compass/opencompass",
     "language": "Python",
     "name": "open-compass/opencompass",
-    "stars": 7499,
+    "stars": 7500,
     "updated_at": "2026-09-28T08:23:57Z",
     "url": "https://github.com/open-compass/opencompass"
   },
