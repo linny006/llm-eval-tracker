@@ -1,5 +1,23 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25843,
+    "updated_at": "2026-10-09T14:13:49Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-09T14:08:59Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
     "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
     "id": "Icaro0310/devin-evals",
     "language": "Python",
@@ -7,15 +25,6 @@
     "stars": 1,
     "updated_at": "2026-10-09T13:59:11Z",
     "url": "https://github.com/Icaro0310/devin-evals"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25843,
-    "updated_at": "2026-10-09T14:00:01Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -106,15 +115,6 @@
     "stars": 3,
     "updated_at": "2026-10-08T20:44:44Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
-  },
-  {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-08T15:45:13Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
