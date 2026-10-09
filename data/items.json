@@ -1,11 +1,20 @@
 [
   {
+    "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
+    "id": "Icaro0310/devin-evals",
+    "language": "Python",
+    "name": "Icaro0310/devin-evals",
+    "stars": 1,
+    "updated_at": "2026-10-09T10:04:20Z",
+    "url": "https://github.com/Icaro0310/devin-evals"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25836,
-    "updated_at": "2026-10-09T09:59:04Z",
+    "updated_at": "2026-10-09T10:08:33Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -97,15 +106,6 @@
     "stars": 3,
     "updated_at": "2026-10-08T20:44:44Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
-  },
-  {
-    "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
-    "id": "Icaro0310/devin-evals",
-    "language": "Python",
-    "name": "Icaro0310/devin-evals",
-    "stars": 1,
-    "updated_at": "2026-10-09T09:58:53Z",
-    "url": "https://github.com/Icaro0310/devin-evals"
   },
   {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
