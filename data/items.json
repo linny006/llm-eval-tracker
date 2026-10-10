@@ -1,11 +1,20 @@
 [
   {
+    "description": "Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct",
+    "id": "sx4im/skillcheck",
+    "language": "TypeScript",
+    "name": "sx4im/skillcheck",
+    "stars": 28,
+    "updated_at": "2026-10-10T15:59:51Z",
+    "url": "https://github.com/sx4im/skillcheck"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25869,
-    "updated_at": "2026-10-10T15:39:58Z",
+    "updated_at": "2026-10-10T15:52:41Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -13,7 +22,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11775,
+    "stars": 11776,
     "updated_at": "2026-10-10T13:55:12Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -133,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-10-09T18:08:31Z",
     "url": "https://github.com/ChelseaKR/sprout"
-  },
-  {
-    "description": "Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct",
-    "id": "sx4im/skillcheck",
-    "language": "TypeScript",
-    "name": "sx4im/skillcheck",
-    "stars": 28,
-    "updated_at": "2026-10-09T19:53:11Z",
-    "url": "https://github.com/sx4im/skillcheck"
   },
   {
     "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
