@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-10 00:45 UTC
+> ⏰ Last updated: 2026-10-10 01:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,8 +42,8 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 1 | — | 2026-10-10 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
-| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25848 | TypeScript | 2026-10-10 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25848 | TypeScript | 2026-10-10 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 2 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 1 | — | 2026-10-10 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11769 | Python | 2026-10-09 | AI Observability & Evaluation |
 | 4 | [truera/trulens](https://github.com/truera/trulens) | 3595 | Python | 2026-10-09 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 5 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-10-09 | Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu |
@@ -78,7 +78,7 @@ expired items removed — so you can rely on what you see being current.
 | 34 | [jatinsihag2345/awesome-ai-evaluations](https://github.com/jatinsihag2345/awesome-ai-evaluations) | 1 | — | 2026-10-04 | A curated list of frontier AI evaluation benchmarks, long-horizon agent test suites, terminal sandboxes, RLVR math verif |
 | 35 | [jatinsihag2345/llm-eval-toolkit](https://github.com/jatinsihag2345/llm-eval-toolkit) | 1 | Python | 2026-10-04 | Modular Python SDK for deterministic grading, AST semantic diffing, sandboxed execution, and fuzzy scoring of LLM output |
 | 36 | [amareshhebbar/gitgrounded](https://github.com/amareshhebbar/gitgrounded) | 0 | Python | 2026-10-05 | Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old  |
-| 37 | [derrickqin/google-adk-laya-router](https://github.com/derrickqin/google-adk-laya-router) | 1 | Python | 2026-10-02 | Route each ADK request to the right Gemini tier with Laya on a CPU-only container (Cloud Run), plus an eval scored by co |
+| 37 | [derrickqin/google-adk-laya-router](https://github.com/derrickqin/google-adk-laya-router) | 4 | Python | 2026-10-02 | Route each ADK request to the right Gemini tier with Laya on a CPU-only container (Cloud Run), plus an eval scored by co |
 | 38 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-10-03 | pip install gauntlet-evals · v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against |
 | 39 | [Deivid9920/PROMETHEUSV2-NEUROTOPOLOGY](https://github.com/Deivid9920/PROMETHEUSV2-NEUROTOPOLOGY) | 0 | Python | 2026-10-02 | Topological Data Analysis (TDA) layer for LLM self-improvement loops featuring persistent homology promotion gates, repr |
 | 40 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-10-07 | v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic |

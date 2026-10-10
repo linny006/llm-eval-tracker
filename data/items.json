@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25848,
+    "updated_at": "2026-10-10T00:47:41Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -7,15 +16,6 @@
     "stars": 1,
     "updated_at": "2026-10-10T00:43:36Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25848,
-    "updated_at": "2026-10-10T00:27:15Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -328,7 +328,7 @@
     "id": "derrickqin/google-adk-laya-router",
     "language": "Python",
     "name": "derrickqin/google-adk-laya-router",
-    "stars": 1,
+    "stars": 4,
     "updated_at": "2026-10-02T12:54:33Z",
     "url": "https://github.com/derrickqin/google-adk-laya-router"
   },
