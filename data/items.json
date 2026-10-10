@@ -1,5 +1,14 @@
 [
   {
+    "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
+    "id": "open-compass/opencompass",
+    "language": "Python",
+    "name": "open-compass/opencompass",
+    "stars": 7505,
+    "updated_at": "2026-10-10T08:10:24Z",
+    "url": "https://github.com/open-compass/opencompass"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -13,7 +22,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25860,
+    "stars": 25862,
     "updated_at": "2026-10-10T06:33:20Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -430,15 +439,6 @@
     "stars": 1,
     "updated_at": "2026-09-28T09:49:23Z",
     "url": "https://github.com/zahid23saim/llm-eval-harness"
-  },
-  {
-    "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
-    "id": "open-compass/opencompass",
-    "language": "Python",
-    "name": "open-compass/opencompass",
-    "stars": 7505,
-    "updated_at": "2026-09-28T08:23:57Z",
-    "url": "https://github.com/open-compass/opencompass"
   },
   {
     "description": "Detect & score LLM hallucinations by groundedness \u2014 labeled data, precision/recall/F1, runs offline with no API key. Plu",
