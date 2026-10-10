@@ -1,11 +1,20 @@
 [
   {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-10T03:54:07Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25856,
-    "updated_at": "2026-10-10T03:42:53Z",
+    "updated_at": "2026-10-10T03:55:43Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -99,15 +108,6 @@
     "url": "https://github.com/quannie255-star/FinData-Agent"
   },
   {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-09T14:08:59Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
     "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
     "id": "Icaro0310/devin-evals",
     "language": "Python",
@@ -139,7 +139,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5882,
+    "stars": 5883,
     "updated_at": "2026-10-09T04:45:52Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
