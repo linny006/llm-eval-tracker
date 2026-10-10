@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-10 07:00 UTC
+> ⏰ Last updated: 2026-10-10 07:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -47,8 +47,8 @@ expired items removed — so you can rely on what you see being current.
 | 3 | [instax-dutta/sysone-bench](https://github.com/instax-dutta/sysone-bench) | 6 | Python | 2026-10-10 | First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs |
 | 4 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-10-10 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
 | 5 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-10 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
-| 6 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11770 | Python | 2026-10-10 | AI Observability & Evaluation |
-| 7 | [truera/trulens](https://github.com/truera/trulens) | 3595 | Python | 2026-10-09 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 6 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11771 | Python | 2026-10-10 | AI Observability & Evaluation |
+| 7 | [truera/trulens](https://github.com/truera/trulens) | 3596 | Python | 2026-10-09 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 8 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-10-09 | Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu |
 | 9 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-10-09 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
 | 10 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 28 | TypeScript | 2026-10-09 | Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct |
