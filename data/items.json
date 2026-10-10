@@ -5,7 +5,7 @@
     "language": "TypeScript",
     "name": "IcodeNet/eval-dashboards",
     "stars": 1,
-    "updated_at": "2026-10-10T09:26:52Z",
+    "updated_at": "2026-10-10T09:44:32Z",
     "url": "https://github.com/IcodeNet/eval-dashboards"
   },
   {
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "open-compass/opencompass",
     "stars": 7505,
-    "updated_at": "2026-10-10T09:21:27Z",
+    "updated_at": "2026-10-10T09:42:26Z",
     "url": "https://github.com/open-compass/opencompass"
+  },
+  {
+    "description": "\u91d1\u878d\u957f\u6587\u672c\u667a\u80fd\u95ee\u7b54\u7cfb\u7edf\uff1a\u68c0\u7d22\u00b7\u5224\u5b9a\u00b7\u8bb0\u5fc6\u00b7\u5f52\u56e0\u56db\u5c42\u5168\u94fe\uff08BM25F \u9010\u9009\u9879\u68c0\u7d22 + \u9009\u9879\u7ea7\u8bc1\u636e\u9694\u79bb + \u5206\u5c42\u8bb0\u5fc6\u538b\u7f29 + \u5f15\u7528\u89c2\u6d4b\u5f52\u56e0\uff09\uff0c\u81ea\u5efa\u4e94\u57df\u8bc4\u6d4b\u96c6\uff08\u6cd5\u89c4/\u8d22\u62a5/\u4fdd\u9669/\u5408\u540c/\u7814\u62a5\uff0c50 \u9898\u542b 193 \u9875\u52df\u96c6\u8bf4\u660e\u4e66\uff09\uff0c791 \u4f8b\u6d4b\u8bd5\u3002\u573a\u666f",
+    "id": "quannie255-star/FinData-Agent",
+    "language": "Python",
+    "name": "quannie255-star/FinData-Agent",
+    "stars": 0,
+    "updated_at": "2026-10-10T09:34:12Z",
+    "url": "https://github.com/quannie255-star/FinData-Agent"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -115,15 +124,6 @@
     "stars": 360,
     "updated_at": "2026-10-09T23:40:16Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "\u91d1\u878d\u957f\u6587\u672c\u667a\u80fd\u95ee\u7b54\u7cfb\u7edf\uff1a\u68c0\u7d22\u00b7\u5224\u5b9a\u00b7\u8bb0\u5fc6\u00b7\u5f52\u56e0\u56db\u5c42\u5168\u94fe\uff08BM25F \u9010\u9009\u9879\u68c0\u7d22 + \u9009\u9879\u7ea7\u8bc1\u636e\u9694\u79bb + \u5206\u5c42\u8bb0\u5fc6\u538b\u7f29 + \u5f15\u7528\u89c2\u6d4b\u5f52\u56e0\uff09\uff0c\u81ea\u5efa\u4e94\u57df\u8bc4\u6d4b\u96c6\uff08\u6cd5\u89c4/\u8d22\u62a5/\u4fdd\u9669/\u5408\u540c/\u7814\u62a5\uff0c50 \u9898\u542b 193 \u9875\u52df\u96c6\u8bf4\u660e\u4e66\uff09\uff0c716 \u4f8b\u6d4b\u8bd5\u3002\u573a\u666f",
-    "id": "quannie255-star/FinData-Agent",
-    "language": "Python",
-    "name": "quannie255-star/FinData-Agent",
-    "stars": 0,
-    "updated_at": "2026-10-09T15:13:22Z",
-    "url": "https://github.com/quannie255-star/FinData-Agent"
   },
   {
     "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
