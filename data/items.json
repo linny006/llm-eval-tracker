@@ -1,5 +1,14 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 360,
+    "updated_at": "2026-10-10T13:27:29Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -41,7 +50,7 @@
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-10-10T10:37:51Z",
+    "updated_at": "2026-10-10T13:30:10Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
@@ -133,15 +142,6 @@
     "stars": 28,
     "updated_at": "2026-10-09T19:53:11Z",
     "url": "https://github.com/sx4im/skillcheck"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 360,
-    "updated_at": "2026-10-09T23:40:16Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
