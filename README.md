@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-10 01:30 UTC
+> ⏰ Last updated: 2026-10-10 01:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,7 +42,7 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25849 | TypeScript | 2026-10-10 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25850 | TypeScript | 2026-10-10 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 2 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 1 | — | 2026-10-10 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11769 | Python | 2026-10-10 | AI Observability & Evaluation |
 | 4 | [truera/trulens](https://github.com/truera/trulens) | 3595 | Python | 2026-10-09 | Evaluation and Tracking for LLM Experiments and AI Agents |
