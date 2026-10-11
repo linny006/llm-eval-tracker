@@ -5,8 +5,17 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-10-11T18:56:24Z",
+    "updated_at": "2026-10-11T19:13:28Z",
     "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25898,
+    "updated_at": "2026-10-11T18:55:16Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
@@ -31,7 +40,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11786,
+    "stars": 11787,
     "updated_at": "2026-10-11T17:50:39Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -43,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T17:47:07Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25897,
-    "updated_at": "2026-10-11T18:55:16Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
