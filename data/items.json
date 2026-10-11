@@ -1,11 +1,20 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11785,
+    "updated_at": "2026-10-11T17:44:42Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25897,
-    "updated_at": "2026-10-11T17:26:07Z",
+    "updated_at": "2026-10-11T17:42:27Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -34,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T14:24:44Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11785,
-    "updated_at": "2026-10-11T14:28:15Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Independent-eval-Qwen3-0.6B-ondevice-router-40cases",
