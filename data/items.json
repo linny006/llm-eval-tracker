@@ -4,9 +4,18 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25896,
-    "updated_at": "2026-10-11T16:11:25Z",
+    "stars": 25897,
+    "updated_at": "2026-10-11T16:29:27Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
+    "id": "IcodeNet/eval-dashboards",
+    "language": "TypeScript",
+    "name": "IcodeNet/eval-dashboards",
+    "stars": 1,
+    "updated_at": "2026-10-11T16:28:36Z",
+    "url": "https://github.com/IcodeNet/eval-dashboards"
   },
   {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
@@ -34,15 +43,6 @@
     "stars": 11785,
     "updated_at": "2026-10-11T14:28:15Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
-    "id": "IcodeNet/eval-dashboards",
-    "language": "TypeScript",
-    "name": "IcodeNet/eval-dashboards",
-    "stars": 1,
-    "updated_at": "2026-10-11T15:59:06Z",
-    "url": "https://github.com/IcodeNet/eval-dashboards"
   },
   {
     "description": "Independent-eval-Qwen3-0.6B-ondevice-router-40cases",
