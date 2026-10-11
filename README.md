@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-11 10:00 UTC
+> ⏰ Last updated: 2026-10-11 10:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -51,7 +51,7 @@ expired items removed — so you can rely on what you see being current.
 | 7 | [mrodgersjs-web/rig-enhanced-evals](https://github.com/mrodgersjs-web/rig-enhanced-evals) | 0 | Python | 2026-10-10 | L10 self-evolving LLM evaluation harness that learns from failures — faithfulness, relevance, toxicity, format metrics w |
 | 8 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 28 | TypeScript | 2026-10-10 | Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct |
 | 9 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 360 | TypeScript | 2026-10-10 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 10 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7508 | Python | 2026-10-10 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
+| 10 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7507 | Python | 2026-10-10 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
 | 11 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-10 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
 | 12 | [IcodeNet/eval-dashboards](https://github.com/IcodeNet/eval-dashboards) | 1 | TypeScript | 2026-10-10 | Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style — bring y |
 | 13 | [quannie255-star/FinData-Agent](https://github.com/quannie255-star/FinData-Agent) | 0 | Python | 2026-10-10 | 金融长文本智能问答系统：检索·判定·记忆·归因四层全链（BM25F 逐选项检索 + 选项级证据隔离 + 分层记忆压缩 + 引用观测归因），自建五域评测集（法规/财报/保险/合同/研报，50 题含 193 页募集说明书），791 例测试。场景 |
