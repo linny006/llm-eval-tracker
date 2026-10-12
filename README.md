@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-12 06:15 UTC
+> ⏰ Last updated: 2026-10-12 06:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,8 +42,8 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [judgekeeper/judgekeeper](https://github.com/judgekeeper/judgekeeper) | 0 | Python | 2026-10-12 | Check your LLM-as-a-judge: see how often it agrees with human labels, in one command. |
-| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25911 | TypeScript | 2026-10-12 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25913 | TypeScript | 2026-10-12 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 2 | [judgekeeper/judgekeeper](https://github.com/judgekeeper/judgekeeper) | 0 | Python | 2026-10-12 | Check your LLM-as-a-judge: see how often it agrees with human labels, in one command. |
 | 3 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 3 | TypeScript | 2026-10-12 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 4 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-10-12 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
 | 5 | [amareshhebbar/gitgrounded](https://github.com/amareshhebbar/gitgrounded) | 0 | Python | 2026-10-12 | Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old  |
@@ -62,7 +62,7 @@ expired items removed — so you can rely on what you see being current.
 | 18 | [quannie255-star/FinData-Agent](https://github.com/quannie255-star/FinData-Agent) | 0 | Python | 2026-10-10 | 金融长文本智能问答系统：检索·判定·记忆·归因四层全链（BM25F 逐选项检索 + 选项级证据隔离 + 分层记忆压缩 + 引用观测归因），自建五域评测集（法规/财报/保险/合同/研报，50 题含 193 页募集说明书），791 例测试。场景 |
 | 19 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 1 | — | 2026-10-10 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 20 | [instax-dutta/sysone-bench](https://github.com/instax-dutta/sysone-bench) | 6 | Python | 2026-10-10 | First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs |
-| 21 | [truera/trulens](https://github.com/truera/trulens) | 3597 | Python | 2026-10-09 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 21 | [truera/trulens](https://github.com/truera/trulens) | 3597 | Python | 2026-10-12 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 22 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-10-09 | Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu |
 | 23 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-10-09 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
 | 24 | [Icaro0310/devin-evals](https://github.com/Icaro0310/devin-evals) | 1 | Python | 2026-10-09 | Deterministic eval harness: replay recorded Devin sessions against rubric graders |

@@ -1,21 +1,21 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25913,
+    "updated_at": "2026-10-12T06:22:06Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
     "id": "judgekeeper/judgekeeper",
     "language": "Python",
     "name": "judgekeeper/judgekeeper",
     "stars": 0,
-    "updated_at": "2026-10-12T05:37:07Z",
+    "updated_at": "2026-10-12T06:21:40Z",
     "url": "https://github.com/judgekeeper/judgekeeper"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25911,
-    "updated_at": "2026-10-12T06:15:17Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
@@ -41,7 +41,7 @@
     "language": "Python",
     "name": "amareshhebbar/gitgrounded",
     "stars": 0,
-    "updated_at": "2026-10-12T05:12:16Z",
+    "updated_at": "2026-10-12T06:24:50Z",
     "url": "https://github.com/amareshhebbar/gitgrounded"
   },
   {
@@ -185,7 +185,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3597,
-    "updated_at": "2026-10-09T21:56:34Z",
+    "updated_at": "2026-10-12T06:20:36Z",
     "url": "https://github.com/truera/trulens"
   },
   {
