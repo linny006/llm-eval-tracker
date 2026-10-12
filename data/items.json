@@ -1,11 +1,29 @@
 [
   {
+    "description": "Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old ",
+    "id": "amareshhebbar/gitgrounded",
+    "language": "Python",
+    "name": "amareshhebbar/gitgrounded",
+    "stars": 0,
+    "updated_at": "2026-10-12T04:59:09Z",
+    "url": "https://github.com/amareshhebbar/gitgrounded"
+  },
+  {
+    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
+    "id": "saddled-panicattack529/idea-evaluation-pipeline",
+    "language": "\u2014",
+    "name": "saddled-panicattack529/idea-evaluation-pipeline",
+    "stars": 0,
+    "updated_at": "2026-10-12T04:48:21Z",
+    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25910,
-    "updated_at": "2026-10-12T04:19:17Z",
+    "updated_at": "2026-10-12T05:00:17Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -36,15 +54,6 @@
     "url": "https://github.com/judgekeeper/judgekeeper"
   },
   {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-10-12T02:57:42Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
     "id": "jeremylongshore/j-rig-skill-binary-eval",
     "language": "TypeScript",
@@ -68,7 +77,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-10-12T04:35:46Z",
+    "updated_at": "2026-10-12T04:56:49Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -175,7 +184,7 @@
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3596,
+    "stars": 3597,
     "updated_at": "2026-10-09T21:56:34Z",
     "url": "https://github.com/truera/trulens"
   },
@@ -349,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-10-04T18:48:09Z",
     "url": "https://github.com/jatinsihag2345/llm-eval-toolkit"
-  },
-  {
-    "description": "Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old ",
-    "id": "amareshhebbar/gitgrounded",
-    "language": "Python",
-    "name": "amareshhebbar/gitgrounded",
-    "stars": 0,
-    "updated_at": "2026-10-05T09:31:26Z",
-    "url": "https://github.com/amareshhebbar/gitgrounded"
   },
   {
     "description": "Route each ADK request to the right Gemini tier with Laya on a CPU-only container (Cloud Run), plus an eval scored by co",
