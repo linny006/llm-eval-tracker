@@ -4,9 +4,18 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25928,
+    "stars": 25929,
     "updated_at": "2026-10-12T13:41:26Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11807,
+    "updated_at": "2026-10-12T13:37:56Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-10-12T13:41:52Z",
+    "updated_at": "2026-10-12T13:58:25Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -34,15 +43,6 @@
     "stars": 7505,
     "updated_at": "2026-10-12T12:15:58Z",
     "url": "https://github.com/open-compass/opencompass"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11806,
-    "updated_at": "2026-10-12T13:37:56Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Measure whether an Agent Skill actually helps \u2014 paired with/without experiments, deterministic checks, blind judge revie",
