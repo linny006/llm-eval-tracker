@@ -1,5 +1,23 @@
 [
   {
+    "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
+    "id": "open-compass/opencompass",
+    "language": "Python",
+    "name": "open-compass/opencompass",
+    "stars": 7505,
+    "updated_at": "2026-10-12T07:18:09Z",
+    "url": "https://github.com/open-compass/opencompass"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25915,
+    "updated_at": "2026-10-12T07:13:23Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old ",
     "id": "amareshhebbar/gitgrounded",
     "language": "Python",
@@ -16,15 +34,6 @@
     "stars": 360,
     "updated_at": "2026-10-12T07:11:36Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25913,
-    "updated_at": "2026-10-12T07:13:23Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
@@ -142,15 +151,6 @@
     "stars": 28,
     "updated_at": "2026-10-10T16:27:58Z",
     "url": "https://github.com/sx4im/skillcheck"
-  },
-  {
-    "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
-    "id": "open-compass/opencompass",
-    "language": "Python",
-    "name": "open-compass/opencompass",
-    "stars": 7505,
-    "updated_at": "2026-10-10T12:09:20Z",
-    "url": "https://github.com/open-compass/opencompass"
   },
   {
     "description": "\u91d1\u878d\u957f\u6587\u672c\u667a\u80fd\u95ee\u7b54\u7cfb\u7edf\uff1a\u68c0\u7d22\u00b7\u5224\u5b9a\u00b7\u8bb0\u5fc6\u00b7\u5f52\u56e0\u56db\u5c42\u5168\u94fe\uff08BM25F \u9010\u9009\u9879\u68c0\u7d22 + \u9009\u9879\u7ea7\u8bc1\u636e\u9694\u79bb + \u5206\u5c42\u8bb0\u5fc6\u538b\u7f29 + \u5f15\u7528\u89c2\u6d4b\u5f52\u56e0\uff09\uff0c\u81ea\u5efa\u4e94\u57df\u8bc4\u6d4b\u96c6\uff08\u6cd5\u89c4/\u8d22\u62a5/\u4fdd\u9669/\u5408\u540c/\u7814\u62a5\uff0c50 \u9898\u542b 193 \u9875\u52df\u96c6\u8bf4\u660e\u4e66\uff09\uff0c791 \u4f8b\u6d4b\u8bd5\u3002\u573a\u666f",
