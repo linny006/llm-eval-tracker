@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25929,
+    "updated_at": "2026-10-12T12:41:09Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
     "id": "open-compass/opencompass",
     "language": "Python",
@@ -9,22 +18,22 @@
     "url": "https://github.com/open-compass/opencompass"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25929,
-    "updated_at": "2026-10-12T11:41:40Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-10-12T12:24:17Z",
+    "updated_at": "2026-10-12T12:44:45Z",
     "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11806,
+    "updated_at": "2026-10-12T11:18:37Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -97,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T04:48:21Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11805,
-    "updated_at": "2026-10-12T11:18:37Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
