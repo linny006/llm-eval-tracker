@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
+    "id": "Kondwani10/Origin-Continuum",
+    "language": "\u2014",
+    "name": "Kondwani10/Origin-Continuum",
+    "stars": 1,
+    "updated_at": "2026-10-12T07:44:18Z",
+    "url": "https://github.com/Kondwani10/Origin-Continuum"
+  },
+  {
     "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
     "id": "open-compass/opencompass",
     "language": "Python",
@@ -13,7 +22,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25915,
+    "stars": 25916,
     "updated_at": "2026-10-12T07:13:23Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -32,7 +41,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-10-12T07:11:36Z",
+    "updated_at": "2026-10-12T07:32:36Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -160,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T09:34:12Z",
     "url": "https://github.com/quannie255-star/FinData-Agent"
-  },
-  {
-    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
-    "id": "Kondwani10/Origin-Continuum",
-    "language": "\u2014",
-    "name": "Kondwani10/Origin-Continuum",
-    "stars": 1,
-    "updated_at": "2026-10-10T07:20:02Z",
-    "url": "https://github.com/Kondwani10/Origin-Continuum"
   },
   {
     "description": "First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs",
