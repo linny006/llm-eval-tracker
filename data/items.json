@@ -1,5 +1,14 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 360,
+    "updated_at": "2026-10-12T07:58:28Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -23,7 +32,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25916,
-    "updated_at": "2026-10-12T07:13:23Z",
+    "updated_at": "2026-10-12T07:59:59Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -36,13 +45,13 @@
     "url": "https://github.com/amareshhebbar/gitgrounded"
   },
   {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 360,
-    "updated_at": "2026-10-12T07:32:36Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3598,
+    "updated_at": "2026-10-12T06:20:36Z",
+    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
@@ -85,7 +94,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11799,
+    "stars": 11801,
     "updated_at": "2026-10-12T03:55:13Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -178,15 +187,6 @@
     "stars": 6,
     "updated_at": "2026-10-10T04:54:10Z",
     "url": "https://github.com/instax-dutta/sysone-bench"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3597,
-    "updated_at": "2026-10-12T06:20:36Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu",
