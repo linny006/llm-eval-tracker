@@ -1,5 +1,23 @@
 [
   {
+    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
+    "id": "saddled-panicattack529/idea-evaluation-pipeline",
+    "language": "\u2014",
+    "name": "saddled-panicattack529/idea-evaluation-pipeline",
+    "stars": 0,
+    "updated_at": "2026-10-11T23:57:19Z",
+    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 360,
+    "updated_at": "2026-10-11T23:45:32Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
     "id": "ahmedmoha9088/PhoenixFish",
     "language": "Java",
@@ -9,15 +27,6 @@
     "url": "https://github.com/ahmedmoha9088/PhoenixFish"
   },
   {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-10-11T22:06:35Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -25,15 +34,6 @@
     "stars": 25902,
     "updated_at": "2026-10-11T22:01:21Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 360,
-    "updated_at": "2026-10-11T21:08:54Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
