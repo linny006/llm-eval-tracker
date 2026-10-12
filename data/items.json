@@ -1,11 +1,20 @@
 [
   {
+    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
+    "id": "judgekeeper/judgekeeper",
+    "language": "Python",
+    "name": "judgekeeper/judgekeeper",
+    "stars": 0,
+    "updated_at": "2026-10-12T22:16:10Z",
+    "url": "https://github.com/judgekeeper/judgekeeper"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25944,
-    "updated_at": "2026-10-12T22:10:31Z",
+    "updated_at": "2026-10-12T22:27:06Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -13,7 +22,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11809,
+    "stars": 11810,
     "updated_at": "2026-10-12T21:55:46Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -34,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-10-12T20:26:32Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
-    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
-    "id": "judgekeeper/judgekeeper",
-    "language": "Python",
-    "name": "judgekeeper/judgekeeper",
-    "stars": 0,
-    "updated_at": "2026-10-12T18:35:17Z",
-    "url": "https://github.com/judgekeeper/judgekeeper"
   },
   {
     "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
