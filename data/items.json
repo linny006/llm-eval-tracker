@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11808,
+    "updated_at": "2026-10-12T17:43:48Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
     "id": "judgekeeper/judgekeeper",
     "language": "Python",
@@ -23,7 +32,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-10-12T16:59:57Z",
+    "updated_at": "2026-10-12T17:44:09Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -34,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T16:58:07Z",
     "url": "https://github.com/goldbarth/chartula-evals"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11808,
-    "updated_at": "2026-10-12T17:03:03Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -76,7 +76,7 @@
     "id": "open-compass/opencompass",
     "language": "Python",
     "name": "open-compass/opencompass",
-    "stars": 7505,
+    "stars": 7506,
     "updated_at": "2026-10-12T12:15:58Z",
     "url": "https://github.com/open-compass/opencompass"
   },
