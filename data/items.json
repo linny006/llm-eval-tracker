@@ -1,11 +1,29 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 360,
+    "updated_at": "2026-10-12T13:00:06Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
+    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
+    "id": "Kondwani10/Origin-Continuum",
+    "language": "\u2014",
+    "name": "Kondwani10/Origin-Continuum",
+    "stars": 1,
+    "updated_at": "2026-10-12T12:51:11Z",
+    "url": "https://github.com/Kondwani10/Origin-Continuum"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25929,
-    "updated_at": "2026-10-12T12:41:09Z",
+    "updated_at": "2026-10-12T12:59:41Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -18,15 +36,6 @@
     "url": "https://github.com/open-compass/opencompass"
   },
   {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 360,
-    "updated_at": "2026-10-12T12:44:45Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -34,15 +43,6 @@
     "stars": 11806,
     "updated_at": "2026-10-12T11:18:37Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
-    "id": "Kondwani10/Origin-Continuum",
-    "language": "\u2014",
-    "name": "Kondwani10/Origin-Continuum",
-    "stars": 1,
-    "updated_at": "2026-10-12T09:41:30Z",
-    "url": "https://github.com/Kondwani10/Origin-Continuum"
   },
   {
     "description": "Measure whether an Agent Skill actually helps \u2014 paired with/without experiments, deterministic checks, blind judge revie",
