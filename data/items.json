@@ -1,5 +1,14 @@
 [
   {
+    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
+    "id": "judgekeeper/judgekeeper",
+    "language": "Python",
+    "name": "judgekeeper/judgekeeper",
+    "stars": 0,
+    "updated_at": "2026-10-13T02:20:28Z",
+    "url": "https://github.com/judgekeeper/judgekeeper"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -13,7 +22,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25944,
+    "stars": 25945,
     "updated_at": "2026-10-13T01:44:05Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -25,15 +34,6 @@
     "stars": 11813,
     "updated_at": "2026-10-13T01:23:54Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
-    "id": "judgekeeper/judgekeeper",
-    "language": "Python",
-    "name": "judgekeeper/judgekeeper",
-    "stars": 0,
-    "updated_at": "2026-10-13T01:26:00Z",
-    "url": "https://github.com/judgekeeper/judgekeeper"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
@@ -68,7 +68,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3598,
-    "updated_at": "2026-10-12T18:31:23Z",
+    "updated_at": "2026-10-13T02:17:36Z",
     "url": "https://github.com/truera/trulens"
   },
   {
