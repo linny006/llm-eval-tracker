@@ -1,5 +1,14 @@
 [
   {
+    "description": "Curated list of benchmarks and rankings of models, agents and other AI-things.",
+    "id": "lorien/awesome-ai-benchmarks",
+    "language": "\u2014",
+    "name": "lorien/awesome-ai-benchmarks",
+    "stars": 1,
+    "updated_at": "2026-10-13T09:06:25Z",
+    "url": "https://github.com/lorien/awesome-ai-benchmarks"
+  },
+  {
     "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
     "id": "open-compass/opencompass",
     "language": "Python",
@@ -193,7 +202,7 @@
     "id": "sx4im/skillcheck",
     "language": "TypeScript",
     "name": "sx4im/skillcheck",
-    "stars": 28,
+    "stars": 29,
     "updated_at": "2026-10-10T16:27:58Z",
     "url": "https://github.com/sx4im/skillcheck"
   },
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-13T02:15:01Z",
     "url": "https://github.com/lehigh-university-libraries/htr"
-  },
-  {
-    "description": "\u7ed9\u522b\u4eba\u7684 Agent \u505a\u4f53\u68c0\u7684\u8bc4\u6d4b Agent\uff1a\u672c\u5730\u4e09\u5bb6\u65cf\u88c1\u5224\u6253\u5206\u3001\u5206\u6b67\u4ea4\u4e91\u7aef\u4ef2\u88c1\u3001badcase \u805a\u7c7b\u3001\u8bc1\u636e\u5361\u7247\u3001pass^3 \u56de\u5f52 | \u7b2c\u4e09\u5c4a NVIDIA DGX Spark \u9ed1\u5ba2\u677e \u00b7 \u80fd\u5de5\u667a\u4eba5X",
-    "id": "VioletScar-Hui/sparkjury",
-    "language": "Python",
-    "name": "VioletScar-Hui/sparkjury",
-    "stars": 3,
-    "updated_at": "2026-09-29T13:43:32Z",
-    "url": "https://github.com/VioletScar-Hui/sparkjury"
   }
 ]
