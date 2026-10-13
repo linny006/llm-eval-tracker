@@ -1,5 +1,14 @@
 [
   {
+    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
+    "id": "judgekeeper/judgekeeper",
+    "language": "Python",
+    "name": "judgekeeper/judgekeeper",
+    "stars": 0,
+    "updated_at": "2026-10-13T00:24:05Z",
+    "url": "https://github.com/judgekeeper/judgekeeper"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -7,15 +16,6 @@
     "stars": 1,
     "updated_at": "2026-10-13T00:01:11Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
-    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
-    "id": "judgekeeper/judgekeeper",
-    "language": "Python",
-    "name": "judgekeeper/judgekeeper",
-    "stars": 0,
-    "updated_at": "2026-10-12T23:59:11Z",
-    "url": "https://github.com/judgekeeper/judgekeeper"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -41,7 +41,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 361,
-    "updated_at": "2026-10-13T00:12:10Z",
+    "updated_at": "2026-10-13T00:26:45Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
