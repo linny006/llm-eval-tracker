@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11823,
+    "updated_at": "2026-10-13T21:43:37Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Handwritten Text Recognition llm eval tool",
     "id": "lehigh-university-libraries/htr",
     "language": "Go",
@@ -36,21 +45,12 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11822,
-    "updated_at": "2026-10-13T21:22:54Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 363,
-    "updated_at": "2026-10-13T21:13:47Z",
+    "updated_at": "2026-10-13T21:34:17Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
