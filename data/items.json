@@ -1,5 +1,14 @@
 [
   {
+    "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
+    "id": "open-compass/opencompass",
+    "language": "Python",
+    "name": "open-compass/opencompass",
+    "stars": 7507,
+    "updated_at": "2026-10-13T07:54:11Z",
+    "url": "https://github.com/open-compass/opencompass"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -7,15 +16,6 @@
     "stars": 362,
     "updated_at": "2026-10-13T07:36:14Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
-    "id": "open-compass/opencompass",
-    "language": "Python",
-    "name": "open-compass/opencompass",
-    "stars": 7507,
-    "updated_at": "2026-10-13T07:32:21Z",
-    "url": "https://github.com/open-compass/opencompass"
   },
   {
     "description": "Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old ",
@@ -40,7 +40,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25956,
+    "stars": 25957,
     "updated_at": "2026-10-13T06:04:07Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
