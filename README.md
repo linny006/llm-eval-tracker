@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-13 16:15 UTC
+> ⏰ Last updated: 2026-10-13 16:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,14 +43,14 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25963 | TypeScript | 2026-10-13 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11819 | Python | 2026-10-13 | AI Observability & Evaluation |
-| 3 | [truera/trulens](https://github.com/truera/trulens) | 3600 | Python | 2026-10-13 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 4 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-10-13 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
-| 5 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-10-13 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
-| 6 | [judgekeeper/judgekeeper](https://github.com/judgekeeper/judgekeeper) | 0 | Python | 2026-10-13 | Check your LLM-as-a-judge: see how often it agrees with human labels, in one command. |
-| 7 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-13 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
-| 8 | [glibshchur/fieldnote](https://github.com/glibshchur/fieldnote) | 0 | Python | 2026-10-13 | Multimodal RAG for HVAC field technicians: retrieves across manual charts, job-site photos and support calls, with an ev |
-| 9 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 363 | TypeScript | 2026-10-13 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 2 | [judgekeeper/judgekeeper](https://github.com/judgekeeper/judgekeeper) | 0 | Python | 2026-10-13 | Check your LLM-as-a-judge: see how often it agrees with human labels, in one command. |
+| 3 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 363 | TypeScript | 2026-10-13 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11819 | Python | 2026-10-13 | AI Observability & Evaluation |
+| 5 | [truera/trulens](https://github.com/truera/trulens) | 3600 | Python | 2026-10-13 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 6 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-10-13 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
+| 7 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-10-13 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
+| 8 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-13 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
+| 9 | [glibshchur/fieldnote](https://github.com/glibshchur/fieldnote) | 0 | Python | 2026-10-13 | Multimodal RAG for HVAC field technicians: retrieves across manual charts, job-site photos and support calls, with an ev |
 | 10 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7511 | Python | 2026-10-13 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
 | 11 | [lorien/awesome-ai-benchmarks](https://github.com/lorien/awesome-ai-benchmarks) | 1 | — | 2026-10-13 | Curated list of benchmarks and rankings of models, agents and other AI-things. |
 | 12 | [amareshhebbar/gitgrounded](https://github.com/amareshhebbar/gitgrounded) | 0 | Python | 2026-10-13 | Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old  |
