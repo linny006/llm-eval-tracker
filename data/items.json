@@ -9,6 +9,15 @@
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
+    "description": "Multimodal RAG for HVAC field technicians: retrieves across manual charts, job-site photos and support calls, with an ev",
+    "id": "glibshchur/fieldnote",
+    "language": "Python",
+    "name": "glibshchur/fieldnote",
+    "stars": 0,
+    "updated_at": "2026-10-13T11:40:16Z",
+    "url": "https://github.com/glibshchur/fieldnote"
+  },
+  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -32,7 +41,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 363,
-    "updated_at": "2026-10-13T12:25:21Z",
+    "updated_at": "2026-10-13T12:40:48Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -85,7 +94,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25961,
+    "stars": 25962,
     "updated_at": "2026-10-13T06:04:07Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-29T19:30:39Z",
     "url": "https://github.com/IonDen/mlx-quant-fidelity"
-  },
-  {
-    "description": "Handwritten Text Recognition llm eval tool",
-    "id": "lehigh-university-libraries/htr",
-    "language": "Go",
-    "name": "lehigh-university-libraries/htr",
-    "stars": 2,
-    "updated_at": "2026-10-13T12:11:50Z",
-    "url": "https://github.com/lehigh-university-libraries/htr"
   }
 ]
