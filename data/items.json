@@ -1,5 +1,14 @@
 [
   {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-13T12:14:56Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -151,15 +160,6 @@
     "stars": 5895,
     "updated_at": "2026-10-12T04:26:11Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-12T00:26:07Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
@@ -446,7 +446,7 @@
     "language": "Go",
     "name": "lehigh-university-libraries/htr",
     "stars": 2,
-    "updated_at": "2026-10-13T02:15:01Z",
+    "updated_at": "2026-10-13T12:11:50Z",
     "url": "https://github.com/lehigh-university-libraries/htr"
   }
 ]
