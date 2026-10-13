@@ -13,9 +13,18 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25964,
+    "stars": 25965,
     "updated_at": "2026-10-13T16:56:49Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11820,
+    "updated_at": "2026-10-13T17:07:09Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
@@ -23,17 +32,8 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 363,
-    "updated_at": "2026-10-13T16:56:34Z",
+    "updated_at": "2026-10-13T17:02:52Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11819,
-    "updated_at": "2026-10-13T16:37:29Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
