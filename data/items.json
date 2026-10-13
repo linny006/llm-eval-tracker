@@ -1,5 +1,23 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11818,
+    "updated_at": "2026-10-13T15:41:39Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25962,
+    "updated_at": "2026-10-13T15:37:35Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
@@ -27,30 +45,12 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25964,
-    "updated_at": "2026-10-13T15:27:59Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11819,
-    "updated_at": "2026-10-13T15:17:35Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
     "id": "judgekeeper/judgekeeper",
     "language": "Python",
     "name": "judgekeeper/judgekeeper",
     "stars": 0,
-    "updated_at": "2026-10-13T14:52:58Z",
+    "updated_at": "2026-10-13T15:31:56Z",
     "url": "https://github.com/judgekeeper/judgekeeper"
   },
   {
@@ -166,7 +166,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5895,
+    "stars": 5893,
     "updated_at": "2026-10-12T04:26:11Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
