@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "open-compass/opencompass",
     "stars": 7507,
-    "updated_at": "2026-10-13T07:54:11Z",
+    "updated_at": "2026-10-13T08:14:08Z",
     "url": "https://github.com/open-compass/opencompass"
   },
   {
@@ -16,6 +16,15 @@
     "stars": 362,
     "updated_at": "2026-10-13T07:36:14Z",
     "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11818,
+    "updated_at": "2026-10-13T07:19:29Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old ",
@@ -61,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-10-13T05:41:48Z",
     "url": "https://github.com/judgekeeper/judgekeeper"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11817,
-    "updated_at": "2026-10-13T07:19:29Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
