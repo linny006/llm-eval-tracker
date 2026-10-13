@@ -1,12 +1,12 @@
 [
   {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 363,
-    "updated_at": "2026-10-13T21:46:22Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
+    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
+    "id": "homemade-software-inc/completion-kit",
+    "language": "Ruby",
+    "name": "homemade-software-inc/completion-kit",
+    "stars": 3,
+    "updated_at": "2026-10-13T22:14:52Z",
+    "url": "https://github.com/homemade-software-inc/completion-kit"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11823,
-    "updated_at": "2026-10-13T21:55:56Z",
+    "updated_at": "2026-10-13T22:08:37Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 363,
+    "updated_at": "2026-10-13T22:14:30Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Handwritten Text Recognition llm eval tool",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-07T23:45:09Z",
     "url": "https://github.com/ChelseaKR/plumbline"
-  },
-  {
-    "description": "Automated LLM Evaluation Harness (Superseded by Passmark & Bench-Suite)",
-    "id": "therealfullmetal55555/llm-eval-harness",
-    "language": "Python",
-    "name": "therealfullmetal55555/llm-eval-harness",
-    "stars": 1,
-    "updated_at": "2026-09-30T13:02:17Z",
-    "url": "https://github.com/therealfullmetal55555/llm-eval-harness"
   }
 ]
