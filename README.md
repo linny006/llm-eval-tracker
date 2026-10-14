@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-14 01:30 UTC
+> ⏰ Last updated: 2026-10-14 01:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -53,7 +53,7 @@ expired items removed — so you can rely on what you see being current.
 | 9 | [judgekeeper/judgekeeper](https://github.com/judgekeeper/judgekeeper) | 0 | Python | 2026-10-13 | Check your LLM-as-a-judge: see how often it agrees with human labels, in one command. |
 | 10 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-13 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
 | 11 | [glibshchur/fieldnote](https://github.com/glibshchur/fieldnote) | 0 | Python | 2026-10-13 | Multimodal RAG for HVAC field technicians: retrieves across manual charts, job-site photos and support calls, with an ev |
-| 12 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7511 | Python | 2026-10-13 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
+| 12 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7512 | Python | 2026-10-13 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
 | 13 | [lorien/awesome-ai-benchmarks](https://github.com/lorien/awesome-ai-benchmarks) | 1 | — | 2026-10-13 | Curated list of benchmarks and rankings of models, agents and other AI-things. |
 | 14 | [amareshhebbar/gitgrounded](https://github.com/amareshhebbar/gitgrounded) | 0 | Python | 2026-10-13 | Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old  |
 | 15 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 1 | — | 2026-10-13 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
