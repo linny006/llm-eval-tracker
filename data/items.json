@@ -1,5 +1,23 @@
 [
   {
+    "description": "Official repository for \"CausalDS: Benchmarking Causal Reasoning in Data-Science Agents\"",
+    "id": "andleb/causalds",
+    "language": "Python",
+    "name": "andleb/causalds",
+    "stars": 3,
+    "updated_at": "2026-10-14T03:39:17Z",
+    "url": "https://github.com/andleb/causalds"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11826,
+    "updated_at": "2026-10-14T03:44:49Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -16,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T03:14:37Z",
     "url": "https://github.com/judgekeeper/judgekeeper"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11826,
-    "updated_at": "2026-10-14T02:43:27Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
@@ -58,7 +67,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25982,
+    "stars": 25983,
     "updated_at": "2026-10-14T00:52:59Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-02T01:34:20Z",
     "url": "https://github.com/Deivid9920/PROMETHEUSV2-NEUROTOPOLOGY"
-  },
-  {
-    "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
-    "id": "ChelseaKR/plumbline",
-    "language": "Python",
-    "name": "ChelseaKR/plumbline",
-    "stars": 1,
-    "updated_at": "2026-10-07T23:45:09Z",
-    "url": "https://github.com/ChelseaKR/plumbline"
   }
 ]
