@@ -1,5 +1,14 @@
 [
   {
+    "description": "\u7eaf\u79ef\u5206\u5236 5 \u5f20\u70b8\u91d1\u82b1\u89c4\u5219\u5f15\u64ce + AI \u64c2\u53f0 (zero-dependency TS engine for a 5-card Zha Jin Hua variant: 10 bots, LLM seats, paired evaluati",
+    "id": "FZF525/zhajinhua-ai-arena",
+    "language": "TypeScript",
+    "name": "FZF525/zhajinhua-ai-arena",
+    "stars": 1,
+    "updated_at": "2026-10-14T15:57:17Z",
+    "url": "https://github.com/FZF525/zhajinhua-ai-arena"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 11834,
     "updated_at": "2026-10-14T15:43:49Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "\u7eaf\u79ef\u5206\u5236 5 \u5f20\u70b8\u91d1\u82b1\u89c4\u5219\u5f15\u64ce + AI \u64c2\u53f0 (zero-dependency TS engine for a 5-card Zha Jin Hua variant: 10 bots, LLM seats, paired evaluati",
-    "id": "FZF525/zhajinhua-ai-arena",
-    "language": "TypeScript",
-    "name": "FZF525/zhajinhua-ai-arena",
-    "stars": 1,
-    "updated_at": "2026-10-14T15:41:56Z",
-    "url": "https://github.com/FZF525/zhajinhua-ai-arena"
   },
   {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -49,7 +49,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25996,
+    "stars": 25998,
     "updated_at": "2026-10-14T14:31:28Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
