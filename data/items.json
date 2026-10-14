@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11835,
-    "updated_at": "2026-10-14T16:29:19Z",
+    "updated_at": "2026-10-14T16:45:03Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Multi-agent simulation using LLMs. Agents autonomously decide actions for survival, reproduction, and social behavior in",
+    "id": "yukincom/llm-SugarScape",
+    "language": "Python",
+    "name": "yukincom/llm-SugarScape",
+    "stars": 7,
+    "updated_at": "2026-10-14T16:31:17Z",
+    "url": "https://github.com/yukincom/llm-SugarScape"
   },
   {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -36,20 +45,11 @@
     "url": "https://github.com/lehigh-university-libraries/htr"
   },
   {
-    "description": "Multi-agent simulation using LLMs. Agents autonomously decide actions for survival, reproduction, and social behavior in",
-    "id": "yukincom/llm-SugarScape",
-    "language": "Python",
-    "name": "yukincom/llm-SugarScape",
-    "stars": 7,
-    "updated_at": "2026-10-14T14:55:56Z",
-    "url": "https://github.com/yukincom/llm-SugarScape"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25999,
+    "stars": 26000,
     "updated_at": "2026-10-14T14:31:28Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
