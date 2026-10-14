@@ -1,5 +1,14 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 363,
+    "updated_at": "2026-10-14T22:28:12Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
     "id": "judgekeeper/judgekeeper",
     "language": "Python",
@@ -124,15 +133,6 @@
     "stars": 3,
     "updated_at": "2026-10-14T03:39:17Z",
     "url": "https://github.com/andleb/causalds"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 363,
-    "updated_at": "2026-10-14T22:20:21Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
