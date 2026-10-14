@@ -1,10 +1,19 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26001,
+    "updated_at": "2026-10-14T19:40:46Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11836,
+    "stars": 11837,
     "updated_at": "2026-10-14T19:17:10Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -14,17 +23,8 @@
     "language": "Python",
     "name": "judgekeeper/judgekeeper",
     "stars": 0,
-    "updated_at": "2026-10-14T19:38:18Z",
+    "updated_at": "2026-10-14T19:46:56Z",
     "url": "https://github.com/judgekeeper/judgekeeper"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26000,
-    "updated_at": "2026-10-14T19:40:46Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
@@ -85,7 +85,7 @@
     "id": "open-compass/opencompass",
     "language": "Python",
     "name": "open-compass/opencompass",
-    "stars": 7514,
+    "stars": 7515,
     "updated_at": "2026-10-14T11:52:57Z",
     "url": "https://github.com/open-compass/opencompass"
   },
