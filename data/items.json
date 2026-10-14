@@ -5,8 +5,17 @@
     "language": "Go",
     "name": "lehigh-university-libraries/htr",
     "stars": 2,
-    "updated_at": "2026-10-14T14:22:30Z",
+    "updated_at": "2026-10-14T14:42:53Z",
     "url": "https://github.com/lehigh-university-libraries/htr"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11834,
+    "updated_at": "2026-10-14T14:42:51Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25996,
-    "updated_at": "2026-10-14T14:21:39Z",
+    "updated_at": "2026-10-14T14:31:28Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -34,15 +43,6 @@
     "stars": 7514,
     "updated_at": "2026-10-14T11:52:57Z",
     "url": "https://github.com/open-compass/opencompass"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11833,
-    "updated_at": "2026-10-14T14:16:45Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
