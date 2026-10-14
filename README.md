@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-14 19:15 UTC
+> ⏰ Last updated: 2026-10-14 19:21 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [judgekeeper/judgekeeper](https://github.com/judgekeeper/judgekeeper) | 0 | Python | 2026-10-14 | Check your LLM-as-a-judge: see how often it agrees with human labels, in one command. |
-| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26000 | TypeScript | 2026-10-14 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11836 | Python | 2026-10-14 | AI Observability & Evaluation |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11836 | Python | 2026-10-14 | AI Observability & Evaluation |
+| 2 | [judgekeeper/judgekeeper](https://github.com/judgekeeper/judgekeeper) | 0 | Python | 2026-10-14 | Check your LLM-as-a-judge: see how often it agrees with human labels, in one command. |
+| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26000 | TypeScript | 2026-10-14 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 4 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 3 | Ruby | 2026-10-14 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
 | 5 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 14 | Python | 2026-10-14 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
 | 6 | [yukincom/llm-SugarScape](https://github.com/yukincom/llm-SugarScape) | 7 | Python | 2026-10-14 | Multi-agent simulation using LLMs. Agents autonomously decide actions for survival, reproduction, and social behavior in |
@@ -66,7 +66,7 @@ expired items removed — so you can rely on what you see being current.
 | 22 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-10-12 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
 | 23 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-10-12 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
 | 24 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-10-12 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 25 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5900 | Python | 2026-10-12 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 25 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5901 | Python | 2026-10-12 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 26 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-10-11 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
 | 27 | [IcodeNet/eval-dashboards](https://github.com/IcodeNet/eval-dashboards) | 1 | TypeScript | 2026-10-13 | Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style — bring y |
 | 28 | [lilyco-42/lyco-router-eval](https://github.com/lilyco-42/lyco-router-eval) | 0 | — | 2026-10-11 | Independent-eval-Qwen3-0.6B-ondevice-router-40cases |
