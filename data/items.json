@@ -1,5 +1,14 @@
 [
   {
+    "description": "\u7eaf\u79ef\u5206\u5236 5 \u5f20\u70b8\u91d1\u82b1\u89c4\u5219\u5f15\u64ce + AI \u64c2\u53f0 (zero-dependency TS engine for a 5-card Zha Jin Hua variant: 10 bots, LLM seats, paired evaluati",
+    "id": "FZF525/zhajinhua-ai-arena",
+    "language": "TypeScript",
+    "name": "FZF525/zhajinhua-ai-arena",
+    "stars": 1,
+    "updated_at": "2026-10-14T12:42:44Z",
+    "url": "https://github.com/FZF525/zhajinhua-ai-arena"
+  },
+  {
     "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
     "id": "open-compass/opencompass",
     "language": "Python",
@@ -14,17 +23,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11833,
-    "updated_at": "2026-10-14T11:16:39Z",
+    "updated_at": "2026-10-14T12:33:37Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "\u7eaf\u79ef\u5206\u5236 5 \u5f20\u70b8\u91d1\u82b1\u89c4\u5219\u5f15\u64ce + AI \u64c2\u53f0 (zero-dependency TS engine for a 5-card Zha Jin Hua variant: 10 bots, LLM seats, paired evaluati",
-    "id": "FZF525/zhajinhua-ai-arena",
-    "language": "TypeScript",
-    "name": "FZF525/zhajinhua-ai-arena",
-    "stars": 1,
-    "updated_at": "2026-10-14T10:48:19Z",
-    "url": "https://github.com/FZF525/zhajinhua-ai-arena"
   },
   {
     "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
@@ -211,7 +211,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5898,
+    "stars": 5899,
     "updated_at": "2026-10-12T04:26:11Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
