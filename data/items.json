@@ -1,11 +1,20 @@
 [
   {
+    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
+    "id": "judgekeeper/judgekeeper",
+    "language": "Python",
+    "name": "judgekeeper/judgekeeper",
+    "stars": 0,
+    "updated_at": "2026-10-14T22:55:27Z",
+    "url": "https://github.com/judgekeeper/judgekeeper"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 363,
-    "updated_at": "2026-10-14T22:42:10Z",
+    "updated_at": "2026-10-14T22:55:30Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -18,21 +27,12 @@
     "url": "https://github.com/homemade-software-inc/completion-kit"
   },
   {
-    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
-    "id": "judgekeeper/judgekeeper",
-    "language": "Python",
-    "name": "judgekeeper/judgekeeper",
-    "stars": 0,
-    "updated_at": "2026-10-14T22:23:49Z",
-    "url": "https://github.com/judgekeeper/judgekeeper"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26000,
-    "updated_at": "2026-10-14T20:57:09Z",
+    "updated_at": "2026-10-14T22:45:39Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -41,7 +41,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11839,
-    "updated_at": "2026-10-14T19:17:10Z",
+    "updated_at": "2026-10-14T22:51:09Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
