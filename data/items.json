@@ -1,11 +1,29 @@
 [
   {
+    "description": "Handwritten Text Recognition llm eval tool",
+    "id": "lehigh-university-libraries/htr",
+    "language": "Go",
+    "name": "lehigh-university-libraries/htr",
+    "stars": 2,
+    "updated_at": "2026-10-14T15:27:51Z",
+    "url": "https://github.com/lehigh-university-libraries/htr"
+  },
+  {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-14T15:15:38Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11834,
-    "updated_at": "2026-10-14T15:09:57Z",
+    "updated_at": "2026-10-14T15:24:36Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -18,15 +36,6 @@
     "url": "https://github.com/FZF525/zhajinhua-ai-arena"
   },
   {
-    "description": "Handwritten Text Recognition llm eval tool",
-    "id": "lehigh-university-libraries/htr",
-    "language": "Go",
-    "name": "lehigh-university-libraries/htr",
-    "stars": 2,
-    "updated_at": "2026-10-14T14:57:44Z",
-    "url": "https://github.com/lehigh-university-libraries/htr"
-  },
-  {
     "description": "Multi-agent simulation using LLMs. Agents autonomously decide actions for survival, reproduction, and social behavior in",
     "id": "yukincom/llm-SugarScape",
     "language": "Python",
@@ -34,15 +43,6 @@
     "stars": 7,
     "updated_at": "2026-10-14T14:55:56Z",
     "url": "https://github.com/yukincom/llm-SugarScape"
-  },
-  {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-14T14:47:07Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
