@@ -1,11 +1,29 @@
 [
   {
+    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
+    "id": "judgekeeper/judgekeeper",
+    "language": "Python",
+    "name": "judgekeeper/judgekeeper",
+    "stars": 0,
+    "updated_at": "2026-10-14T19:09:11Z",
+    "url": "https://github.com/judgekeeper/judgekeeper"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26000,
+    "updated_at": "2026-10-14T19:09:28Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11836,
-    "updated_at": "2026-10-14T18:59:38Z",
+    "updated_at": "2026-10-14T19:01:13Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -63,15 +81,6 @@
     "url": "https://github.com/lehigh-university-libraries/htr"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26000,
-    "updated_at": "2026-10-14T18:42:39Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
     "id": "open-compass/opencompass",
     "language": "Python",
@@ -124,15 +133,6 @@
     "stars": 363,
     "updated_at": "2026-10-14T18:24:15Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
-    "id": "judgekeeper/judgekeeper",
-    "language": "Python",
-    "name": "judgekeeper/judgekeeper",
-    "stars": 0,
-    "updated_at": "2026-10-14T18:17:46Z",
-    "url": "https://github.com/judgekeeper/judgekeeper"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
