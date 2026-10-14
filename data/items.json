@@ -1,5 +1,23 @@
 [
   {
+    "description": "Handwritten Text Recognition llm eval tool",
+    "id": "lehigh-university-libraries/htr",
+    "language": "Go",
+    "name": "lehigh-university-libraries/htr",
+    "stars": 2,
+    "updated_at": "2026-10-14T14:22:30Z",
+    "url": "https://github.com/lehigh-university-libraries/htr"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25996,
+    "updated_at": "2026-10-14T14:21:39Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "\u7eaf\u79ef\u5206\u5236 5 \u5f20\u70b8\u91d1\u82b1\u89c4\u5219\u5f15\u64ce + AI \u64c2\u53f0 (zero-dependency TS engine for a 5-card Zha Jin Hua variant: 10 bots, LLM seats, paired evaluati",
     "id": "FZF525/zhajinhua-ai-arena",
     "language": "TypeScript",
@@ -23,7 +41,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11833,
-    "updated_at": "2026-10-14T13:29:07Z",
+    "updated_at": "2026-10-14T14:16:45Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -34,15 +52,6 @@
     "stars": 14,
     "updated_at": "2026-10-14T08:22:36Z",
     "url": "https://github.com/NoesisVision/nasde-toolkit"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25996,
-    "updated_at": "2026-10-14T07:35:29Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
@@ -115,15 +124,6 @@
     "stars": 3601,
     "updated_at": "2026-10-13T23:28:04Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Handwritten Text Recognition llm eval tool",
-    "id": "lehigh-university-libraries/htr",
-    "language": "Go",
-    "name": "lehigh-university-libraries/htr",
-    "stars": 2,
-    "updated_at": "2026-10-13T23:11:26Z",
-    "url": "https://github.com/lehigh-university-libraries/htr"
   },
   {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
