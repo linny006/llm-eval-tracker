@@ -5,8 +5,26 @@
     "language": "Go",
     "name": "lehigh-university-libraries/htr",
     "stars": 2,
-    "updated_at": "2026-10-14T14:42:53Z",
+    "updated_at": "2026-10-14T14:57:44Z",
     "url": "https://github.com/lehigh-university-libraries/htr"
+  },
+  {
+    "description": "Multi-agent simulation using LLMs. Agents autonomously decide actions for survival, reproduction, and social behavior in",
+    "id": "yukincom/llm-SugarScape",
+    "language": "Python",
+    "name": "yukincom/llm-SugarScape",
+    "stars": 7,
+    "updated_at": "2026-10-14T14:55:56Z",
+    "url": "https://github.com/yukincom/llm-SugarScape"
+  },
+  {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-14T14:47:07Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -124,15 +142,6 @@
     "stars": 3601,
     "updated_at": "2026-10-13T23:28:04Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-13T12:14:56Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "Multimodal RAG for HVAC field technicians: retrieves across manual charts, job-site photos and support calls, with an ev",
@@ -313,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T00:14:48Z",
     "url": "https://github.com/gopals09920/llm-bias-toxicity-audit"
-  },
-  {
-    "description": "Multi-agent simulation using LLMs. Agents autonomously decide actions for survival, reproduction, and social behavior in",
-    "id": "yukincom/llm-SugarScape",
-    "language": "Python",
-    "name": "yukincom/llm-SugarScape",
-    "stars": 7,
-    "updated_at": "2026-10-08T14:10:49Z",
-    "url": "https://github.com/yukincom/llm-SugarScape"
   },
   {
     "description": "judge-drift-sentinel \u00b7 judge-reliability-kit \u00b7 agent-loop-engine \u00b7 trace-gate \u00b7 ai-eng-skill-range",
