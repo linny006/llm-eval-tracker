@@ -1,20 +1,11 @@
 [
   {
-    "description": "\u7eaf\u79ef\u5206\u5236 5 \u5f20\u70b8\u91d1\u82b1\u89c4\u5219\u5f15\u64ce + AI \u64c2\u53f0 (zero-dependency TS engine for a 5-card Zha Jin Hua variant: 10 bots, LLM seats, paired evaluati",
-    "id": "FZF525/zhajinhua-ai-arena",
-    "language": "TypeScript",
-    "name": "FZF525/zhajinhua-ai-arena",
-    "stars": 1,
-    "updated_at": "2026-10-14T15:57:17Z",
-    "url": "https://github.com/FZF525/zhajinhua-ai-arena"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11834,
-    "updated_at": "2026-10-14T15:43:49Z",
+    "updated_at": "2026-10-14T16:12:58Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -23,8 +14,17 @@
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-10-14T15:45:15Z",
+    "updated_at": "2026-10-14T16:08:08Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "\u7eaf\u79ef\u5206\u5236 5 \u5f20\u70b8\u91d1\u82b1\u89c4\u5219\u5f15\u64ce + AI \u64c2\u53f0 (zero-dependency TS engine for a 5-card Zha Jin Hua variant: 10 bots, LLM seats, paired evaluati",
+    "id": "FZF525/zhajinhua-ai-arena",
+    "language": "TypeScript",
+    "name": "FZF525/zhajinhua-ai-arena",
+    "stars": 1,
+    "updated_at": "2026-10-14T16:02:25Z",
+    "url": "https://github.com/FZF525/zhajinhua-ai-arena"
   },
   {
     "description": "Handwritten Text Recognition llm eval tool",
