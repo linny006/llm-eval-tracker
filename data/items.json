@@ -1,5 +1,14 @@
 [
   {
+    "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
+    "id": "open-compass/opencompass",
+    "language": "Python",
+    "name": "open-compass/opencompass",
+    "stars": 7512,
+    "updated_at": "2026-10-14T05:36:00Z",
+    "url": "https://github.com/open-compass/opencompass"
+  },
+  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -41,7 +50,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11827,
-    "updated_at": "2026-10-14T05:16:34Z",
+    "updated_at": "2026-10-14T05:44:52Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -115,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-13T11:40:16Z",
     "url": "https://github.com/glibshchur/fieldnote"
-  },
-  {
-    "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
-    "id": "open-compass/opencompass",
-    "language": "Python",
-    "name": "open-compass/opencompass",
-    "stars": 7512,
-    "updated_at": "2026-10-13T09:54:12Z",
-    "url": "https://github.com/open-compass/opencompass"
   },
   {
     "description": "Curated list of benchmarks and rankings of models, agents and other AI-things.",
