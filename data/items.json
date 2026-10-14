@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11833,
+    "updated_at": "2026-10-14T11:16:39Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "\u7eaf\u79ef\u5206\u5236 5 \u5f20\u70b8\u91d1\u82b1\u89c4\u5219\u5f15\u64ce + AI \u64c2\u53f0 (zero-dependency TS engine for a 5-card Zha Jin Hua variant: 10 bots, LLM seats, paired evaluati",
     "id": "FZF525/zhajinhua-ai-arena",
     "language": "TypeScript",
@@ -34,15 +43,6 @@
     "stars": 25996,
     "updated_at": "2026-10-14T07:35:29Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11832,
-    "updated_at": "2026-10-14T11:16:39Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
