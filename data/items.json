@@ -5,8 +5,17 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 363,
-    "updated_at": "2026-10-15T04:40:59Z",
+    "updated_at": "2026-10-15T04:55:05Z",
     "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
+    "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
+    "id": "HLIntel/thea-software",
+    "language": "Python",
+    "name": "HLIntel/thea-software",
+    "stars": 3,
+    "updated_at": "2026-10-15T04:45:21Z",
+    "url": "https://github.com/HLIntel/thea-software"
   },
   {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11840,
-    "updated_at": "2026-10-15T03:01:18Z",
+    "updated_at": "2026-10-15T04:59:08Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -31,7 +40,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26001,
+    "stars": 26000,
     "updated_at": "2026-10-15T00:14:30Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-04T18:48:09Z",
     "url": "https://github.com/jatinsihag2345/llm-eval-toolkit"
-  },
-  {
-    "description": "Route each ADK request to the right Gemini tier with Laya on a CPU-only container (Cloud Run), plus an eval scored by co",
-    "id": "derrickqin/google-adk-laya-router",
-    "language": "Python",
-    "name": "derrickqin/google-adk-laya-router",
-    "stars": 5,
-    "updated_at": "2026-10-02T12:54:33Z",
-    "url": "https://github.com/derrickqin/google-adk-laya-router"
   }
 ]
