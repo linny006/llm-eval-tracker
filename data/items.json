@@ -1,11 +1,29 @@
 [
   {
+    "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
+    "id": "HLIntel/thea-software",
+    "language": "Python",
+    "name": "HLIntel/thea-software",
+    "stars": 3,
+    "updated_at": "2026-10-15T07:00:14Z",
+    "url": "https://github.com/HLIntel/thea-software"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11841,
+    "updated_at": "2026-10-15T06:55:45Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
     "id": "NoesisVision/nasde-toolkit",
     "language": "Python",
     "name": "NoesisVision/nasde-toolkit",
     "stars": 14,
-    "updated_at": "2026-10-15T06:43:32Z",
+    "updated_at": "2026-10-15T06:47:43Z",
     "url": "https://github.com/NoesisVision/nasde-toolkit"
   },
   {
@@ -18,30 +36,12 @@
     "url": "https://github.com/Shinibali/CuriosLM"
   },
   {
-    "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
-    "id": "HLIntel/thea-software",
-    "language": "Python",
-    "name": "HLIntel/thea-software",
-    "stars": 3,
-    "updated_at": "2026-10-15T06:17:40Z",
-    "url": "https://github.com/HLIntel/thea-software"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11841,
-    "updated_at": "2026-10-15T06:33:48Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 363,
-    "updated_at": "2026-10-15T05:52:20Z",
+    "updated_at": "2026-10-15T06:47:20Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -58,7 +58,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26002,
+    "stars": 26003,
     "updated_at": "2026-10-15T00:14:30Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
