@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
+    "id": "izam-mohammed/ragrank",
+    "language": "Python",
+    "name": "izam-mohammed/ragrank",
+    "stars": 47,
+    "updated_at": "2026-10-15T07:38:03Z",
+    "url": "https://github.com/izam-mohammed/ragrank"
+  },
+  {
     "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
     "id": "open-compass/opencompass",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 7518,
     "updated_at": "2026-10-15T07:21:33Z",
     "url": "https://github.com/open-compass/opencompass"
-  },
-  {
-    "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
-    "id": "izam-mohammed/ragrank",
-    "language": "Python",
-    "name": "izam-mohammed/ragrank",
-    "stars": 47,
-    "updated_at": "2026-10-15T07:13:50Z",
-    "url": "https://github.com/izam-mohammed/ragrank"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -41,7 +41,7 @@
     "language": "Python",
     "name": "NoesisVision/nasde-toolkit",
     "stars": 14,
-    "updated_at": "2026-10-15T06:47:43Z",
+    "updated_at": "2026-10-15T07:44:59Z",
     "url": "https://github.com/NoesisVision/nasde-toolkit"
   },
   {
@@ -76,7 +76,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26004,
+    "stars": 26005,
     "updated_at": "2026-10-15T00:14:30Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
