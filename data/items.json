@@ -1,5 +1,14 @@
 [
   {
+    "description": "A deterministic evaluation harness stress-testing RAG pipelines against controlled distractors, contradictions, and posi",
+    "id": "ManavPratapSingh/RAG-Stress",
+    "language": "Python",
+    "name": "ManavPratapSingh/RAG-Stress",
+    "stars": 0,
+    "updated_at": "2026-10-15T17:51:33Z",
+    "url": "https://github.com/ManavPratapSingh/RAG-Stress"
+  },
+  {
     "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
     "id": "HLIntel/thea-software",
     "language": "Python",
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11858,
-    "updated_at": "2026-10-15T17:20:47Z",
+    "updated_at": "2026-10-15T17:54:58Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -266,7 +275,7 @@
     "language": "TypeScript",
     "name": "IcodeNet/eval-dashboards",
     "stars": 1,
-    "updated_at": "2026-10-13T19:42:25Z",
+    "updated_at": "2026-10-15T17:55:38Z",
     "url": "https://github.com/IcodeNet/eval-dashboards"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-05T08:56:40Z",
     "url": "https://github.com/SFX-TECH/sfx-lead-intelligence"
-  },
-  {
-    "description": "Statistically rigorous LLM evaluation for pytest \u2014 treats every eval as a proportion with a Wilson confidence interval, ",
-    "id": "nikolas-sapa/sigeval",
-    "language": "Python",
-    "name": "nikolas-sapa/sigeval",
-    "stars": 2,
-    "updated_at": "2026-10-05T04:14:53Z",
-    "url": "https://github.com/nikolas-sapa/sigeval"
   }
 ]
