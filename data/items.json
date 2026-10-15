@@ -1,11 +1,20 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 363,
+    "updated_at": "2026-10-15T11:42:26Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "\u7eaf\u79ef\u5206\u5236 5 \u5f20\u70b8\u91d1\u82b1\u89c4\u5219\u5f15\u64ce + AI \u64c2\u53f0 (zero-dependency TS engine for a 5-card Zha Jin Hua variant: 10 bots, LLM seats, paired evaluati",
     "id": "FZF525/zhajinhua-ai-arena",
     "language": "TypeScript",
     "name": "FZF525/zhajinhua-ai-arena",
     "stars": 1,
-    "updated_at": "2026-10-15T11:21:50Z",
+    "updated_at": "2026-10-15T11:39:59Z",
     "url": "https://github.com/FZF525/zhajinhua-ai-arena"
   },
   {
@@ -13,7 +22,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11847,
+    "stars": 11850,
     "updated_at": "2026-10-15T11:18:13Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -31,7 +40,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26011,
+    "stars": 26012,
     "updated_at": "2026-10-15T11:01:43Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -68,7 +77,7 @@
     "language": "Python",
     "name": "HLIntel/thea-software",
     "stars": 3,
-    "updated_at": "2026-10-15T07:00:14Z",
+    "updated_at": "2026-10-15T11:32:26Z",
     "url": "https://github.com/HLIntel/thea-software"
   },
   {
@@ -79,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T05:38:34Z",
     "url": "https://github.com/Shinibali/CuriosLM"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 363,
-    "updated_at": "2026-10-15T06:47:20Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
