@@ -1,11 +1,20 @@
 [
   {
+    "description": "\u7eaf\u79ef\u5206\u5236 5 \u5f20\u70b8\u91d1\u82b1\u89c4\u5219\u5f15\u64ce + AI \u64c2\u53f0 (zero-dependency TS engine for a 5-card Zha Jin Hua variant: 10 bots, LLM seats, paired evaluati",
+    "id": "FZF525/zhajinhua-ai-arena",
+    "language": "TypeScript",
+    "name": "FZF525/zhajinhua-ai-arena",
+    "stars": 1,
+    "updated_at": "2026-10-15T10:44:20Z",
+    "url": "https://github.com/FZF525/zhajinhua-ai-arena"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26010,
-    "updated_at": "2026-10-15T10:23:42Z",
+    "updated_at": "2026-10-15T10:43:54Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-10-15T08:38:35Z",
+    "updated_at": "2026-10-15T10:34:12Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
@@ -31,7 +40,7 @@
     "id": "open-compass/opencompass",
     "language": "Python",
     "name": "open-compass/opencompass",
-    "stars": 7518,
+    "stars": 7519,
     "updated_at": "2026-10-15T07:21:33Z",
     "url": "https://github.com/open-compass/opencompass"
   },
@@ -106,15 +115,6 @@
     "stars": 7,
     "updated_at": "2026-10-14T16:31:17Z",
     "url": "https://github.com/yukincom/llm-SugarScape"
-  },
-  {
-    "description": "\u7eaf\u79ef\u5206\u5236 5 \u5f20\u70b8\u91d1\u82b1\u89c4\u5219\u5f15\u64ce + AI \u64c2\u53f0 (zero-dependency TS engine for a 5-card Zha Jin Hua variant: 10 bots, LLM seats, paired evaluati",
-    "id": "FZF525/zhajinhua-ai-arena",
-    "language": "TypeScript",
-    "name": "FZF525/zhajinhua-ai-arena",
-    "stars": 1,
-    "updated_at": "2026-10-14T16:02:25Z",
-    "url": "https://github.com/FZF525/zhajinhua-ai-arena"
   },
   {
     "description": "Handwritten Text Recognition llm eval tool",
