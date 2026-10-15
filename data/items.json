@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "HLIntel/thea-software",
     "stars": 3,
-    "updated_at": "2026-10-15T14:49:59Z",
+    "updated_at": "2026-10-15T15:13:32Z",
     "url": "https://github.com/HLIntel/thea-software"
   },
   {
@@ -14,8 +14,17 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 363,
-    "updated_at": "2026-10-15T14:55:28Z",
+    "updated_at": "2026-10-15T15:06:04Z",
     "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
+    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
+    "id": "judgekeeper/judgekeeper",
+    "language": "Python",
+    "name": "judgekeeper/judgekeeper",
+    "stars": 0,
+    "updated_at": "2026-10-15T15:05:36Z",
+    "url": "https://github.com/judgekeeper/judgekeeper"
   },
   {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -88,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T05:38:34Z",
     "url": "https://github.com/Shinibali/CuriosLM"
-  },
-  {
-    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
-    "id": "judgekeeper/judgekeeper",
-    "language": "Python",
-    "name": "judgekeeper/judgekeeper",
-    "stars": 0,
-    "updated_at": "2026-10-15T14:43:06Z",
-    "url": "https://github.com/judgekeeper/judgekeeper"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
