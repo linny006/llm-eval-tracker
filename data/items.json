@@ -1,5 +1,14 @@
 [
   {
+    "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
+    "id": "NoesisVision/nasde-toolkit",
+    "language": "Python",
+    "name": "NoesisVision/nasde-toolkit",
+    "stars": 14,
+    "updated_at": "2026-10-15T06:43:32Z",
+    "url": "https://github.com/NoesisVision/nasde-toolkit"
+  },
+  {
     "description": "GPT-2 (124M) \u2192 Gemma 3-style (113M), one architecture change at a time: training, evals, analysis, inference, context ex",
     "id": "Shinibali/CuriosLM",
     "language": "Python",
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11841,
-    "updated_at": "2026-10-15T04:59:08Z",
+    "updated_at": "2026-10-15T06:33:48Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -72,15 +81,6 @@
     "url": "https://github.com/homemade-software-inc/completion-kit"
   },
   {
-    "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
-    "id": "NoesisVision/nasde-toolkit",
-    "language": "Python",
-    "name": "NoesisVision/nasde-toolkit",
-    "stars": 14,
-    "updated_at": "2026-10-15T06:30:21Z",
-    "url": "https://github.com/NoesisVision/nasde-toolkit"
-  },
-  {
     "description": "Multi-agent simulation using LLMs. Agents autonomously decide actions for survival, reproduction, and social behavior in",
     "id": "yukincom/llm-SugarScape",
     "language": "Python",
@@ -112,7 +112,7 @@
     "id": "open-compass/opencompass",
     "language": "Python",
     "name": "open-compass/opencompass",
-    "stars": 7517,
+    "stars": 7518,
     "updated_at": "2026-10-14T11:52:57Z",
     "url": "https://github.com/open-compass/opencompass"
   },
