@@ -1,5 +1,23 @@
 [
   {
+    "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
+    "id": "HLIntel/thea-software",
+    "language": "Python",
+    "name": "HLIntel/thea-software",
+    "stars": 3,
+    "updated_at": "2026-10-15T14:43:50Z",
+    "url": "https://github.com/HLIntel/thea-software"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 363,
+    "updated_at": "2026-10-15T14:38:31Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
     "id": "decimal-labs/decimalai-python",
     "language": "Python",
@@ -34,24 +52,6 @@
     "stars": 1,
     "updated_at": "2026-10-15T14:09:53Z",
     "url": "https://github.com/FZF525/zhajinhua-ai-arena"
-  },
-  {
-    "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
-    "id": "HLIntel/thea-software",
-    "language": "Python",
-    "name": "HLIntel/thea-software",
-    "stars": 3,
-    "updated_at": "2026-10-15T14:25:58Z",
-    "url": "https://github.com/HLIntel/thea-software"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 363,
-    "updated_at": "2026-10-15T13:22:19Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -95,7 +95,7 @@
     "language": "Python",
     "name": "judgekeeper/judgekeeper",
     "stars": 0,
-    "updated_at": "2026-10-14T23:42:16Z",
+    "updated_at": "2026-10-15T14:43:06Z",
     "url": "https://github.com/judgekeeper/judgekeeper"
   },
   {
