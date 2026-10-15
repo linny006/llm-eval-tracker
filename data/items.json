@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26022,
+    "updated_at": "2026-10-15T23:25:12Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
     "id": "HLIntel/thea-software",
     "language": "Python",
@@ -13,7 +22,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11858,
+    "stars": 11859,
     "updated_at": "2026-10-15T22:26:51Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T22:01:48Z",
     "url": "https://github.com/judgekeeper/judgekeeper"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26020,
-    "updated_at": "2026-10-15T23:25:12Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "A deterministic evaluation harness stress-testing RAG pipelines against controlled distractors, contradictions, and posi",
