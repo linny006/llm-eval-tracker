@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-15 10:00 UTC
+> ⏰ Last updated: 2026-10-15 10:09 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -50,7 +50,7 @@ expired items removed — so you can rely on what you see being current.
 | 6 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 14 | Python | 2026-10-15 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
 | 7 | [Shinibali/CuriosLM](https://github.com/Shinibali/CuriosLM) | 0 | Python | 2026-10-15 | GPT-2 (124M) → Gemma 3-style (113M), one architecture change at a time: training, evals, analysis, inference, context ex |
 | 8 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 363 | TypeScript | 2026-10-15 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 9 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26008 | TypeScript | 2026-10-15 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 9 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26009 | TypeScript | 2026-10-15 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 10 | [judgekeeper/judgekeeper](https://github.com/judgekeeper/judgekeeper) | 0 | Python | 2026-10-14 | Check your LLM-as-a-judge: see how often it agrees with human labels, in one command. |
 | 11 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 3 | Ruby | 2026-10-14 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
 | 12 | [yukincom/llm-SugarScape](https://github.com/yukincom/llm-SugarScape) | 7 | Python | 2026-10-14 | Multi-agent simulation using LLMs. Agents autonomously decide actions for survival, reproduction, and social behavior in |
