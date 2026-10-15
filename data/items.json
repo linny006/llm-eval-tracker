@@ -1,21 +1,30 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11858,
-    "updated_at": "2026-10-15T20:58:31Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
     "id": "HLIntel/thea-software",
     "language": "Python",
     "name": "HLIntel/thea-software",
     "stars": 3,
-    "updated_at": "2026-10-15T21:09:01Z",
+    "updated_at": "2026-10-15T21:22:57Z",
     "url": "https://github.com/HLIntel/thea-software"
+  },
+  {
+    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
+    "id": "judgekeeper/judgekeeper",
+    "language": "Python",
+    "name": "judgekeeper/judgekeeper",
+    "stars": 0,
+    "updated_at": "2026-10-15T21:17:58Z",
+    "url": "https://github.com/judgekeeper/judgekeeper"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11858,
+    "updated_at": "2026-10-15T21:24:44Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -41,17 +50,8 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 364,
-    "updated_at": "2026-10-15T21:05:41Z",
+    "updated_at": "2026-10-15T21:17:02Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
-    "id": "judgekeeper/judgekeeper",
-    "language": "Python",
-    "name": "judgekeeper/judgekeeper",
-    "stars": 0,
-    "updated_at": "2026-10-15T15:59:45Z",
-    "url": "https://github.com/judgekeeper/judgekeeper"
   },
   {
     "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
@@ -176,7 +176,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3602,
-    "updated_at": "2026-10-15T16:07:51Z",
+    "updated_at": "2026-10-15T21:27:04Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -338,7 +338,7 @@
     "language": "Python",
     "name": "ChelseaKR/sprout",
     "stars": 1,
-    "updated_at": "2026-10-15T21:14:25Z",
+    "updated_at": "2026-10-15T21:17:55Z",
     "url": "https://github.com/ChelseaKR/sprout"
   },
   {
