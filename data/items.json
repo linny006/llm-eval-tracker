@@ -1,21 +1,21 @@
 [
   {
-    "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
-    "id": "HLIntel/thea-software",
-    "language": "Python",
-    "name": "HLIntel/thea-software",
-    "stars": 3,
-    "updated_at": "2026-10-15T05:29:08Z",
-    "url": "https://github.com/HLIntel/thea-software"
-  },
-  {
     "description": "GPT-2 (124M) \u2192 Gemma 3-style (113M), one architecture change at a time: training, evals, analysis, inference, context ex",
     "id": "Shinibali/CuriosLM",
     "language": "Python",
     "name": "Shinibali/CuriosLM",
     "stars": 0,
-    "updated_at": "2026-10-15T04:50:40Z",
+    "updated_at": "2026-10-15T05:38:34Z",
     "url": "https://github.com/Shinibali/CuriosLM"
+  },
+  {
+    "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
+    "id": "HLIntel/thea-software",
+    "language": "Python",
+    "name": "HLIntel/thea-software",
+    "stars": 3,
+    "updated_at": "2026-10-15T05:44:14Z",
+    "url": "https://github.com/HLIntel/thea-software"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
@@ -23,7 +23,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 363,
-    "updated_at": "2026-10-15T05:24:14Z",
+    "updated_at": "2026-10-15T05:39:09Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
