@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-15 03:45 UTC
+> ⏰ Last updated: 2026-10-15 04:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,8 +42,8 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-15 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
-| 2 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 363 | TypeScript | 2026-10-15 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 1 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 363 | TypeScript | 2026-10-15 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 2 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-15 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
 | 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11840 | Python | 2026-10-15 | AI Observability & Evaluation |
 | 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26001 | TypeScript | 2026-10-15 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 5 | [judgekeeper/judgekeeper](https://github.com/judgekeeper/judgekeeper) | 0 | Python | 2026-10-14 | Check your LLM-as-a-judge: see how often it agrees with human labels, in one command. |
