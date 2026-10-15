@@ -1,12 +1,12 @@
 [
   {
-    "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
-    "id": "HLIntel/thea-software",
+    "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
+    "id": "izam-mohammed/ragrank",
     "language": "Python",
-    "name": "HLIntel/thea-software",
-    "stars": 3,
-    "updated_at": "2026-10-15T07:00:14Z",
-    "url": "https://github.com/HLIntel/thea-software"
+    "name": "izam-mohammed/ragrank",
+    "stars": 47,
+    "updated_at": "2026-10-15T07:13:50Z",
+    "url": "https://github.com/izam-mohammed/ragrank"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11841,
-    "updated_at": "2026-10-15T06:55:45Z",
+    "updated_at": "2026-10-15T07:09:44Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
+    "id": "HLIntel/thea-software",
+    "language": "Python",
+    "name": "HLIntel/thea-software",
+    "stars": 3,
+    "updated_at": "2026-10-15T07:00:14Z",
+    "url": "https://github.com/HLIntel/thea-software"
   },
   {
     "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
@@ -58,7 +67,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26003,
+    "stars": 26004,
     "updated_at": "2026-10-15T00:14:30Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-05T04:14:53Z",
     "url": "https://github.com/nikolas-sapa/sigeval"
-  },
-  {
-    "description": "A curated list of frontier AI evaluation benchmarks, long-horizon agent test suites, terminal sandboxes, RLVR math verif",
-    "id": "jatinsihag2345/awesome-ai-evaluations",
-    "language": "\u2014",
-    "name": "jatinsihag2345/awesome-ai-evaluations",
-    "stars": 1,
-    "updated_at": "2026-10-04T18:48:45Z",
-    "url": "https://github.com/jatinsihag2345/awesome-ai-evaluations"
   }
 ]
