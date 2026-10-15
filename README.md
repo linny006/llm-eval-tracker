@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-15 09:15 UTC
+> ⏰ Last updated: 2026-10-15 09:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -45,7 +45,7 @@ expired items removed — so you can rely on what you see being current.
 | 1 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-15 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
 | 2 | [izam-mohammed/ragrank](https://github.com/izam-mohammed/ragrank) | 47 | Python | 2026-10-15 | 🎯 Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an |
 | 3 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7518 | Python | 2026-10-15 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
-| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11842 | Python | 2026-10-15 | AI Observability & Evaluation |
+| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11844 | Python | 2026-10-15 | AI Observability & Evaluation |
 | 5 | [HLIntel/thea-software](https://github.com/HLIntel/thea-software) | 3 | Python | 2026-10-15 | AI coding-agent verification — a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th |
 | 6 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 14 | Python | 2026-10-15 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
 | 7 | [Shinibali/CuriosLM](https://github.com/Shinibali/CuriosLM) | 0 | Python | 2026-10-15 | GPT-2 (124M) → Gemma 3-style (113M), one architecture change at a time: training, evals, analysis, inference, context ex |
