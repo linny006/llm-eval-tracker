@@ -1,11 +1,20 @@
 [
   {
+    "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
+    "id": "NoesisVision/nasde-toolkit",
+    "language": "Python",
+    "name": "NoesisVision/nasde-toolkit",
+    "stars": 14,
+    "updated_at": "2026-10-15T15:29:29Z",
+    "url": "https://github.com/NoesisVision/nasde-toolkit"
+  },
+  {
     "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
     "id": "HLIntel/thea-software",
     "language": "Python",
     "name": "HLIntel/thea-software",
     "stars": 3,
-    "updated_at": "2026-10-15T15:13:32Z",
+    "updated_at": "2026-10-15T15:21:14Z",
     "url": "https://github.com/HLIntel/thea-software"
   },
   {
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "judgekeeper/judgekeeper",
     "stars": 0,
-    "updated_at": "2026-10-15T15:05:36Z",
+    "updated_at": "2026-10-15T15:17:47Z",
     "url": "https://github.com/judgekeeper/judgekeeper"
   },
   {
@@ -36,21 +45,12 @@
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
-    "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
-    "id": "NoesisVision/nasde-toolkit",
-    "language": "Python",
-    "name": "NoesisVision/nasde-toolkit",
-    "stars": 14,
-    "updated_at": "2026-10-15T14:13:21Z",
-    "url": "https://github.com/NoesisVision/nasde-toolkit"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11857,
-    "updated_at": "2026-10-15T14:10:43Z",
+    "updated_at": "2026-10-15T15:21:45Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -85,7 +85,7 @@
     "id": "open-compass/opencompass",
     "language": "Python",
     "name": "open-compass/opencompass",
-    "stars": 7519,
+    "stars": 7520,
     "updated_at": "2026-10-15T07:21:33Z",
     "url": "https://github.com/open-compass/opencompass"
   },
