@@ -1,5 +1,23 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11858,
+    "updated_at": "2026-10-15T18:43:58Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26018,
+    "updated_at": "2026-10-15T18:24:44Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "A deterministic evaluation harness stress-testing RAG pipelines against controlled distractors, contradictions, and posi",
     "id": "ManavPratapSingh/RAG-Stress",
     "language": "Python",
@@ -18,15 +36,6 @@
     "url": "https://github.com/HLIntel/thea-software"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26017,
-    "updated_at": "2026-10-15T18:24:44Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -34,15 +43,6 @@
     "stars": 364,
     "updated_at": "2026-10-15T17:12:33Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11858,
-    "updated_at": "2026-10-15T18:11:07Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
@@ -257,7 +257,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5905,
-    "updated_at": "2026-10-12T04:26:11Z",
+    "updated_at": "2026-10-15T18:36:05Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
