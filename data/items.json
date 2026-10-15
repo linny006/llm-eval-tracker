@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11858,
+    "updated_at": "2026-10-15T20:58:31Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
     "id": "HLIntel/thea-software",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 3,
     "updated_at": "2026-10-15T20:43:58Z",
     "url": "https://github.com/HLIntel/thea-software"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11858,
-    "updated_at": "2026-10-15T20:37:44Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
