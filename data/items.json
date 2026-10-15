@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
+    "id": "HLIntel/thea-software",
+    "language": "Python",
+    "name": "HLIntel/thea-software",
+    "stars": 3,
+    "updated_at": "2026-10-15T05:29:08Z",
+    "url": "https://github.com/HLIntel/thea-software"
+  },
+  {
     "description": "GPT-2 (124M) \u2192 Gemma 3-style (113M), one architecture change at a time: training, evals, analysis, inference, context ex",
     "id": "Shinibali/CuriosLM",
     "language": "Python",
@@ -14,17 +23,8 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 363,
-    "updated_at": "2026-10-15T04:55:05Z",
+    "updated_at": "2026-10-15T05:24:14Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
-    "id": "HLIntel/thea-software",
-    "language": "Python",
-    "name": "HLIntel/thea-software",
-    "stars": 3,
-    "updated_at": "2026-10-15T05:05:00Z",
-    "url": "https://github.com/HLIntel/thea-software"
   },
   {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
