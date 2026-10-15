@@ -1,5 +1,14 @@
 [
   {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-15T13:59:00Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
     "description": "\u7eaf\u79ef\u5206\u5236 5 \u5f20\u70b8\u91d1\u82b1\u89c4\u5219\u5f15\u64ce + AI \u64c2\u53f0 (zero-dependency TS engine for a 5-card Zha Jin Hua variant: 10 bots, LLM seats, paired evaluati",
     "id": "FZF525/zhajinhua-ai-arena",
     "language": "TypeScript",
@@ -7,15 +16,6 @@
     "stars": 1,
     "updated_at": "2026-10-15T13:14:23Z",
     "url": "https://github.com/FZF525/zhajinhua-ai-arena"
-  },
-  {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-15T12:59:09Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
@@ -41,7 +41,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11854,
-    "updated_at": "2026-10-15T13:16:52Z",
+    "updated_at": "2026-10-15T13:48:36Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -59,7 +59,7 @@
     "language": "Python",
     "name": "NoesisVision/nasde-toolkit",
     "stars": 14,
-    "updated_at": "2026-10-15T12:20:32Z",
+    "updated_at": "2026-10-15T13:46:19Z",
     "url": "https://github.com/NoesisVision/nasde-toolkit"
   },
   {
