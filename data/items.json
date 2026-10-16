@@ -1,10 +1,19 @@
 [
   {
+    "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
+    "id": "open-compass/opencompass",
+    "language": "Python",
+    "name": "open-compass/opencompass",
+    "stars": 7520,
+    "updated_at": "2026-10-16T07:53:18Z",
+    "url": "https://github.com/open-compass/opencompass"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26039,
+    "stars": 26040,
     "updated_at": "2026-10-16T06:09:34Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -31,7 +40,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11869,
+    "stars": 11870,
     "updated_at": "2026-10-16T03:24:27Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -106,15 +115,6 @@
     "stars": 47,
     "updated_at": "2026-10-15T07:38:03Z",
     "url": "https://github.com/izam-mohammed/ragrank"
-  },
-  {
-    "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
-    "id": "open-compass/opencompass",
-    "language": "Python",
-    "name": "open-compass/opencompass",
-    "stars": 7520,
-    "updated_at": "2026-10-16T07:00:44Z",
-    "url": "https://github.com/open-compass/opencompass"
   },
   {
     "description": "GPT-2 (124M) \u2192 Gemma 3-style (113M), one architecture change at a time: training, evals, analysis, inference, context ex",
