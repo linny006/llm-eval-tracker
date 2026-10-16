@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-16 15:15 UTC
+> ⏰ Last updated: 2026-10-16 15:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,27 +42,27 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 365 | TypeScript | 2026-10-16 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 1 | [truera/trulens](https://github.com/truera/trulens) | 3602 | Python | 2026-10-16 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11873 | Python | 2026-10-16 | AI Observability & Evaluation |
-| 3 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7521 | Python | 2026-10-16 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
-| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26056 | TypeScript | 2026-10-16 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 5 | [judgekeeper/judgekeeper](https://github.com/judgekeeper/judgekeeper) | 0 | Python | 2026-10-16 | Check your LLM-as-a-judge: see how often it agrees with human labels, in one command. |
-| 6 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5907 | Python | 2026-10-16 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 7 | [yukincom/llm-SugarScape](https://github.com/yukincom/llm-SugarScape) | 7 | Python | 2026-10-16 | Multi-agent simulation using LLMs. Agents autonomously decide actions for survival, reproduction, and social behavior in |
-| 8 | [HLIntel/thea-software](https://github.com/HLIntel/thea-software) | 3 | Python | 2026-10-15 | AI coding-agent verification — a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th |
-| 9 | [ManavPratapSingh/RAG-Stress](https://github.com/ManavPratapSingh/RAG-Stress) | 0 | Python | 2026-10-15 | A deterministic evaluation harness stress-testing RAG pipelines against controlled distractors, contradictions, and posi |
-| 10 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 14 | Python | 2026-10-15 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
-| 11 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-15 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
-| 12 | [FZF525/zhajinhua-ai-arena](https://github.com/FZF525/zhajinhua-ai-arena) | 1 | TypeScript | 2026-10-15 | 纯积分制 5 张炸金花规则引擎 + AI 擂台 (zero-dependency TS engine for a 5-card Zha Jin Hua variant: 10 bots, LLM seats, paired evaluati |
-| 13 | [izam-mohammed/ragrank](https://github.com/izam-mohammed/ragrank) | 47 | Python | 2026-10-15 | 🎯 Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an |
-| 14 | [Shinibali/CuriosLM](https://github.com/Shinibali/CuriosLM) | 0 | Python | 2026-10-15 | GPT-2 (124M) → Gemma 3-style (113M), one architecture change at a time: training, evals, analysis, inference, context ex |
-| 15 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 3 | Ruby | 2026-10-14 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
-| 16 | [lehigh-university-libraries/htr](https://github.com/lehigh-university-libraries/htr) | 2 | Go | 2026-10-14 | Handwritten Text Recognition llm eval tool |
-| 17 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-10-14 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
-| 18 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-10-14 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
-| 19 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 3 | TypeScript | 2026-10-14 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
-| 20 | [andleb/causalds](https://github.com/andleb/causalds) | 3 | Python | 2026-10-14 | Official repository for "CausalDS: Benchmarking Causal Reasoning in Data-Science Agents" |
-| 21 | [truera/trulens](https://github.com/truera/trulens) | 3602 | Python | 2026-10-15 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 3 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 365 | TypeScript | 2026-10-16 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 4 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7521 | Python | 2026-10-16 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
+| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26056 | TypeScript | 2026-10-16 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 6 | [judgekeeper/judgekeeper](https://github.com/judgekeeper/judgekeeper) | 0 | Python | 2026-10-16 | Check your LLM-as-a-judge: see how often it agrees with human labels, in one command. |
+| 7 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5907 | Python | 2026-10-16 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 8 | [yukincom/llm-SugarScape](https://github.com/yukincom/llm-SugarScape) | 7 | Python | 2026-10-16 | Multi-agent simulation using LLMs. Agents autonomously decide actions for survival, reproduction, and social behavior in |
+| 9 | [HLIntel/thea-software](https://github.com/HLIntel/thea-software) | 3 | Python | 2026-10-15 | AI coding-agent verification — a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th |
+| 10 | [ManavPratapSingh/RAG-Stress](https://github.com/ManavPratapSingh/RAG-Stress) | 0 | Python | 2026-10-15 | A deterministic evaluation harness stress-testing RAG pipelines against controlled distractors, contradictions, and posi |
+| 11 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 14 | Python | 2026-10-15 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
+| 12 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-15 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
+| 13 | [FZF525/zhajinhua-ai-arena](https://github.com/FZF525/zhajinhua-ai-arena) | 1 | TypeScript | 2026-10-15 | 纯积分制 5 张炸金花规则引擎 + AI 擂台 (zero-dependency TS engine for a 5-card Zha Jin Hua variant: 10 bots, LLM seats, paired evaluati |
+| 14 | [izam-mohammed/ragrank](https://github.com/izam-mohammed/ragrank) | 47 | Python | 2026-10-15 | 🎯 Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an |
+| 15 | [Shinibali/CuriosLM](https://github.com/Shinibali/CuriosLM) | 0 | Python | 2026-10-15 | GPT-2 (124M) → Gemma 3-style (113M), one architecture change at a time: training, evals, analysis, inference, context ex |
+| 16 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 3 | Ruby | 2026-10-14 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
+| 17 | [lehigh-university-libraries/htr](https://github.com/lehigh-university-libraries/htr) | 2 | Go | 2026-10-14 | Handwritten Text Recognition llm eval tool |
+| 18 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-10-14 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
+| 19 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-10-14 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
+| 20 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 3 | TypeScript | 2026-10-14 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
+| 21 | [andleb/causalds](https://github.com/andleb/causalds) | 3 | Python | 2026-10-14 | Official repository for "CausalDS: Benchmarking Causal Reasoning in Data-Science Agents" |
 | 22 | [glibshchur/fieldnote](https://github.com/glibshchur/fieldnote) | 0 | Python | 2026-10-13 | Multimodal RAG for HVAC field technicians: retrieves across manual charts, job-site photos and support calls, with an ev |
 | 23 | [lorien/awesome-ai-benchmarks](https://github.com/lorien/awesome-ai-benchmarks) | 1 | — | 2026-10-13 | Curated list of benchmarks and rankings of models, agents and other AI-things. |
 | 24 | [amareshhebbar/gitgrounded](https://github.com/amareshhebbar/gitgrounded) | 0 | Python | 2026-10-13 | Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old  |

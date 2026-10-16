@@ -1,12 +1,12 @@
 [
   {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 365,
-    "updated_at": "2026-10-16T14:45:51Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3602,
+    "updated_at": "2026-10-16T15:29:11Z",
+    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11873,
-    "updated_at": "2026-10-16T13:41:12Z",
+    "updated_at": "2026-10-16T15:23:08Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 365,
+    "updated_at": "2026-10-16T15:20:10Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
@@ -178,15 +187,6 @@
     "stars": 3,
     "updated_at": "2026-10-14T03:39:17Z",
     "url": "https://github.com/andleb/causalds"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3602,
-    "updated_at": "2026-10-15T21:27:04Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Multimodal RAG for HVAC field technicians: retrieves across manual charts, job-site photos and support calls, with an ev",
