@@ -1,5 +1,14 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 365,
+    "updated_at": "2026-10-16T12:11:18Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
     "id": "open-compass/opencompass",
     "language": "Python",
@@ -13,7 +22,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26046,
+    "stars": 26047,
     "updated_at": "2026-10-16T06:09:34Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -70,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T18:11:21Z",
     "url": "https://github.com/ManavPratapSingh/RAG-Stress"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 364,
-    "updated_at": "2026-10-16T12:11:18Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
