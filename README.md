@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-16 10:30 UTC
+> ⏰ Last updated: 2026-10-16 10:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,7 +43,7 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7520 | Python | 2026-10-16 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
-| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26043 | TypeScript | 2026-10-16 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26044 | TypeScript | 2026-10-16 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 3 | [judgekeeper/judgekeeper](https://github.com/judgekeeper/judgekeeper) | 0 | Python | 2026-10-16 | Check your LLM-as-a-judge: see how often it agrees with human labels, in one command. |
 | 4 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5906 | Python | 2026-10-16 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 5 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11870 | Python | 2026-10-16 | AI Observability & Evaluation |
