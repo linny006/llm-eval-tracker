@@ -4,7 +4,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26022,
+    "stars": 26021,
     "updated_at": "2026-10-15T23:25:12Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -36,6 +36,15 @@
     "url": "https://github.com/judgekeeper/judgekeeper"
   },
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5906,
+    "updated_at": "2026-10-15T18:36:05Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
     "description": "A deterministic evaluation harness stress-testing RAG pipelines against controlled distractors, contradictions, and posi",
     "id": "ManavPratapSingh/RAG-Stress",
     "language": "Python",
@@ -50,7 +59,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 364,
-    "updated_at": "2026-10-16T00:06:48Z",
+    "updated_at": "2026-10-16T00:20:37Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -250,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T04:48:21Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5905,
-    "updated_at": "2026-10-15T18:36:05Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
