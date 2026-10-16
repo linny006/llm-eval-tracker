@@ -1,21 +1,30 @@
 [
   {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3602,
-    "updated_at": "2026-10-16T15:47:35Z",
-    "url": "https://github.com/truera/trulens"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26060,
+    "updated_at": "2026-10-16T16:13:09Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11874,
+    "stars": 11873,
     "updated_at": "2026-10-16T15:58:13Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3602,
+    "updated_at": "2026-10-16T16:01:44Z",
+    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
@@ -34,15 +43,6 @@
     "stars": 7521,
     "updated_at": "2026-10-16T07:53:18Z",
     "url": "https://github.com/open-compass/opencompass"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26059,
-    "updated_at": "2026-10-16T06:09:34Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
