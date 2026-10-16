@@ -1,11 +1,20 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11874,
+    "updated_at": "2026-10-16T19:45:07Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26065,
-    "updated_at": "2026-10-16T19:24:04Z",
+    "stars": 26066,
+    "updated_at": "2026-10-16T19:39:56Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T17:12:50Z",
     "url": "https://github.com/AkashB98/agent-eval-dashboard"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11875,
-    "updated_at": "2026-10-16T18:09:02Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
