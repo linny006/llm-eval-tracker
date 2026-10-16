@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26061,
+    "updated_at": "2026-10-16T17:29:20Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Mission-control dashboard aggregating agent-eval signals \u2014 eval scores, red-team results, cost and latency in one view. ",
     "id": "AkashB98/agent-eval-dashboard",
     "language": "Python",
@@ -9,20 +18,11 @@
     "url": "https://github.com/AkashB98/agent-eval-dashboard"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26061,
-    "updated_at": "2026-10-16T16:42:25Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11874,
+    "stars": 11875,
     "updated_at": "2026-10-16T15:58:13Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
