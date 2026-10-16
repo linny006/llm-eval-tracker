@@ -5,8 +5,17 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 365,
-    "updated_at": "2026-10-16T13:44:30Z",
+    "updated_at": "2026-10-16T13:54:35Z",
     "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11873,
+    "updated_at": "2026-10-16T13:41:12Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
@@ -43,15 +52,6 @@
     "stars": 5907,
     "updated_at": "2026-10-16T04:11:25Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11872,
-    "updated_at": "2026-10-16T13:41:12Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Multi-agent simulation using LLMs. Agents autonomously decide actions for survival, reproduction, and social behavior in",
@@ -275,7 +275,7 @@
     "language": "TypeScript",
     "name": "IcodeNet/eval-dashboards",
     "stars": 1,
-    "updated_at": "2026-10-15T17:55:38Z",
+    "updated_at": "2026-10-16T13:46:59Z",
     "url": "https://github.com/IcodeNet/eval-dashboards"
   },
   {

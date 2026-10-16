@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-16 13:45 UTC
+> ⏰ Last updated: 2026-10-16 14:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,11 +43,11 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 365 | TypeScript | 2026-10-16 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 2 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7521 | Python | 2026-10-16 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
-| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26052 | TypeScript | 2026-10-16 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 4 | [judgekeeper/judgekeeper](https://github.com/judgekeeper/judgekeeper) | 0 | Python | 2026-10-16 | Check your LLM-as-a-judge: see how often it agrees with human labels, in one command. |
-| 5 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5907 | Python | 2026-10-16 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 6 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11872 | Python | 2026-10-16 | AI Observability & Evaluation |
+| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11873 | Python | 2026-10-16 | AI Observability & Evaluation |
+| 3 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7521 | Python | 2026-10-16 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
+| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26052 | TypeScript | 2026-10-16 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 5 | [judgekeeper/judgekeeper](https://github.com/judgekeeper/judgekeeper) | 0 | Python | 2026-10-16 | Check your LLM-as-a-judge: see how often it agrees with human labels, in one command. |
+| 6 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5907 | Python | 2026-10-16 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 7 | [yukincom/llm-SugarScape](https://github.com/yukincom/llm-SugarScape) | 7 | Python | 2026-10-16 | Multi-agent simulation using LLMs. Agents autonomously decide actions for survival, reproduction, and social behavior in |
 | 8 | [HLIntel/thea-software](https://github.com/HLIntel/thea-software) | 3 | Python | 2026-10-15 | AI coding-agent verification — a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th |
 | 9 | [ManavPratapSingh/RAG-Stress](https://github.com/ManavPratapSingh/RAG-Stress) | 0 | Python | 2026-10-15 | A deterministic evaluation harness stress-testing RAG pipelines against controlled distractors, contradictions, and posi |
@@ -72,7 +72,7 @@ expired items removed — so you can rely on what you see being current.
 | 28 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-10-12 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
 | 29 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-10-12 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 30 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-10-11 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
-| 31 | [IcodeNet/eval-dashboards](https://github.com/IcodeNet/eval-dashboards) | 1 | TypeScript | 2026-10-15 | Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style — bring y |
+| 31 | [IcodeNet/eval-dashboards](https://github.com/IcodeNet/eval-dashboards) | 1 | TypeScript | 2026-10-16 | Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style — bring y |
 | 32 | [lilyco-42/lyco-router-eval](https://github.com/lilyco-42/lyco-router-eval) | 0 | — | 2026-10-11 | Independent-eval-Qwen3-0.6B-ondevice-router-40cases |
 | 33 | [mrodgersjs-web/rig-enhanced-evals](https://github.com/mrodgersjs-web/rig-enhanced-evals) | 0 | Python | 2026-10-10 | L10 self-evolving LLM evaluation harness that learns from failures — faithfulness, relevance, toxicity, format metrics w |
 | 34 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 29 | TypeScript | 2026-10-14 | Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct |
