@@ -1,21 +1,21 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26064,
+    "updated_at": "2026-10-16T18:41:45Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 365,
-    "updated_at": "2026-10-16T18:30:00Z",
+    "updated_at": "2026-10-16T18:37:17Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26063,
-    "updated_at": "2026-10-16T18:03:00Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Mission-control dashboard aggregating agent-eval signals \u2014 eval scores, red-team results, cost and latency in one view. ",
