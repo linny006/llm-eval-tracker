@@ -1,5 +1,14 @@
 [
   {
+    "description": "judge-drift-sentinel \u00b7 judge-reliability-kit \u00b7 agent-loop-engine \u00b7 trace-gate \u00b7 ai-eng-skill-range",
+    "id": "homayoun-safarpour/homayoun-safarpour",
+    "language": "\u2014",
+    "name": "homayoun-safarpour/homayoun-safarpour",
+    "stars": 0,
+    "updated_at": "2026-10-17T00:15:00Z",
+    "url": "https://github.com/homayoun-safarpour/homayoun-safarpour"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -367,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T00:14:48Z",
     "url": "https://github.com/gopals09920/llm-bias-toxicity-audit"
-  },
-  {
-    "description": "judge-drift-sentinel \u00b7 judge-reliability-kit \u00b7 agent-loop-engine \u00b7 trace-gate \u00b7 ai-eng-skill-range",
-    "id": "homayoun-safarpour/homayoun-safarpour",
-    "language": "\u2014",
-    "name": "homayoun-safarpour/homayoun-safarpour",
-    "stars": 0,
-    "updated_at": "2026-10-08T11:45:13Z",
-    "url": "https://github.com/homayoun-safarpour/homayoun-safarpour"
   },
   {
     "description": "Agricultural-advisory QA benchmark in 11 Indian languages \u2014 500 questions \u00d7 11, built from real Kisan Call Centre farmer",
