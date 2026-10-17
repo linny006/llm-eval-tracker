@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-17 13:45 UTC
+> ⏰ Last updated: 2026-10-17 13:57 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,7 +42,7 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26081 | TypeScript | 2026-10-17 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26082 | TypeScript | 2026-10-17 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 2 | [TQSY114514/Aether](https://github.com/TQSY114514/Aether) | 5 | JavaScript | 2026-10-17 | Local-first AI Agent Workbench with built-in Model Arena & 6-Axis Sandbox \| 本地优先的多模型 Agent 桌面工作台（内置模型竞技场 · 结构化记忆图谱 · 默认安 |
 | 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11883 | Python | 2026-10-17 | AI Observability & Evaluation |
 | 4 | [nagadevi-naradasu/llm_as_judge_calibration_pipeline](https://github.com/nagadevi-naradasu/llm_as_judge_calibration_pipeline) | 0 | Python | 2026-10-17 | Calibrated LLM-as-a-judge pipeline: rubric, human gold set, frozen splits, bootstrap TPR/TNR/agreement/kappa, bias probe |
