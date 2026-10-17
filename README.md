@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-17 11:15 UTC
+> ⏰ Last updated: 2026-10-17 11:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [TQSY114514/Aether](https://github.com/TQSY114514/Aether) | 5 | JavaScript | 2026-10-17 | Local-first AI Agent Workbench with built-in Model Arena & 6-Axis Sandbox \| 本地优先的多模型 Agent 桌面工作台（内置模型竞技场 · 结构化记忆图谱 · 默认安 |
-| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11882 | Python | 2026-10-17 | AI Observability & Evaluation |
-| 3 | [nagadevi-naradasu/llm_as_judge_calibration_pipeline](https://github.com/nagadevi-naradasu/llm_as_judge_calibration_pipeline) | 0 | Python | 2026-10-17 | Calibrated LLM-as-a-judge pipeline: rubric, human gold set, frozen splits, bootstrap TPR/TNR/agreement/kappa, bias probe |
-| 4 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-10-17 | pip install gauntlet-evals · v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against |
-| 5 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-10-17 | v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic |
-| 6 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26078 | TypeScript | 2026-10-17 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26079 | TypeScript | 2026-10-17 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 2 | [TQSY114514/Aether](https://github.com/TQSY114514/Aether) | 5 | JavaScript | 2026-10-17 | Local-first AI Agent Workbench with built-in Model Arena & 6-Axis Sandbox \| 本地优先的多模型 Agent 桌面工作台（内置模型竞技场 · 结构化记忆图谱 · 默认安 |
+| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11882 | Python | 2026-10-17 | AI Observability & Evaluation |
+| 4 | [nagadevi-naradasu/llm_as_judge_calibration_pipeline](https://github.com/nagadevi-naradasu/llm_as_judge_calibration_pipeline) | 0 | Python | 2026-10-17 | Calibrated LLM-as-a-judge pipeline: rubric, human gold set, frozen splits, bootstrap TPR/TNR/agreement/kappa, bias probe |
+| 5 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-10-17 | pip install gauntlet-evals · v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against |
+| 6 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-10-17 | v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic |
 | 7 | [homayoun-safarpour/homayoun-safarpour](https://github.com/homayoun-safarpour/homayoun-safarpour) | 0 | — | 2026-10-17 | judge-drift-sentinel · judge-reliability-kit · agent-loop-engine · trace-gate · ai-eng-skill-range |
 | 8 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 365 | TypeScript | 2026-10-16 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 9 | [AkashB98/agent-eval-dashboard](https://github.com/AkashB98/agent-eval-dashboard) | 0 | Python | 2026-10-16 | Mission-control dashboard aggregating agent-eval signals — eval scores, red-team results, cost and latency in one view.  |

@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26079,
+    "updated_at": "2026-10-17T09:54:31Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Local-first AI Agent Workbench with built-in Model Arena & 6-Axis Sandbox | \u672c\u5730\u4f18\u5148\u7684\u591a\u6a21\u578b Agent \u684c\u9762\u5de5\u4f5c\u53f0\uff08\u5185\u7f6e\u6a21\u578b\u7ade\u6280\u573a \u00b7 \u7ed3\u6784\u5316\u8bb0\u5fc6\u56fe\u8c31 \u00b7 \u9ed8\u8ba4\u5b89",
     "id": "TQSY114514/Aether",
     "language": "JavaScript",
@@ -43,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-10-17T04:15:37Z",
     "url": "https://github.com/ChelseaKR/plumbline"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26078,
-    "updated_at": "2026-10-17T09:54:31Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "judge-drift-sentinel \u00b7 judge-reliability-kit \u00b7 agent-loop-engine \u00b7 trace-gate \u00b7 ai-eng-skill-range",
