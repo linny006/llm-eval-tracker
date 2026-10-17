@@ -1,5 +1,14 @@
 [
   {
+    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
+    "id": "judgekeeper/judgekeeper",
+    "language": "Python",
+    "name": "judgekeeper/judgekeeper",
+    "stars": 0,
+    "updated_at": "2026-10-17T20:42:49Z",
+    "url": "https://github.com/judgekeeper/judgekeeper"
+  },
+  {
     "description": "Curated list of benchmarks and rankings of models, agents and other AI-things.",
     "id": "lorien/awesome-ai-benchmarks",
     "language": "\u2014",
@@ -23,17 +32,8 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 365,
-    "updated_at": "2026-10-17T19:13:20Z",
+    "updated_at": "2026-10-17T20:34:59Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
-    "id": "judgekeeper/judgekeeper",
-    "language": "Python",
-    "name": "judgekeeper/judgekeeper",
-    "stars": 0,
-    "updated_at": "2026-10-17T20:08:46Z",
-    "url": "https://github.com/judgekeeper/judgekeeper"
   },
   {
     "description": "Evidence-driven AI development workbench for model evaluation, project context, and controlled agent execution.",
@@ -58,7 +58,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11887,
+    "stars": 11888,
     "updated_at": "2026-10-17T09:42:45Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
