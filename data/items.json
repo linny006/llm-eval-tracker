@@ -1,21 +1,21 @@
 [
   {
-    "description": "Local-first AI Agent Workbench with built-in Model Arena & 6-Axis Sandbox | \u672c\u5730\u4f18\u5148\u7684\u591a\u6a21\u578b Agent \u684c\u9762\u5de5\u4f5c\u53f0\uff08\u5185\u7f6e\u6a21\u578b\u7ade\u6280\u573a \u00b7 \u7ed3\u6784\u5316\u8bb0\u5fc6\u56fe\u8c31 \u00b7 \u9ed8\u8ba4\u5b89",
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 365,
+    "updated_at": "2026-10-17T17:26:25Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
+    "description": "Evidence-driven AI development workbench for model evaluation, project context, and controlled agent execution.",
     "id": "TQSY114514/Aether",
     "language": "JavaScript",
     "name": "TQSY114514/Aether",
     "stars": 5,
     "updated_at": "2026-10-17T17:10:31Z",
     "url": "https://github.com/TQSY114514/Aether"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 365,
-    "updated_at": "2026-10-17T17:07:23Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
@@ -31,7 +31,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26085,
+    "stars": 26086,
     "updated_at": "2026-10-17T09:54:31Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
