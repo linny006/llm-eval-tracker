@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11875,
+    "updated_at": "2026-10-17T00:35:09Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "judge-drift-sentinel \u00b7 judge-reliability-kit \u00b7 agent-loop-engine \u00b7 trace-gate \u00b7 ai-eng-skill-range",
     "id": "homayoun-safarpour/homayoun-safarpour",
     "language": "\u2014",
@@ -7,15 +16,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T00:15:00Z",
     "url": "https://github.com/homayoun-safarpour/homayoun-safarpour"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11875,
-    "updated_at": "2026-10-17T00:28:13Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
