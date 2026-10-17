@@ -1,5 +1,14 @@
 [
   {
+    "description": "pip install gauntlet-evals \u00b7 v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against",
+    "id": "ChelseaKR/gauntlet",
+    "language": "Python",
+    "name": "ChelseaKR/gauntlet",
+    "stars": 1,
+    "updated_at": "2026-10-17T06:04:34Z",
+    "url": "https://github.com/ChelseaKR/gauntlet"
+  },
+  {
     "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
     "id": "ChelseaKR/plumbline",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 1,
     "updated_at": "2026-10-17T04:15:37Z",
     "url": "https://github.com/ChelseaKR/plumbline"
-  },
-  {
-    "description": "pip install gauntlet-evals \u00b7 v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against",
-    "id": "ChelseaKR/gauntlet",
-    "language": "Python",
-    "name": "ChelseaKR/gauntlet",
-    "stars": 1,
-    "updated_at": "2026-10-17T04:36:05Z",
-    "url": "https://github.com/ChelseaKR/gauntlet"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -113,7 +113,7 @@
     "language": "Python",
     "name": "HLIntel/thea-software",
     "stars": 3,
-    "updated_at": "2026-10-17T05:53:56Z",
+    "updated_at": "2026-10-17T06:06:44Z",
     "url": "https://github.com/HLIntel/thea-software"
   },
   {
@@ -374,7 +374,7 @@
     "language": "Python",
     "name": "ChelseaKR/sprout",
     "stars": 1,
-    "updated_at": "2026-10-15T21:17:55Z",
+    "updated_at": "2026-10-17T06:07:02Z",
     "url": "https://github.com/ChelseaKR/sprout"
   },
   {
