@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11881,
+    "updated_at": "2026-10-17T09:42:45Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Calibrated LLM-as-a-judge pipeline: rubric, human gold set, frozen splits, bootstrap TPR/TNR/agreement/kappa, bias probe",
     "id": "nagadevi-naradasu/llm_as_judge_calibration_pipeline",
     "language": "Python",
@@ -34,15 +43,6 @@
     "stars": 26078,
     "updated_at": "2026-10-17T02:36:49Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11880,
-    "updated_at": "2026-10-17T00:35:09Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "judge-drift-sentinel \u00b7 judge-reliability-kit \u00b7 agent-loop-engine \u00b7 trace-gate \u00b7 ai-eng-skill-range",
