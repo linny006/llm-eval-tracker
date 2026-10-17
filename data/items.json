@@ -1,5 +1,14 @@
 [
   {
+    "description": "Curated list of benchmarks and rankings of models, agents and other AI-things.",
+    "id": "lorien/awesome-ai-benchmarks",
+    "language": "\u2014",
+    "name": "lorien/awesome-ai-benchmarks",
+    "stars": 1,
+    "updated_at": "2026-10-17T19:38:51Z",
+    "url": "https://github.com/lorien/awesome-ai-benchmarks"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "judgekeeper/judgekeeper",
     "stars": 0,
-    "updated_at": "2026-10-17T19:08:11Z",
+    "updated_at": "2026-10-17T19:34:28Z",
     "url": "https://github.com/judgekeeper/judgekeeper"
   },
   {
@@ -259,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-10-13T11:40:16Z",
     "url": "https://github.com/glibshchur/fieldnote"
-  },
-  {
-    "description": "Curated list of benchmarks and rankings of models, agents and other AI-things.",
-    "id": "lorien/awesome-ai-benchmarks",
-    "language": "\u2014",
-    "name": "lorien/awesome-ai-benchmarks",
-    "stars": 1,
-    "updated_at": "2026-10-13T09:06:25Z",
-    "url": "https://github.com/lorien/awesome-ai-benchmarks"
   },
   {
     "description": "Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old ",
