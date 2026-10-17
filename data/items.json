@@ -1,21 +1,21 @@
 [
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26090,
-    "updated_at": "2026-10-17T22:38:58Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
     "id": "judgekeeper/judgekeeper",
     "language": "Python",
     "name": "judgekeeper/judgekeeper",
     "stars": 0,
-    "updated_at": "2026-10-17T22:53:42Z",
+    "updated_at": "2026-10-17T23:09:05Z",
     "url": "https://github.com/judgekeeper/judgekeeper"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26089,
+    "updated_at": "2026-10-17T22:38:58Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Curated list of benchmarks and rankings of models, agents and other AI-things.",
