@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
+    "id": "HLIntel/thea-software",
+    "language": "Python",
+    "name": "HLIntel/thea-software",
+    "stars": 3,
+    "updated_at": "2026-10-18T01:04:55Z",
+    "url": "https://github.com/HLIntel/thea-software"
+  },
+  {
     "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
     "id": "judgekeeper/judgekeeper",
     "language": "Python",
@@ -142,15 +151,6 @@
     "stars": 7,
     "updated_at": "2026-10-16T01:04:41Z",
     "url": "https://github.com/yukincom/llm-SugarScape"
-  },
-  {
-    "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
-    "id": "HLIntel/thea-software",
-    "language": "Python",
-    "name": "HLIntel/thea-software",
-    "stars": 3,
-    "updated_at": "2026-10-18T00:49:43Z",
-    "url": "https://github.com/HLIntel/thea-software"
   },
   {
     "description": "A deterministic evaluation harness stress-testing RAG pipelines against controlled distractors, contradictions, and posi",
