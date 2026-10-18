@@ -1,21 +1,21 @@
 [
   {
-    "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
-    "id": "IcodeNet/eval-dashboards",
-    "language": "TypeScript",
-    "name": "IcodeNet/eval-dashboards",
-    "stars": 1,
-    "updated_at": "2026-10-18T14:58:45Z",
-    "url": "https://github.com/IcodeNet/eval-dashboards"
-  },
-  {
     "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
     "id": "HLIntel/thea-software",
     "language": "Python",
     "name": "HLIntel/thea-software",
     "stars": 3,
-    "updated_at": "2026-10-18T14:59:42Z",
+    "updated_at": "2026-10-18T15:13:33Z",
     "url": "https://github.com/HLIntel/thea-software"
+  },
+  {
+    "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
+    "id": "IcodeNet/eval-dashboards",
+    "language": "TypeScript",
+    "name": "IcodeNet/eval-dashboards",
+    "stars": 1,
+    "updated_at": "2026-10-18T15:09:12Z",
+    "url": "https://github.com/IcodeNet/eval-dashboards"
   },
   {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -49,7 +49,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26108,
+    "stars": 26109,
     "updated_at": "2026-10-18T00:33:33Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -85,7 +85,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11896,
+    "stars": 11897,
     "updated_at": "2026-10-17T09:42:45Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
