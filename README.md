@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-18 09:15 UTC
+> ⏰ Last updated: 2026-10-18 09:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -57,7 +57,7 @@ expired items removed — so you can rely on what you see being current.
 | 13 | [homayoun-safarpour/homayoun-safarpour](https://github.com/homayoun-safarpour/homayoun-safarpour) | 0 | — | 2026-10-17 | judge-drift-sentinel · judge-reliability-kit · agent-loop-engine · trace-gate · ai-eng-skill-range |
 | 14 | [AkashB98/agent-eval-dashboard](https://github.com/AkashB98/agent-eval-dashboard) | 0 | Python | 2026-10-16 | Mission-control dashboard aggregating agent-eval signals — eval scores, red-team results, cost and latency in one view.  |
 | 15 | [truera/trulens](https://github.com/truera/trulens) | 3602 | Python | 2026-10-16 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 16 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7525 | Python | 2026-10-16 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
+| 16 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7526 | Python | 2026-10-16 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
 | 17 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5907 | Python | 2026-10-16 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 18 | [yukincom/llm-SugarScape](https://github.com/yukincom/llm-SugarScape) | 7 | Python | 2026-10-16 | Multi-agent simulation using LLMs. Agents autonomously decide actions for survival, reproduction, and social behavior in |
 | 19 | [ManavPratapSingh/RAG-Stress](https://github.com/ManavPratapSingh/RAG-Stress) | 0 | Python | 2026-10-15 | A deterministic evaluation harness stress-testing RAG pipelines against controlled distractors, contradictions, and posi |
