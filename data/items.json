@@ -1,5 +1,23 @@
 [
   {
+    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
+    "id": "judgekeeper/judgekeeper",
+    "language": "Python",
+    "name": "judgekeeper/judgekeeper",
+    "stars": 0,
+    "updated_at": "2026-10-18T23:06:04Z",
+    "url": "https://github.com/judgekeeper/judgekeeper"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11902,
+    "updated_at": "2026-10-18T22:36:41Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
     "id": "IcodeNet/eval-dashboards",
     "language": "TypeScript",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "HLIntel/thea-software",
     "stars": 3,
-    "updated_at": "2026-10-18T15:13:33Z",
+    "updated_at": "2026-10-18T23:12:41Z",
     "url": "https://github.com/HLIntel/thea-software"
   },
   {
@@ -25,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-10-18T12:18:21Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
-    "id": "judgekeeper/judgekeeper",
-    "language": "Python",
-    "name": "judgekeeper/judgekeeper",
-    "stars": 0,
-    "updated_at": "2026-10-18T05:48:39Z",
-    "url": "https://github.com/judgekeeper/judgekeeper"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
@@ -49,7 +58,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26112,
+    "stars": 26113,
     "updated_at": "2026-10-18T00:33:33Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -79,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-10-17T14:05:58Z",
     "url": "https://github.com/ChelseaKR/sprout"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11901,
-    "updated_at": "2026-10-18T22:36:41Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Calibrated LLM-as-a-judge pipeline: rubric, human gold set, frozen splits, bootstrap TPR/TNR/agreement/kappa, bias probe",
