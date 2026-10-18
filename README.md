@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-18 10:00 UTC
+> ⏰ Last updated: 2026-10-18 10:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -50,14 +50,14 @@ expired items removed — so you can rely on what you see being current.
 | 6 | [lorien/awesome-ai-benchmarks](https://github.com/lorien/awesome-ai-benchmarks) | 1 | — | 2026-10-17 | Curated list of benchmarks and rankings of models, agents and other AI-things. |
 | 7 | [TQSY114514/Aether](https://github.com/TQSY114514/Aether) | 5 | JavaScript | 2026-10-17 | Evidence-driven AI development workbench for model evaluation, project context, and controlled agent execution. |
 | 8 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-10-17 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
-| 9 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11892 | Python | 2026-10-17 | AI Observability & Evaluation |
+| 9 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11893 | Python | 2026-10-17 | AI Observability & Evaluation |
 | 10 | [nagadevi-naradasu/llm_as_judge_calibration_pipeline](https://github.com/nagadevi-naradasu/llm_as_judge_calibration_pipeline) | 0 | Python | 2026-10-17 | Calibrated LLM-as-a-judge pipeline: rubric, human gold set, frozen splits, bootstrap TPR/TNR/agreement/kappa, bias probe |
 | 11 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-10-17 | pip install gauntlet-evals · v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against |
 | 12 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-10-17 | v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic |
 | 13 | [homayoun-safarpour/homayoun-safarpour](https://github.com/homayoun-safarpour/homayoun-safarpour) | 0 | — | 2026-10-17 | judge-drift-sentinel · judge-reliability-kit · agent-loop-engine · trace-gate · ai-eng-skill-range |
 | 14 | [AkashB98/agent-eval-dashboard](https://github.com/AkashB98/agent-eval-dashboard) | 0 | Python | 2026-10-16 | Mission-control dashboard aggregating agent-eval signals — eval scores, red-team results, cost and latency in one view.  |
 | 15 | [truera/trulens](https://github.com/truera/trulens) | 3602 | Python | 2026-10-16 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 16 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7526 | Python | 2026-10-16 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
+| 16 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7527 | Python | 2026-10-16 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
 | 17 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5907 | Python | 2026-10-16 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 18 | [yukincom/llm-SugarScape](https://github.com/yukincom/llm-SugarScape) | 7 | Python | 2026-10-16 | Multi-agent simulation using LLMs. Agents autonomously decide actions for survival, reproduction, and social behavior in |
 | 19 | [ManavPratapSingh/RAG-Stress](https://github.com/ManavPratapSingh/RAG-Stress) | 0 | Python | 2026-10-15 | A deterministic evaluation harness stress-testing RAG pipelines against controlled distractors, contradictions, and posi |
