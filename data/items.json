@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26153,
+    "updated_at": "2026-10-19T21:18:02Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Agreement + calibration harness for LLM-as-judge graders \u2014 calibration curves, bias/drift detection, per-category scorec",
     "id": "AkashB98/llm-judge-calibration",
     "language": "Python",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 365,
-    "updated_at": "2026-10-19T20:55:40Z",
+    "updated_at": "2026-10-19T21:25:29Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -34,15 +43,6 @@
     "stars": 3,
     "updated_at": "2026-10-19T20:32:26Z",
     "url": "https://github.com/HLIntel/thea-software"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26153,
-    "updated_at": "2026-10-19T18:41:02Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
