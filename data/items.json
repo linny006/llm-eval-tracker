@@ -5,7 +5,7 @@
     "language": "TypeScript",
     "name": "IcodeNet/eval-dashboards",
     "stars": 1,
-    "updated_at": "2026-10-19T14:43:23Z",
+    "updated_at": "2026-10-19T14:46:39Z",
     "url": "https://github.com/IcodeNet/eval-dashboards"
   },
   {
@@ -22,8 +22,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26144,
-    "updated_at": "2026-10-19T14:37:20Z",
+    "stars": 26146,
+    "updated_at": "2026-10-19T15:00:11Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -31,7 +31,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11911,
+    "stars": 11910,
     "updated_at": "2026-10-19T14:10:02Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -41,7 +41,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 365,
-    "updated_at": "2026-10-19T11:17:04Z",
+    "updated_at": "2026-10-19T14:49:19Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -202,7 +202,7 @@
     "id": "open-compass/opencompass",
     "language": "Python",
     "name": "open-compass/opencompass",
-    "stars": 7528,
+    "stars": 7527,
     "updated_at": "2026-10-16T07:53:18Z",
     "url": "https://github.com/open-compass/opencompass"
   },
