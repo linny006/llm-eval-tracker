@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26154,
+    "updated_at": "2026-10-19T22:41:23Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -7,15 +16,6 @@
     "stars": 365,
     "updated_at": "2026-10-19T22:26:16Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26154,
-    "updated_at": "2026-10-19T21:57:11Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Agreement + calibration harness for LLM-as-judge graders \u2014 calibration curves, bias/drift detection, per-category scorec",
@@ -32,7 +32,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11911,
-    "updated_at": "2026-10-19T22:14:38Z",
+    "updated_at": "2026-10-19T22:32:37Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
