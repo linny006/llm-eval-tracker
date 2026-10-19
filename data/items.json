@@ -1,5 +1,14 @@
 [
   {
+    "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
+    "id": "IcodeNet/eval-dashboards",
+    "language": "TypeScript",
+    "name": "IcodeNet/eval-dashboards",
+    "stars": 1,
+    "updated_at": "2026-10-19T08:29:43Z",
+    "url": "https://github.com/IcodeNet/eval-dashboards"
+  },
+  {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
     "id": "jeremylongshore/j-rig-skill-binary-eval",
     "language": "TypeScript",
@@ -14,17 +23,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26131,
-    "updated_at": "2026-10-19T08:14:27Z",
+    "updated_at": "2026-10-19T08:16:27Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
-    "id": "IcodeNet/eval-dashboards",
-    "language": "TypeScript",
-    "name": "IcodeNet/eval-dashboards",
-    "stars": 1,
-    "updated_at": "2026-10-19T08:12:12Z",
-    "url": "https://github.com/IcodeNet/eval-dashboards"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
@@ -32,7 +32,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 365,
-    "updated_at": "2026-10-19T07:57:50Z",
+    "updated_at": "2026-10-19T08:22:22Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
