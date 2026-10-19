@@ -1,12 +1,30 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 365,
+    "updated_at": "2026-10-19T07:29:01Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
     "id": "IcodeNet/eval-dashboards",
     "language": "TypeScript",
     "name": "IcodeNet/eval-dashboards",
     "stars": 1,
-    "updated_at": "2026-10-19T07:13:55Z",
+    "updated_at": "2026-10-19T07:28:10Z",
     "url": "https://github.com/IcodeNet/eval-dashboards"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5910,
+    "updated_at": "2026-10-19T07:24:40Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
@@ -27,13 +45,13 @@
     "url": "https://github.com/senguptashubham/judge-calibration"
   },
   {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5910,
-    "updated_at": "2026-10-19T07:10:53Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26130,
+    "updated_at": "2026-10-19T06:37:40Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Multi-agent simulation using LLMs. Agents autonomously decide actions for survival, reproduction, and social behavior in",
@@ -72,15 +90,6 @@
     "url": "https://github.com/truera/trulens"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26129,
-    "updated_at": "2026-10-19T06:37:40Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
     "id": "judgekeeper/judgekeeper",
     "language": "Python",
@@ -104,17 +113,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11905,
-    "updated_at": "2026-10-18T22:36:41Z",
+    "updated_at": "2026-10-19T07:15:32Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 365,
-    "updated_at": "2026-10-19T01:16:24Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Curated list of benchmarks and rankings of models, agents and other AI-things.",
