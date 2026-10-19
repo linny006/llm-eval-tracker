@@ -1,12 +1,30 @@
 [
   {
+    "description": "Do LLM judges know when they're wrong? Three open-weight judges (Qwen2.5-7B, kev-8b, auto-j-13b) graded against MT-Bench",
+    "id": "senguptashubham/judge-calibration",
+    "language": "Python",
+    "name": "senguptashubham/judge-calibration",
+    "stars": 3,
+    "updated_at": "2026-10-19T06:56:47Z",
+    "url": "https://github.com/senguptashubham/judge-calibration"
+  },
+  {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
     "id": "jeremylongshore/j-rig-skill-binary-eval",
     "language": "TypeScript",
     "name": "jeremylongshore/j-rig-skill-binary-eval",
     "stars": 3,
-    "updated_at": "2026-10-19T06:42:57Z",
+    "updated_at": "2026-10-19T06:57:01Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5910,
+    "updated_at": "2026-10-19T06:50:36Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
@@ -14,7 +32,7 @@
     "language": "TypeScript",
     "name": "IcodeNet/eval-dashboards",
     "stars": 1,
-    "updated_at": "2026-10-19T06:43:39Z",
+    "updated_at": "2026-10-19T06:59:22Z",
     "url": "https://github.com/IcodeNet/eval-dashboards"
   },
   {
@@ -61,15 +79,6 @@
     "stars": 26129,
     "updated_at": "2026-10-19T06:37:40Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5910,
-    "updated_at": "2026-10-19T04:54:54Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-07T15:37:07Z",
     "url": "https://github.com/arunash/earshot"
-  },
-  {
-    "description": "Test AI customer service agents for confirmation-based PII disclosure.",
-    "id": "nxtaillc/disclosure-eval",
-    "language": "Python",
-    "name": "nxtaillc/disclosure-eval",
-    "stars": 0,
-    "updated_at": "2026-10-06T22:23:21Z",
-    "url": "https://github.com/nxtaillc/disclosure-eval"
   }
 ]
