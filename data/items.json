@@ -1,5 +1,23 @@
 [
   {
+    "description": "13 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, portfolio publish",
+    "id": "jin2004-cmd/codex-practical-skills",
+    "language": "Python",
+    "name": "jin2004-cmd/codex-practical-skills",
+    "stars": 1,
+    "updated_at": "2026-10-19T02:49:21Z",
+    "url": "https://github.com/jin2004-cmd/codex-practical-skills"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26121,
+    "updated_at": "2026-10-19T02:36:10Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
@@ -9,21 +27,12 @@
     "url": "https://github.com/truera/trulens"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26120,
-    "updated_at": "2026-10-19T02:36:10Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5910,
-    "updated_at": "2026-10-19T02:39:12Z",
+    "updated_at": "2026-10-19T02:54:34Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -157,7 +166,7 @@
     "id": "open-compass/opencompass",
     "language": "Python",
     "name": "open-compass/opencompass",
-    "stars": 7527,
+    "stars": 7528,
     "updated_at": "2026-10-16T07:53:18Z",
     "url": "https://github.com/open-compass/opencompass"
   },
@@ -430,15 +439,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T15:37:07Z",
     "url": "https://github.com/arunash/earshot"
-  },
-  {
-    "description": "13 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, portfolio publish",
-    "id": "jin2004-cmd/codex-practical-skills",
-    "language": "Python",
-    "name": "jin2004-cmd/codex-practical-skills",
-    "stars": 1,
-    "updated_at": "2026-10-07T14:07:56Z",
-    "url": "https://github.com/jin2004-cmd/codex-practical-skills"
   },
   {
     "description": "Test AI customer service agents for confirmation-based PII disclosure.",
