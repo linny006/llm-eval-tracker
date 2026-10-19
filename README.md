@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-19 01:30 UTC
+> ⏰ Last updated: 2026-10-19 01:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -48,7 +48,7 @@ expired items removed — so you can rely on what you see being current.
 | 4 | [IcodeNet/eval-dashboards](https://github.com/IcodeNet/eval-dashboards) | 1 | TypeScript | 2026-10-18 | Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style — bring y |
 | 5 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-18 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
 | 6 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 365 | TypeScript | 2026-10-19 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 7 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26116 | TypeScript | 2026-10-18 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 7 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26117 | TypeScript | 2026-10-18 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 8 | [lorien/awesome-ai-benchmarks](https://github.com/lorien/awesome-ai-benchmarks) | 1 | — | 2026-10-17 | Curated list of benchmarks and rankings of models, agents and other AI-things. |
 | 9 | [TQSY114514/Aether](https://github.com/TQSY114514/Aether) | 5 | JavaScript | 2026-10-17 | Evidence-driven AI development workbench for model evaluation, project context, and controlled agent execution. |
 | 10 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-10-17 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
@@ -57,7 +57,7 @@ expired items removed — so you can rely on what you see being current.
 | 13 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-10-17 | v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic |
 | 14 | [homayoun-safarpour/homayoun-safarpour](https://github.com/homayoun-safarpour/homayoun-safarpour) | 0 | — | 2026-10-17 | judge-drift-sentinel · judge-reliability-kit · agent-loop-engine · trace-gate · ai-eng-skill-range |
 | 15 | [AkashB98/agent-eval-dashboard](https://github.com/AkashB98/agent-eval-dashboard) | 0 | Python | 2026-10-16 | Mission-control dashboard aggregating agent-eval signals — eval scores, red-team results, cost and latency in one view.  |
-| 16 | [truera/trulens](https://github.com/truera/trulens) | 3602 | Python | 2026-10-16 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 16 | [truera/trulens](https://github.com/truera/trulens) | 3602 | Python | 2026-10-19 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 17 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7527 | Python | 2026-10-16 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
 | 18 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5909 | Python | 2026-10-19 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 19 | [yukincom/llm-SugarScape](https://github.com/yukincom/llm-SugarScape) | 7 | Python | 2026-10-16 | Multi-agent simulation using LLMs. Agents autonomously decide actions for survival, reproduction, and social behavior in |
