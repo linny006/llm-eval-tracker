@@ -1,11 +1,29 @@
 [
   {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-19T12:14:21Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11909,
+    "updated_at": "2026-10-19T12:03:04Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
     "id": "IcodeNet/eval-dashboards",
     "language": "TypeScript",
     "name": "IcodeNet/eval-dashboards",
     "stars": 1,
-    "updated_at": "2026-10-19T11:23:37Z",
+    "updated_at": "2026-10-19T12:14:20Z",
     "url": "https://github.com/IcodeNet/eval-dashboards"
   },
   {
@@ -25,15 +43,6 @@
     "stars": 365,
     "updated_at": "2026-10-19T11:17:04Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-19T10:10:45Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
@@ -61,15 +70,6 @@
     "stars": 5910,
     "updated_at": "2026-10-19T11:53:41Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11908,
-    "updated_at": "2026-10-19T07:15:32Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Do LLM judges know when they're wrong? Three open-weight judges (Qwen2.5-7B, kev-8b, auto-j-13b) graded against MT-Bench",
