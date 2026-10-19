@@ -5,8 +5,17 @@
     "language": "TypeScript",
     "name": "IcodeNet/eval-dashboards",
     "stars": 1,
-    "updated_at": "2026-10-19T08:29:43Z",
+    "updated_at": "2026-10-19T08:45:00Z",
     "url": "https://github.com/IcodeNet/eval-dashboards"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26131,
+    "updated_at": "2026-10-19T08:39:03Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
@@ -16,15 +25,6 @@
     "stars": 3,
     "updated_at": "2026-10-19T08:13:55Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26131,
-    "updated_at": "2026-10-19T08:16:27Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
@@ -52,6 +52,15 @@
     "stars": 5910,
     "updated_at": "2026-10-19T07:24:40Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11906,
+    "updated_at": "2026-10-19T07:15:32Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Do LLM judges know when they're wrong? Three open-weight judges (Qwen2.5-7B, kev-8b, auto-j-13b) graded against MT-Bench",
@@ -115,15 +124,6 @@
     "stars": 3,
     "updated_at": "2026-10-18T23:22:52Z",
     "url": "https://github.com/HLIntel/thea-software"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11905,
-    "updated_at": "2026-10-19T07:15:32Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Curated list of benchmarks and rankings of models, agents and other AI-things.",
@@ -419,7 +419,7 @@
     "language": "HTML",
     "name": "ChelseaKR/fare-policy-assistant",
     "stars": 1,
-    "updated_at": "2026-10-12T08:43:52Z",
+    "updated_at": "2026-10-19T08:32:19Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
