@@ -1,5 +1,23 @@
 [
   {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3601,
+    "updated_at": "2026-10-19T01:35:17Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5910,
+    "updated_at": "2026-10-19T01:18:06Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
     "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
     "id": "judgekeeper/judgekeeper",
     "language": "Python",
@@ -58,7 +76,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26117,
+    "stars": 26118,
     "updated_at": "2026-10-18T00:33:33Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -135,15 +153,6 @@
     "url": "https://github.com/AkashB98/agent-eval-dashboard"
   },
   {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3602,
-    "updated_at": "2026-10-19T01:35:17Z",
-    "url": "https://github.com/truera/trulens"
-  },
-  {
     "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
     "id": "open-compass/opencompass",
     "language": "Python",
@@ -151,15 +160,6 @@
     "stars": 7527,
     "updated_at": "2026-10-16T07:53:18Z",
     "url": "https://github.com/open-compass/opencompass"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5909,
-    "updated_at": "2026-10-19T01:18:06Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Multi-agent simulation using LLMs. Agents autonomously decide actions for survival, reproduction, and social behavior in",
