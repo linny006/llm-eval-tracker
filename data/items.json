@@ -1,5 +1,14 @@
 [
   {
+    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
+    "id": "judgekeeper/judgekeeper",
+    "language": "Python",
+    "name": "judgekeeper/judgekeeper",
+    "stars": 0,
+    "updated_at": "2026-10-19T00:14:52Z",
+    "url": "https://github.com/judgekeeper/judgekeeper"
+  },
+  {
     "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
     "id": "HLIntel/thea-software",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 3,
     "updated_at": "2026-10-18T23:22:52Z",
     "url": "https://github.com/HLIntel/thea-software"
-  },
-  {
-    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
-    "id": "judgekeeper/judgekeeper",
-    "language": "Python",
-    "name": "judgekeeper/judgekeeper",
-    "stars": 0,
-    "updated_at": "2026-10-18T23:44:49Z",
-    "url": "https://github.com/judgekeeper/judgekeeper"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -50,7 +50,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 365,
-    "updated_at": "2026-10-18T23:42:34Z",
+    "updated_at": "2026-10-19T00:02:53Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
