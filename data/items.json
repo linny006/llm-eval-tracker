@@ -1,5 +1,14 @@
 [
   {
+    "description": "Agreement + calibration harness for LLM-as-judge graders \u2014 calibration curves, bias/drift detection, per-category scorec",
+    "id": "AkashB98/llm-judge-calibration",
+    "language": "Python",
+    "name": "AkashB98/llm-judge-calibration",
+    "stars": 0,
+    "updated_at": "2026-10-19T21:15:10Z",
+    "url": "https://github.com/AkashB98/llm-judge-calibration"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-09T00:14:48Z",
     "url": "https://github.com/gopals09920/llm-bias-toxicity-audit"
-  },
-  {
-    "description": "Agricultural-advisory QA benchmark in 11 Indian languages \u2014 500 questions \u00d7 11, built from real Kisan Call Centre farmer",
-    "id": "sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark",
-    "language": "Python",
-    "name": "sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark",
-    "stars": 1,
-    "updated_at": "2026-10-08T07:00:54Z",
-    "url": "https://github.com/sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark"
   }
 ]
