@@ -1,5 +1,23 @@
 [
   {
+    "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
+    "id": "jeremylongshore/j-rig-skill-binary-eval",
+    "language": "TypeScript",
+    "name": "jeremylongshore/j-rig-skill-binary-eval",
+    "stars": 3,
+    "updated_at": "2026-10-19T05:14:53Z",
+    "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
+  },
+  {
+    "description": "Multi-agent simulation using LLMs. Agents autonomously decide actions for survival, reproduction, and social behavior in",
+    "id": "yukincom/llm-SugarScape",
+    "language": "Python",
+    "name": "yukincom/llm-SugarScape",
+    "stars": 7,
+    "updated_at": "2026-10-19T05:14:09Z",
+    "url": "https://github.com/yukincom/llm-SugarScape"
+  },
+  {
     "description": "AI \u5b9e\u7528 Skill \u5e93 \u00b7 16 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, p",
     "id": "jin2004-cmd/codex-practical-skills",
     "language": "Python",
@@ -171,15 +189,6 @@
     "url": "https://github.com/open-compass/opencompass"
   },
   {
-    "description": "Multi-agent simulation using LLMs. Agents autonomously decide actions for survival, reproduction, and social behavior in",
-    "id": "yukincom/llm-SugarScape",
-    "language": "Python",
-    "name": "yukincom/llm-SugarScape",
-    "stars": 7,
-    "updated_at": "2026-10-16T01:04:41Z",
-    "url": "https://github.com/yukincom/llm-SugarScape"
-  },
-  {
     "description": "A deterministic evaluation harness stress-testing RAG pipelines against controlled distractors, contradictions, and posi",
     "id": "ManavPratapSingh/RAG-Stress",
     "language": "Python",
@@ -259,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-10-14T07:02:55Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
-    "id": "jeremylongshore/j-rig-skill-binary-eval",
-    "language": "TypeScript",
-    "name": "jeremylongshore/j-rig-skill-binary-eval",
-    "stars": 3,
-    "updated_at": "2026-10-14T10:11:49Z",
-    "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
     "description": "Official repository for \"CausalDS: Benchmarking Causal Reasoning in Data-Science Agents\"",
