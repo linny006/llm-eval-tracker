@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-19 04:30 UTC
+> ⏰ Last updated: 2026-10-19 04:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [jin2004-cmd/codex-practical-skills](https://github.com/jin2004-cmd/codex-practical-skills) | 1 | Python | 2026-10-19 | 13 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, portfolio publish |
-| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26124 | TypeScript | 2026-10-19 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 3 | [truera/trulens](https://github.com/truera/trulens) | 3601 | Python | 2026-10-19 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 4 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5910 | Python | 2026-10-19 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 5 | [judgekeeper/judgekeeper](https://github.com/judgekeeper/judgekeeper) | 0 | Python | 2026-10-19 | Check your LLM-as-a-judge: see how often it agrees with human labels, in one command. |
-| 6 | [HLIntel/thea-software](https://github.com/HLIntel/thea-software) | 3 | Python | 2026-10-18 | AI coding-agent verification — a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th |
-| 7 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11905 | Python | 2026-10-18 | AI Observability & Evaluation |
-| 8 | [IcodeNet/eval-dashboards](https://github.com/IcodeNet/eval-dashboards) | 1 | TypeScript | 2026-10-18 | Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style — bring y |
-| 9 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-18 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
+| 1 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-19 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
+| 2 | [jin2004-cmd/codex-practical-skills](https://github.com/jin2004-cmd/codex-practical-skills) | 1 | Python | 2026-10-19 | 13 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, portfolio publish |
+| 3 | [truera/trulens](https://github.com/truera/trulens) | 3602 | Python | 2026-10-19 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26124 | TypeScript | 2026-10-19 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 5 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5910 | Python | 2026-10-19 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 6 | [judgekeeper/judgekeeper](https://github.com/judgekeeper/judgekeeper) | 0 | Python | 2026-10-19 | Check your LLM-as-a-judge: see how often it agrees with human labels, in one command. |
+| 7 | [HLIntel/thea-software](https://github.com/HLIntel/thea-software) | 3 | Python | 2026-10-18 | AI coding-agent verification — a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th |
+| 8 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11905 | Python | 2026-10-18 | AI Observability & Evaluation |
+| 9 | [IcodeNet/eval-dashboards](https://github.com/IcodeNet/eval-dashboards) | 1 | TypeScript | 2026-10-18 | Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style — bring y |
 | 10 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 365 | TypeScript | 2026-10-19 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 11 | [lorien/awesome-ai-benchmarks](https://github.com/lorien/awesome-ai-benchmarks) | 1 | — | 2026-10-17 | Curated list of benchmarks and rankings of models, agents and other AI-things. |
 | 12 | [TQSY114514/Aether](https://github.com/TQSY114514/Aether) | 5 | JavaScript | 2026-10-19 | Evidence-driven AI development workbench for model evaluation, project context, and controlled agent execution. |
