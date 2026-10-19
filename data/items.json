@@ -5,17 +5,8 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 365,
-    "updated_at": "2026-10-19T18:54:09Z",
+    "updated_at": "2026-10-19T19:24:40Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26150,
-    "updated_at": "2026-10-19T18:41:02Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -25,6 +16,15 @@
     "stars": 11911,
     "updated_at": "2026-10-19T18:41:53Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26150,
+    "updated_at": "2026-10-19T18:41:02Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -122,7 +122,7 @@
     "language": "Python",
     "name": "HLIntel/thea-software",
     "stars": 3,
-    "updated_at": "2026-10-19T18:53:49Z",
+    "updated_at": "2026-10-19T19:29:11Z",
     "url": "https://github.com/HLIntel/thea-software"
   },
   {
