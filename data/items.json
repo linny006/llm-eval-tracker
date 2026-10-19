@@ -5,7 +5,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 365,
-    "updated_at": "2026-10-19T07:39:55Z",
+    "updated_at": "2026-10-19T07:57:50Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -14,8 +14,17 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26131,
-    "updated_at": "2026-10-19T07:37:27Z",
+    "updated_at": "2026-10-19T07:56:55Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
+    "id": "IcodeNet/eval-dashboards",
+    "language": "TypeScript",
+    "name": "IcodeNet/eval-dashboards",
+    "stars": 1,
+    "updated_at": "2026-10-19T07:50:07Z",
+    "url": "https://github.com/IcodeNet/eval-dashboards"
   },
   {
     "description": "TrustModel MCP Server \u2014 trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t",
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T07:37:25Z",
     "url": "https://github.com/pdxlab/trustmodel-mcp-server"
-  },
-  {
-    "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
-    "id": "IcodeNet/eval-dashboards",
-    "language": "TypeScript",
-    "name": "IcodeNet/eval-dashboards",
-    "stars": 1,
-    "updated_at": "2026-10-19T07:45:20Z",
-    "url": "https://github.com/IcodeNet/eval-dashboards"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
