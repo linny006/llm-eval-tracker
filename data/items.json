@@ -9,11 +9,20 @@
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26159,
+    "updated_at": "2026-10-20T01:45:18Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11910,
+    "stars": 11909,
     "updated_at": "2026-10-20T01:43:01Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -36,21 +45,12 @@
     "url": "https://github.com/damonphilipross/guidance-eval"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26158,
-    "updated_at": "2026-10-20T01:45:18Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 365,
-    "updated_at": "2026-10-20T02:19:00Z",
+    "updated_at": "2026-10-20T02:56:19Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
