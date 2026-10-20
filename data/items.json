@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
+    "id": "HLIntel/thea-software",
+    "language": "Python",
+    "name": "HLIntel/thea-software",
+    "stars": 3,
+    "updated_at": "2026-10-20T05:10:29Z",
+    "url": "https://github.com/HLIntel/thea-software"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 5911,
     "updated_at": "2026-10-20T04:42:40Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
-    "id": "HLIntel/thea-software",
-    "language": "Python",
-    "name": "HLIntel/thea-software",
-    "stars": 3,
-    "updated_at": "2026-10-20T04:58:20Z",
-    "url": "https://github.com/HLIntel/thea-software"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
