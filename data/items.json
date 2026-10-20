@@ -1,5 +1,14 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 365,
+    "updated_at": "2026-10-20T12:42:41Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches ",
     "id": "sunxin-ai/dsh-design-qa",
     "language": "JavaScript",
@@ -7,15 +16,6 @@
     "stars": 44,
     "updated_at": "2026-10-20T12:25:14Z",
     "url": "https://github.com/sunxin-ai/dsh-design-qa"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 365,
-    "updated_at": "2026-10-20T12:28:00Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
