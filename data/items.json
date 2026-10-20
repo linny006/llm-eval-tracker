@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
+    "id": "HLIntel/thea-software",
+    "language": "Python",
+    "name": "HLIntel/thea-software",
+    "stars": 3,
+    "updated_at": "2026-10-20T04:14:58Z",
+    "url": "https://github.com/HLIntel/thea-software"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -27,20 +36,11 @@
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
-    "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
-    "id": "HLIntel/thea-software",
-    "language": "Python",
-    "name": "HLIntel/thea-software",
-    "stars": 3,
-    "updated_at": "2026-10-20T03:46:20Z",
-    "url": "https://github.com/HLIntel/thea-software"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11909,
+    "stars": 11910,
     "updated_at": "2026-10-20T03:10:48Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -86,7 +86,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5911,
-    "updated_at": "2026-10-20T03:39:28Z",
+    "updated_at": "2026-10-20T04:03:49Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
