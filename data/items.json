@@ -1,11 +1,20 @@
 [
   {
+    "description": "LLM evaluation harness: load datasets, run checks, write JSON and Markdown reports.",
+    "id": "mrodgersjs-web/rig-enhanced-evals",
+    "language": "Python",
+    "name": "mrodgersjs-web/rig-enhanced-evals",
+    "stars": 0,
+    "updated_at": "2026-10-20T06:54:27Z",
+    "url": "https://github.com/mrodgersjs-web/rig-enhanced-evals"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5912,
-    "updated_at": "2026-10-20T06:29:13Z",
+    "updated_at": "2026-10-20T06:54:47Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -27,20 +36,11 @@
     "url": "https://github.com/HLIntel/thea-software"
   },
   {
-    "description": "LLM evaluation harness: load datasets, run checks, write JSON and Markdown reports.",
-    "id": "mrodgersjs-web/rig-enhanced-evals",
-    "language": "Python",
-    "name": "mrodgersjs-web/rig-enhanced-evals",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:28:43Z",
-    "url": "https://github.com/mrodgersjs-web/rig-enhanced-evals"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26167,
+    "stars": 26169,
     "updated_at": "2026-10-20T03:54:47Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -58,7 +58,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11911,
+    "stars": 11912,
     "updated_at": "2026-10-20T03:10:48Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
