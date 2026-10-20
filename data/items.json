@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5912,
+    "updated_at": "2026-10-20T11:30:06Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
     "id": "decimal-labs/decimalai-python",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T10:51:42Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5912,
-    "updated_at": "2026-10-20T08:48:05Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -86,7 +86,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 365,
-    "updated_at": "2026-10-20T10:30:30Z",
+    "updated_at": "2026-10-20T11:28:49Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
