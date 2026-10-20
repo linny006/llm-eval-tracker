@@ -1,11 +1,20 @@
 [
   {
+    "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
+    "id": "open-compass/opencompass",
+    "language": "Python",
+    "name": "open-compass/opencompass",
+    "stars": 7530,
+    "updated_at": "2026-10-20T11:32:44Z",
+    "url": "https://github.com/open-compass/opencompass"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5912,
-    "updated_at": "2026-10-20T11:30:06Z",
+    "updated_at": "2026-10-20T11:31:14Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -25,15 +34,6 @@
     "stars": 11916,
     "updated_at": "2026-10-20T08:28:33Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
-    "id": "open-compass/opencompass",
-    "language": "Python",
-    "name": "open-compass/opencompass",
-    "stars": 7530,
-    "updated_at": "2026-10-20T07:55:36Z",
-    "url": "https://github.com/open-compass/opencompass"
   },
   {
     "description": "ASX guidance direction eval: model labels vs arithmetic",
@@ -86,7 +86,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 365,
-    "updated_at": "2026-10-20T11:28:49Z",
+    "updated_at": "2026-10-20T11:43:20Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
