@@ -1,11 +1,20 @@
 [
   {
+    "description": "L10 self-evolving LLM evaluation harness that learns from failures \u2014 faithfulness, relevance, toxicity, format metrics w",
+    "id": "mrodgersjs-web/rig-enhanced-evals",
+    "language": "Python",
+    "name": "mrodgersjs-web/rig-enhanced-evals",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:28:43Z",
+    "url": "https://github.com/mrodgersjs-web/rig-enhanced-evals"
+  },
+  {
     "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
     "id": "HLIntel/thea-software",
     "language": "Python",
     "name": "HLIntel/thea-software",
     "stars": 3,
-    "updated_at": "2026-10-20T05:18:02Z",
+    "updated_at": "2026-10-20T05:22:38Z",
     "url": "https://github.com/HLIntel/thea-software"
   },
   {
@@ -403,15 +412,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T09:07:04Z",
     "url": "https://github.com/lilyco-42/lyco-router-eval"
-  },
-  {
-    "description": "L10 self-evolving LLM evaluation harness that learns from failures \u2014 faithfulness, relevance, toxicity, format metrics w",
-    "id": "mrodgersjs-web/rig-enhanced-evals",
-    "language": "Python",
-    "name": "mrodgersjs-web/rig-enhanced-evals",
-    "stars": 0,
-    "updated_at": "2026-10-10T23:36:08Z",
-    "url": "https://github.com/mrodgersjs-web/rig-enhanced-evals"
   },
   {
     "description": "Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct",
