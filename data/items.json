@@ -1,5 +1,14 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 366,
+    "updated_at": "2026-10-20T22:43:40Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T21:59:56Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 366,
-    "updated_at": "2026-10-20T22:20:25Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
