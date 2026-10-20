@@ -1,20 +1,11 @@
 [
   {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 365,
-    "updated_at": "2026-10-20T14:42:02Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11918,
-    "updated_at": "2026-10-20T14:36:16Z",
+    "stars": 11920,
+    "updated_at": "2026-10-20T14:55:28Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -22,8 +13,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26189,
-    "updated_at": "2026-10-20T14:44:42Z",
+    "stars": 26190,
+    "updated_at": "2026-10-20T14:48:02Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -32,8 +23,17 @@
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-10-20T14:33:45Z",
+    "updated_at": "2026-10-20T14:54:19Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 365,
+    "updated_at": "2026-10-20T14:59:22Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches ",
@@ -86,7 +86,7 @@
     "language": "Python",
     "name": "HLIntel/thea-software",
     "stars": 3,
-    "updated_at": "2026-10-20T14:41:39Z",
+    "updated_at": "2026-10-20T14:56:19Z",
     "url": "https://github.com/HLIntel/thea-software"
   },
   {
