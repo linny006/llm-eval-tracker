@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
+    "id": "HLIntel/thea-software",
+    "language": "Python",
+    "name": "HLIntel/thea-software",
+    "stars": 3,
+    "updated_at": "2026-10-19T23:59:31Z",
+    "url": "https://github.com/HLIntel/thea-software"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -36,15 +45,6 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
-    "id": "HLIntel/thea-software",
-    "language": "Python",
-    "name": "HLIntel/thea-software",
-    "stars": 3,
-    "updated_at": "2026-10-19T23:32:28Z",
-    "url": "https://github.com/HLIntel/thea-software"
-  },
-  {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
     "id": "decimal-labs/decimalai-python",
     "language": "Python",
@@ -68,7 +68,7 @@
     "language": "TypeScript",
     "name": "jeremylongshore/j-rig-skill-binary-eval",
     "stars": 3,
-    "updated_at": "2026-10-19T11:29:01Z",
+    "updated_at": "2026-10-19T23:55:51Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
