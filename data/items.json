@@ -1,30 +1,39 @@
 [
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26188,
-    "updated_at": "2026-10-20T14:28:33Z",
-    "url": "https://github.com/promptfoo/promptfoo"
+    "name": "verifywise-ai/verifywise",
+    "stars": 365,
+    "updated_at": "2026-10-20T14:42:02Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11917,
-    "updated_at": "2026-10-20T13:17:22Z",
+    "stars": 11918,
+    "updated_at": "2026-10-20T14:36:16Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
     "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 365,
-    "updated_at": "2026-10-20T13:48:48Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
+    "name": "promptfoo/promptfoo",
+    "stars": 26189,
+    "updated_at": "2026-10-20T14:44:42Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-20T14:33:45Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches ",
@@ -54,15 +63,6 @@
     "url": "https://github.com/open-compass/opencompass"
   },
   {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-20T10:51:42Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
     "description": "ASX guidance direction eval: model labels vs arithmetic",
     "id": "damonphilipross/guidance-eval",
     "language": "Python",
@@ -86,7 +86,7 @@
     "language": "Python",
     "name": "HLIntel/thea-software",
     "stars": 3,
-    "updated_at": "2026-10-20T14:30:18Z",
+    "updated_at": "2026-10-20T14:41:39Z",
     "url": "https://github.com/HLIntel/thea-software"
   },
   {
