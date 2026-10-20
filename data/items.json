@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-10-20T01:44:40Z",
+    "updated_at": "2026-10-20T02:17:01Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11910,
+    "updated_at": "2026-10-20T01:43:01Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
@@ -41,7 +50,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 365,
-    "updated_at": "2026-10-19T23:30:20Z",
+    "updated_at": "2026-10-20T02:19:00Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -52,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T21:15:10Z",
     "url": "https://github.com/AkashB98/llm-judge-calibration"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11911,
-    "updated_at": "2026-10-20T01:43:01Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
