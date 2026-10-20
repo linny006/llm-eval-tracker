@@ -1,28 +1,28 @@
 [
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26190,
-    "updated_at": "2026-10-20T15:45:14Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
     "id": "decimal-labs/decimalai-python",
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-10-20T15:23:26Z",
+    "updated_at": "2026-10-20T15:50:26Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26190,
+    "updated_at": "2026-10-20T15:46:21Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11921,
+    "stars": 11922,
     "updated_at": "2026-10-20T15:17:04Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -86,7 +86,7 @@
     "language": "Python",
     "name": "HLIntel/thea-software",
     "stars": 3,
-    "updated_at": "2026-10-20T15:26:33Z",
+    "updated_at": "2026-10-20T15:57:20Z",
     "url": "https://github.com/HLIntel/thea-software"
   },
   {
