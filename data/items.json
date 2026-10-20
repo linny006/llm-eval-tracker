@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
+    "id": "HLIntel/thea-software",
+    "language": "Python",
+    "name": "HLIntel/thea-software",
+    "stars": 3,
+    "updated_at": "2026-10-20T16:58:36Z",
+    "url": "https://github.com/HLIntel/thea-software"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -22,7 +31,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26193,
+    "stars": 26192,
     "updated_at": "2026-10-20T15:46:21Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -49,7 +58,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5914,
+    "stars": 5913,
     "updated_at": "2026-10-20T12:24:51Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
@@ -81,15 +90,6 @@
     "url": "https://github.com/mrodgersjs-web/rig-enhanced-evals"
   },
   {
-    "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
-    "id": "HLIntel/thea-software",
-    "language": "Python",
-    "name": "HLIntel/thea-software",
-    "stars": 3,
-    "updated_at": "2026-10-20T15:57:20Z",
-    "url": "https://github.com/HLIntel/thea-software"
-  },
-  {
     "description": "Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu",
     "id": "ChelseaKR/fare-policy-assistant",
     "language": "HTML",
@@ -112,7 +112,7 @@
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3604,
+    "stars": 3605,
     "updated_at": "2026-10-19T17:17:18Z",
     "url": "https://github.com/truera/trulens"
   },
