@@ -1,5 +1,14 @@
 [
   {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-20T05:57:47Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
     "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
     "id": "HLIntel/thea-software",
     "language": "Python",
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5911,
-    "updated_at": "2026-10-20T04:42:40Z",
+    "updated_at": "2026-10-20T05:58:16Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -43,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T03:52:49Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
-  },
-  {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-20T03:52:01Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "AI Observability & Evaluation",
