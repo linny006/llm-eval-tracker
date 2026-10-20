@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-20 13:30 UTC
+> ⏰ Last updated: 2026-10-20 13:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26185 | TypeScript | 2026-10-20 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26186 | TypeScript | 2026-10-20 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11917 | Python | 2026-10-20 | AI Observability & Evaluation |
 | 3 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 365 | TypeScript | 2026-10-20 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 4 | [sunxin-ai/dsh-design-qa](https://github.com/sunxin-ai/dsh-design-qa) | 44 | JavaScript | 2026-10-20 | Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches  |
-| 5 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7530 | Python | 2026-10-20 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
-| 6 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5912 | Python | 2026-10-20 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 5 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5913 | Python | 2026-10-20 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 6 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7530 | Python | 2026-10-20 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
 | 7 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-20 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
 | 8 | [damonphilipross/guidance-eval](https://github.com/damonphilipross/guidance-eval) | 0 | Python | 2026-10-20 | ASX guidance direction eval: model labels vs arithmetic |
 | 9 | [mrodgersjs-web/rig-enhanced-evals](https://github.com/mrodgersjs-web/rig-enhanced-evals) | 0 | Python | 2026-10-20 | LLM evaluation harness: load datasets, run checks, write JSON and Markdown reports. |
 | 10 | [HLIntel/thea-software](https://github.com/HLIntel/thea-software) | 3 | Python | 2026-10-20 | AI coding-agent verification — a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th |
 | 11 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-10-20 | Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu |
 | 12 | [AkashB98/llm-judge-calibration](https://github.com/AkashB98/llm-judge-calibration) | 0 | Python | 2026-10-19 | Agreement + calibration harness for LLM-as-judge graders — calibration curves, bias/drift detection, per-category scorec |
-| 13 | [truera/trulens](https://github.com/truera/trulens) | 3602 | Python | 2026-10-19 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 13 | [truera/trulens](https://github.com/truera/trulens) | 3603 | Python | 2026-10-19 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 14 | [IcodeNet/eval-dashboards](https://github.com/IcodeNet/eval-dashboards) | 1 | TypeScript | 2026-10-19 | Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style — bring y |
 | 15 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 3 | TypeScript | 2026-10-19 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 16 | [pdxlab/trustmodel-mcp-server](https://github.com/pdxlab/trustmodel-mcp-server) | 0 | TypeScript | 2026-10-19 | TrustModel MCP Server — trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t |

@@ -4,7 +4,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26185,
+    "stars": 26186,
     "updated_at": "2026-10-20T13:24:33Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -36,6 +36,15 @@
     "url": "https://github.com/sunxin-ai/dsh-design-qa"
   },
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5913,
+    "updated_at": "2026-10-20T12:24:51Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
     "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
     "id": "open-compass/opencompass",
     "language": "Python",
@@ -43,15 +52,6 @@
     "stars": 7530,
     "updated_at": "2026-10-20T11:32:44Z",
     "url": "https://github.com/open-compass/opencompass"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5912,
-    "updated_at": "2026-10-20T12:24:51Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -112,7 +112,7 @@
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3602,
+    "stars": 3603,
     "updated_at": "2026-10-19T17:17:18Z",
     "url": "https://github.com/truera/trulens"
   },
