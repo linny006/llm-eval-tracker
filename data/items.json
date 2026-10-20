@@ -1,11 +1,20 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 365,
+    "updated_at": "2026-10-20T18:04:07Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11924,
-    "updated_at": "2026-10-20T17:54:23Z",
+    "updated_at": "2026-10-20T18:10:21Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-10-20T17:49:56Z",
+    "updated_at": "2026-10-20T18:05:00Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
@@ -34,15 +43,6 @@
     "stars": 3,
     "updated_at": "2026-10-20T16:58:36Z",
     "url": "https://github.com/HLIntel/thea-software"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 365,
-    "updated_at": "2026-10-20T17:19:10Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches ",
