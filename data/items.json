@@ -1,11 +1,20 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11924,
+    "updated_at": "2026-10-20T17:54:23Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
     "id": "decimal-labs/decimalai-python",
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-10-20T17:28:37Z",
+    "updated_at": "2026-10-20T17:49:56Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
@@ -25,15 +34,6 @@
     "stars": 3,
     "updated_at": "2026-10-20T16:58:36Z",
     "url": "https://github.com/HLIntel/thea-software"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11924,
-    "updated_at": "2026-10-20T17:26:17Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
