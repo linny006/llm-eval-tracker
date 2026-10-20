@@ -1,12 +1,30 @@
 [
   {
+    "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
+    "id": "sammyjdev/gnomon-eval",
+    "language": "Python",
+    "name": "sammyjdev/gnomon-eval",
+    "stars": 0,
+    "updated_at": "2026-10-20T18:50:52Z",
+    "url": "https://github.com/sammyjdev/gnomon-eval"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 365,
-    "updated_at": "2026-10-20T18:44:59Z",
+    "updated_at": "2026-10-20T18:58:57Z",
     "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11926,
+    "updated_at": "2026-10-20T18:59:38Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
@@ -16,15 +34,6 @@
     "stars": 3,
     "updated_at": "2026-10-20T18:26:34Z",
     "url": "https://github.com/HLIntel/thea-software"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11925,
-    "updated_at": "2026-10-20T18:43:03Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-10T09:34:12Z",
     "url": "https://github.com/quannie255-star/FinData-Agent"
-  },
-  {
-    "description": "First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs",
-    "id": "instax-dutta/sysone-bench",
-    "language": "Python",
-    "name": "instax-dutta/sysone-bench",
-    "stars": 6,
-    "updated_at": "2026-10-10T04:54:10Z",
-    "url": "https://github.com/instax-dutta/sysone-bench"
   }
 ]
