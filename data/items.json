@@ -14,7 +14,7 @@
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-10-20T06:17:18Z",
+    "updated_at": "2026-10-20T06:31:08Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
@@ -63,15 +63,6 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "ASX guidance direction eval: model labels vs arithmetic",
-    "id": "damonphilipross/guidance-eval",
-    "language": "Python",
-    "name": "damonphilipross/guidance-eval",
-    "stars": 0,
-    "updated_at": "2026-10-20T01:01:40Z",
-    "url": "https://github.com/damonphilipross/guidance-eval"
-  },
-  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -79,6 +70,15 @@
     "stars": 365,
     "updated_at": "2026-10-20T03:09:37Z",
     "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
+    "description": "ASX guidance direction eval: model labels vs arithmetic",
+    "id": "damonphilipross/guidance-eval",
+    "language": "Python",
+    "name": "damonphilipross/guidance-eval",
+    "stars": 0,
+    "updated_at": "2026-10-20T01:01:40Z",
+    "url": "https://github.com/damonphilipross/guidance-eval"
   },
   {
     "description": "Agreement + calibration harness for LLM-as-judge graders \u2014 calibration curves, bias/drift detection, per-category scorec",
