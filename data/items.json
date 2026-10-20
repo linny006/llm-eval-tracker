@@ -1,5 +1,14 @@
 [
   {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-20T09:17:24Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -16,15 +25,6 @@
     "stars": 11916,
     "updated_at": "2026-10-20T08:28:33Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-20T08:18:33Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
@@ -86,7 +86,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 365,
-    "updated_at": "2026-10-20T09:11:00Z",
+    "updated_at": "2026-10-20T09:25:50Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
