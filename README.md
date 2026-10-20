@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-20 22:45 UTC
+> ⏰ Last updated: 2026-10-20 23:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -63,7 +63,7 @@ expired items removed — so you can rely on what you see being current.
 | 19 | [senguptashubham/judge-calibration](https://github.com/senguptashubham/judge-calibration) | 3 | Python | 2026-10-19 | Do LLM judges know when they're wrong? Three open-weight judges (Qwen2.5-7B, kev-8b, auto-j-13b) graded against MT-Bench |
 | 20 | [yukincom/llm-SugarScape](https://github.com/yukincom/llm-SugarScape) | 7 | Python | 2026-10-19 | Multi-agent simulation using LLMs. Agents autonomously decide actions for survival, reproduction, and social behavior in |
 | 21 | [jin2004-cmd/codex-practical-skills](https://github.com/jin2004-cmd/codex-practical-skills) | 1 | Python | 2026-10-19 | AI 实用 Skill 库 · 16 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, p |
-| 22 | [judgekeeper/judgekeeper](https://github.com/judgekeeper/judgekeeper) | 0 | Python | 2026-10-19 | Check your LLM-as-a-judge: see how often it agrees with human labels, in one command. |
+| 22 | [judgekeeper/judgekeeper](https://github.com/judgekeeper/judgekeeper) | 0 | Python | 2026-10-20 | Check your LLM-as-a-judge: see how often it agrees with human labels, in one command. |
 | 23 | [lorien/awesome-ai-benchmarks](https://github.com/lorien/awesome-ai-benchmarks) | 1 | — | 2026-10-17 | Curated list of benchmarks and rankings of models, agents and other AI-things. |
 | 24 | [TQSY114514/Aether](https://github.com/TQSY114514/Aether) | 5 | JavaScript | 2026-10-19 | Evidence-driven AI development workbench for model evaluation, project context, and controlled agent execution. |
 | 25 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-10-17 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
