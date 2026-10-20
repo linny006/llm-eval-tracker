@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11914,
+    "updated_at": "2026-10-20T08:28:33Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
     "id": "decimal-labs/decimalai-python",
     "language": "Python",
@@ -58,7 +67,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26177,
+    "stars": 26180,
     "updated_at": "2026-10-20T03:54:47Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -72,21 +81,12 @@
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11913,
-    "updated_at": "2026-10-20T08:28:33Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 365,
-    "updated_at": "2026-10-20T08:16:24Z",
+    "updated_at": "2026-10-20T08:34:15Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -275,7 +275,7 @@
     "language": "Python",
     "name": "izam-mohammed/ragrank",
     "stars": 47,
-    "updated_at": "2026-10-15T07:38:03Z",
+    "updated_at": "2026-10-20T08:33:37Z",
     "url": "https://github.com/izam-mohammed/ragrank"
   },
   {
