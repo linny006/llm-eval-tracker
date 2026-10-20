@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-20 03:30 UTC
+> ⏰ Last updated: 2026-10-20 03:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -50,7 +50,7 @@ expired items removed — so you can rely on what you see being current.
 | 6 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 365 | TypeScript | 2026-10-20 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 7 | [AkashB98/llm-judge-calibration](https://github.com/AkashB98/llm-judge-calibration) | 0 | Python | 2026-10-19 | Agreement + calibration harness for LLM-as-judge graders — calibration curves, bias/drift detection, per-category scorec |
 | 8 | [IcodeNet/eval-dashboards](https://github.com/IcodeNet/eval-dashboards) | 1 | TypeScript | 2026-10-19 | Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style — bring y |
-| 9 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5911 | Python | 2026-10-19 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 9 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5911 | Python | 2026-10-20 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 10 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 3 | TypeScript | 2026-10-19 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 11 | [pdxlab/trustmodel-mcp-server](https://github.com/pdxlab/trustmodel-mcp-server) | 0 | TypeScript | 2026-10-19 | TrustModel MCP Server — trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t |
 | 12 | [senguptashubham/judge-calibration](https://github.com/senguptashubham/judge-calibration) | 3 | Python | 2026-10-19 | Do LLM judges know when they're wrong? Three open-weight judges (Qwen2.5-7B, kev-8b, auto-j-13b) graded against MT-Bench |
