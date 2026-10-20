@@ -5,17 +5,8 @@
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-10-20T00:50:21Z",
+    "updated_at": "2026-10-20T01:26:43Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26157,
-    "updated_at": "2026-10-20T00:44:29Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
@@ -23,8 +14,26 @@
     "language": "Python",
     "name": "HLIntel/thea-software",
     "stars": 3,
-    "updated_at": "2026-10-20T01:12:31Z",
+    "updated_at": "2026-10-20T01:17:03Z",
     "url": "https://github.com/HLIntel/thea-software"
+  },
+  {
+    "description": "ASX guidance direction eval: model labels vs arithmetic",
+    "id": "damonphilipross/guidance-eval",
+    "language": "Python",
+    "name": "damonphilipross/guidance-eval",
+    "stars": 0,
+    "updated_at": "2026-10-20T01:01:40Z",
+    "url": "https://github.com/damonphilipross/guidance-eval"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26158,
+    "updated_at": "2026-10-20T00:44:29Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
@@ -63,6 +72,15 @@
     "url": "https://github.com/IcodeNet/eval-dashboards"
   },
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5911,
+    "updated_at": "2026-10-19T14:07:35Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
     "id": "jeremylongshore/j-rig-skill-binary-eval",
     "language": "TypeScript",
@@ -79,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T07:37:25Z",
     "url": "https://github.com/pdxlab/trustmodel-mcp-server"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5910,
-    "updated_at": "2026-10-19T14:07:35Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Do LLM judges know when they're wrong? Three open-weight judges (Qwen2.5-7B, kev-8b, auto-j-13b) graded against MT-Bench",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-09T13:59:11Z",
     "url": "https://github.com/Icaro0310/devin-evals"
-  },
-  {
-    "description": "Automated LLM bias and toxicity auditing pipeline with flexible scoring and Streamlit UI.",
-    "id": "gopals09920/llm-bias-toxicity-audit",
-    "language": "Python",
-    "name": "gopals09920/llm-bias-toxicity-audit",
-    "stars": 0,
-    "updated_at": "2026-10-09T00:14:48Z",
-    "url": "https://github.com/gopals09920/llm-bias-toxicity-audit"
   }
 ]
