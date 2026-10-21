@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26219,
+    "updated_at": "2026-10-21T06:35:57Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
     "id": "decimal-labs/decimalai-python",
     "language": "Python",
@@ -9,21 +18,12 @@
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26218,
-    "updated_at": "2026-10-21T06:06:58Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
     "id": "judgekeeper/judgekeeper",
     "language": "Python",
     "name": "judgekeeper/judgekeeper",
     "stars": 0,
-    "updated_at": "2026-10-21T06:22:58Z",
+    "updated_at": "2026-10-21T06:30:55Z",
     "url": "https://github.com/judgekeeper/judgekeeper"
   },
   {
