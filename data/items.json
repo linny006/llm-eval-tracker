@@ -1,5 +1,14 @@
 [
   {
+    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
+    "id": "judgekeeper/judgekeeper",
+    "language": "Python",
+    "name": "judgekeeper/judgekeeper",
+    "stars": 0,
+    "updated_at": "2026-10-21T15:15:40Z",
+    "url": "https://github.com/judgekeeper/judgekeeper"
+  },
+  {
     "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
     "id": "HLIntel/thea-software",
     "language": "Python",
@@ -32,17 +41,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11936,
-    "updated_at": "2026-10-21T15:08:55Z",
+    "updated_at": "2026-10-21T15:28:26Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
-    "id": "judgekeeper/judgekeeper",
-    "language": "Python",
-    "name": "judgekeeper/judgekeeper",
-    "stars": 0,
-    "updated_at": "2026-10-21T15:15:17Z",
-    "url": "https://github.com/judgekeeper/judgekeeper"
   },
   {
     "description": "Agent \u8bc4\u6d4b\u4e0e\u56de\u5f52\u5de5\u5177\u5305\uff1atrace-first \u65ad\u8a00\u3001bootstrap CI\u3001flaky \u68c0\u6d4b\u3001judge \u6821\u51c6",
@@ -95,7 +95,7 @@
     "language": "Python",
     "name": "dylanma8232-art/daming-skillgain",
     "stars": 0,
-    "updated_at": "2026-10-21T10:26:47Z",
+    "updated_at": "2026-10-21T15:30:11Z",
     "url": "https://github.com/dylanma8232-art/daming-skillgain"
   },
   {
