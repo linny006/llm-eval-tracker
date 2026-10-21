@@ -1,11 +1,20 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26212,
+    "updated_at": "2026-10-21T04:59:59Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
     "id": "judgekeeper/judgekeeper",
     "language": "Python",
     "name": "judgekeeper/judgekeeper",
     "stars": 0,
-    "updated_at": "2026-10-21T04:42:36Z",
+    "updated_at": "2026-10-21T04:48:43Z",
     "url": "https://github.com/judgekeeper/judgekeeper"
   },
   {
@@ -16,15 +25,6 @@
     "stars": 1,
     "updated_at": "2026-10-21T04:33:05Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26211,
-    "updated_at": "2026-10-21T04:14:22Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
