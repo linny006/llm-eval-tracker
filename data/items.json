@@ -1,11 +1,20 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 366,
+    "updated_at": "2026-10-21T19:03:58Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11939,
-    "updated_at": "2026-10-21T18:55:36Z",
+    "updated_at": "2026-10-21T19:14:51Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -16,15 +25,6 @@
     "stars": 3,
     "updated_at": "2026-10-21T18:39:46Z",
     "url": "https://github.com/HLIntel/thea-software"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 366,
-    "updated_at": "2026-10-21T18:32:58Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
