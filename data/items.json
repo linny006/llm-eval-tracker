@@ -1,11 +1,20 @@
 [
   {
+    "description": "Valor is a lightweight, numpy-based library designed for fast and seamless evaluation of machine learning models.",
+    "id": "Striveworks/valor",
+    "language": "Python",
+    "name": "Striveworks/valor",
+    "stars": 40,
+    "updated_at": "2026-10-21T16:44:50Z",
+    "url": "https://github.com/Striveworks/valor"
+  },
+  {
     "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
     "id": "judgekeeper/judgekeeper",
     "language": "Python",
     "name": "judgekeeper/judgekeeper",
     "stars": 0,
-    "updated_at": "2026-10-21T16:21:53Z",
+    "updated_at": "2026-10-21T16:34:51Z",
     "url": "https://github.com/judgekeeper/judgekeeper"
   },
   {
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11936,
-    "updated_at": "2026-10-21T16:22:21Z",
+    "updated_at": "2026-10-21T16:38:02Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-12T04:48:21Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Independent-eval-Qwen3-0.6B-ondevice-router-40cases",
-    "id": "lilyco-42/lyco-router-eval",
-    "language": "\u2014",
-    "name": "lilyco-42/lyco-router-eval",
-    "stars": 0,
-    "updated_at": "2026-10-11T09:07:04Z",
-    "url": "https://github.com/lilyco-42/lyco-router-eval"
   }
 ]
