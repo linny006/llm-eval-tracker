@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-21 13:15 UTC
+> ⏰ Last updated: 2026-10-21 13:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -44,7 +44,7 @@ expired items removed — so you can rely on what you see being current.
 |---|------|---|------|---------|-------------|
 | 1 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-21 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
 | 2 | [Lilim-ing/agent-evalkit](https://github.com/Lilim-ing/agent-evalkit) | 0 | Python | 2026-10-21 | Agent 评测与回归工具包：trace-first 断言、bootstrap CI、flaky 检测、judge 校准 |
-| 3 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7531 | Python | 2026-10-21 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
+| 3 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7532 | Python | 2026-10-21 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
 | 4 | [jin2004-cmd/codex-practical-skills](https://github.com/jin2004-cmd/codex-practical-skills) | 1 | Python | 2026-10-21 | AI 实用 Skill 库 · 16 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, p |
 | 5 | [SmartStudio/baize-prompts](https://github.com/SmartStudio/baize-prompts) | 1 | — | 2026-10-21 | 没跑过 = 不出厂。no eval, no ship. |
 | 6 | [dylanma8232-art/daming-skillgain](https://github.com/dylanma8232-art/daming-skillgain) | 0 | Python | 2026-10-21 | 你的 Skill 到底有没有用？跑一次就知道——用真实任务做对照测试，看它在每个模型上是帮忙还是拖后腿。 \| Measure whether a skill actually helps, per model, via paired wit |
@@ -58,7 +58,7 @@ expired items removed — so you can rely on what you see being current.
 | 14 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-10-21 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
 | 15 | [sammyjdev/gnomon-eval](https://github.com/sammyjdev/gnomon-eval) | 0 | Python | 2026-10-20 | Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first. |
 | 16 | [sunxin-ai/dsh-design-qa](https://github.com/sunxin-ai/dsh-design-qa) | 44 | JavaScript | 2026-10-20 | Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches  |
-| 17 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5913 | Python | 2026-10-20 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 17 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5914 | Python | 2026-10-20 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 18 | [damonphilipross/guidance-eval](https://github.com/damonphilipross/guidance-eval) | 0 | Python | 2026-10-20 | ASX guidance direction eval: model labels vs arithmetic |
 | 19 | [mrodgersjs-web/rig-enhanced-evals](https://github.com/mrodgersjs-web/rig-enhanced-evals) | 0 | Python | 2026-10-20 | LLM evaluation harness: load datasets, run checks, write JSON and Markdown reports. |
 | 20 | [AkashB98/llm-judge-calibration](https://github.com/AkashB98/llm-judge-calibration) | 0 | Python | 2026-10-19 | Agreement + calibration harness for LLM-as-judge graders — calibration curves, bias/drift detection, per-category scorec |
