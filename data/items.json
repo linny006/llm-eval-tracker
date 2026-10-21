@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI \u5b9e\u7528 Skill \u5e93 \u00b7 16 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, p",
+    "id": "jin2004-cmd/codex-practical-skills",
+    "language": "Python",
+    "name": "jin2004-cmd/codex-practical-skills",
+    "stars": 1,
+    "updated_at": "2026-10-21T11:21:03Z",
+    "url": "https://github.com/jin2004-cmd/codex-practical-skills"
+  },
+  {
     "description": "\u6ca1\u8dd1\u8fc7 = \u4e0d\u51fa\u5382\u3002no eval, no ship.",
     "id": "SmartStudio/baize-prompts",
     "language": "\u2014",
@@ -16,15 +25,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T10:26:47Z",
     "url": "https://github.com/dylanma8232-art/daming-skillgain"
-  },
-  {
-    "description": "AI \u5b9e\u7528 Skill \u5e93 \u00b7 16 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, p",
-    "id": "jin2004-cmd/codex-practical-skills",
-    "language": "Python",
-    "name": "jin2004-cmd/codex-practical-skills",
-    "stars": 1,
-    "updated_at": "2026-10-21T10:16:38Z",
-    "url": "https://github.com/jin2004-cmd/codex-practical-skills"
   },
   {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
