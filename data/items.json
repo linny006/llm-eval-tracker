@@ -1,5 +1,14 @@
 [
   {
+    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
+    "id": "judgekeeper/judgekeeper",
+    "language": "Python",
+    "name": "judgekeeper/judgekeeper",
+    "stars": 0,
+    "updated_at": "2026-10-21T03:30:05Z",
+    "url": "https://github.com/judgekeeper/judgekeeper"
+  },
+  {
     "description": "Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu",
     "id": "ChelseaKR/fare-policy-assistant",
     "language": "HTML",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "ChelseaKR/sprout",
     "stars": 1,
-    "updated_at": "2026-10-21T03:13:55Z",
+    "updated_at": "2026-10-21T03:20:20Z",
     "url": "https://github.com/ChelseaKR/sprout"
   },
   {
@@ -32,7 +41,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26209,
-    "updated_at": "2026-10-21T03:03:56Z",
+    "updated_at": "2026-10-21T03:23:09Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -52,15 +61,6 @@
     "stars": 3,
     "updated_at": "2026-10-21T01:59:33Z",
     "url": "https://github.com/HLIntel/thea-software"
-  },
-  {
-    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
-    "id": "judgekeeper/judgekeeper",
-    "language": "Python",
-    "name": "judgekeeper/judgekeeper",
-    "stars": 0,
-    "updated_at": "2026-10-21T01:50:42Z",
-    "url": "https://github.com/judgekeeper/judgekeeper"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
