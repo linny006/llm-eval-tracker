@@ -9,6 +9,15 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 366,
+    "updated_at": "2026-10-21T13:57:31Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "Agent \u8bc4\u6d4b\u4e0e\u56de\u5f52\u5de5\u5177\u5305\uff1atrace-first \u65ad\u8a00\u3001bootstrap CI\u3001flaky \u68c0\u6d4b\u3001judge \u6821\u51c6",
     "id": "Lilim-ing/agent-evalkit",
     "language": "Python",
@@ -23,8 +32,17 @@
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-10-21T13:47:38Z",
+    "updated_at": "2026-10-21T14:11:54Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11936,
+    "updated_at": "2026-10-21T13:17:51Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
@@ -68,17 +86,8 @@
     "language": "Python",
     "name": "judgekeeper/judgekeeper",
     "stars": 0,
-    "updated_at": "2026-10-21T06:30:55Z",
+    "updated_at": "2026-10-21T14:12:07Z",
     "url": "https://github.com/judgekeeper/judgekeeper"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11934,
-    "updated_at": "2026-10-21T13:17:51Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
@@ -106,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-10-21T03:20:20Z",
     "url": "https://github.com/ChelseaKR/sprout"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 366,
-    "updated_at": "2026-10-21T10:36:25Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
