@@ -4,9 +4,18 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11937,
-    "updated_at": "2026-10-21T17:24:06Z",
+    "stars": 11939,
+    "updated_at": "2026-10-21T17:43:25Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-21T17:32:58Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
@@ -16,15 +25,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T17:11:09Z",
     "url": "https://github.com/judgekeeper/judgekeeper"
-  },
-  {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-21T16:55:41Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "Valor is a lightweight, numpy-based library designed for fast and seamless evaluation of machine learning models.",
@@ -59,7 +59,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 366,
-    "updated_at": "2026-10-21T16:26:35Z",
+    "updated_at": "2026-10-21T17:40:42Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
