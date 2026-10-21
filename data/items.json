@@ -1,11 +1,20 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26237,
+    "updated_at": "2026-10-21T13:59:02Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Agent \u8bc4\u6d4b\u4e0e\u56de\u5f52\u5de5\u5177\u5305\uff1atrace-first \u65ad\u8a00\u3001bootstrap CI\u3001flaky \u68c0\u6d4b\u3001judge \u6821\u51c6",
     "id": "Lilim-ing/agent-evalkit",
     "language": "Python",
     "name": "Lilim-ing/agent-evalkit",
     "stars": 0,
-    "updated_at": "2026-10-21T13:36:04Z",
+    "updated_at": "2026-10-21T13:52:47Z",
     "url": "https://github.com/Lilim-ing/agent-evalkit"
   },
   {
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-10-21T12:52:59Z",
+    "updated_at": "2026-10-21T13:47:38Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
@@ -52,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T10:26:47Z",
     "url": "https://github.com/dylanma8232-art/daming-skillgain"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26236,
-    "updated_at": "2026-10-21T07:48:03Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
