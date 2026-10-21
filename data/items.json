@@ -1,5 +1,14 @@
 [
   {
+    "description": "Agent \u8bc4\u6d4b\u4e0e\u56de\u5f52\u5de5\u5177\u5305\uff1atrace-first \u65ad\u8a00\u3001bootstrap CI\u3001flaky \u68c0\u6d4b\u3001judge \u6821\u51c6",
+    "id": "Lilim-ing/agent-evalkit",
+    "language": "Python",
+    "name": "Lilim-ing/agent-evalkit",
+    "stars": 0,
+    "updated_at": "2026-10-21T11:56:22Z",
+    "url": "https://github.com/Lilim-ing/agent-evalkit"
+  },
+  {
     "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
     "id": "open-compass/opencompass",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-11T09:07:04Z",
     "url": "https://github.com/lilyco-42/lyco-router-eval"
-  },
-  {
-    "description": "Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct",
-    "id": "sx4im/skillcheck",
-    "language": "TypeScript",
-    "name": "sx4im/skillcheck",
-    "stars": 29,
-    "updated_at": "2026-10-20T16:44:22Z",
-    "url": "https://github.com/sx4im/skillcheck"
   }
 ]
