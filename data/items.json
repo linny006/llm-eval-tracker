@@ -1,5 +1,23 @@
 [
   {
+    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
+    "id": "judgekeeper/judgekeeper",
+    "language": "Python",
+    "name": "judgekeeper/judgekeeper",
+    "stars": 0,
+    "updated_at": "2026-10-21T04:42:36Z",
+    "url": "https://github.com/judgekeeper/judgekeeper"
+  },
+  {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-21T04:33:05Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -16,24 +34,6 @@
     "stars": 3,
     "updated_at": "2026-10-21T04:10:13Z",
     "url": "https://github.com/HLIntel/thea-software"
-  },
-  {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-21T04:17:56Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
-    "id": "judgekeeper/judgekeeper",
-    "language": "Python",
-    "name": "judgekeeper/judgekeeper",
-    "stars": 0,
-    "updated_at": "2026-10-21T04:18:14Z",
-    "url": "https://github.com/judgekeeper/judgekeeper"
   },
   {
     "description": "Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu",
@@ -59,7 +59,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11931,
-    "updated_at": "2026-10-21T03:07:29Z",
+    "updated_at": "2026-10-21T04:32:34Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
