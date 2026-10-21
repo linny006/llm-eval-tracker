@@ -1,5 +1,14 @@
 [
   {
+    "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
+    "id": "open-compass/opencompass",
+    "language": "Python",
+    "name": "open-compass/opencompass",
+    "stars": 7531,
+    "updated_at": "2026-10-21T11:31:46Z",
+    "url": "https://github.com/open-compass/opencompass"
+  },
+  {
     "description": "AI \u5b9e\u7528 Skill \u5e93 \u00b7 16 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, p",
     "id": "jin2004-cmd/codex-practical-skills",
     "language": "Python",
@@ -34,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-10-21T09:59:15Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
-    "id": "open-compass/opencompass",
-    "language": "Python",
-    "name": "open-compass/opencompass",
-    "stars": 7531,
-    "updated_at": "2026-10-21T08:48:51Z",
-    "url": "https://github.com/open-compass/opencompass"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
