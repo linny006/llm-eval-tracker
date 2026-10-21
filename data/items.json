@@ -1,11 +1,20 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11936,
+    "updated_at": "2026-10-21T15:44:03Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
     "id": "judgekeeper/judgekeeper",
     "language": "Python",
     "name": "judgekeeper/judgekeeper",
     "stars": 0,
-    "updated_at": "2026-10-21T15:35:56Z",
+    "updated_at": "2026-10-21T15:41:26Z",
     "url": "https://github.com/judgekeeper/judgekeeper"
   },
   {
@@ -36,15 +45,6 @@
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11936,
-    "updated_at": "2026-10-21T15:28:26Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Agent \u8bc4\u6d4b\u4e0e\u56de\u5f52\u5de5\u5177\u5305\uff1atrace-first \u65ad\u8a00\u3001bootstrap CI\u3001flaky \u68c0\u6d4b\u3001judge \u6821\u51c6",
     "id": "Lilim-ing/agent-evalkit",
     "language": "Python",
@@ -67,7 +67,7 @@
     "id": "open-compass/opencompass",
     "language": "Python",
     "name": "open-compass/opencompass",
-    "stars": 7532,
+    "stars": 7533,
     "updated_at": "2026-10-21T11:49:42Z",
     "url": "https://github.com/open-compass/opencompass"
   },
