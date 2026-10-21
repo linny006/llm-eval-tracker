@@ -1,5 +1,14 @@
 [
   {
+    "description": "Agent \u8bc4\u6d4b\u4e0e\u56de\u5f52\u5de5\u5177\u5305\uff1atrace-first \u65ad\u8a00\u3001bootstrap CI\u3001flaky \u68c0\u6d4b\u3001judge \u6821\u51c6",
+    "id": "Lilim-ing/agent-evalkit",
+    "language": "Python",
+    "name": "Lilim-ing/agent-evalkit",
+    "stars": 0,
+    "updated_at": "2026-10-21T13:36:04Z",
+    "url": "https://github.com/Lilim-ing/agent-evalkit"
+  },
+  {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
     "id": "decimal-labs/decimalai-python",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 1,
     "updated_at": "2026-10-21T12:52:59Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "Agent \u8bc4\u6d4b\u4e0e\u56de\u5f52\u5de5\u5177\u5305\uff1atrace-first \u65ad\u8a00\u3001bootstrap CI\u3001flaky \u68c0\u6d4b\u3001judge \u6821\u51c6",
-    "id": "Lilim-ing/agent-evalkit",
-    "language": "Python",
-    "name": "Lilim-ing/agent-evalkit",
-    "stars": 0,
-    "updated_at": "2026-10-21T11:56:22Z",
-    "url": "https://github.com/Lilim-ing/agent-evalkit"
   },
   {
     "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
@@ -58,7 +58,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26234,
+    "stars": 26236,
     "updated_at": "2026-10-21T07:48:03Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -148,7 +148,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5914,
+    "stars": 5915,
     "updated_at": "2026-10-20T12:24:51Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
