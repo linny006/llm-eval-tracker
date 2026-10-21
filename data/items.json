@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26211,
+    "updated_at": "2026-10-21T04:14:22Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
     "id": "HLIntel/thea-software",
     "language": "Python",
@@ -9,21 +18,12 @@
     "url": "https://github.com/HLIntel/thea-software"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26209,
-    "updated_at": "2026-10-21T04:14:22Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
     "id": "decimal-labs/decimalai-python",
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-10-21T04:03:38Z",
+    "updated_at": "2026-10-21T04:17:56Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
@@ -32,7 +32,7 @@
     "language": "Python",
     "name": "judgekeeper/judgekeeper",
     "stars": 0,
-    "updated_at": "2026-10-21T04:10:02Z",
+    "updated_at": "2026-10-21T04:18:14Z",
     "url": "https://github.com/judgekeeper/judgekeeper"
   },
   {
