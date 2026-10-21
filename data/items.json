@@ -1,5 +1,14 @@
 [
   {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-21T16:55:41Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
     "description": "Valor is a lightweight, numpy-based library designed for fast and seamless evaluation of machine learning models.",
     "id": "Striveworks/valor",
     "language": "Python",
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11936,
-    "updated_at": "2026-10-21T16:38:02Z",
+    "updated_at": "2026-10-21T16:50:13Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -61,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T13:52:47Z",
     "url": "https://github.com/Lilim-ing/agent-evalkit"
-  },
-  {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-21T14:11:54Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
@@ -193,7 +193,7 @@
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3606,
+    "stars": 3607,
     "updated_at": "2026-10-19T17:17:18Z",
     "url": "https://github.com/truera/trulens"
   },
