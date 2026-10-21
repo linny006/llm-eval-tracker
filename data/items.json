@@ -1,11 +1,20 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26208,
+    "updated_at": "2026-10-21T03:00:12Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
     "id": "decimal-labs/decimalai-python",
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-10-21T02:36:04Z",
+    "updated_at": "2026-10-21T02:47:12Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
@@ -16,15 +25,6 @@
     "stars": 11930,
     "updated_at": "2026-10-21T02:19:05Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26206,
-    "updated_at": "2026-10-21T02:30:52Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
