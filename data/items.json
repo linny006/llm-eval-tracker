@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
+    "id": "HLIntel/thea-software",
+    "language": "Python",
+    "name": "HLIntel/thea-software",
+    "stars": 3,
+    "updated_at": "2026-10-21T15:01:44Z",
+    "url": "https://github.com/HLIntel/thea-software"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11936,
-    "updated_at": "2026-10-21T14:34:55Z",
+    "updated_at": "2026-10-21T15:08:55Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "judgekeeper/judgekeeper",
     "stars": 0,
-    "updated_at": "2026-10-21T14:52:17Z",
+    "updated_at": "2026-10-21T15:15:17Z",
     "url": "https://github.com/judgekeeper/judgekeeper"
   },
   {
@@ -88,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T10:26:47Z",
     "url": "https://github.com/dylanma8232-art/daming-skillgain"
-  },
-  {
-    "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
-    "id": "HLIntel/thea-software",
-    "language": "Python",
-    "name": "HLIntel/thea-software",
-    "stars": 3,
-    "updated_at": "2026-10-21T14:53:52Z",
-    "url": "https://github.com/HLIntel/thea-software"
   },
   {
     "description": "Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu",
