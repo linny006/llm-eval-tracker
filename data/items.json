@@ -1,21 +1,21 @@
 [
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26217,
-    "updated_at": "2026-10-21T06:06:58Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
     "id": "decimal-labs/decimalai-python",
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-10-21T05:35:20Z",
+    "updated_at": "2026-10-21T06:17:20Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26218,
+    "updated_at": "2026-10-21T06:06:58Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
@@ -23,7 +23,7 @@
     "language": "Python",
     "name": "judgekeeper/judgekeeper",
     "stars": 0,
-    "updated_at": "2026-10-21T06:14:35Z",
+    "updated_at": "2026-10-21T06:22:58Z",
     "url": "https://github.com/judgekeeper/judgekeeper"
   },
   {
@@ -103,7 +103,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5913,
+    "stars": 5914,
     "updated_at": "2026-10-20T12:24:51Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
