@@ -1,5 +1,14 @@
 [
   {
+    "description": "\u6ca1\u8dd1\u8fc7 = \u4e0d\u51fa\u5382\u3002no eval, no ship.",
+    "id": "SmartStudio/baize-prompts",
+    "language": "\u2014",
+    "name": "SmartStudio/baize-prompts",
+    "stars": 1,
+    "updated_at": "2026-10-21T10:56:10Z",
+    "url": "https://github.com/SmartStudio/baize-prompts"
+  },
+  {
     "description": "\u4f60\u7684 Skill \u5230\u5e95\u6709\u6ca1\u6709\u7528\uff1f\u8dd1\u4e00\u6b21\u5c31\u77e5\u9053\u2014\u2014\u7528\u771f\u5b9e\u4efb\u52a1\u505a\u5bf9\u7167\u6d4b\u8bd5\uff0c\u770b\u5b83\u5728\u6bcf\u4e2a\u6a21\u578b\u4e0a\u662f\u5e2e\u5fd9\u8fd8\u662f\u62d6\u540e\u817f\u3002 | Measure whether a skill actually helps, per model, via paired wit",
     "id": "dylanma8232-art/daming-skillgain",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 29,
     "updated_at": "2026-10-20T16:44:22Z",
     "url": "https://github.com/sx4im/skillcheck"
-  },
-  {
-    "description": "\u91d1\u878d\u957f\u6587\u672c\u667a\u80fd\u95ee\u7b54\u7cfb\u7edf\uff1a\u68c0\u7d22\u00b7\u5224\u5b9a\u00b7\u8bb0\u5fc6\u00b7\u5f52\u56e0\u56db\u5c42\u5168\u94fe\uff08BM25F \u9010\u9009\u9879\u68c0\u7d22 + \u9009\u9879\u7ea7\u8bc1\u636e\u9694\u79bb + \u5206\u5c42\u8bb0\u5fc6\u538b\u7f29 + \u5f15\u7528\u89c2\u6d4b\u5f52\u56e0\uff09\uff0c\u81ea\u5efa\u4e94\u57df\u8bc4\u6d4b\u96c6\uff08\u6cd5\u89c4/\u8d22\u62a5/\u4fdd\u9669/\u5408\u540c/\u7814\u62a5\uff0c50 \u9898\u542b 193 \u9875\u52df\u96c6\u8bf4\u660e\u4e66\uff09\uff0c791 \u4f8b\u6d4b\u8bd5\u3002\u573a\u666f",
-    "id": "quannie255-star/FinData-Agent",
-    "language": "Python",
-    "name": "quannie255-star/FinData-Agent",
-    "stars": 0,
-    "updated_at": "2026-10-10T09:34:12Z",
-    "url": "https://github.com/quannie255-star/FinData-Agent"
   }
 ]
