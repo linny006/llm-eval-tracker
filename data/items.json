@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-10-22T12:55:41Z",
+    "updated_at": "2026-10-22T13:04:15Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 366,
+    "updated_at": "2026-10-22T13:04:11Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -22,7 +31,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11950,
+    "stars": 11951,
     "updated_at": "2026-10-22T11:19:40Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -50,7 +59,7 @@
     "language": "Python",
     "name": "izam-mohammed/ragrank",
     "stars": 47,
-    "updated_at": "2026-10-22T09:50:46Z",
+    "updated_at": "2026-10-22T13:13:33Z",
     "url": "https://github.com/izam-mohammed/ragrank"
   },
   {
@@ -70,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T00:53:39Z",
     "url": "https://github.com/judgekeeper/judgekeeper"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 366,
-    "updated_at": "2026-10-22T12:26:48Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
