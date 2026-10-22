@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-22 16:30 UTC
+> ⏰ Last updated: 2026-10-22 16:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,8 +42,8 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11951 | Python | 2026-10-22 | AI Observability & Evaluation |
-| 2 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-22 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
+| 1 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-22 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
+| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11951 | Python | 2026-10-22 | AI Observability & Evaluation |
 | 3 | [QuesmaOrg/BinaryAudit](https://github.com/QuesmaOrg/BinaryAudit) | 106 | Shell | 2026-10-22 | An open-source benchmark for evaluating AI agents' ability to find backdoors hidden in compiled binaries. |
 | 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26286 | TypeScript | 2026-10-22 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 5 | [izam-mohammed/ragrank](https://github.com/izam-mohammed/ragrank) | 47 | Python | 2026-10-22 | 🎯 Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an |
