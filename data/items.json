@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11951,
+    "updated_at": "2026-10-22T17:11:53Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
     "id": "decimal-labs/decimalai-python",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 1,
     "updated_at": "2026-10-22T16:55:11Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11951,
-    "updated_at": "2026-10-22T16:54:21Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "An open-source benchmark for evaluating AI agents' ability to find backdoors hidden in compiled binaries.",
