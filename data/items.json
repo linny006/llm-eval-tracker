@@ -13,7 +13,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26248,
+    "stars": 26247,
     "updated_at": "2026-10-22T01:52:39Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -41,7 +41,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 366,
-    "updated_at": "2026-10-22T02:26:38Z",
+    "updated_at": "2026-10-22T02:37:02Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -76,7 +76,7 @@
     "id": "open-compass/opencompass",
     "language": "Python",
     "name": "open-compass/opencompass",
-    "stars": 7533,
+    "stars": 7534,
     "updated_at": "2026-10-21T11:49:42Z",
     "url": "https://github.com/open-compass/opencompass"
   },
@@ -142,6 +142,15 @@
     "stars": 0,
     "updated_at": "2026-10-20T18:50:52Z",
     "url": "https://github.com/sammyjdev/gnomon-eval"
+  },
+  {
+    "description": "Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct",
+    "id": "sx4im/skillcheck",
+    "language": "TypeScript",
+    "name": "sx4im/skillcheck",
+    "stars": 28,
+    "updated_at": "2026-10-20T16:44:22Z",
+    "url": "https://github.com/sx4im/skillcheck"
   },
   {
     "description": "Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches ",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-12T05:03:10Z",
     "url": "https://github.com/ahmedmoha9088/PhoenixFish"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-10-12T04:48:21Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   }
 ]
