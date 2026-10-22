@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-22 04:00 UTC
+> ⏰ Last updated: 2026-10-22 04:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -45,7 +45,7 @@ expired items removed — so you can rely on what you see being current.
 | 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26251 | TypeScript | 2026-10-22 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 2 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-22 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
 | 3 | [judgekeeper/judgekeeper](https://github.com/judgekeeper/judgekeeper) | 0 | Python | 2026-10-22 | Check your LLM-as-a-judge: see how often it agrees with human labels, in one command. |
-| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11942 | Python | 2026-10-21 | AI Observability & Evaluation |
+| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11942 | Python | 2026-10-22 | AI Observability & Evaluation |
 | 5 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 366 | TypeScript | 2026-10-22 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 6 | [HLIntel/thea-software](https://github.com/HLIntel/thea-software) | 3 | Python | 2026-10-21 | AI coding-agent verification — a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th |
 | 7 | [Striveworks/valor](https://github.com/Striveworks/valor) | 40 | Python | 2026-10-21 | Valor is a lightweight, numpy-based library designed for fast and seamless evaluation of machine learning models. |
