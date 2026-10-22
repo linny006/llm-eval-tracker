@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-22 14:15 UTC
+> ⏰ Last updated: 2026-10-22 14:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26276 | TypeScript | 2026-10-22 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 2 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-22 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
-| 3 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 366 | TypeScript | 2026-10-22 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11951 | Python | 2026-10-22 | AI Observability & Evaluation |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11951 | Python | 2026-10-22 | AI Observability & Evaluation |
+| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26278 | TypeScript | 2026-10-22 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 3 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-22 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
+| 4 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 366 | TypeScript | 2026-10-22 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 5 | [jin2004-cmd/codex-practical-skills](https://github.com/jin2004-cmd/codex-practical-skills) | 1 | Python | 2026-10-22 | AI 实用 Skill 库 · 16 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, p |
 | 6 | [AndyZhang666666/AndyZhang666666.github.io](https://github.com/AndyZhang666666/AndyZhang666666.github.io) | 0 | CSS | 2026-10-22 | Personal site with two interactive LLM eval harness demos |
 | 7 | [izam-mohammed/ragrank](https://github.com/izam-mohammed/ragrank) | 47 | Python | 2026-10-22 | 🎯 Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an |
