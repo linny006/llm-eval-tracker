@@ -1,5 +1,14 @@
 [
   {
+    "description": "Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old ",
+    "id": "amareshhebbar/gitgrounded",
+    "language": "Python",
+    "name": "amareshhebbar/gitgrounded",
+    "stars": 0,
+    "updated_at": "2026-10-22T08:13:14Z",
+    "url": "https://github.com/amareshhebbar/gitgrounded"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -412,15 +421,6 @@
     "stars": 0,
     "updated_at": "2026-10-13T11:40:16Z",
     "url": "https://github.com/glibshchur/fieldnote"
-  },
-  {
-    "description": "Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old ",
-    "id": "amareshhebbar/gitgrounded",
-    "language": "Python",
-    "name": "amareshhebbar/gitgrounded",
-    "stars": 0,
-    "updated_at": "2026-10-19T09:29:10Z",
-    "url": "https://github.com/amareshhebbar/gitgrounded"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
