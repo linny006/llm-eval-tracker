@@ -1,12 +1,12 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11951,
-    "updated_at": "2026-10-22T18:26:05Z",
-    "url": "https://github.com/Arize-ai/phoenix"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26293,
+    "updated_at": "2026-10-22T18:44:54Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
@@ -14,8 +14,17 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 366,
-    "updated_at": "2026-10-22T18:21:43Z",
+    "updated_at": "2026-10-22T18:31:54Z",
     "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11951,
+    "updated_at": "2026-10-22T18:41:03Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -34,15 +43,6 @@
     "stars": 106,
     "updated_at": "2026-10-22T14:27:49Z",
     "url": "https://github.com/QuesmaOrg/BinaryAudit"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26292,
-    "updated_at": "2026-10-22T14:03:15Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
@@ -95,7 +95,7 @@
     "language": "Python",
     "name": "HLIntel/thea-software",
     "stars": 3,
-    "updated_at": "2026-10-22T18:29:44Z",
+    "updated_at": "2026-10-22T18:36:58Z",
     "url": "https://github.com/HLIntel/thea-software"
   },
   {
