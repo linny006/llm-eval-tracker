@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI \u5b9e\u7528 Skill \u5e93 \u00b7 16 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, p",
+    "id": "jin2004-cmd/codex-practical-skills",
+    "language": "Python",
+    "name": "jin2004-cmd/codex-practical-skills",
+    "stars": 1,
+    "updated_at": "2026-10-22T10:47:50Z",
+    "url": "https://github.com/jin2004-cmd/codex-practical-skills"
+  },
+  {
     "description": "Personal site with two interactive LLM eval harness demos",
     "id": "AndyZhang666666/AndyZhang666666.github.io",
     "language": "CSS",
@@ -22,7 +31,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26263,
+    "stars": 26264,
     "updated_at": "2026-10-22T09:31:05Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -106,15 +115,6 @@
     "stars": 7535,
     "updated_at": "2026-10-21T11:49:42Z",
     "url": "https://github.com/open-compass/opencompass"
-  },
-  {
-    "description": "AI \u5b9e\u7528 Skill \u5e93 \u00b7 16 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, p",
-    "id": "jin2004-cmd/codex-practical-skills",
-    "language": "Python",
-    "name": "jin2004-cmd/codex-practical-skills",
-    "stars": 1,
-    "updated_at": "2026-10-21T11:21:03Z",
-    "url": "https://github.com/jin2004-cmd/codex-practical-skills"
   },
   {
     "description": "\u6ca1\u8dd1\u8fc7 = \u4e0d\u51fa\u5382\u3002no eval, no ship.",
