@@ -1,10 +1,19 @@
 [
   {
+    "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
+    "id": "izam-mohammed/ragrank",
+    "language": "Python",
+    "name": "izam-mohammed/ragrank",
+    "stars": 47,
+    "updated_at": "2026-10-22T09:50:46Z",
+    "url": "https://github.com/izam-mohammed/ragrank"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26260,
+    "stars": 26261,
     "updated_at": "2026-10-22T09:31:05Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -31,7 +40,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11947,
+    "stars": 11948,
     "updated_at": "2026-10-22T04:14:34Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -349,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-10-15T14:09:53Z",
     "url": "https://github.com/FZF525/zhajinhua-ai-arena"
-  },
-  {
-    "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
-    "id": "izam-mohammed/ragrank",
-    "language": "Python",
-    "name": "izam-mohammed/ragrank",
-    "stars": 47,
-    "updated_at": "2026-10-20T08:33:37Z",
-    "url": "https://github.com/izam-mohammed/ragrank"
   },
   {
     "description": "GPT-2 (124M) \u2192 Gemma 3-style (113M), one architecture change at a time: training, evals, analysis, inference, context ex",
