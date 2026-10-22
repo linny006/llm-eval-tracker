@@ -1,21 +1,21 @@
 [
   {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 366,
-    "updated_at": "2026-10-22T17:58:44Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11951,
-    "updated_at": "2026-10-22T17:26:31Z",
+    "updated_at": "2026-10-22T18:26:05Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 366,
+    "updated_at": "2026-10-22T18:21:43Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -40,7 +40,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26291,
+    "stars": 26292,
     "updated_at": "2026-10-22T14:03:15Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -95,7 +95,7 @@
     "language": "Python",
     "name": "HLIntel/thea-software",
     "stars": 3,
-    "updated_at": "2026-10-22T06:07:16Z",
+    "updated_at": "2026-10-22T18:29:44Z",
     "url": "https://github.com/HLIntel/thea-software"
   },
   {
