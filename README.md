@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-22 15:52 UTC
+> ⏰ Last updated: 2026-10-22 16:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -64,7 +64,7 @@ expired items removed — so you can rely on what you see being current.
 | 20 | [sammyjdev/gnomon-eval](https://github.com/sammyjdev/gnomon-eval) | 0 | Python | 2026-10-20 | Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first. |
 | 21 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 28 | TypeScript | 2026-10-20 | Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct |
 | 22 | [sunxin-ai/dsh-design-qa](https://github.com/sunxin-ai/dsh-design-qa) | 44 | JavaScript | 2026-10-20 | Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches  |
-| 23 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5916 | Python | 2026-10-20 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 23 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5917 | Python | 2026-10-20 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 24 | [damonphilipross/guidance-eval](https://github.com/damonphilipross/guidance-eval) | 0 | Python | 2026-10-20 | ASX guidance direction eval: model labels vs arithmetic |
 | 25 | [mrodgersjs-web/rig-enhanced-evals](https://github.com/mrodgersjs-web/rig-enhanced-evals) | 0 | Python | 2026-10-20 | LLM evaluation harness: load datasets, run checks, write JSON and Markdown reports. |
 | 26 | [AkashB98/llm-judge-calibration](https://github.com/AkashB98/llm-judge-calibration) | 0 | Python | 2026-10-19 | Agreement + calibration harness for LLM-as-judge graders — calibration curves, bias/drift detection, per-category scorec |
