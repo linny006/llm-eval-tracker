@@ -5,15 +5,24 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11951,
-    "updated_at": "2026-10-22T14:29:58Z",
+    "updated_at": "2026-10-22T14:35:16Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "An open-source benchmark for evaluating AI agents' ability to find backdoors hidden in compiled binaries.",
+    "id": "QuesmaOrg/BinaryAudit",
+    "language": "Shell",
+    "name": "QuesmaOrg/BinaryAudit",
+    "stars": 106,
+    "updated_at": "2026-10-22T14:27:49Z",
+    "url": "https://github.com/QuesmaOrg/BinaryAudit"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26278,
+    "stars": 26281,
     "updated_at": "2026-10-22T14:03:15Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-13T06:50:49Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
-    "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
-    "id": "goldbarth/chartula-evals",
-    "language": "Python",
-    "name": "goldbarth/chartula-evals",
-    "stars": 0,
-    "updated_at": "2026-10-12T16:58:07Z",
-    "url": "https://github.com/goldbarth/chartula-evals"
   }
 ]
