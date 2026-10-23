@@ -1,11 +1,20 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 367,
+    "updated_at": "2026-10-23T22:51:59Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11973,
-    "updated_at": "2026-10-23T22:42:52Z",
+    "updated_at": "2026-10-23T22:50:11Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -27,20 +36,20 @@
     "url": "https://github.com/leijingqiu3-ops/AgentAttest"
   },
   {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 367,
-    "updated_at": "2026-10-23T20:57:06Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3610,
+    "updated_at": "2026-10-23T19:56:06Z",
+    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26352,
+    "stars": 26351,
     "updated_at": "2026-10-23T19:15:38Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -268,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T21:15:10Z",
     "url": "https://github.com/AkashB98/llm-judge-calibration"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3611,
-    "updated_at": "2026-10-23T19:56:06Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
