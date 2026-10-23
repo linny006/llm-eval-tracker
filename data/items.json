@@ -5,17 +5,8 @@
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-10-23T21:14:57Z",
+    "updated_at": "2026-10-23T21:27:49Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
-    "description": "The verdict layer for AI-written software. Deterministic checks, the right context and governed tools on every change, e",
-    "id": "HLIntel/thea-software",
-    "language": "Python",
-    "name": "HLIntel/thea-software",
-    "stars": 3,
-    "updated_at": "2026-10-23T21:11:09Z",
-    "url": "https://github.com/HLIntel/thea-software"
   },
   {
     "description": "Deterministic acceptance audits for LLM agents: 40 cases x 7 fault modes, 4-layer assertions, trace replay, 6-class fail",
@@ -49,7 +40,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26348,
+    "stars": 26349,
     "updated_at": "2026-10-23T19:15:38Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -448,5 +439,14 @@
     "stars": 0,
     "updated_at": "2026-10-14T07:03:30Z",
     "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
+  },
+  {
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-10-14T07:02:55Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
   }
 ]
