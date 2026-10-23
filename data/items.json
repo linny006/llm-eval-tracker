@@ -1,5 +1,14 @@
 [
   {
+    "description": "Multi-agent simulation using LLMs. Agents autonomously decide actions for survival, reproduction, and social behavior in",
+    "id": "yukincom/llm-SugarScape",
+    "language": "Python",
+    "name": "yukincom/llm-SugarScape",
+    "stars": 7,
+    "updated_at": "2026-10-23T11:30:02Z",
+    "url": "https://github.com/yukincom/llm-SugarScape"
+  },
+  {
     "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
     "id": "open-compass/opencompass",
     "language": "Python",
@@ -49,7 +58,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11961,
+    "stars": 11962,
     "updated_at": "2026-10-23T06:05:51Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -68,7 +77,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26330,
-    "updated_at": "2026-10-23T01:56:08Z",
+    "updated_at": "2026-10-23T11:30:12Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -295,15 +304,6 @@
     "stars": 3,
     "updated_at": "2026-10-19T06:56:47Z",
     "url": "https://github.com/senguptashubham/judge-calibration"
-  },
-  {
-    "description": "Multi-agent simulation using LLMs. Agents autonomously decide actions for survival, reproduction, and social behavior in",
-    "id": "yukincom/llm-SugarScape",
-    "language": "Python",
-    "name": "yukincom/llm-SugarScape",
-    "stars": 7,
-    "updated_at": "2026-10-19T05:14:09Z",
-    "url": "https://github.com/yukincom/llm-SugarScape"
   },
   {
     "description": "Curated list of benchmarks and rankings of models, agents and other AI-things.",
