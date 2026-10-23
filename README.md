@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-23 16:45 UTC
+> ⏰ Last updated: 2026-10-23 17:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -47,7 +47,7 @@ expired items removed — so you can rely on what you see being current.
 | 3 | [HLIntel/thea-software](https://github.com/HLIntel/thea-software) | 3 | Python | 2026-10-23 | AI coding-agent verification — a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th |
 | 4 | [AndyZhang666666/AndyZhang666666.github.io](https://github.com/AndyZhang666666/AndyZhang666666.github.io) | 0 | CSS | 2026-10-23 | Personal site with two interactive LLM eval harness demos |
 | 5 | [AndyZhang666666/llm-output-eval](https://github.com/AndyZhang666666/llm-output-eval) | 0 | TypeScript | 2026-10-23 | 长文本 LLM 输出评测工具（第二版）：两版 prompt 连跑对比 + Bad Case 导出 + 逐字证据抽取，附 30 条金标集裁判校验 |
-| 6 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26340 | TypeScript | 2026-10-23 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 6 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26341 | TypeScript | 2026-10-23 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 7 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-23 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
 | 8 | [yukincom/llm-SugarScape](https://github.com/yukincom/llm-SugarScape) | 7 | Python | 2026-10-23 | Multi-agent simulation using LLMs. Agents autonomously decide actions for survival, reproduction, and social behavior in |
 | 9 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7538 | Python | 2026-10-23 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
@@ -72,7 +72,7 @@ expired items removed — so you can rely on what you see being current.
 | 28 | [damonphilipross/guidance-eval](https://github.com/damonphilipross/guidance-eval) | 0 | Python | 2026-10-20 | ASX guidance direction eval: model labels vs arithmetic |
 | 29 | [mrodgersjs-web/rig-enhanced-evals](https://github.com/mrodgersjs-web/rig-enhanced-evals) | 0 | Python | 2026-10-20 | LLM evaluation harness: load datasets, run checks, write JSON and Markdown reports. |
 | 30 | [AkashB98/llm-judge-calibration](https://github.com/AkashB98/llm-judge-calibration) | 0 | Python | 2026-10-19 | Agreement + calibration harness for LLM-as-judge graders — calibration curves, bias/drift detection, per-category scorec |
-| 31 | [truera/trulens](https://github.com/truera/trulens) | 3611 | Python | 2026-10-19 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 31 | [truera/trulens](https://github.com/truera/trulens) | 3611 | Python | 2026-10-23 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 32 | [IcodeNet/eval-dashboards](https://github.com/IcodeNet/eval-dashboards) | 1 | TypeScript | 2026-10-19 | Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style — bring y |
 | 33 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 3 | TypeScript | 2026-10-19 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 34 | [pdxlab/trustmodel-mcp-server](https://github.com/pdxlab/trustmodel-mcp-server) | 0 | TypeScript | 2026-10-21 | TrustModel MCP Server — trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t |
