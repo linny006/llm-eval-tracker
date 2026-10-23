@@ -1,5 +1,14 @@
 [
   {
+    "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
+    "id": "open-compass/opencompass",
+    "language": "Python",
+    "name": "open-compass/opencompass",
+    "stars": 7537,
+    "updated_at": "2026-10-23T08:43:45Z",
+    "url": "https://github.com/open-compass/opencompass"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -58,7 +67,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26323,
+    "stars": 26324,
     "updated_at": "2026-10-23T01:56:08Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -142,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T13:52:47Z",
     "url": "https://github.com/Lilim-ing/agent-evalkit"
-  },
-  {
-    "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
-    "id": "open-compass/opencompass",
-    "language": "Python",
-    "name": "open-compass/opencompass",
-    "stars": 7537,
-    "updated_at": "2026-10-21T11:49:42Z",
-    "url": "https://github.com/open-compass/opencompass"
   },
   {
     "description": "\u6ca1\u8dd1\u8fc7 = \u4e0d\u51fa\u5382\u3002no eval, no ship.",
