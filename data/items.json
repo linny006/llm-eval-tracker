@@ -1,5 +1,23 @@
 [
   {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-23T07:53:40Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "CI-integrated eval harness for LLM agents \u2014 intent accuracy, retrieval precision/recall/MRR, and hallucination detection",
+    "id": "Sushant-Dagar/agent-eval-harness",
+    "language": "Python",
+    "name": "Sushant-Dagar/agent-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-10-23T07:53:13Z",
+    "url": "https://github.com/Sushant-Dagar/agent-eval-harness"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -27,15 +45,6 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-23T05:55:09Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
     "description": "Detect & score LLM hallucinations by groundedness \u2014 labeled data, precision/recall/F1, runs offline with no API key. Plu",
     "id": "ramenprotokol/hallucination-hunter",
     "language": "Python",
@@ -49,7 +58,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26321,
+    "stars": 26322,
     "updated_at": "2026-10-23T01:56:08Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -59,7 +68,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 366,
-    "updated_at": "2026-10-23T07:29:24Z",
+    "updated_at": "2026-10-23T07:55:54Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-14T03:39:17Z",
     "url": "https://github.com/andleb/causalds"
-  },
-  {
-    "description": "Multimodal RAG for HVAC field technicians: retrieves across manual charts, job-site photos and support calls, with an ev",
-    "id": "glibshchur/fieldnote",
-    "language": "Python",
-    "name": "glibshchur/fieldnote",
-    "stars": 0,
-    "updated_at": "2026-10-13T11:40:16Z",
-    "url": "https://github.com/glibshchur/fieldnote"
   }
 ]
