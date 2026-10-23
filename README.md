@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-23 03:00 UTC
+> ⏰ Last updated: 2026-10-23 03:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11956 | Python | 2026-10-23 | AI Observability & Evaluation |
-| 2 | [ramenprotokol/hallucination-hunter](https://github.com/ramenprotokol/hallucination-hunter) | 0 | Python | 2026-10-23 | Detect & score LLM hallucinations by groundedness — labeled data, precision/recall/F1, runs offline with no API key. Plu |
-| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26310 | TypeScript | 2026-10-23 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 1 | [ramenprotokol/hallucination-hunter](https://github.com/ramenprotokol/hallucination-hunter) | 0 | Python | 2026-10-23 | Detect & score LLM hallucinations by groundedness — labeled data, precision/recall/F1, runs offline with no API key. Plu |
+| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11956 | Python | 2026-10-23 | AI Observability & Evaluation |
+| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26314 | TypeScript | 2026-10-23 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 4 | [HLIntel/thea-software](https://github.com/HLIntel/thea-software) | 3 | Python | 2026-10-22 | AI coding-agent verification — a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th |
 | 5 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 366 | TypeScript | 2026-10-23 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 6 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-22 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
