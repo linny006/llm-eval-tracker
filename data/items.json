@@ -1,20 +1,11 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11957,
-    "updated_at": "2026-10-23T05:17:51Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
     "id": "HLIntel/thea-software",
     "language": "Python",
     "name": "HLIntel/thea-software",
     "stars": 3,
-    "updated_at": "2026-10-23T05:29:03Z",
+    "updated_at": "2026-10-23T05:44:37Z",
     "url": "https://github.com/HLIntel/thea-software"
   },
   {
@@ -23,8 +14,17 @@
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-10-23T04:48:13Z",
+    "updated_at": "2026-10-23T05:33:01Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11957,
+    "updated_at": "2026-10-23T05:17:51Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Detect & score LLM hallucinations by groundedness \u2014 labeled data, precision/recall/F1, runs offline with no API key. Plu",
@@ -40,7 +40,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26320,
+    "stars": 26321,
     "updated_at": "2026-10-23T01:56:08Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
