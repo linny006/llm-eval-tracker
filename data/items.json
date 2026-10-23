@@ -1,11 +1,20 @@
 [
   {
+    "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
+    "id": "HLIntel/thea-software",
+    "language": "Python",
+    "name": "HLIntel/thea-software",
+    "stars": 3,
+    "updated_at": "2026-10-23T19:27:52Z",
+    "url": "https://github.com/HLIntel/thea-software"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11969,
-    "updated_at": "2026-10-23T19:14:37Z",
+    "updated_at": "2026-10-23T19:26:52Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -16,15 +25,6 @@
     "stars": 367,
     "updated_at": "2026-10-23T17:28:22Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
-    "id": "HLIntel/thea-software",
-    "language": "Python",
-    "name": "HLIntel/thea-software",
-    "stars": 3,
-    "updated_at": "2026-10-23T16:00:57Z",
-    "url": "https://github.com/HLIntel/thea-software"
   },
   {
     "description": "Personal site with two interactive LLM eval harness demos",
@@ -50,7 +50,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26345,
-    "updated_at": "2026-10-23T19:13:59Z",
+    "updated_at": "2026-10-23T19:15:38Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
