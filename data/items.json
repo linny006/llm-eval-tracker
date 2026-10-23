@@ -1,11 +1,20 @@
 [
   {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-23T14:52:18Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11968,
-    "updated_at": "2026-10-23T14:45:21Z",
+    "updated_at": "2026-10-23T14:59:13Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -22,7 +31,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26337,
+    "stars": 26338,
     "updated_at": "2026-10-23T12:42:55Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -40,7 +49,7 @@
     "id": "open-compass/opencompass",
     "language": "Python",
     "name": "open-compass/opencompass",
-    "stars": 7537,
+    "stars": 7538,
     "updated_at": "2026-10-23T09:46:33Z",
     "url": "https://github.com/open-compass/opencompass"
   },
@@ -52,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T08:10:18Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-23T14:43:10Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "CI-integrated eval harness for LLM agents \u2014 intent accuracy, retrieval precision/recall/MRR, and hallucination detection",
