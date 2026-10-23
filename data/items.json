@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11969,
+    "updated_at": "2026-10-23T19:44:47Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
     "id": "HLIntel/thea-software",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 3,
     "updated_at": "2026-10-23T19:27:52Z",
     "url": "https://github.com/HLIntel/thea-software"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11969,
-    "updated_at": "2026-10-23T19:26:52Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
