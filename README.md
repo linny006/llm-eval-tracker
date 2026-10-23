@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-23 15:00 UTC
+> ⏰ Last updated: 2026-10-23 15:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-23 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
-| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11968 | Python | 2026-10-23 | AI Observability & Evaluation |
-| 3 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 366 | TypeScript | 2026-10-23 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26338 | TypeScript | 2026-10-23 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26339 | TypeScript | 2026-10-23 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 2 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-23 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
+| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11968 | Python | 2026-10-23 | AI Observability & Evaluation |
+| 4 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 366 | TypeScript | 2026-10-23 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 5 | [yukincom/llm-SugarScape](https://github.com/yukincom/llm-SugarScape) | 7 | Python | 2026-10-23 | Multi-agent simulation using LLMs. Agents autonomously decide actions for survival, reproduction, and social behavior in |
 | 6 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7538 | Python | 2026-10-23 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
 | 7 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-10-23 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
