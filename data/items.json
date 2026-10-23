@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
+    "id": "HLIntel/thea-software",
+    "language": "Python",
+    "name": "HLIntel/thea-software",
+    "stars": 3,
+    "updated_at": "2026-10-23T16:00:57Z",
+    "url": "https://github.com/HLIntel/thea-software"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 11968,
     "updated_at": "2026-10-23T15:58:24Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
-    "id": "HLIntel/thea-software",
-    "language": "Python",
-    "name": "HLIntel/thea-software",
-    "stars": 3,
-    "updated_at": "2026-10-23T15:58:39Z",
-    "url": "https://github.com/HLIntel/thea-software"
   },
   {
     "description": "Personal site with two interactive LLM eval harness demos",
@@ -50,7 +50,7 @@
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-10-23T15:16:06Z",
+    "updated_at": "2026-10-23T16:08:18Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
