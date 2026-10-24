@@ -1,5 +1,14 @@
 [
   {
+    "description": "Evidence-driven AI development workbench for model evaluation, project context, and controlled agent execution.",
+    "id": "TQSY114514/Aether",
+    "language": "JavaScript",
+    "name": "TQSY114514/Aether",
+    "stars": 5,
+    "updated_at": "2026-10-24T12:26:39Z",
+    "url": "https://github.com/TQSY114514/Aether"
+  },
+  {
     "description": "Personal site with two interactive LLM eval harness demos",
     "id": "AndyZhang666666/AndyZhang666666.github.io",
     "language": "JavaScript",
@@ -7,15 +16,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T11:57:01Z",
     "url": "https://github.com/AndyZhang666666/AndyZhang666666.github.io"
-  },
-  {
-    "description": "Evidence-driven AI development workbench for model evaluation, project context, and controlled agent execution.",
-    "id": "TQSY114514/Aether",
-    "language": "JavaScript",
-    "name": "TQSY114514/Aether",
-    "stars": 5,
-    "updated_at": "2026-10-24T11:52:31Z",
-    "url": "https://github.com/TQSY114514/Aether"
   },
   {
     "description": "Deterministic acceptance audits for LLM agents: 40 cases x 7 fault modes, 4-layer assertions, trace replay, 6-class fail",
