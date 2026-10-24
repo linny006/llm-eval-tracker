@@ -1,5 +1,23 @@
 [
   {
+    "description": "Evidence-driven AI development workbench for model evaluation, project context, and controlled agent execution.",
+    "id": "TQSY114514/Aether",
+    "language": "JavaScript",
+    "name": "TQSY114514/Aether",
+    "stars": 5,
+    "updated_at": "2026-10-24T08:33:58Z",
+    "url": "https://github.com/TQSY114514/Aether"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26362,
+    "updated_at": "2026-10-24T08:00:42Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Personal site with two interactive LLM eval harness demos",
     "id": "AndyZhang666666/AndyZhang666666.github.io",
     "language": "JavaScript",
@@ -61,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-10-24T03:37:56Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26361,
-    "updated_at": "2026-10-24T08:00:42Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
@@ -331,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-10-17T19:38:51Z",
     "url": "https://github.com/lorien/awesome-ai-benchmarks"
-  },
-  {
-    "description": "Evidence-driven AI development workbench for model evaluation, project context, and controlled agent execution.",
-    "id": "TQSY114514/Aether",
-    "language": "JavaScript",
-    "name": "TQSY114514/Aether",
-    "stars": 5,
-    "updated_at": "2026-10-24T08:22:38Z",
-    "url": "https://github.com/TQSY114514/Aether"
   },
   {
     "description": "Calibrated LLM-as-a-judge pipeline: rubric, human gold set, frozen splits, bootstrap TPR/TNR/agreement/kappa, bias probe",
