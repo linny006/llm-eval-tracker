@@ -1,5 +1,14 @@
 [
   {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3609,
+    "updated_at": "2026-10-24T04:20:04Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "Personal site with two interactive LLM eval harness demos",
     "id": "AndyZhang666666/AndyZhang666666.github.io",
     "language": "CSS",
@@ -41,7 +50,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11975,
-    "updated_at": "2026-10-24T03:48:23Z",
+    "updated_at": "2026-10-24T05:06:46Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -88,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T20:50:38Z",
     "url": "https://github.com/leijingqiu3-ops/AgentAttest"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3610,
-    "updated_at": "2026-10-24T04:20:04Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
