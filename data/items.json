@@ -1,11 +1,20 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26378,
+    "updated_at": "2026-10-24T18:11:47Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
     "id": "judgekeeper/judgekeeper",
     "language": "Python",
     "name": "judgekeeper/judgekeeper",
     "stars": 0,
-    "updated_at": "2026-10-24T17:51:49Z",
+    "updated_at": "2026-10-24T18:03:09Z",
     "url": "https://github.com/judgekeeper/judgekeeper"
   },
   {
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T17:19:23Z",
     "url": "https://github.com/AndyZhang666666/AndyZhang666666.github.io"
-  },
-  {
-    "description": "\u26a1 Drop-in SKILL.md, .cursorrules, CLAUDE.md, AGENTS.md & Remote MCP (.mcp.json) pack for Claude Code, Cursor, Windsurf, ",
-    "id": "doomsday-network/web3-agent-skills",
-    "language": "Python",
-    "name": "doomsday-network/web3-agent-skills",
-    "stars": 3,
-    "updated_at": "2026-10-24T17:06:36Z",
-    "url": "https://github.com/doomsday-network/web3-agent-skills"
   },
   {
     "description": "\ud83d\udee1\ufe0f Autonomous GitHub Bounty Scanner & On-Chain Escrow Verifier \u2014 Find Real Crypto/USDC/wDOOM Bounties & Filter Fake Scra",
@@ -70,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T11:46:40Z",
     "url": "https://github.com/leijingqiu3-ops/AgentAttest"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26378,
-    "updated_at": "2026-10-24T08:00:42Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -448,5 +439,14 @@
     "stars": 0,
     "updated_at": "2026-10-15T05:38:34Z",
     "url": "https://github.com/Shinibali/CuriosLM"
+  },
+  {
+    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
+    "id": "homemade-software-inc/completion-kit",
+    "language": "Ruby",
+    "name": "homemade-software-inc/completion-kit",
+    "stars": 3,
+    "updated_at": "2026-10-14T22:41:00Z",
+    "url": "https://github.com/homemade-software-inc/completion-kit"
   }
 ]
