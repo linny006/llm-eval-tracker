@@ -13,7 +13,7 @@
     "id": "doomsday-network/github-bounty-scanner",
     "language": "Python",
     "name": "doomsday-network/github-bounty-scanner",
-    "stars": 6,
+    "stars": 8,
     "updated_at": "2026-10-24T19:09:40Z",
     "url": "https://github.com/doomsday-network/github-bounty-scanner"
   },
@@ -40,7 +40,7 @@
     "id": "doomsday-network/bounty-guard",
     "language": "Python",
     "name": "doomsday-network/bounty-guard",
-    "stars": 14,
+    "stars": 15,
     "updated_at": "2026-10-24T17:41:04Z",
     "url": "https://github.com/doomsday-network/bounty-guard"
   },
