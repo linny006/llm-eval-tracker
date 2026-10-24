@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-24 05:15 UTC
+> ⏰ Last updated: 2026-10-24 05:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,8 +42,8 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [truera/trulens](https://github.com/truera/trulens) | 3609 | Python | 2026-10-24 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 2 | [AndyZhang666666/AndyZhang666666.github.io](https://github.com/AndyZhang666666/AndyZhang666666.github.io) | 0 | CSS | 2026-10-24 | Personal site with two interactive LLM eval harness demos |
+| 1 | [AndyZhang666666/AndyZhang666666.github.io](https://github.com/AndyZhang666666/AndyZhang666666.github.io) | 0 | JavaScript | 2026-10-24 | Personal site with two interactive LLM eval harness demos |
+| 2 | [truera/trulens](https://github.com/truera/trulens) | 3609 | Python | 2026-10-24 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 3 | [AndyZhang666666/llm-output-eval](https://github.com/AndyZhang666666/llm-output-eval) | 0 | TypeScript | 2026-10-24 | 长文本 LLM 输出评测工具（第二版）：两版 prompt 连跑对比 + Bad Case 导出 + 逐字证据抽取，附 30 条金标集裁判校验 |
 | 4 | [AndyZhang666666/filing-eval](https://github.com/AndyZhang666666/filing-eval) | 0 | JavaScript | 2026-10-24 | 公告摘要的断言级事实核查裁判：幻觉检出 / 误报 / 关键信息覆盖三轴度量 |
 | 5 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-10-24 | Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu |
