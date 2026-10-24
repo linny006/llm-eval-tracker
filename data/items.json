@@ -1,5 +1,14 @@
 [
   {
+    "description": "Personal site with two interactive LLM eval harness demos",
+    "id": "AndyZhang666666/AndyZhang666666.github.io",
+    "language": "JavaScript",
+    "name": "AndyZhang666666/AndyZhang666666.github.io",
+    "stars": 0,
+    "updated_at": "2026-10-24T17:19:23Z",
+    "url": "https://github.com/AndyZhang666666/AndyZhang666666.github.io"
+  },
+  {
     "description": "Zero-dependency Python CLI, GitHub Action, and MCP server scanning untrusted GitHub issues and repositories for prompt i",
     "id": "doomsday-network/bounty-guard",
     "language": "Python",
@@ -45,15 +54,6 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Personal site with two interactive LLM eval harness demos",
-    "id": "AndyZhang666666/AndyZhang666666.github.io",
-    "language": "JavaScript",
-    "name": "AndyZhang666666/AndyZhang666666.github.io",
-    "stars": 0,
-    "updated_at": "2026-10-24T11:57:01Z",
-    "url": "https://github.com/AndyZhang666666/AndyZhang666666.github.io"
-  },
-  {
     "description": "Deterministic acceptance audits for LLM agents: 40 cases x 7 fault modes, 4-layer assertions, trace replay, 6-class fail",
     "id": "leijingqiu3-ops/AgentAttest",
     "language": "HTML",
@@ -67,7 +67,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26377,
+    "stars": 26378,
     "updated_at": "2026-10-24T08:00:42Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
