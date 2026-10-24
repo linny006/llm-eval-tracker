@@ -1,5 +1,14 @@
 [
   {
+    "description": "Deterministic acceptance audits for LLM agents: 40 cases x 7 fault modes, 4-layer assertions, trace replay, 6-class fail",
+    "id": "leijingqiu3-ops/AgentAttest",
+    "language": "HTML",
+    "name": "leijingqiu3-ops/AgentAttest",
+    "stars": 0,
+    "updated_at": "2026-10-24T05:59:29Z",
+    "url": "https://github.com/leijingqiu3-ops/AgentAttest"
+  },
+  {
     "description": "Personal site with two interactive LLM eval harness demos",
     "id": "AndyZhang666666/AndyZhang666666.github.io",
     "language": "JavaScript",
@@ -90,15 +99,6 @@
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
-    "description": "Deterministic acceptance audits for LLM agents: 40 cases x 7 fault modes, 4-layer assertions, trace replay, 6-class fail",
-    "id": "leijingqiu3-ops/AgentAttest",
-    "language": "HTML",
-    "name": "leijingqiu3-ops/AgentAttest",
-    "stars": 0,
-    "updated_at": "2026-10-23T20:50:38Z",
-    "url": "https://github.com/leijingqiu3-ops/AgentAttest"
-  },
-  {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
     "id": "decimal-labs/decimalai-python",
     "language": "Python",
@@ -113,7 +113,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5919,
-    "updated_at": "2026-10-24T00:48:52Z",
+    "updated_at": "2026-10-24T05:52:18Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
