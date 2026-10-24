@@ -1,21 +1,21 @@
 [
   {
-    "description": "Deterministic acceptance audits for LLM agents: 40 cases x 7 fault modes, 4-layer assertions, trace replay, 6-class fail",
-    "id": "leijingqiu3-ops/AgentAttest",
-    "language": "HTML",
-    "name": "leijingqiu3-ops/AgentAttest",
-    "stars": 0,
-    "updated_at": "2026-10-24T06:04:45Z",
-    "url": "https://github.com/leijingqiu3-ops/AgentAttest"
-  },
-  {
     "description": "Personal site with two interactive LLM eval harness demos",
     "id": "AndyZhang666666/AndyZhang666666.github.io",
     "language": "JavaScript",
     "name": "AndyZhang666666/AndyZhang666666.github.io",
     "stars": 0,
-    "updated_at": "2026-10-24T05:42:48Z",
+    "updated_at": "2026-10-24T06:56:36Z",
     "url": "https://github.com/AndyZhang666666/AndyZhang666666.github.io"
+  },
+  {
+    "description": "Deterministic acceptance audits for LLM agents: 40 cases x 7 fault modes, 4-layer assertions, trace replay, 6-class fail",
+    "id": "leijingqiu3-ops/AgentAttest",
+    "language": "HTML",
+    "name": "leijingqiu3-ops/AgentAttest",
+    "stars": 0,
+    "updated_at": "2026-10-24T06:51:07Z",
+    "url": "https://github.com/leijingqiu3-ops/AgentAttest"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -67,7 +67,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26359,
+    "stars": 26358,
     "updated_at": "2026-10-24T01:35:01Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -338,7 +338,7 @@
     "language": "JavaScript",
     "name": "TQSY114514/Aether",
     "stars": 5,
-    "updated_at": "2026-10-24T05:29:38Z",
+    "updated_at": "2026-10-24T06:59:58Z",
     "url": "https://github.com/TQSY114514/Aether"
   },
   {
