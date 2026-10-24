@@ -1,11 +1,20 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11975,
+    "updated_at": "2026-10-24T02:10:32Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu",
     "id": "ChelseaKR/fare-policy-assistant",
     "language": "HTML",
     "name": "ChelseaKR/fare-policy-assistant",
     "stars": 1,
-    "updated_at": "2026-10-24T01:53:51Z",
+    "updated_at": "2026-10-24T03:06:06Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
@@ -13,7 +22,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26355,
+    "stars": 26356,
     "updated_at": "2026-10-24T01:35:01Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -34,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T00:59:28Z",
     "url": "https://github.com/judgekeeper/judgekeeper"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11974,
-    "updated_at": "2026-10-24T02:10:32Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
@@ -121,7 +121,7 @@
     "id": "open-compass/opencompass",
     "language": "Python",
     "name": "open-compass/opencompass",
-    "stars": 7539,
+    "stars": 7540,
     "updated_at": "2026-10-23T09:46:33Z",
     "url": "https://github.com/open-compass/opencompass"
   },
