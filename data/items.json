@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83d\udee1\ufe0f Autonomous GitHub Bounty Scanner & On-Chain Escrow Verifier \u2014 Find Real Crypto/USDC/wDOOM Bounties & Filter Fake Scra",
+    "id": "doomsday-network/github-bounty-scanner",
+    "language": "Python",
+    "name": "doomsday-network/github-bounty-scanner",
+    "stars": 6,
+    "updated_at": "2026-10-24T19:09:40Z",
+    "url": "https://github.com/doomsday-network/github-bounty-scanner"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -34,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T17:19:23Z",
     "url": "https://github.com/AndyZhang666666/AndyZhang666666.github.io"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Autonomous GitHub Bounty Scanner & On-Chain Escrow Verifier \u2014 Find Real Crypto/USDC/wDOOM Bounties & Filter Fake Scra",
-    "id": "doomsday-network/github-bounty-scanner",
-    "language": "Python",
-    "name": "doomsday-network/github-bounty-scanner",
-    "stars": 6,
-    "updated_at": "2026-10-24T16:49:44Z",
-    "url": "https://github.com/doomsday-network/github-bounty-scanner"
   },
   {
     "description": "Evidence-driven AI development workbench for model evaluation, project context, and controlled agent execution.",
