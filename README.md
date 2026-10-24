@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-24 23:15 UTC
+> ⏰ Last updated: 2026-10-24 23:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -49,7 +49,7 @@ expired items removed — so you can rely on what you see being current.
 | 5 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 367 | TypeScript | 2026-10-24 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 6 | [AndyZhang666666/AndyZhang666666.github.io](https://github.com/AndyZhang666666/AndyZhang666666.github.io) | 0 | JavaScript | 2026-10-24 | Personal site with two interactive LLM eval harness demos |
 | 7 | [TQSY114514/Aether](https://github.com/TQSY114514/Aether) | 5 | JavaScript | 2026-10-24 | Evidence-driven AI development workbench for model evaluation, project context, and controlled agent execution. |
-| 8 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11986 | Python | 2026-10-24 | AI Observability & Evaluation |
+| 8 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11987 | Python | 2026-10-24 | AI Observability & Evaluation |
 | 9 | [leijingqiu3-ops/AgentAttest](https://github.com/leijingqiu3-ops/AgentAttest) | 0 | HTML | 2026-10-24 | Deterministic acceptance audits for LLM agents: 40 cases x 7 fault modes, 4-layer assertions, trace replay, 6-class fail |
 | 10 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5920 | Python | 2026-10-24 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 11 | [truera/trulens](https://github.com/truera/trulens) | 3609 | Python | 2026-10-24 | Evaluation and Tracking for LLM Experiments and AI Agents |
