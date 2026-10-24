@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11982,
+    "updated_at": "2026-10-24T14:26:03Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Evidence-driven AI development workbench for model evaluation, project context, and controlled agent execution.",
     "id": "TQSY114514/Aether",
     "language": "JavaScript",
@@ -7,15 +16,6 @@
     "stars": 5,
     "updated_at": "2026-10-24T14:14:08Z",
     "url": "https://github.com/TQSY114514/Aether"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11982,
-    "updated_at": "2026-10-24T14:02:13Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Personal site with two interactive LLM eval harness demos",
