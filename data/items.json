@@ -5,7 +5,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 367,
-    "updated_at": "2026-10-24T00:29:31Z",
+    "updated_at": "2026-10-24T00:41:41Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -79,6 +79,15 @@
     "stars": 1,
     "updated_at": "2026-10-23T16:29:14Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5919,
+    "updated_at": "2026-10-23T14:04:32Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Multi-agent simulation using LLMs. Agents autonomously decide actions for survival, reproduction, and social behavior in",
@@ -241,15 +250,6 @@
     "stars": 44,
     "updated_at": "2026-10-20T12:25:14Z",
     "url": "https://github.com/sunxin-ai/dsh-design-qa"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5918,
-    "updated_at": "2026-10-23T14:04:32Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "ASX guidance direction eval: model labels vs arithmetic",
