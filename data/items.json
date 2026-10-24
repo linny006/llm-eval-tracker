@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11985,
+    "updated_at": "2026-10-24T16:10:22Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Evidence-driven AI development workbench for model evaluation, project context, and controlled agent execution.",
     "id": "TQSY114514/Aether",
     "language": "JavaScript",
@@ -7,15 +16,6 @@
     "stars": 5,
     "updated_at": "2026-10-24T15:29:44Z",
     "url": "https://github.com/TQSY114514/Aether"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11985,
-    "updated_at": "2026-10-24T15:47:32Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Personal site with two interactive LLM eval harness demos",
@@ -40,7 +40,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26375,
+    "stars": 26377,
     "updated_at": "2026-10-24T08:00:42Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -104,7 +104,7 @@
     "language": "Python",
     "name": "judgekeeper/judgekeeper",
     "stars": 0,
-    "updated_at": "2026-10-24T15:22:24Z",
+    "updated_at": "2026-10-24T16:07:55Z",
     "url": "https://github.com/judgekeeper/judgekeeper"
   },
   {
