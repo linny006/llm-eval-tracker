@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-24 11:30 UTC
+> ⏰ Last updated: 2026-10-24 11:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [TQSY114514/Aether](https://github.com/TQSY114514/Aether) | 5 | JavaScript | 2026-10-24 | Evidence-driven AI development workbench for model evaluation, project context, and controlled agent execution. |
-| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26366 | TypeScript | 2026-10-24 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 3 | [AndyZhang666666/AndyZhang666666.github.io](https://github.com/AndyZhang666666/AndyZhang666666.github.io) | 0 | JavaScript | 2026-10-24 | Personal site with two interactive LLM eval harness demos |
+| 1 | [AndyZhang666666/AndyZhang666666.github.io](https://github.com/AndyZhang666666/AndyZhang666666.github.io) | 0 | JavaScript | 2026-10-24 | Personal site with two interactive LLM eval harness demos |
+| 2 | [TQSY114514/Aether](https://github.com/TQSY114514/Aether) | 5 | JavaScript | 2026-10-24 | Evidence-driven AI development workbench for model evaluation, project context, and controlled agent execution. |
+| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26366 | TypeScript | 2026-10-24 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 4 | [leijingqiu3-ops/AgentAttest](https://github.com/leijingqiu3-ops/AgentAttest) | 0 | HTML | 2026-10-24 | Deterministic acceptance audits for LLM agents: 40 cases x 7 fault modes, 4-layer assertions, trace replay, 6-class fail |
 | 5 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11980 | Python | 2026-10-24 | AI Observability & Evaluation |
 | 6 | [truera/trulens](https://github.com/truera/trulens) | 3609 | Python | 2026-10-24 | Evaluation and Tracking for LLM Experiments and AI Agents |
