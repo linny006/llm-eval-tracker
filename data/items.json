@@ -1,10 +1,28 @@
 [
   {
+    "description": "\ud83d\udee1\ufe0f Autonomous GitHub Bounty Scanner & On-Chain Escrow Verifier \u2014 Find Real Crypto/USDC/wDOOM Bounties & Filter Fake Scra",
+    "id": "doomsday-network/github-bounty-scanner",
+    "language": "Python",
+    "name": "doomsday-network/github-bounty-scanner",
+    "stars": 8,
+    "updated_at": "2026-10-24T22:35:48Z",
+    "url": "https://github.com/doomsday-network/github-bounty-scanner"
+  },
+  {
+    "description": "Zero-dependency Python CLI, GitHub Action, and MCP server scanning untrusted GitHub issues and repositories for prompt i",
+    "id": "doomsday-network/bounty-guard",
+    "language": "Python",
+    "name": "doomsday-network/bounty-guard",
+    "stars": 15,
+    "updated_at": "2026-10-24T22:35:46Z",
+    "url": "https://github.com/doomsday-network/bounty-guard"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26384,
+    "stars": 26385,
     "updated_at": "2026-10-24T22:03:43Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "judgekeeper/judgekeeper",
     "stars": 0,
-    "updated_at": "2026-10-24T21:59:39Z",
+    "updated_at": "2026-10-24T22:30:18Z",
     "url": "https://github.com/judgekeeper/judgekeeper"
   },
   {
@@ -25,24 +43,6 @@
     "stars": 367,
     "updated_at": "2026-10-24T21:51:26Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Autonomous GitHub Bounty Scanner & On-Chain Escrow Verifier \u2014 Find Real Crypto/USDC/wDOOM Bounties & Filter Fake Scra",
-    "id": "doomsday-network/github-bounty-scanner",
-    "language": "Python",
-    "name": "doomsday-network/github-bounty-scanner",
-    "stars": 8,
-    "updated_at": "2026-10-24T19:09:40Z",
-    "url": "https://github.com/doomsday-network/github-bounty-scanner"
-  },
-  {
-    "description": "Zero-dependency Python CLI, GitHub Action, and MCP server scanning untrusted GitHub issues and repositories for prompt i",
-    "id": "doomsday-network/bounty-guard",
-    "language": "Python",
-    "name": "doomsday-network/bounty-guard",
-    "stars": 15,
-    "updated_at": "2026-10-24T17:41:04Z",
-    "url": "https://github.com/doomsday-network/bounty-guard"
   },
   {
     "description": "Personal site with two interactive LLM eval harness demos",
