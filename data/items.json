@@ -5,8 +5,17 @@
     "language": "JavaScript",
     "name": "AndyZhang666666/AndyZhang666666.github.io",
     "stars": 0,
-    "updated_at": "2026-10-24T05:29:55Z",
+    "updated_at": "2026-10-24T05:42:48Z",
     "url": "https://github.com/AndyZhang666666/AndyZhang666666.github.io"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11976,
+    "updated_at": "2026-10-24T05:06:46Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -43,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-10-24T03:37:56Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11975,
-    "updated_at": "2026-10-24T05:06:46Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
