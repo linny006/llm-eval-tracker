@@ -9,6 +9,15 @@
     "url": "https://github.com/judgekeeper/judgekeeper"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26387,
+    "updated_at": "2026-10-24T23:30:19Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "\ud83d\udee1\ufe0f Autonomous GitHub Bounty Scanner & On-Chain Escrow Verifier \u2014 Find Real Crypto/USDC/wDOOM Bounties & Filter Fake Scra",
     "id": "doomsday-network/github-bounty-scanner",
     "language": "Python",
@@ -25,15 +34,6 @@
     "stars": 15,
     "updated_at": "2026-10-24T22:35:46Z",
     "url": "https://github.com/doomsday-network/bounty-guard"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26386,
-    "updated_at": "2026-10-24T23:30:19Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
