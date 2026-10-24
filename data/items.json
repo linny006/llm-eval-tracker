@@ -1,5 +1,32 @@
 [
   {
+    "description": "Personal site with two interactive LLM eval harness demos",
+    "id": "AndyZhang666666/AndyZhang666666.github.io",
+    "language": "CSS",
+    "name": "AndyZhang666666/AndyZhang666666.github.io",
+    "stars": 0,
+    "updated_at": "2026-10-24T04:11:18Z",
+    "url": "https://github.com/AndyZhang666666/AndyZhang666666.github.io"
+  },
+  {
+    "description": "\u957f\u6587\u672c LLM \u8f93\u51fa\u8bc4\u6d4b\u5de5\u5177\uff08\u7b2c\u4e8c\u7248\uff09\uff1a\u4e24\u7248 prompt \u8fde\u8dd1\u5bf9\u6bd4 + Bad Case \u5bfc\u51fa + \u9010\u5b57\u8bc1\u636e\u62bd\u53d6\uff0c\u9644 30 \u6761\u91d1\u6807\u96c6\u88c1\u5224\u6821\u9a8c",
+    "id": "AndyZhang666666/llm-output-eval",
+    "language": "TypeScript",
+    "name": "AndyZhang666666/llm-output-eval",
+    "stars": 0,
+    "updated_at": "2026-10-24T04:10:18Z",
+    "url": "https://github.com/AndyZhang666666/llm-output-eval"
+  },
+  {
+    "description": "\u516c\u544a\u6458\u8981\u7684\u65ad\u8a00\u7ea7\u4e8b\u5b9e\u6838\u67e5\u88c1\u5224\uff1a\u5e7b\u89c9\u68c0\u51fa / \u8bef\u62a5 / \u5173\u952e\u4fe1\u606f\u8986\u76d6\u4e09\u8f74\u5ea6\u91cf",
+    "id": "AndyZhang666666/filing-eval",
+    "language": "JavaScript",
+    "name": "AndyZhang666666/filing-eval",
+    "stars": 0,
+    "updated_at": "2026-10-24T04:09:59Z",
+    "url": "https://github.com/AndyZhang666666/filing-eval"
+  },
+  {
     "description": "Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu",
     "id": "ChelseaKR/fare-policy-assistant",
     "language": "HTML",
@@ -32,7 +59,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 367,
-    "updated_at": "2026-10-24T03:22:41Z",
+    "updated_at": "2026-10-24T04:09:56Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -70,24 +97,6 @@
     "stars": 3610,
     "updated_at": "2026-10-24T03:36:26Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Personal site with two interactive LLM eval harness demos",
-    "id": "AndyZhang666666/AndyZhang666666.github.io",
-    "language": "CSS",
-    "name": "AndyZhang666666/AndyZhang666666.github.io",
-    "stars": 0,
-    "updated_at": "2026-10-23T15:46:43Z",
-    "url": "https://github.com/AndyZhang666666/AndyZhang666666.github.io"
-  },
-  {
-    "description": "\u957f\u6587\u672c LLM \u8f93\u51fa\u8bc4\u6d4b\u5de5\u5177\uff08\u7b2c\u4e8c\u7248\uff09\uff1a\u4e24\u7248 prompt \u8fde\u8dd1\u5bf9\u6bd4 + Bad Case \u5bfc\u51fa + \u9010\u5b57\u8bc1\u636e\u62bd\u53d6\uff0c\u9644 30 \u6761\u91d1\u6807\u96c6\u88c1\u5224\u6821\u9a8c",
-    "id": "AndyZhang666666/llm-output-eval",
-    "language": "TypeScript",
-    "name": "AndyZhang666666/llm-output-eval",
-    "stars": 0,
-    "updated_at": "2026-10-23T15:46:42Z",
-    "url": "https://github.com/AndyZhang666666/llm-output-eval"
   },
   {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T07:03:30Z",
     "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
-    "id": "bhavya7995/AI_governance",
-    "language": "PowerShell",
-    "name": "bhavya7995/AI_governance",
-    "stars": 1,
-    "updated_at": "2026-10-14T07:02:55Z",
-    "url": "https://github.com/bhavya7995/AI_governance"
   }
 ]
