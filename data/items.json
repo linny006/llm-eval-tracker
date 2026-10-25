@@ -1,5 +1,14 @@
 [
   {
+    "description": "\u7eaf\u79ef\u5206\u5236 5 \u5f20\u70b8\u91d1\u82b1\u89c4\u5219\u5f15\u64ce + AI \u64c2\u53f0 (zero-dependency TS engine for a 5-card Zha Jin Hua variant: 10 bots, LLM seats, paired evaluati",
+    "id": "FZF525/zhajinhua-ai-arena",
+    "language": "TypeScript",
+    "name": "FZF525/zhajinhua-ai-arena",
+    "stars": 1,
+    "updated_at": "2026-10-25T03:58:20Z",
+    "url": "https://github.com/FZF525/zhajinhua-ai-arena"
+  },
+  {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
     "id": "decimal-labs/decimalai-python",
     "language": "Python",
@@ -94,7 +103,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11988,
+    "stars": 11989,
     "updated_at": "2026-10-24T16:10:22Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -430,15 +439,6 @@
     "stars": 14,
     "updated_at": "2026-10-15T15:33:57Z",
     "url": "https://github.com/NoesisVision/nasde-toolkit"
-  },
-  {
-    "description": "\u7eaf\u79ef\u5206\u5236 5 \u5f20\u70b8\u91d1\u82b1\u89c4\u5219\u5f15\u64ce + AI \u64c2\u53f0 (zero-dependency TS engine for a 5-card Zha Jin Hua variant: 10 bots, LLM seats, paired evaluati",
-    "id": "FZF525/zhajinhua-ai-arena",
-    "language": "TypeScript",
-    "name": "FZF525/zhajinhua-ai-arena",
-    "stars": 1,
-    "updated_at": "2026-10-15T14:09:53Z",
-    "url": "https://github.com/FZF525/zhajinhua-ai-arena"
   },
   {
     "description": "GPT-2 (124M) \u2192 Gemma 3-style (113M), one architecture change at a time: training, evals, analysis, inference, context ex",
