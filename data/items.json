@@ -1,11 +1,29 @@
 [
   {
+    "description": "Evidence-driven AI development workbench for model evaluation, project context, and controlled agent execution.",
+    "id": "TQSY114514/Aether",
+    "language": "JavaScript",
+    "name": "TQSY114514/Aether",
+    "stars": 5,
+    "updated_at": "2026-10-25T04:44:10Z",
+    "url": "https://github.com/TQSY114514/Aether"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 367,
+    "updated_at": "2026-10-25T04:33:04Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "\u7eaf\u79ef\u5206\u5236 5 \u5f20\u70b8\u91d1\u82b1\u89c4\u5219\u5f15\u64ce + AI \u64c2\u53f0 (zero-dependency TS engine for a 5-card Zha Jin Hua variant: 10 bots, LLM seats, paired evaluati",
     "id": "FZF525/zhajinhua-ai-arena",
     "language": "TypeScript",
     "name": "FZF525/zhajinhua-ai-arena",
     "stars": 1,
-    "updated_at": "2026-10-25T04:28:06Z",
+    "updated_at": "2026-10-25T04:32:30Z",
     "url": "https://github.com/FZF525/zhajinhua-ai-arena"
   },
   {
@@ -14,7 +32,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26392,
-    "updated_at": "2026-10-25T04:28:37Z",
+    "updated_at": "2026-10-25T04:31:28Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -43,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T04:04:40Z",
     "url": "https://github.com/judgekeeper/judgekeeper"
-  },
-  {
-    "description": "Evidence-driven AI development workbench for model evaluation, project context, and controlled agent execution.",
-    "id": "TQSY114514/Aether",
-    "language": "JavaScript",
-    "name": "TQSY114514/Aether",
-    "stars": 5,
-    "updated_at": "2026-10-25T03:03:38Z",
-    "url": "https://github.com/TQSY114514/Aether"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
@@ -88,15 +97,6 @@
     "stars": 16,
     "updated_at": "2026-10-25T00:31:11Z",
     "url": "https://github.com/doomsday-network/bounty-guard"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 367,
-    "updated_at": "2026-10-25T03:33:22Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "AI Observability & Evaluation",
