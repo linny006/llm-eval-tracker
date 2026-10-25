@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-25 13:30 UTC
+> ⏰ Last updated: 2026-10-25 13:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -52,7 +52,7 @@ expired items removed — so you can rely on what you see being current.
 | 8 | [jin2004-cmd/codex-practical-skills](https://github.com/jin2004-cmd/codex-practical-skills) | 1 | Python | 2026-10-25 | AI 实用 Skill 库 · 16 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, p |
 | 9 | [doomsday-network/github-bounty-scanner](https://github.com/doomsday-network/github-bounty-scanner) | 11 | Python | 2026-10-25 | 🛡️ Autonomous GitHub Bounty Scanner & On-Chain Escrow Verifier — Find Real Crypto/USDC/wDOOM Bounties & Filter Fake Scra |
 | 10 | [TQSY114514/Aether](https://github.com/TQSY114514/Aether) | 5 | JavaScript | 2026-10-25 | Evidence-driven AI development workbench for model evaluation, project context, and controlled agent execution. |
-| 11 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 367 | TypeScript | 2026-10-25 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 11 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 368 | TypeScript | 2026-10-25 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 12 | [FZF525/zhajinhua-ai-arena](https://github.com/FZF525/zhajinhua-ai-arena) | 1 | TypeScript | 2026-10-25 | 纯积分制 5 张炸金花规则引擎 + AI 擂台 (zero-dependency TS engine for a 5-card Zha Jin Hua variant: 10 bots, LLM seats, paired evaluati |
 | 13 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-25 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
 | 14 | [judgekeeper/judgekeeper](https://github.com/judgekeeper/judgekeeper) | 0 | Python | 2026-10-25 | Check your LLM-as-a-judge in 5 steps: Find. Mark. Measure. Fix. Re-check. |
