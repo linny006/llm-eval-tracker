@@ -1,21 +1,30 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
+    "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
+    "id": "izam-mohammed/ragrank",
     "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11995,
-    "updated_at": "2026-10-25T11:15:12Z",
-    "url": "https://github.com/Arize-ai/phoenix"
+    "name": "izam-mohammed/ragrank",
+    "stars": 47,
+    "updated_at": "2026-10-25T11:29:23Z",
+    "url": "https://github.com/izam-mohammed/ragrank"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26402,
-    "updated_at": "2026-10-25T10:56:16Z",
+    "stars": 26403,
+    "updated_at": "2026-10-25T11:15:27Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11995,
+    "updated_at": "2026-10-25T11:17:27Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -223,15 +232,6 @@
     "stars": 106,
     "updated_at": "2026-10-22T14:27:49Z",
     "url": "https://github.com/QuesmaOrg/BinaryAudit"
-  },
-  {
-    "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
-    "id": "izam-mohammed/ragrank",
-    "language": "Python",
-    "name": "izam-mohammed/ragrank",
-    "stars": 47,
-    "updated_at": "2026-10-24T00:21:58Z",
-    "url": "https://github.com/izam-mohammed/ragrank"
   },
   {
     "description": "Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old ",
