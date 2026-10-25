@@ -99,15 +99,6 @@
     "url": "https://github.com/jin2004-cmd/codex-practical-skills"
   },
   {
-    "description": "\ud83d\udee1\ufe0f Autonomous GitHub Bounty Scanner & On-Chain Escrow Verifier \u2014 Find Real Crypto/USDC/wDOOM Bounties & Filter Fake Scra",
-    "id": "doomsday-network/github-bounty-scanner",
-    "language": "Python",
-    "name": "doomsday-network/github-bounty-scanner",
-    "stars": 15,
-    "updated_at": "2026-10-25T05:34:35Z",
-    "url": "https://github.com/doomsday-network/github-bounty-scanner"
-  },
-  {
     "description": "Evidence-driven AI development workbench for model evaluation, project context, and controlled agent execution.",
     "id": "TQSY114514/Aether",
     "language": "JavaScript",
@@ -142,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-10-25T00:33:26Z",
     "url": "https://github.com/SmartStudio/baize-prompts"
-  },
-  {
-    "description": "Zero-dependency Python CLI, GitHub Action, and MCP server scanning untrusted GitHub issues and repositories for prompt i",
-    "id": "doomsday-network/bounty-guard",
-    "language": "Python",
-    "name": "doomsday-network/bounty-guard",
-    "stars": 22,
-    "updated_at": "2026-10-25T00:31:11Z",
-    "url": "https://github.com/doomsday-network/bounty-guard"
   },
   {
     "description": "Use local Large Language Models for production use cases, and perform benchmarking for task-specific performance evaluat",
@@ -448,5 +430,23 @@
     "stars": 0,
     "updated_at": "2026-10-15T05:38:34Z",
     "url": "https://github.com/Shinibali/CuriosLM"
+  },
+  {
+    "description": "Handwritten Text Recognition llm eval tool",
+    "id": "lehigh-university-libraries/htr",
+    "language": "Go",
+    "name": "lehigh-university-libraries/htr",
+    "stars": 2,
+    "updated_at": "2026-10-14T15:27:51Z",
+    "url": "https://github.com/lehigh-university-libraries/htr"
+  },
+  {
+    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
+    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "language": "\u2014",
+    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "stars": 0,
+    "updated_at": "2026-10-14T07:03:30Z",
+    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
   }
 ]
