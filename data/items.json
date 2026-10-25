@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26395,
+    "updated_at": "2026-10-25T06:57:17Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Personal site with two interactive LLM eval harness demos",
     "id": "AndyZhang666666/AndyZhang666666.github.io",
     "language": "JavaScript",
@@ -25,15 +34,6 @@
     "stars": 5,
     "updated_at": "2026-10-25T05:46:00Z",
     "url": "https://github.com/TQSY114514/Aether"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26394,
-    "updated_at": "2026-10-25T06:44:03Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
@@ -184,7 +184,7 @@
     "id": "open-compass/opencompass",
     "language": "Python",
     "name": "open-compass/opencompass",
-    "stars": 7543,
+    "stars": 7545,
     "updated_at": "2026-10-23T09:46:33Z",
     "url": "https://github.com/open-compass/opencompass"
   },
