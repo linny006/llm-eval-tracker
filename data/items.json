@@ -1,11 +1,20 @@
 [
   {
+    "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
+    "id": "izam-mohammed/ragrank",
+    "language": "Python",
+    "name": "izam-mohammed/ragrank",
+    "stars": 47,
+    "updated_at": "2026-10-25T20:09:42Z",
+    "url": "https://github.com/izam-mohammed/ragrank"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11996,
-    "updated_at": "2026-10-25T19:59:21Z",
+    "updated_at": "2026-10-25T20:05:36Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -34,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-10-25T13:59:42Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
-    "id": "izam-mohammed/ragrank",
-    "language": "Python",
-    "name": "izam-mohammed/ragrank",
-    "stars": 47,
-    "updated_at": "2026-10-25T13:54:16Z",
-    "url": "https://github.com/izam-mohammed/ragrank"
   },
   {
     "description": "Personal site with two interactive LLM eval harness demos",
