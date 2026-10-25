@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-25 17:45 UTC
+> ⏰ Last updated: 2026-10-25 18:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -52,12 +52,12 @@ expired items removed — so you can rely on what you see being current.
 | 8 | [AndyZhang666666/filing-eval](https://github.com/AndyZhang666666/filing-eval) | 0 | JavaScript | 2026-10-25 | 公告摘要的断言级事实核查裁判：幻觉检出 / 误报 / 关键信息覆盖三轴度量 |
 | 9 | [AndyZhang666666/llm-output-eval](https://github.com/AndyZhang666666/llm-output-eval) | 0 | TypeScript | 2026-10-25 | 长文本 LLM 输出评测工具（第二版）：两版 prompt 连跑对比 + Bad Case 导出 + 逐字证据抽取，附 30 条金标集裁判校验 |
 | 10 | [jin2004-cmd/codex-practical-skills](https://github.com/jin2004-cmd/codex-practical-skills) | 1 | Python | 2026-10-25 | AI 实用 Skill 库 · 16 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, p |
-| 11 | [doomsday-network/github-bounty-scanner](https://github.com/doomsday-network/github-bounty-scanner) | 11 | Python | 2026-10-25 | 🛡️ Autonomous GitHub Bounty Scanner & On-Chain Escrow Verifier — Find Real Crypto/USDC/wDOOM Bounties & Filter Fake Scra |
+| 11 | [doomsday-network/github-bounty-scanner](https://github.com/doomsday-network/github-bounty-scanner) | 12 | Python | 2026-10-25 | 🛡️ Autonomous GitHub Bounty Scanner & On-Chain Escrow Verifier — Find Real Crypto/USDC/wDOOM Bounties & Filter Fake Scra |
 | 12 | [TQSY114514/Aether](https://github.com/TQSY114514/Aether) | 5 | JavaScript | 2026-10-25 | Evidence-driven AI development workbench for model evaluation, project context, and controlled agent execution. |
 | 13 | [FZF525/zhajinhua-ai-arena](https://github.com/FZF525/zhajinhua-ai-arena) | 1 | TypeScript | 2026-10-25 | 纯积分制 5 张炸金花规则引擎 + AI 擂台 (zero-dependency TS engine for a 5-card Zha Jin Hua variant: 10 bots, LLM seats, paired evaluati |
 | 14 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 3 | Ruby | 2026-10-25 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
 | 15 | [SmartStudio/baize-prompts](https://github.com/SmartStudio/baize-prompts) | 1 | — | 2026-10-25 | 没跑过 = 不出厂。no eval, no ship. |
-| 16 | [doomsday-network/bounty-guard](https://github.com/doomsday-network/bounty-guard) | 18 | Python | 2026-10-25 | Zero-dependency Python CLI, GitHub Action, and MCP server scanning untrusted GitHub issues and repositories for prompt i |
+| 16 | [doomsday-network/bounty-guard](https://github.com/doomsday-network/bounty-guard) | 19 | Python | 2026-10-25 | Zero-dependency Python CLI, GitHub Action, and MCP server scanning untrusted GitHub issues and repositories for prompt i |
 | 17 | [truera/trulens](https://github.com/truera/trulens) | 3610 | Python | 2026-10-25 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 18 | [leijingqiu3-ops/AgentAttest](https://github.com/leijingqiu3-ops/AgentAttest) | 0 | HTML | 2026-10-24 | Deterministic acceptance audits for LLM agents: 40 cases x 7 fault modes, 4-layer assertions, trace replay, 6-class fail |
 | 19 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-10-24 | Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu |
