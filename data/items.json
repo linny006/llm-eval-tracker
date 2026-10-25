@@ -1,12 +1,12 @@
 [
   {
-    "description": "AI \u5b9e\u7528 Skill \u5e93 \u00b7 16 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, p",
-    "id": "jin2004-cmd/codex-practical-skills",
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
     "language": "Python",
-    "name": "jin2004-cmd/codex-practical-skills",
-    "stars": 1,
-    "updated_at": "2026-10-25T07:05:33Z",
-    "url": "https://github.com/jin2004-cmd/codex-practical-skills"
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5920,
+    "updated_at": "2026-10-25T07:29:20Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -14,8 +14,26 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26395,
-    "updated_at": "2026-10-25T07:01:05Z",
+    "updated_at": "2026-10-25T07:24:30Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\u957f\u6587\u672c LLM \u8f93\u51fa\u8bc4\u6d4b\u5de5\u5177\uff08\u7b2c\u4e8c\u7248\uff09\uff1a\u4e24\u7248 prompt \u8fde\u8dd1\u5bf9\u6bd4 + Bad Case \u5bfc\u51fa + \u9010\u5b57\u8bc1\u636e\u62bd\u53d6\uff0c\u9644 30 \u6761\u91d1\u6807\u96c6\u88c1\u5224\u6821\u9a8c",
+    "id": "AndyZhang666666/llm-output-eval",
+    "language": "TypeScript",
+    "name": "AndyZhang666666/llm-output-eval",
+    "stars": 0,
+    "updated_at": "2026-10-25T07:21:40Z",
+    "url": "https://github.com/AndyZhang666666/llm-output-eval"
+  },
+  {
+    "description": "AI \u5b9e\u7528 Skill \u5e93 \u00b7 16 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, p",
+    "id": "jin2004-cmd/codex-practical-skills",
+    "language": "Python",
+    "name": "jin2004-cmd/codex-practical-skills",
+    "stars": 1,
+    "updated_at": "2026-10-25T07:05:33Z",
+    "url": "https://github.com/jin2004-cmd/codex-practical-skills"
   },
   {
     "description": "Personal site with two interactive LLM eval harness demos",
@@ -126,15 +144,6 @@
     "url": "https://github.com/leijingqiu3-ops/AgentAttest"
   },
   {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5920,
-    "updated_at": "2026-10-24T05:52:18Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
@@ -142,15 +151,6 @@
     "stars": 3609,
     "updated_at": "2026-10-24T14:56:19Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "\u957f\u6587\u672c LLM \u8f93\u51fa\u8bc4\u6d4b\u5de5\u5177\uff08\u7b2c\u4e8c\u7248\uff09\uff1a\u4e24\u7248 prompt \u8fde\u8dd1\u5bf9\u6bd4 + Bad Case \u5bfc\u51fa + \u9010\u5b57\u8bc1\u636e\u62bd\u53d6\uff0c\u9644 30 \u6761\u91d1\u6807\u96c6\u88c1\u5224\u6821\u9a8c",
-    "id": "AndyZhang666666/llm-output-eval",
-    "language": "TypeScript",
-    "name": "AndyZhang666666/llm-output-eval",
-    "stars": 0,
-    "updated_at": "2026-10-24T04:10:18Z",
-    "url": "https://github.com/AndyZhang666666/llm-output-eval"
   },
   {
     "description": "\u516c\u544a\u6458\u8981\u7684\u65ad\u8a00\u7ea7\u4e8b\u5b9e\u6838\u67e5\u88c1\u5224\uff1a\u5e7b\u89c9\u68c0\u51fa / \u8bef\u62a5 / \u5173\u952e\u4fe1\u606f\u8986\u76d6\u4e09\u8f74\u5ea6\u91cf",
