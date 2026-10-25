@@ -1,5 +1,14 @@
 [
   {
+    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
+    "id": "judgekeeper/judgekeeper",
+    "language": "Python",
+    "name": "judgekeeper/judgekeeper",
+    "stars": 0,
+    "updated_at": "2026-10-25T02:25:01Z",
+    "url": "https://github.com/judgekeeper/judgekeeper"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -18,15 +27,6 @@
     "url": "https://github.com/homemade-software-inc/completion-kit"
   },
   {
-    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
-    "id": "judgekeeper/judgekeeper",
-    "language": "Python",
-    "name": "judgekeeper/judgekeeper",
-    "stars": 0,
-    "updated_at": "2026-10-25T01:46:08Z",
-    "url": "https://github.com/judgekeeper/judgekeeper"
-  },
-  {
     "description": "\u6ca1\u8dd1\u8fc7 = \u4e0d\u51fa\u5382\u3002no eval, no ship.",
     "id": "SmartStudio/baize-prompts",
     "language": "\u2014",
@@ -40,7 +40,7 @@
     "id": "doomsday-network/github-bounty-scanner",
     "language": "Python",
     "name": "doomsday-network/github-bounty-scanner",
-    "stars": 8,
+    "stars": 9,
     "updated_at": "2026-10-25T00:31:13Z",
     "url": "https://github.com/doomsday-network/github-bounty-scanner"
   },
@@ -49,7 +49,7 @@
     "id": "doomsday-network/bounty-guard",
     "language": "Python",
     "name": "doomsday-network/bounty-guard",
-    "stars": 15,
+    "stars": 16,
     "updated_at": "2026-10-25T00:31:11Z",
     "url": "https://github.com/doomsday-network/bounty-guard"
   },
@@ -59,7 +59,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 367,
-    "updated_at": "2026-10-24T21:51:26Z",
+    "updated_at": "2026-10-25T02:15:22Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
