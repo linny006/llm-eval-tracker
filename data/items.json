@@ -1,11 +1,29 @@
 [
   {
+    "description": "Personal site with two interactive LLM eval harness demos",
+    "id": "AndyZhang666666/AndyZhang666666.github.io",
+    "language": "JavaScript",
+    "name": "AndyZhang666666/AndyZhang666666.github.io",
+    "stars": 0,
+    "updated_at": "2026-10-25T07:40:23Z",
+    "url": "https://github.com/AndyZhang666666/AndyZhang666666.github.io"
+  },
+  {
+    "description": "\u516c\u544a\u6458\u8981\u7684\u65ad\u8a00\u7ea7\u4e8b\u5b9e\u6838\u67e5\u88c1\u5224\uff1a\u5e7b\u89c9\u68c0\u51fa / \u8bef\u62a5 / \u5173\u952e\u4fe1\u606f\u8986\u76d6\u4e09\u8f74\u5ea6\u91cf",
+    "id": "AndyZhang666666/filing-eval",
+    "language": "JavaScript",
+    "name": "AndyZhang666666/filing-eval",
+    "stars": 0,
+    "updated_at": "2026-10-25T07:34:51Z",
+    "url": "https://github.com/AndyZhang666666/filing-eval"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5920,
-    "updated_at": "2026-10-25T07:29:20Z",
+    "updated_at": "2026-10-25T07:44:35Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -36,15 +54,6 @@
     "url": "https://github.com/jin2004-cmd/codex-practical-skills"
   },
   {
-    "description": "Personal site with two interactive LLM eval harness demos",
-    "id": "AndyZhang666666/AndyZhang666666.github.io",
-    "language": "JavaScript",
-    "name": "AndyZhang666666/AndyZhang666666.github.io",
-    "stars": 0,
-    "updated_at": "2026-10-25T06:37:33Z",
-    "url": "https://github.com/AndyZhang666666/AndyZhang666666.github.io"
-  },
-  {
     "description": "\ud83d\udee1\ufe0f Autonomous GitHub Bounty Scanner & On-Chain Escrow Verifier \u2014 Find Real Crypto/USDC/wDOOM Bounties & Filter Fake Scra",
     "id": "doomsday-network/github-bounty-scanner",
     "language": "Python",
@@ -59,7 +68,7 @@
     "language": "JavaScript",
     "name": "TQSY114514/Aether",
     "stars": 5,
-    "updated_at": "2026-10-25T07:08:06Z",
+    "updated_at": "2026-10-25T07:38:42Z",
     "url": "https://github.com/TQSY114514/Aether"
   },
   {
@@ -151,15 +160,6 @@
     "stars": 3609,
     "updated_at": "2026-10-24T14:56:19Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "\u516c\u544a\u6458\u8981\u7684\u65ad\u8a00\u7ea7\u4e8b\u5b9e\u6838\u67e5\u88c1\u5224\uff1a\u5e7b\u89c9\u68c0\u51fa / \u8bef\u62a5 / \u5173\u952e\u4fe1\u606f\u8986\u76d6\u4e09\u8f74\u5ea6\u91cf",
-    "id": "AndyZhang666666/filing-eval",
-    "language": "JavaScript",
-    "name": "AndyZhang666666/filing-eval",
-    "stars": 0,
-    "updated_at": "2026-10-24T04:09:59Z",
-    "url": "https://github.com/AndyZhang666666/filing-eval"
   },
   {
     "description": "Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu",
