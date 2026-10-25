@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-25 05:00 UTC
+> ⏰ Last updated: 2026-10-25 05:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,7 +42,7 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26392 | TypeScript | 2026-10-25 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26393 | TypeScript | 2026-10-25 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 2 | [TQSY114514/Aether](https://github.com/TQSY114514/Aether) | 5 | JavaScript | 2026-10-25 | Evidence-driven AI development workbench for model evaluation, project context, and controlled agent execution. |
 | 3 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 367 | TypeScript | 2026-10-25 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 4 | [FZF525/zhajinhua-ai-arena](https://github.com/FZF525/zhajinhua-ai-arena) | 1 | TypeScript | 2026-10-25 | 纯积分制 5 张炸金花规则引擎 + AI 擂台 (zero-dependency TS engine for a 5-card Zha Jin Hua variant: 10 bots, LLM seats, paired evaluati |
@@ -53,7 +53,7 @@ expired items removed — so you can rely on what you see being current.
 | 9 | [SmartStudio/baize-prompts](https://github.com/SmartStudio/baize-prompts) | 1 | — | 2026-10-25 | 没跑过 = 不出厂。no eval, no ship. |
 | 10 | [doomsday-network/github-bounty-scanner](https://github.com/doomsday-network/github-bounty-scanner) | 10 | Python | 2026-10-25 | 🛡️ Autonomous GitHub Bounty Scanner & On-Chain Escrow Verifier — Find Real Crypto/USDC/wDOOM Bounties & Filter Fake Scra |
 | 11 | [doomsday-network/bounty-guard](https://github.com/doomsday-network/bounty-guard) | 16 | Python | 2026-10-25 | Zero-dependency Python CLI, GitHub Action, and MCP server scanning untrusted GitHub issues and repositories for prompt i |
-| 12 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11989 | Python | 2026-10-24 | AI Observability & Evaluation |
+| 12 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11990 | Python | 2026-10-24 | AI Observability & Evaluation |
 | 13 | [leijingqiu3-ops/AgentAttest](https://github.com/leijingqiu3-ops/AgentAttest) | 0 | HTML | 2026-10-24 | Deterministic acceptance audits for LLM agents: 40 cases x 7 fault modes, 4-layer assertions, trace replay, 6-class fail |
 | 14 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5920 | Python | 2026-10-24 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 15 | [truera/trulens](https://github.com/truera/trulens) | 3609 | Python | 2026-10-24 | Evaluation and Tracking for LLM Experiments and AI Agents |
