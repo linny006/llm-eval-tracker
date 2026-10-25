@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-25 12:30 UTC
+> ⏰ Last updated: 2026-10-25 12:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,8 +42,8 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [AndyZhang666666/AndyZhang666666.github.io](https://github.com/AndyZhang666666/AndyZhang666666.github.io) | 0 | JavaScript | 2026-10-25 | Personal site with two interactive LLM eval harness demos |
-| 2 | [izam-mohammed/ragrank](https://github.com/izam-mohammed/ragrank) | 47 | Python | 2026-10-25 | 🎯 Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an |
+| 1 | [izam-mohammed/ragrank](https://github.com/izam-mohammed/ragrank) | 47 | Python | 2026-10-25 | 🎯 Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an |
+| 2 | [AndyZhang666666/AndyZhang666666.github.io](https://github.com/AndyZhang666666/AndyZhang666666.github.io) | 0 | JavaScript | 2026-10-25 | Personal site with two interactive LLM eval harness demos |
 | 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26404 | TypeScript | 2026-10-25 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11995 | Python | 2026-10-25 | AI Observability & Evaluation |
 | 5 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5921 | Python | 2026-10-25 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
