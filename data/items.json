@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11998,
+    "updated_at": "2026-10-25T21:03:41Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
     "id": "izam-mohammed/ragrank",
     "language": "Python",
@@ -9,20 +18,11 @@
     "url": "https://github.com/izam-mohammed/ragrank"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11997,
-    "updated_at": "2026-10-25T20:05:36Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26417,
+    "stars": 26418,
     "updated_at": "2026-10-25T17:32:59Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -34,6 +34,15 @@
     "stars": 368,
     "updated_at": "2026-10-25T17:16:50Z",
     "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3611,
+    "updated_at": "2026-10-25T14:26:21Z",
+    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -153,15 +162,6 @@
     "url": "https://github.com/ajmeese7/local-llms"
   },
   {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3610,
-    "updated_at": "2026-10-25T14:26:21Z",
-    "url": "https://github.com/truera/trulens"
-  },
-  {
     "description": "Deterministic acceptance audits for LLM agents: 40 cases x 7 fault modes, 4-layer assertions, trace replay, 6-class fail",
     "id": "leijingqiu3-ops/AgentAttest",
     "language": "HTML",
@@ -202,7 +202,7 @@
     "id": "open-compass/opencompass",
     "language": "Python",
     "name": "open-compass/opencompass",
-    "stars": 7545,
+    "stars": 7546,
     "updated_at": "2026-10-23T09:46:33Z",
     "url": "https://github.com/open-compass/opencompass"
   },
