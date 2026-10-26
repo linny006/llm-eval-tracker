@@ -23,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 12011,
-    "updated_at": "2026-10-26T16:10:06Z",
+    "updated_at": "2026-10-26T16:44:25Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -351,15 +351,6 @@
     "url": "https://github.com/senguptashubham/judge-calibration"
   },
   {
-    "description": "Curated list of benchmarks and rankings of models, agents and other AI-things.",
-    "id": "lorien/awesome-ai-benchmarks",
-    "language": "\u2014",
-    "name": "lorien/awesome-ai-benchmarks",
-    "stars": 1,
-    "updated_at": "2026-10-17T19:38:51Z",
-    "url": "https://github.com/lorien/awesome-ai-benchmarks"
-  },
-  {
     "description": "Calibrated LLM-as-a-judge pipeline: rubric, human gold set, frozen splits, bootstrap TPR/TNR/agreement/kappa, bias probe",
     "id": "nagadevi-naradasu/llm_as_judge_calibration_pipeline",
     "language": "Python",
@@ -448,5 +439,14 @@
     "stars": 0,
     "updated_at": "2026-10-14T07:03:30Z",
     "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
+  },
+  {
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-10-14T07:02:55Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
   }
 ]

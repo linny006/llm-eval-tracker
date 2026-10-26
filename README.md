@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-26 16:30 UTC
+> ⏰ Last updated: 2026-10-26 16:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -81,17 +81,17 @@ expired items removed — so you can rely on what you see being current.
 | 37 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 3 | TypeScript | 2026-10-19 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 38 | [pdxlab/trustmodel-mcp-server](https://github.com/pdxlab/trustmodel-mcp-server) | 0 | TypeScript | 2026-10-21 | TrustModel MCP Server — trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t |
 | 39 | [senguptashubham/judge-calibration](https://github.com/senguptashubham/judge-calibration) | 3 | Python | 2026-10-19 | Do LLM judges know when they're wrong? Three open-weight judges (Qwen2.5-7B, kev-8b, auto-j-13b) graded against MT-Bench |
-| 40 | [lorien/awesome-ai-benchmarks](https://github.com/lorien/awesome-ai-benchmarks) | 1 | — | 2026-10-17 | Curated list of benchmarks and rankings of models, agents and other AI-things. |
-| 41 | [nagadevi-naradasu/llm_as_judge_calibration_pipeline](https://github.com/nagadevi-naradasu/llm_as_judge_calibration_pipeline) | 0 | Python | 2026-10-17 | Calibrated LLM-as-a-judge pipeline: rubric, human gold set, frozen splits, bootstrap TPR/TNR/agreement/kappa, bias probe |
-| 42 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-10-17 | pip install gauntlet-evals · v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against |
-| 43 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-10-21 | v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic |
-| 44 | [homayoun-safarpour/homayoun-safarpour](https://github.com/homayoun-safarpour/homayoun-safarpour) | 0 | — | 2026-10-17 | judge-drift-sentinel · judge-reliability-kit · agent-loop-engine · trace-gate · ai-eng-skill-range |
-| 45 | [AkashB98/agent-eval-dashboard](https://github.com/AkashB98/agent-eval-dashboard) | 0 | Python | 2026-10-16 | Mission-control dashboard aggregating agent-eval signals — eval scores, red-team results, cost and latency in one view.  |
-| 46 | [ManavPratapSingh/RAG-Stress](https://github.com/ManavPratapSingh/RAG-Stress) | 0 | Python | 2026-10-15 | A deterministic evaluation harness stress-testing RAG pipelines against controlled distractors, contradictions, and posi |
-| 47 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 14 | Python | 2026-10-15 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
-| 48 | [Shinibali/CuriosLM](https://github.com/Shinibali/CuriosLM) | 0 | Python | 2026-10-15 | GPT-2 (124M) → Gemma 3-style (113M), one architecture change at a time: training, evals, analysis, inference, context ex |
-| 49 | [lehigh-university-libraries/htr](https://github.com/lehigh-university-libraries/htr) | 2 | Go | 2026-10-14 | Handwritten Text Recognition llm eval tool |
-| 50 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-10-14 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
+| 40 | [nagadevi-naradasu/llm_as_judge_calibration_pipeline](https://github.com/nagadevi-naradasu/llm_as_judge_calibration_pipeline) | 0 | Python | 2026-10-17 | Calibrated LLM-as-a-judge pipeline: rubric, human gold set, frozen splits, bootstrap TPR/TNR/agreement/kappa, bias probe |
+| 41 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-10-17 | pip install gauntlet-evals · v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against |
+| 42 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-10-21 | v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic |
+| 43 | [homayoun-safarpour/homayoun-safarpour](https://github.com/homayoun-safarpour/homayoun-safarpour) | 0 | — | 2026-10-17 | judge-drift-sentinel · judge-reliability-kit · agent-loop-engine · trace-gate · ai-eng-skill-range |
+| 44 | [AkashB98/agent-eval-dashboard](https://github.com/AkashB98/agent-eval-dashboard) | 0 | Python | 2026-10-16 | Mission-control dashboard aggregating agent-eval signals — eval scores, red-team results, cost and latency in one view.  |
+| 45 | [ManavPratapSingh/RAG-Stress](https://github.com/ManavPratapSingh/RAG-Stress) | 0 | Python | 2026-10-15 | A deterministic evaluation harness stress-testing RAG pipelines against controlled distractors, contradictions, and posi |
+| 46 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 14 | Python | 2026-10-15 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
+| 47 | [Shinibali/CuriosLM](https://github.com/Shinibali/CuriosLM) | 0 | Python | 2026-10-15 | GPT-2 (124M) → Gemma 3-style (113M), one architecture change at a time: training, evals, analysis, inference, context ex |
+| 48 | [lehigh-university-libraries/htr](https://github.com/lehigh-university-libraries/htr) | 2 | Go | 2026-10-14 | Handwritten Text Recognition llm eval tool |
+| 49 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-10-14 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
+| 50 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-10-14 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
 <!-- TRACKER_TABLE_END -->
 
 ---
