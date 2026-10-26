@@ -1,5 +1,14 @@
 [
   {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-26T11:50:50Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -16,15 +25,6 @@
     "stars": 7548,
     "updated_at": "2026-10-26T09:24:29Z",
     "url": "https://github.com/open-compass/opencompass"
-  },
-  {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-26T08:45:26Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "AI Observability & Evaluation",
