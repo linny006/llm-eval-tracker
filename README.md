@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-26 06:00 UTC
+> ⏰ Last updated: 2026-10-26 06:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,7 +42,7 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26430 | TypeScript | 2026-10-26 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26431 | TypeScript | 2026-10-26 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 2 | [jin2004-cmd/codex-practical-skills](https://github.com/jin2004-cmd/codex-practical-skills) | 1 | Python | 2026-10-26 | AI 实用 Skill 库 · 16 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, p |
 | 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 12005 | Python | 2026-10-25 | AI Observability & Evaluation |
 | 4 | [izam-mohammed/ragrank](https://github.com/izam-mohammed/ragrank) | 47 | Python | 2026-10-26 | 🎯 Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an |
@@ -62,7 +62,7 @@ expired items removed — so you can rely on what you see being current.
 | 18 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-10-24 | Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu |
 | 19 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-10-23 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
 | 20 | [yukincom/llm-SugarScape](https://github.com/yukincom/llm-SugarScape) | 7 | Python | 2026-10-23 | Multi-agent simulation using LLMs. Agents autonomously decide actions for survival, reproduction, and social behavior in |
-| 21 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7550 | Python | 2026-10-23 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
+| 21 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7549 | Python | 2026-10-23 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
 | 22 | [Sushant-Dagar/agent-eval-harness](https://github.com/Sushant-Dagar/agent-eval-harness) | 0 | Python | 2026-10-23 | CI-integrated eval harness for LLM agents — intent accuracy, retrieval precision/recall/MRR, and hallucination detection |
 | 23 | [ramenprotokol/hallucination-hunter](https://github.com/ramenprotokol/hallucination-hunter) | 0 | Python | 2026-10-23 | Detect & score LLM hallucinations by groundedness — labeled data, precision/recall/F1, runs offline with no API key. Plu |
 | 24 | [QuesmaOrg/BinaryAudit](https://github.com/QuesmaOrg/BinaryAudit) | 106 | Shell | 2026-10-22 | An open-source benchmark for evaluating AI agents' ability to find backdoors hidden in compiled binaries. |
