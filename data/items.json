@@ -1,21 +1,21 @@
 [
   {
-    "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
-    "id": "IcodeNet/eval-dashboards",
-    "language": "TypeScript",
-    "name": "IcodeNet/eval-dashboards",
-    "stars": 1,
-    "updated_at": "2026-10-26T07:04:46Z",
-    "url": "https://github.com/IcodeNet/eval-dashboards"
-  },
-  {
     "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
     "id": "open-compass/opencompass",
     "language": "Python",
     "name": "open-compass/opencompass",
     "stars": 7550,
-    "updated_at": "2026-10-26T07:01:43Z",
+    "updated_at": "2026-10-26T07:33:11Z",
     "url": "https://github.com/open-compass/opencompass"
+  },
+  {
+    "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
+    "id": "IcodeNet/eval-dashboards",
+    "language": "TypeScript",
+    "name": "IcodeNet/eval-dashboards",
+    "stars": 1,
+    "updated_at": "2026-10-26T07:40:23Z",
+    "url": "https://github.com/IcodeNet/eval-dashboards"
   },
   {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -31,7 +31,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26438,
+    "stars": 26439,
     "updated_at": "2026-10-26T04:44:12Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -59,7 +59,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 12005,
-    "updated_at": "2026-10-25T21:03:41Z",
+    "updated_at": "2026-10-26T07:43:58Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
