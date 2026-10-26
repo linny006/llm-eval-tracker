@@ -1,5 +1,23 @@
 [
   {
+    "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
+    "id": "IcodeNet/eval-dashboards",
+    "language": "TypeScript",
+    "name": "IcodeNet/eval-dashboards",
+    "stars": 1,
+    "updated_at": "2026-10-26T07:04:46Z",
+    "url": "https://github.com/IcodeNet/eval-dashboards"
+  },
+  {
+    "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
+    "id": "open-compass/opencompass",
+    "language": "Python",
+    "name": "open-compass/opencompass",
+    "stars": 7550,
+    "updated_at": "2026-10-26T07:01:43Z",
+    "url": "https://github.com/open-compass/opencompass"
+  },
+  {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
     "id": "decimal-labs/decimalai-python",
     "language": "Python",
@@ -13,7 +31,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26434,
+    "stars": 26436,
     "updated_at": "2026-10-26T04:44:12Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -180,15 +198,6 @@
     "url": "https://github.com/yukincom/llm-SugarScape"
   },
   {
-    "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
-    "id": "open-compass/opencompass",
-    "language": "Python",
-    "name": "open-compass/opencompass",
-    "stars": 7549,
-    "updated_at": "2026-10-23T09:46:33Z",
-    "url": "https://github.com/open-compass/opencompass"
-  },
-  {
     "description": "CI-integrated eval harness for LLM agents \u2014 intent accuracy, retrieval precision/recall/MRR, and hallucination detection",
     "id": "Sushant-Dagar/agent-eval-harness",
     "language": "Python",
@@ -313,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T21:15:10Z",
     "url": "https://github.com/AkashB98/llm-judge-calibration"
-  },
-  {
-    "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
-    "id": "IcodeNet/eval-dashboards",
-    "language": "TypeScript",
-    "name": "IcodeNet/eval-dashboards",
-    "stars": 1,
-    "updated_at": "2026-10-26T02:40:30Z",
-    "url": "https://github.com/IcodeNet/eval-dashboards"
   },
   {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
