@@ -1,5 +1,14 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 368,
+    "updated_at": "2026-10-26T17:40:23Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
@@ -88,15 +97,6 @@
     "stars": 47,
     "updated_at": "2026-10-26T03:43:25Z",
     "url": "https://github.com/izam-mohammed/ragrank"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 368,
-    "updated_at": "2026-10-26T17:28:49Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Personal site with two interactive LLM eval harness demos",
