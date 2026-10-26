@@ -1,5 +1,14 @@
 [
   {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-26T14:49:23Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
@@ -14,17 +23,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 12010,
-    "updated_at": "2026-10-26T14:05:06Z",
+    "updated_at": "2026-10-26T14:55:08Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-26T13:58:15Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -86,7 +86,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 368,
-    "updated_at": "2026-10-26T08:57:28Z",
+    "updated_at": "2026-10-26T14:54:37Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
