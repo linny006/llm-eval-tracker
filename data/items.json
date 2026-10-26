@@ -4,9 +4,18 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26427,
-    "updated_at": "2026-10-26T03:35:57Z",
+    "stars": 26428,
+    "updated_at": "2026-10-26T03:54:35Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI \u5b9e\u7528 Skill \u5e93 \u00b7 16 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, p",
+    "id": "jin2004-cmd/codex-practical-skills",
+    "language": "Python",
+    "name": "jin2004-cmd/codex-practical-skills",
+    "stars": 1,
+    "updated_at": "2026-10-26T03:52:30Z",
+    "url": "https://github.com/jin2004-cmd/codex-practical-skills"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -88,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T07:21:40Z",
     "url": "https://github.com/AndyZhang666666/llm-output-eval"
-  },
-  {
-    "description": "AI \u5b9e\u7528 Skill \u5e93 \u00b7 16 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, p",
-    "id": "jin2004-cmd/codex-practical-skills",
-    "language": "Python",
-    "name": "jin2004-cmd/codex-practical-skills",
-    "stars": 1,
-    "updated_at": "2026-10-25T07:05:33Z",
-    "url": "https://github.com/jin2004-cmd/codex-practical-skills"
   },
   {
     "description": "Evidence-driven AI development workbench for model evaluation, project context, and controlled agent execution.",
