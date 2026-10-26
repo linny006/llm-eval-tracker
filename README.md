@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-26 15:00 UTC
+> ⏰ Last updated: 2026-10-26 15:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-26 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
-| 2 | [truera/trulens](https://github.com/truera/trulens) | 3612 | Python | 2026-10-26 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 1 | [truera/trulens](https://github.com/truera/trulens) | 3612 | Python | 2026-10-26 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 2 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-26 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
 | 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 12010 | Python | 2026-10-26 | AI Observability & Evaluation |
-| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26453 | TypeScript | 2026-10-26 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26454 | TypeScript | 2026-10-26 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 5 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7549 | Python | 2026-10-26 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
 | 6 | [IcodeNet/eval-dashboards](https://github.com/IcodeNet/eval-dashboards) | 1 | TypeScript | 2026-10-26 | Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style — bring y |
 | 7 | [jin2004-cmd/codex-practical-skills](https://github.com/jin2004-cmd/codex-practical-skills) | 1 | Python | 2026-10-26 | AI 实用 Skill 库 · 16 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, p |
@@ -72,7 +72,7 @@ expired items removed — so you can rely on what you see being current.
 | 28 | [Lilim-ing/agent-evalkit](https://github.com/Lilim-ing/agent-evalkit) | 0 | Python | 2026-10-21 | Agent 评测与回归工具包：trace-first 断言、bootstrap CI、flaky 检测、judge 校准 |
 | 29 | [dylanma8232-art/daming-skillgain](https://github.com/dylanma8232-art/daming-skillgain) | 0 | Python | 2026-10-21 | 你的 Skill 到底有没有用？跑一次就知道——用真实任务做对照测试，看它在每个模型上是帮忙还是拖后腿。 \| Measure whether a skill actually helps, per model, via paired wit |
 | 30 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-10-22 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
-| 31 | [sammyjdev/gnomon-eval](https://github.com/sammyjdev/gnomon-eval) | 0 | Python | 2026-10-20 | Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first. |
+| 31 | [sammyjdev/gnomon-eval](https://github.com/sammyjdev/gnomon-eval) | 0 | Python | 2026-10-26 | Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first. |
 | 32 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 28 | TypeScript | 2026-10-20 | Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct |
 | 33 | [sunxin-ai/dsh-design-qa](https://github.com/sunxin-ai/dsh-design-qa) | 44 | JavaScript | 2026-10-20 | Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches  |
 | 34 | [damonphilipross/guidance-eval](https://github.com/damonphilipross/guidance-eval) | 0 | Python | 2026-10-20 | ASX guidance direction eval: model labels vs arithmetic |

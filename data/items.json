@@ -1,5 +1,14 @@
 [
   {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3612,
+    "updated_at": "2026-10-26T15:07:27Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
     "id": "decimal-labs/decimalai-python",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 1,
     "updated_at": "2026-10-26T14:49:23Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3612,
-    "updated_at": "2026-10-26T14:40:24Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -31,7 +31,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26453,
+    "stars": 26454,
     "updated_at": "2026-10-26T11:19:23Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -68,7 +68,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5923,
-    "updated_at": "2026-10-26T13:48:31Z",
+    "updated_at": "2026-10-26T15:13:46Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -275,7 +275,7 @@
     "language": "Python",
     "name": "sammyjdev/gnomon-eval",
     "stars": 0,
-    "updated_at": "2026-10-20T18:50:52Z",
+    "updated_at": "2026-10-26T15:10:38Z",
     "url": "https://github.com/sammyjdev/gnomon-eval"
   },
   {
