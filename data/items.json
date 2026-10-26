@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3612,
-    "updated_at": "2026-10-26T15:07:27Z",
+    "updated_at": "2026-10-26T15:23:45Z",
     "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 12011,
+    "updated_at": "2026-10-26T14:55:08Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -16,15 +25,6 @@
     "stars": 1,
     "updated_at": "2026-10-26T14:49:23Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 12010,
-    "updated_at": "2026-10-26T14:55:08Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
