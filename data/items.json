@@ -1,11 +1,20 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 12014,
+    "updated_at": "2026-10-26T18:37:38Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26458,
-    "updated_at": "2026-10-26T18:29:47Z",
+    "stars": 26459,
+    "updated_at": "2026-10-26T18:34:30Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 368,
-    "updated_at": "2026-10-26T18:05:45Z",
+    "updated_at": "2026-10-26T18:31:28Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -25,15 +34,6 @@
     "stars": 3612,
     "updated_at": "2026-10-26T17:24:56Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 12012,
-    "updated_at": "2026-10-26T18:03:44Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
