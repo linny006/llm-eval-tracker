@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-26 08:15 UTC
+> ⏰ Last updated: 2026-10-26 08:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,8 +42,8 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-26 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
-| 2 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7550 | Python | 2026-10-26 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
+| 1 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7550 | Python | 2026-10-26 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
+| 2 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-26 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
 | 3 | [IcodeNet/eval-dashboards](https://github.com/IcodeNet/eval-dashboards) | 1 | TypeScript | 2026-10-26 | Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style — bring y |
 | 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26443 | TypeScript | 2026-10-26 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 5 | [jin2004-cmd/codex-practical-skills](https://github.com/jin2004-cmd/codex-practical-skills) | 1 | Python | 2026-10-26 | AI 实用 Skill 库 · 16 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, p |
@@ -51,7 +51,7 @@ expired items removed — so you can rely on what you see being current.
 | 7 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 12005 | Python | 2026-10-26 | AI Observability & Evaluation |
 | 8 | [izam-mohammed/ragrank](https://github.com/izam-mohammed/ragrank) | 47 | Python | 2026-10-26 | 🎯 Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an |
 | 9 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 368 | TypeScript | 2026-10-26 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 10 | [truera/trulens](https://github.com/truera/trulens) | 3611 | Python | 2026-10-25 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 10 | [truera/trulens](https://github.com/truera/trulens) | 3612 | Python | 2026-10-25 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 11 | [AndyZhang666666/AndyZhang666666.github.io](https://github.com/AndyZhang666666/AndyZhang666666.github.io) | 0 | JavaScript | 2026-10-25 | Personal site with two interactive LLM eval harness demos |
 | 12 | [AndyZhang666666/filing-eval](https://github.com/AndyZhang666666/filing-eval) | 0 | JavaScript | 2026-10-25 | 公告摘要的断言级事实核查裁判：幻觉检出 / 误报 / 关键信息覆盖三轴度量 |
 | 13 | [AndyZhang666666/llm-output-eval](https://github.com/AndyZhang666666/llm-output-eval) | 0 | TypeScript | 2026-10-25 | 长文本 LLM 输出评测工具（第二版）：两版 prompt 连跑对比 + Bad Case 导出 + 逐字证据抽取，附 30 条金标集裁判校验 |

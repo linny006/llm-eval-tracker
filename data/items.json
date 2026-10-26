@@ -1,5 +1,14 @@
 [
   {
+    "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
+    "id": "open-compass/opencompass",
+    "language": "Python",
+    "name": "open-compass/opencompass",
+    "stars": 7550,
+    "updated_at": "2026-10-26T08:24:57Z",
+    "url": "https://github.com/open-compass/opencompass"
+  },
+  {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
     "id": "decimal-labs/decimalai-python",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 1,
     "updated_at": "2026-10-26T08:13:16Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
-    "id": "open-compass/opencompass",
-    "language": "Python",
-    "name": "open-compass/opencompass",
-    "stars": 7550,
-    "updated_at": "2026-10-26T08:00:07Z",
-    "url": "https://github.com/open-compass/opencompass"
   },
   {
     "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
@@ -85,7 +85,7 @@
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3611,
+    "stars": 3612,
     "updated_at": "2026-10-25T14:26:21Z",
     "url": "https://github.com/truera/trulens"
   },
