@@ -4,9 +4,18 @@
     "id": "open-compass/opencompass",
     "language": "Python",
     "name": "open-compass/opencompass",
-    "stars": 7549,
+    "stars": 7548,
     "updated_at": "2026-10-26T09:24:29Z",
     "url": "https://github.com/open-compass/opencompass"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26447,
+    "updated_at": "2026-10-26T09:00:10Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -34,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-10-26T07:40:23Z",
     "url": "https://github.com/IcodeNet/eval-dashboards"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26446,
-    "updated_at": "2026-10-26T09:00:10Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AI \u5b9e\u7528 Skill \u5e93 \u00b7 16 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, p",
