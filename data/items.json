@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "open-compass/opencompass",
     "stars": 7550,
-    "updated_at": "2026-10-26T08:24:57Z",
+    "updated_at": "2026-10-26T08:44:54Z",
     "url": "https://github.com/open-compass/opencompass"
   },
   {
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-10-26T08:13:16Z",
+    "updated_at": "2026-10-26T08:39:55Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 12006,
+    "updated_at": "2026-10-26T07:47:19Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
@@ -31,7 +40,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26443,
+    "stars": 26446,
     "updated_at": "2026-10-26T04:44:12Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -52,15 +61,6 @@
     "stars": 5923,
     "updated_at": "2026-10-26T02:32:47Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 12005,
-    "updated_at": "2026-10-26T07:47:19Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
@@ -176,7 +176,7 @@
     "language": "HTML",
     "name": "ChelseaKR/fare-policy-assistant",
     "stars": 1,
-    "updated_at": "2026-10-24T03:37:56Z",
+    "updated_at": "2026-10-26T08:34:02Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
