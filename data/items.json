@@ -4,8 +4,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26459,
-    "updated_at": "2026-10-26T18:59:45Z",
+    "stars": 26461,
+    "updated_at": "2026-10-26T19:28:53Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -14,7 +14,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 12014,
-    "updated_at": "2026-10-26T18:59:53Z",
+    "updated_at": "2026-10-26T19:21:35Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -43,6 +43,15 @@
     "stars": 0,
     "updated_at": "2026-10-26T16:17:47Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5924,
+    "updated_at": "2026-10-26T15:13:46Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -79,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-10-26T04:43:20Z",
     "url": "https://github.com/jin2004-cmd/codex-practical-skills"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5923,
-    "updated_at": "2026-10-26T15:13:46Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
