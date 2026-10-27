@@ -1,11 +1,20 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 12018,
+    "updated_at": "2026-10-27T04:37:47Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5927,
-    "updated_at": "2026-10-27T04:10:19Z",
+    "updated_at": "2026-10-27T04:33:39Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -16,15 +25,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T03:54:50Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 12018,
-    "updated_at": "2026-10-27T03:16:16Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
