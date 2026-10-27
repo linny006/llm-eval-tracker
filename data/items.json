@@ -1,1 +1,452 @@
-[]
+[
+  {
+    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
+    "id": "HaileyStorm/Creative-Writing-Rubrics",
+    "language": "Python",
+    "name": "HaileyStorm/Creative-Writing-Rubrics",
+    "stars": 0,
+    "updated_at": "2026-10-27T05:19:13Z",
+    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 12018,
+    "updated_at": "2026-10-27T04:37:47Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5927,
+    "updated_at": "2026-10-27T04:33:39Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
+    "id": "jeremylongshore/j-rig-skill-binary-eval",
+    "language": "TypeScript",
+    "name": "jeremylongshore/j-rig-skill-binary-eval",
+    "stars": 3,
+    "updated_at": "2026-10-27T03:03:20Z",
+    "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26479,
+    "updated_at": "2026-10-26T19:28:53Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 368,
+    "updated_at": "2026-10-27T00:29:02Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3613,
+    "updated_at": "2026-10-26T17:24:56Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-26T14:49:23Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
+    "id": "open-compass/opencompass",
+    "language": "Python",
+    "name": "open-compass/opencompass",
+    "stars": 7552,
+    "updated_at": "2026-10-26T09:24:29Z",
+    "url": "https://github.com/open-compass/opencompass"
+  },
+  {
+    "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
+    "id": "IcodeNet/eval-dashboards",
+    "language": "TypeScript",
+    "name": "IcodeNet/eval-dashboards",
+    "stars": 1,
+    "updated_at": "2026-10-27T00:48:25Z",
+    "url": "https://github.com/IcodeNet/eval-dashboards"
+  },
+  {
+    "description": "AI \u5b9e\u7528 Skill \u5e93 \u00b7 16 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, p",
+    "id": "jin2004-cmd/codex-practical-skills",
+    "language": "Python",
+    "name": "jin2004-cmd/codex-practical-skills",
+    "stars": 1,
+    "updated_at": "2026-10-26T04:43:20Z",
+    "url": "https://github.com/jin2004-cmd/codex-practical-skills"
+  },
+  {
+    "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
+    "id": "izam-mohammed/ragrank",
+    "language": "Python",
+    "name": "izam-mohammed/ragrank",
+    "stars": 47,
+    "updated_at": "2026-10-26T03:43:25Z",
+    "url": "https://github.com/izam-mohammed/ragrank"
+  },
+  {
+    "description": "Personal site with two interactive LLM eval harness demos",
+    "id": "AndyZhang666666/AndyZhang666666.github.io",
+    "language": "JavaScript",
+    "name": "AndyZhang666666/AndyZhang666666.github.io",
+    "stars": 0,
+    "updated_at": "2026-10-25T12:09:08Z",
+    "url": "https://github.com/AndyZhang666666/AndyZhang666666.github.io"
+  },
+  {
+    "description": "\u516c\u544a\u6458\u8981\u7684\u65ad\u8a00\u7ea7\u4e8b\u5b9e\u6838\u67e5\u88c1\u5224\uff1a\u5e7b\u89c9\u68c0\u51fa / \u8bef\u62a5 / \u5173\u952e\u4fe1\u606f\u8986\u76d6\u4e09\u8f74\u5ea6\u91cf",
+    "id": "AndyZhang666666/filing-eval",
+    "language": "JavaScript",
+    "name": "AndyZhang666666/filing-eval",
+    "stars": 0,
+    "updated_at": "2026-10-25T07:34:51Z",
+    "url": "https://github.com/AndyZhang666666/filing-eval"
+  },
+  {
+    "description": "\u957f\u6587\u672c LLM \u8f93\u51fa\u8bc4\u6d4b\u5de5\u5177\uff08\u7b2c\u4e8c\u7248\uff09\uff1a\u4e24\u7248 prompt \u8fde\u8dd1\u5bf9\u6bd4 + Bad Case \u5bfc\u51fa + \u9010\u5b57\u8bc1\u636e\u62bd\u53d6\uff0c\u9644 30 \u6761\u91d1\u6807\u96c6\u88c1\u5224\u6821\u9a8c",
+    "id": "AndyZhang666666/llm-output-eval",
+    "language": "TypeScript",
+    "name": "AndyZhang666666/llm-output-eval",
+    "stars": 0,
+    "updated_at": "2026-10-25T07:21:40Z",
+    "url": "https://github.com/AndyZhang666666/llm-output-eval"
+  },
+  {
+    "description": "Evidence-driven AI development workbench for model evaluation, project context, and controlled agent execution.",
+    "id": "TQSY114514/Aether",
+    "language": "JavaScript",
+    "name": "TQSY114514/Aether",
+    "stars": 5,
+    "updated_at": "2026-10-26T03:20:16Z",
+    "url": "https://github.com/TQSY114514/Aether"
+  },
+  {
+    "description": "\u7eaf\u79ef\u5206\u5236 5 \u5f20\u70b8\u91d1\u82b1\u89c4\u5219\u5f15\u64ce + AI \u64c2\u53f0 (zero-dependency TS engine for a 5-card Zha Jin Hua variant: 10 bots, LLM seats, paired evaluati",
+    "id": "FZF525/zhajinhua-ai-arena",
+    "language": "TypeScript",
+    "name": "FZF525/zhajinhua-ai-arena",
+    "stars": 1,
+    "updated_at": "2026-10-25T04:32:30Z",
+    "url": "https://github.com/FZF525/zhajinhua-ai-arena"
+  },
+  {
+    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
+    "id": "homemade-software-inc/completion-kit",
+    "language": "Ruby",
+    "name": "homemade-software-inc/completion-kit",
+    "stars": 3,
+    "updated_at": "2026-10-25T00:59:06Z",
+    "url": "https://github.com/homemade-software-inc/completion-kit"
+  },
+  {
+    "description": "\u6ca1\u8dd1\u8fc7 = \u4e0d\u51fa\u5382\u3002no eval, no ship.",
+    "id": "SmartStudio/baize-prompts",
+    "language": "\u2014",
+    "name": "SmartStudio/baize-prompts",
+    "stars": 1,
+    "updated_at": "2026-10-25T00:33:26Z",
+    "url": "https://github.com/SmartStudio/baize-prompts"
+  },
+  {
+    "description": "Use local Large Language Models for production use cases, and perform benchmarking for task-specific performance evaluat",
+    "id": "ajmeese7/local-llms",
+    "language": "Python",
+    "name": "ajmeese7/local-llms",
+    "stars": 1,
+    "updated_at": "2026-10-24T20:21:25Z",
+    "url": "https://github.com/ajmeese7/local-llms"
+  },
+  {
+    "description": "Deterministic acceptance audits for LLM agents: 40 cases x 7 fault modes, 4-layer assertions, trace replay, 6-class fail",
+    "id": "leijingqiu3-ops/AgentAttest",
+    "language": "HTML",
+    "name": "leijingqiu3-ops/AgentAttest",
+    "stars": 0,
+    "updated_at": "2026-10-24T11:46:40Z",
+    "url": "https://github.com/leijingqiu3-ops/AgentAttest"
+  },
+  {
+    "description": "Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu",
+    "id": "ChelseaKR/fare-policy-assistant",
+    "language": "HTML",
+    "name": "ChelseaKR/fare-policy-assistant",
+    "stars": 1,
+    "updated_at": "2026-10-26T08:34:02Z",
+    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
+  },
+  {
+    "description": "Multi-agent simulation using LLMs. Agents autonomously decide actions for survival, reproduction, and social behavior in",
+    "id": "yukincom/llm-SugarScape",
+    "language": "Python",
+    "name": "yukincom/llm-SugarScape",
+    "stars": 7,
+    "updated_at": "2026-10-23T12:07:43Z",
+    "url": "https://github.com/yukincom/llm-SugarScape"
+  },
+  {
+    "description": "CI-integrated eval harness for LLM agents \u2014 intent accuracy, retrieval precision/recall/MRR, and hallucination detection",
+    "id": "Sushant-Dagar/agent-eval-harness",
+    "language": "Python",
+    "name": "Sushant-Dagar/agent-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-10-23T07:53:13Z",
+    "url": "https://github.com/Sushant-Dagar/agent-eval-harness"
+  },
+  {
+    "description": "Detect & score LLM hallucinations by groundedness \u2014 labeled data, precision/recall/F1, runs offline with no API key. Plu",
+    "id": "ramenprotokol/hallucination-hunter",
+    "language": "Python",
+    "name": "ramenprotokol/hallucination-hunter",
+    "stars": 0,
+    "updated_at": "2026-10-23T03:14:06Z",
+    "url": "https://github.com/ramenprotokol/hallucination-hunter"
+  },
+  {
+    "description": "An open-source benchmark for evaluating AI agents' ability to find backdoors hidden in compiled binaries.",
+    "id": "QuesmaOrg/BinaryAudit",
+    "language": "Shell",
+    "name": "QuesmaOrg/BinaryAudit",
+    "stars": 106,
+    "updated_at": "2026-10-22T14:27:49Z",
+    "url": "https://github.com/QuesmaOrg/BinaryAudit"
+  },
+  {
+    "description": "Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old ",
+    "id": "amareshhebbar/gitgrounded",
+    "language": "Python",
+    "name": "amareshhebbar/gitgrounded",
+    "stars": 0,
+    "updated_at": "2026-10-22T08:52:14Z",
+    "url": "https://github.com/amareshhebbar/gitgrounded"
+  },
+  {
+    "description": "Valor is a lightweight, numpy-based library designed for fast and seamless evaluation of machine learning models.",
+    "id": "Striveworks/valor",
+    "language": "Python",
+    "name": "Striveworks/valor",
+    "stars": 40,
+    "updated_at": "2026-10-21T19:34:19Z",
+    "url": "https://github.com/Striveworks/valor"
+  },
+  {
+    "description": "Agent \u8bc4\u6d4b\u4e0e\u56de\u5f52\u5de5\u5177\u5305\uff1atrace-first \u65ad\u8a00\u3001bootstrap CI\u3001flaky \u68c0\u6d4b\u3001judge \u6821\u51c6",
+    "id": "Lilim-ing/agent-evalkit",
+    "language": "Python",
+    "name": "Lilim-ing/agent-evalkit",
+    "stars": 0,
+    "updated_at": "2026-10-21T13:52:47Z",
+    "url": "https://github.com/Lilim-ing/agent-evalkit"
+  },
+  {
+    "description": "\u4f60\u7684 Skill \u5230\u5e95\u6709\u6ca1\u6709\u7528\uff1f\u8dd1\u4e00\u6b21\u5c31\u77e5\u9053\u2014\u2014\u7528\u771f\u5b9e\u4efb\u52a1\u505a\u5bf9\u7167\u6d4b\u8bd5\uff0c\u770b\u5b83\u5728\u6bcf\u4e2a\u6a21\u578b\u4e0a\u662f\u5e2e\u5fd9\u8fd8\u662f\u62d6\u540e\u817f\u3002 | Measure whether a skill actually helps, per model, via paired wit",
+    "id": "dylanma8232-art/daming-skillgain",
+    "language": "Python",
+    "name": "dylanma8232-art/daming-skillgain",
+    "stars": 0,
+    "updated_at": "2026-10-21T15:30:11Z",
+    "url": "https://github.com/dylanma8232-art/daming-skillgain"
+  },
+  {
+    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
+    "id": "ChelseaKR/sprout",
+    "language": "Python",
+    "name": "ChelseaKR/sprout",
+    "stars": 1,
+    "updated_at": "2026-10-22T21:15:55Z",
+    "url": "https://github.com/ChelseaKR/sprout"
+  },
+  {
+    "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
+    "id": "sammyjdev/gnomon-eval",
+    "language": "Python",
+    "name": "sammyjdev/gnomon-eval",
+    "stars": 0,
+    "updated_at": "2026-10-26T15:10:38Z",
+    "url": "https://github.com/sammyjdev/gnomon-eval"
+  },
+  {
+    "description": "Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct",
+    "id": "sx4im/skillcheck",
+    "language": "TypeScript",
+    "name": "sx4im/skillcheck",
+    "stars": 28,
+    "updated_at": "2026-10-20T16:44:22Z",
+    "url": "https://github.com/sx4im/skillcheck"
+  },
+  {
+    "description": "Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches ",
+    "id": "sunxin-ai/dsh-design-qa",
+    "language": "JavaScript",
+    "name": "sunxin-ai/dsh-design-qa",
+    "stars": 44,
+    "updated_at": "2026-10-20T12:25:14Z",
+    "url": "https://github.com/sunxin-ai/dsh-design-qa"
+  },
+  {
+    "description": "ASX guidance direction eval: model labels vs arithmetic",
+    "id": "damonphilipross/guidance-eval",
+    "language": "Python",
+    "name": "damonphilipross/guidance-eval",
+    "stars": 0,
+    "updated_at": "2026-10-20T07:24:45Z",
+    "url": "https://github.com/damonphilipross/guidance-eval"
+  },
+  {
+    "description": "LLM evaluation harness: load datasets, run checks, write JSON and Markdown reports.",
+    "id": "mrodgersjs-web/rig-enhanced-evals",
+    "language": "Python",
+    "name": "mrodgersjs-web/rig-enhanced-evals",
+    "stars": 0,
+    "updated_at": "2026-10-20T08:02:45Z",
+    "url": "https://github.com/mrodgersjs-web/rig-enhanced-evals"
+  },
+  {
+    "description": "Agreement + calibration harness for LLM-as-judge graders \u2014 calibration curves, bias/drift detection, per-category scorec",
+    "id": "AkashB98/llm-judge-calibration",
+    "language": "Python",
+    "name": "AkashB98/llm-judge-calibration",
+    "stars": 0,
+    "updated_at": "2026-10-19T21:15:10Z",
+    "url": "https://github.com/AkashB98/llm-judge-calibration"
+  },
+  {
+    "description": "TrustModel MCP Server \u2014 trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t",
+    "id": "pdxlab/trustmodel-mcp-server",
+    "language": "TypeScript",
+    "name": "pdxlab/trustmodel-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-10-21T07:45:50Z",
+    "url": "https://github.com/pdxlab/trustmodel-mcp-server"
+  },
+  {
+    "description": "Do LLM judges know when they're wrong? Three open-weight judges (Qwen2.5-7B, kev-8b, auto-j-13b) graded against MT-Bench",
+    "id": "senguptashubham/judge-calibration",
+    "language": "Python",
+    "name": "senguptashubham/judge-calibration",
+    "stars": 3,
+    "updated_at": "2026-10-19T06:56:47Z",
+    "url": "https://github.com/senguptashubham/judge-calibration"
+  },
+  {
+    "description": "Calibrated LLM-as-a-judge pipeline: rubric, human gold set, frozen splits, bootstrap TPR/TNR/agreement/kappa, bias probe",
+    "id": "nagadevi-naradasu/llm_as_judge_calibration_pipeline",
+    "language": "Python",
+    "name": "nagadevi-naradasu/llm_as_judge_calibration_pipeline",
+    "stars": 0,
+    "updated_at": "2026-10-17T08:29:51Z",
+    "url": "https://github.com/nagadevi-naradasu/llm_as_judge_calibration_pipeline"
+  },
+  {
+    "description": "pip install gauntlet-evals \u00b7 v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against",
+    "id": "ChelseaKR/gauntlet",
+    "language": "Python",
+    "name": "ChelseaKR/gauntlet",
+    "stars": 1,
+    "updated_at": "2026-10-17T16:53:10Z",
+    "url": "https://github.com/ChelseaKR/gauntlet"
+  },
+  {
+    "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
+    "id": "ChelseaKR/plumbline",
+    "language": "Python",
+    "name": "ChelseaKR/plumbline",
+    "stars": 1,
+    "updated_at": "2026-10-21T23:45:12Z",
+    "url": "https://github.com/ChelseaKR/plumbline"
+  },
+  {
+    "description": "judge-drift-sentinel \u00b7 judge-reliability-kit \u00b7 agent-loop-engine \u00b7 trace-gate \u00b7 ai-eng-skill-range",
+    "id": "homayoun-safarpour/homayoun-safarpour",
+    "language": "\u2014",
+    "name": "homayoun-safarpour/homayoun-safarpour",
+    "stars": 0,
+    "updated_at": "2026-10-17T00:15:00Z",
+    "url": "https://github.com/homayoun-safarpour/homayoun-safarpour"
+  },
+  {
+    "description": "Mission-control dashboard aggregating agent-eval signals \u2014 eval scores, red-team results, cost and latency in one view. ",
+    "id": "AkashB98/agent-eval-dashboard",
+    "language": "Python",
+    "name": "AkashB98/agent-eval-dashboard",
+    "stars": 0,
+    "updated_at": "2026-10-16T17:12:50Z",
+    "url": "https://github.com/AkashB98/agent-eval-dashboard"
+  },
+  {
+    "description": "A deterministic evaluation harness stress-testing RAG pipelines against controlled distractors, contradictions, and posi",
+    "id": "ManavPratapSingh/RAG-Stress",
+    "language": "Python",
+    "name": "ManavPratapSingh/RAG-Stress",
+    "stars": 0,
+    "updated_at": "2026-10-15T18:11:21Z",
+    "url": "https://github.com/ManavPratapSingh/RAG-Stress"
+  },
+  {
+    "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
+    "id": "NoesisVision/nasde-toolkit",
+    "language": "Python",
+    "name": "NoesisVision/nasde-toolkit",
+    "stars": 14,
+    "updated_at": "2026-10-15T15:33:57Z",
+    "url": "https://github.com/NoesisVision/nasde-toolkit"
+  },
+  {
+    "description": "GPT-2 (124M) \u2192 Gemma 3-style (113M), one architecture change at a time: training, evals, analysis, inference, context ex",
+    "id": "Shinibali/CuriosLM",
+    "language": "Python",
+    "name": "Shinibali/CuriosLM",
+    "stars": 0,
+    "updated_at": "2026-10-15T05:38:34Z",
+    "url": "https://github.com/Shinibali/CuriosLM"
+  },
+  {
+    "description": "Handwritten Text Recognition llm eval tool",
+    "id": "lehigh-university-libraries/htr",
+    "language": "Go",
+    "name": "lehigh-university-libraries/htr",
+    "stars": 2,
+    "updated_at": "2026-10-14T15:27:51Z",
+    "url": "https://github.com/lehigh-university-libraries/htr"
+  },
+  {
+    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
+    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "language": "\u2014",
+    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "stars": 0,
+    "updated_at": "2026-10-14T07:03:30Z",
+    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
+  },
+  {
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-10-14T07:02:55Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
+  }
+]
