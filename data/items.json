@@ -4,7 +4,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 12026,
+    "stars": 12027,
     "updated_at": "2026-10-27T14:32:12Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -16,15 +16,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T10:25:39Z",
     "url": "https://github.com/AndyZhang666666/AndyZhang666666.github.io"
-  },
-  {
-    "description": "\u516c\u544a\u6458\u8981\u7684\u65ad\u8a00\u7ea7\u4e8b\u5b9e\u6838\u67e5\u88c1\u5224\uff1a\u5e7b\u89c9\u68c0\u51fa / \u8bef\u62a5 / \u5173\u952e\u4fe1\u606f\u8986\u76d6\u4e09\u8f74\u5ea6\u91cf",
-    "id": "AndyZhang666666/filing-eval",
-    "language": "JavaScript",
-    "name": "AndyZhang666666/filing-eval",
-    "stars": 0,
-    "updated_at": "2026-10-27T10:25:27Z",
-    "url": "https://github.com/AndyZhang666666/filing-eval"
   },
   {
     "description": "\u957f\u6587\u672c LLM \u8f93\u51fa\u8bc4\u6d4b\u5de5\u5177\uff08\u7b2c\u4e8c\u7248\uff09\uff1a\u4e24\u7248 prompt \u8fde\u8dd1\u5bf9\u6bd4 + Bad Case \u5bfc\u51fa + \u9010\u5b57\u8bc1\u636e\u62bd\u53d6\uff0c\u9644 30 \u6761\u91d1\u6807\u96c6\u88c1\u5224\u6821\u9a8c",
@@ -58,8 +49,8 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5928,
-    "updated_at": "2026-10-27T04:33:39Z",
+    "stars": 5929,
+    "updated_at": "2026-10-27T14:51:05Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -76,7 +67,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26495,
+    "stars": 26496,
     "updated_at": "2026-10-26T19:28:53Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -117,42 +108,6 @@
     "url": "https://github.com/IcodeNet/eval-dashboards"
   },
   {
-    "description": "AI \u5b9e\u7528 Skill \u5e93 \u00b7 16 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, p",
-    "id": "jin2004-cmd/codex-practical-skills",
-    "language": "Python",
-    "name": "jin2004-cmd/codex-practical-skills",
-    "stars": 1,
-    "updated_at": "2026-10-26T04:43:20Z",
-    "url": "https://github.com/jin2004-cmd/codex-practical-skills"
-  },
-  {
-    "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
-    "id": "izam-mohammed/ragrank",
-    "language": "Python",
-    "name": "izam-mohammed/ragrank",
-    "stars": 47,
-    "updated_at": "2026-10-26T03:43:25Z",
-    "url": "https://github.com/izam-mohammed/ragrank"
-  },
-  {
-    "description": "Evidence-driven AI development workbench for model evaluation, project context, and controlled agent execution.",
-    "id": "TQSY114514/Aether",
-    "language": "JavaScript",
-    "name": "TQSY114514/Aether",
-    "stars": 5,
-    "updated_at": "2026-10-26T03:20:16Z",
-    "url": "https://github.com/TQSY114514/Aether"
-  },
-  {
-    "description": "\u7eaf\u79ef\u5206\u5236 5 \u5f20\u70b8\u91d1\u82b1\u89c4\u5219\u5f15\u64ce + AI \u64c2\u53f0 (zero-dependency TS engine for a 5-card Zha Jin Hua variant: 10 bots, LLM seats, paired evaluati",
-    "id": "FZF525/zhajinhua-ai-arena",
-    "language": "TypeScript",
-    "name": "FZF525/zhajinhua-ai-arena",
-    "stars": 1,
-    "updated_at": "2026-10-25T04:32:30Z",
-    "url": "https://github.com/FZF525/zhajinhua-ai-arena"
-  },
-  {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
     "id": "homemade-software-inc/completion-kit",
     "language": "Ruby",
@@ -160,24 +115,6 @@
     "stars": 3,
     "updated_at": "2026-10-25T00:59:06Z",
     "url": "https://github.com/homemade-software-inc/completion-kit"
-  },
-  {
-    "description": "\u6ca1\u8dd1\u8fc7 = \u4e0d\u51fa\u5382\u3002no eval, no ship.",
-    "id": "SmartStudio/baize-prompts",
-    "language": "\u2014",
-    "name": "SmartStudio/baize-prompts",
-    "stars": 1,
-    "updated_at": "2026-10-25T00:33:26Z",
-    "url": "https://github.com/SmartStudio/baize-prompts"
-  },
-  {
-    "description": "Use local Large Language Models for production use cases, and perform benchmarking for task-specific performance evaluat",
-    "id": "ajmeese7/local-llms",
-    "language": "Python",
-    "name": "ajmeese7/local-llms",
-    "stars": 1,
-    "updated_at": "2026-10-24T20:21:25Z",
-    "url": "https://github.com/ajmeese7/local-llms"
   },
   {
     "description": "Deterministic acceptance audits for LLM agents: 40 cases x 7 fault modes, 4-layer assertions, trace replay, 6-class fail",
@@ -234,15 +171,6 @@
     "url": "https://github.com/QuesmaOrg/BinaryAudit"
   },
   {
-    "description": "Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old ",
-    "id": "amareshhebbar/gitgrounded",
-    "language": "Python",
-    "name": "amareshhebbar/gitgrounded",
-    "stars": 0,
-    "updated_at": "2026-10-22T08:52:14Z",
-    "url": "https://github.com/amareshhebbar/gitgrounded"
-  },
-  {
     "description": "Valor is a lightweight, numpy-based library designed for fast and seamless evaluation of machine learning models.",
     "id": "Striveworks/valor",
     "language": "Python",
@@ -279,15 +207,6 @@
     "url": "https://github.com/ChelseaKR/sprout"
   },
   {
-    "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
-    "id": "sammyjdev/gnomon-eval",
-    "language": "Python",
-    "name": "sammyjdev/gnomon-eval",
-    "stars": 0,
-    "updated_at": "2026-10-26T15:10:38Z",
-    "url": "https://github.com/sammyjdev/gnomon-eval"
-  },
-  {
     "description": "Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct",
     "id": "sx4im/skillcheck",
     "language": "TypeScript",
@@ -295,15 +214,6 @@
     "stars": 28,
     "updated_at": "2026-10-20T16:44:22Z",
     "url": "https://github.com/sx4im/skillcheck"
-  },
-  {
-    "description": "Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches ",
-    "id": "sunxin-ai/dsh-design-qa",
-    "language": "JavaScript",
-    "name": "sunxin-ai/dsh-design-qa",
-    "stars": 44,
-    "updated_at": "2026-10-20T12:25:14Z",
-    "url": "https://github.com/sunxin-ai/dsh-design-qa"
   },
   {
     "description": "ASX guidance direction eval: model labels vs arithmetic",
@@ -333,24 +243,6 @@
     "url": "https://github.com/AkashB98/llm-judge-calibration"
   },
   {
-    "description": "TrustModel MCP Server \u2014 trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t",
-    "id": "pdxlab/trustmodel-mcp-server",
-    "language": "TypeScript",
-    "name": "pdxlab/trustmodel-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-10-21T07:45:50Z",
-    "url": "https://github.com/pdxlab/trustmodel-mcp-server"
-  },
-  {
-    "description": "Do LLM judges know when they're wrong? Three open-weight judges (Qwen2.5-7B, kev-8b, auto-j-13b) graded against MT-Bench",
-    "id": "senguptashubham/judge-calibration",
-    "language": "Python",
-    "name": "senguptashubham/judge-calibration",
-    "stars": 3,
-    "updated_at": "2026-10-19T06:56:47Z",
-    "url": "https://github.com/senguptashubham/judge-calibration"
-  },
-  {
     "description": "Calibrated LLM-as-a-judge pipeline: rubric, human gold set, frozen splits, bootstrap TPR/TNR/agreement/kappa, bias probe",
     "id": "nagadevi-naradasu/llm_as_judge_calibration_pipeline",
     "language": "Python",
@@ -360,24 +252,6 @@
     "url": "https://github.com/nagadevi-naradasu/llm_as_judge_calibration_pipeline"
   },
   {
-    "description": "pip install gauntlet-evals \u00b7 v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against",
-    "id": "ChelseaKR/gauntlet",
-    "language": "Python",
-    "name": "ChelseaKR/gauntlet",
-    "stars": 1,
-    "updated_at": "2026-10-17T16:53:10Z",
-    "url": "https://github.com/ChelseaKR/gauntlet"
-  },
-  {
-    "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
-    "id": "ChelseaKR/plumbline",
-    "language": "Python",
-    "name": "ChelseaKR/plumbline",
-    "stars": 1,
-    "updated_at": "2026-10-21T23:45:12Z",
-    "url": "https://github.com/ChelseaKR/plumbline"
-  },
-  {
     "description": "judge-drift-sentinel \u00b7 judge-reliability-kit \u00b7 agent-loop-engine \u00b7 trace-gate \u00b7 ai-eng-skill-range",
     "id": "homayoun-safarpour/homayoun-safarpour",
     "language": "\u2014",
@@ -385,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T00:15:00Z",
     "url": "https://github.com/homayoun-safarpour/homayoun-safarpour"
-  },
-  {
-    "description": "Mission-control dashboard aggregating agent-eval signals \u2014 eval scores, red-team results, cost and latency in one view. ",
-    "id": "AkashB98/agent-eval-dashboard",
-    "language": "Python",
-    "name": "AkashB98/agent-eval-dashboard",
-    "stars": 0,
-    "updated_at": "2026-10-16T17:12:50Z",
-    "url": "https://github.com/AkashB98/agent-eval-dashboard"
   },
   {
     "description": "A deterministic evaluation harness stress-testing RAG pipelines against controlled distractors, contradictions, and posi",
@@ -448,5 +313,122 @@
     "stars": 1,
     "updated_at": "2026-10-14T07:02:55Z",
     "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
+    "description": "Official repository for \"CausalDS: Benchmarking Causal Reasoning in Data-Science Agents\"",
+    "id": "andleb/causalds",
+    "language": "Python",
+    "name": "andleb/causalds",
+    "stars": 3,
+    "updated_at": "2026-10-14T03:39:17Z",
+    "url": "https://github.com/andleb/causalds"
+  },
+  {
+    "description": "Multimodal RAG for HVAC field technicians: retrieves across manual charts, job-site photos and support calls, with an ev",
+    "id": "glibshchur/fieldnote",
+    "language": "Python",
+    "name": "glibshchur/fieldnote",
+    "stars": 0,
+    "updated_at": "2026-10-13T11:40:16Z",
+    "url": "https://github.com/glibshchur/fieldnote"
+  },
+  {
+    "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
+    "id": "goldbarth/chartula-evals",
+    "language": "Python",
+    "name": "goldbarth/chartula-evals",
+    "stars": 0,
+    "updated_at": "2026-10-12T16:58:07Z",
+    "url": "https://github.com/goldbarth/chartula-evals"
+  },
+  {
+    "description": "\u91d1\u878d\u957f\u6587\u672c\u667a\u80fd\u95ee\u7b54\u7cfb\u7edf\uff1a\u68c0\u7d22\u00b7\u5224\u5b9a\u00b7\u8bb0\u5fc6\u00b7\u5f52\u56e0\u56db\u5c42\u5168\u94fe\uff08BM25F \u9010\u9009\u9879\u68c0\u7d22 + \u9009\u9879\u7ea7\u8bc1\u636e\u9694\u79bb + \u5206\u5c42\u8bb0\u5fc6\u538b\u7f29 + \u5f15\u7528\u89c2\u6d4b\u5f52\u56e0\uff09\uff0c\u81ea\u5efa\u4e94\u57df\u8bc4\u6d4b\u96c6\uff08\u6cd5\u89c4/\u8d22\u62a5/\u4fdd\u9669/\u5408\u540c/\u7814\u62a5\uff0c50 \u9898\u542b 193 \u9875\u52df\u96c6\u8bf4\u660e\u4e66\uff09\uff0c791 \u4f8b\u6d4b\u8bd5\u3002\u573a\u666f",
+    "id": "quannie255-star/FinData-Agent",
+    "language": "Python",
+    "name": "quannie255-star/FinData-Agent",
+    "stars": 0,
+    "updated_at": "2026-10-10T09:34:12Z",
+    "url": "https://github.com/quannie255-star/FinData-Agent"
+  },
+  {
+    "description": "First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs",
+    "id": "instax-dutta/sysone-bench",
+    "language": "Python",
+    "name": "instax-dutta/sysone-bench",
+    "stars": 6,
+    "updated_at": "2026-10-10T04:54:10Z",
+    "url": "https://github.com/instax-dutta/sysone-bench"
+  },
+  {
+    "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
+    "id": "Icaro0310/devin-evals",
+    "language": "Python",
+    "name": "Icaro0310/devin-evals",
+    "stars": 1,
+    "updated_at": "2026-10-09T13:59:11Z",
+    "url": "https://github.com/Icaro0310/devin-evals"
+  },
+  {
+    "description": "Automated LLM bias and toxicity auditing pipeline with flexible scoring and Streamlit UI.",
+    "id": "gopals09920/llm-bias-toxicity-audit",
+    "language": "Python",
+    "name": "gopals09920/llm-bias-toxicity-audit",
+    "stars": 0,
+    "updated_at": "2026-10-09T00:14:48Z",
+    "url": "https://github.com/gopals09920/llm-bias-toxicity-audit"
+  },
+  {
+    "description": "Blind, reproducible benchmark for production phone voice agents. Measures barge-in latency, false-stop rate and the late",
+    "id": "arunash/earshot",
+    "language": "Python",
+    "name": "arunash/earshot",
+    "stars": 0,
+    "updated_at": "2026-10-07T15:37:07Z",
+    "url": "https://github.com/arunash/earshot"
+  },
+  {
+    "description": "An indirect prompt injection evaluation suite for Harbor, with eight matched attack and clean task families and determin",
+    "id": "crashlabsai/trojan-harbor",
+    "language": "Python",
+    "name": "crashlabsai/trojan-harbor",
+    "stars": 0,
+    "updated_at": "2026-10-06T07:20:24Z",
+    "url": "https://github.com/crashlabsai/trojan-harbor"
+  },
+  {
+    "description": "Statistically rigorous LLM evaluation for pytest \u2014 treats every eval as a proportion with a Wilson confidence interval, ",
+    "id": "nikolas-sapa/sigeval",
+    "language": "Python",
+    "name": "nikolas-sapa/sigeval",
+    "stars": 2,
+    "updated_at": "2026-10-05T04:14:53Z",
+    "url": "https://github.com/nikolas-sapa/sigeval"
+  },
+  {
+    "description": "A curated list of frontier AI evaluation benchmarks, long-horizon agent test suites, terminal sandboxes, RLVR math verif",
+    "id": "jatinsihag2345/awesome-ai-evaluations",
+    "language": "\u2014",
+    "name": "jatinsihag2345/awesome-ai-evaluations",
+    "stars": 1,
+    "updated_at": "2026-10-04T18:48:45Z",
+    "url": "https://github.com/jatinsihag2345/awesome-ai-evaluations"
+  },
+  {
+    "description": "Modular Python SDK for deterministic grading, AST semantic diffing, sandboxed execution, and fuzzy scoring of LLM output",
+    "id": "jatinsihag2345/llm-eval-toolkit",
+    "language": "Python",
+    "name": "jatinsihag2345/llm-eval-toolkit",
+    "stars": 1,
+    "updated_at": "2026-10-04T18:48:09Z",
+    "url": "https://github.com/jatinsihag2345/llm-eval-toolkit"
+  },
+  {
+    "description": "Topological Data Analysis (TDA) layer for LLM self-improvement loops featuring persistent homology promotion gates, repr",
+    "id": "Deivid9920/PROMETHEUSV2-NEUROTOPOLOGY",
+    "language": "Python",
+    "name": "Deivid9920/PROMETHEUSV2-NEUROTOPOLOGY",
+    "stars": 0,
+    "updated_at": "2026-10-02T01:34:20Z",
+    "url": "https://github.com/Deivid9920/PROMETHEUSV2-NEUROTOPOLOGY"
   }
 ]
