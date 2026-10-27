@@ -4,9 +4,18 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 12028,
-    "updated_at": "2026-10-27T17:20:11Z",
+    "stars": 12027,
+    "updated_at": "2026-10-27T17:35:21Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 368,
+    "updated_at": "2026-10-27T17:32:05Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
@@ -25,15 +34,6 @@
     "stars": 26504,
     "updated_at": "2026-10-27T16:15:46Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 368,
-    "updated_at": "2026-10-27T16:41:25Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Personal site with two interactive LLM eval harness demos",
