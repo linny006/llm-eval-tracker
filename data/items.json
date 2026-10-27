@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 12031,
-    "updated_at": "2026-10-27T21:28:54Z",
+    "updated_at": "2026-10-27T21:43:18Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -34,6 +34,15 @@
     "stars": 26512,
     "updated_at": "2026-10-27T16:15:46Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3615,
+    "updated_at": "2026-10-27T15:36:06Z",
+    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -79,15 +88,6 @@
     "stars": 3,
     "updated_at": "2026-10-27T03:03:20Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3614,
-    "updated_at": "2026-10-27T15:36:06Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
