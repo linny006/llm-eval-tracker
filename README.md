@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-27 07:00 UTC
+> ⏰ Last updated: 2026-10-27 07:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -46,7 +46,7 @@ expired items removed — so you can rely on what you see being current.
 | 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 12017 | Python | 2026-10-27 | AI Observability & Evaluation |
 | 3 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5927 | Python | 2026-10-27 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 4 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 3 | TypeScript | 2026-10-27 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
-| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26483 | TypeScript | 2026-10-26 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26484 | TypeScript | 2026-10-26 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 6 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 368 | TypeScript | 2026-10-27 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 7 | [truera/trulens](https://github.com/truera/trulens) | 3614 | Python | 2026-10-26 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 8 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-26 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
