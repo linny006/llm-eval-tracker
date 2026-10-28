@@ -1,20 +1,11 @@
 [
   {
-    "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
-    "id": "open-compass/opencompass",
-    "language": "Python",
-    "name": "open-compass/opencompass",
-    "stars": 7553,
-    "updated_at": "2026-10-28T12:12:20Z",
-    "url": "https://github.com/open-compass/opencompass"
-  },
-  {
-    "description": "\u4ee3\u7801\u8bc4\u5ba1 Agent \u53cc\u5c42\u8bc4\u6d4b\u6846\u67b6\uff1a\u8bc4\u6d4b\u96c6 + Harness \u5c42 + Model \u5c42\u5b57\u6bb5\u7ea7\u5bf9\u9f50\u6253\u5206\uff08Precision/Recall/F1\uff09+ \u5f52\u56e0\u62a5\u544a\uff0c\u79bb\u7ebf\u53ef\u590d\u73b0\uff0c8 \u4e2a\u6d4b\u8bd5\u901a\u8fc7 | Two-layer eval harness for",
+    "description": "\u4ee3\u7801\u8bc4\u5ba1 Agent \u53cc\u5c42\u8bc4\u6d4b\u6846\u67b6\uff1a\u8bc4\u6d4b\u96c6\u7ba1\u7ebf + Harness/Model \u53cc\u5c42\u5bf9\u9f50\u6253\u5206 + \u5f02\u6b65\u5e76\u53d1 + \u53ef\u590d\u73b0 run + \u8d28\u91cf\u95e8\u7981\uff0c20 \u4e2a\u6d4b\u8bd5\u901a\u8fc7 | Industrial-grade eval harness for AI c",
     "id": "fangyunok/code-review-eval-harness",
     "language": "Python",
     "name": "fangyunok/code-review-eval-harness",
     "stars": 0,
-    "updated_at": "2026-10-28T12:10:29Z",
+    "updated_at": "2026-10-28T12:26:30Z",
     "url": "https://github.com/fangyunok/code-review-eval-harness"
   },
   {
@@ -23,8 +14,17 @@
     "language": "Python",
     "name": "mutsunn1/qwen3.8-omni-pinyin-eval",
     "stars": 0,
-    "updated_at": "2026-10-28T10:09:25Z",
+    "updated_at": "2026-10-28T12:17:27Z",
     "url": "https://github.com/mutsunn1/qwen3.8-omni-pinyin-eval"
+  },
+  {
+    "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
+    "id": "open-compass/opencompass",
+    "language": "Python",
+    "name": "open-compass/opencompass",
+    "stars": 7553,
+    "updated_at": "2026-10-28T12:12:20Z",
+    "url": "https://github.com/open-compass/opencompass"
   },
   {
     "description": "\u4f60\u7684 Skill \u5230\u5e95\u6709\u6ca1\u6709\u7528\uff1f\u8dd1\u4e00\u6b21\u5c31\u77e5\u9053\u2014\u2014\u7528\u771f\u5b9e\u4efb\u52a1\u505a\u5bf9\u7167\u6d4b\u8bd5\uff0c\u770b\u5b83\u5728\u6bcf\u4e2a\u6a21\u578b\u4e0a\u662f\u5e2e\u5fd9\u8fd8\u662f\u62d6\u540e\u817f\u3002 | Measure whether a skill actually helps, per model, via paired wit",
