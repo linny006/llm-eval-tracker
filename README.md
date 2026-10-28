@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-28 17:15 UTC
+> ⏰ Last updated: 2026-10-28 17:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -47,7 +47,7 @@ expired items removed — so you can rely on what you see being current.
 | 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 12045 | Python | 2026-10-28 | AI Observability & Evaluation |
 | 4 | [dylanma8232-art/daming-skillgain](https://github.com/dylanma8232-art/daming-skillgain) | 0 | Python | 2026-10-28 | 你的 Skill 到底有没有用？跑一次就知道——用真实任务做对照测试，看它在每个模型上是帮忙还是拖后腿。 \| Measure whether a skill actually helps, per model, via paired wit |
 | 5 | [SFX-TECH/sfx-lead-intelligence](https://github.com/SFX-TECH/sfx-lead-intelligence) | 1 | — | 2026-10-28 | SFX Lead Intelligence Command Center: local-LLM hub plus lead dashboard, quality lifted 61 to 99 percent via a ground-tr |
-| 6 | [truera/trulens](https://github.com/truera/trulens) | 3617 | Python | 2026-10-28 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 6 | [truera/trulens](https://github.com/truera/trulens) | 3618 | Python | 2026-10-28 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 7 | [fangyunok/code-review-eval-harness](https://github.com/fangyunok/code-review-eval-harness) | 0 | Python | 2026-10-28 | 代码评审 Agent 双层评测框架：评测集管线 + Harness/Model 双层对齐打分 + 异步并发 + 可复现 run + 质量门禁，20 个测试通过 \| Industrial-grade eval harness for AI c |
 | 8 | [mutsunn1/qwen3.8-omni-pinyin-eval](https://github.com/mutsunn1/qwen3.8-omni-pinyin-eval) | 0 | Python | 2026-10-28 | Zero-shot Mandarin initial/final/tone recognition & text-audio consistency benchmark for Qwen3.8-Omni (prosodic-abx mand |
 | 9 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7554 | Python | 2026-10-28 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
