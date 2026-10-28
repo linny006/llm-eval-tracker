@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-28 15:00 UTC
+> ⏰ Last updated: 2026-10-28 15:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 12045 | Python | 2026-10-28 | AI Observability & Evaluation |
-| 2 | [SFX-TECH/sfx-lead-intelligence](https://github.com/SFX-TECH/sfx-lead-intelligence) | 1 | — | 2026-10-28 | SFX Lead Intelligence Command Center: local-LLM hub plus lead dashboard, quality lifted 61 to 99 percent via a ground-tr |
-| 3 | [truera/trulens](https://github.com/truera/trulens) | 3616 | Python | 2026-10-28 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 4 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 370 | TypeScript | 2026-10-28 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 1 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 370 | TypeScript | 2026-10-28 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 12045 | Python | 2026-10-28 | AI Observability & Evaluation |
+| 3 | [SFX-TECH/sfx-lead-intelligence](https://github.com/SFX-TECH/sfx-lead-intelligence) | 1 | — | 2026-10-28 | SFX Lead Intelligence Command Center: local-LLM hub plus lead dashboard, quality lifted 61 to 99 percent via a ground-tr |
+| 4 | [truera/trulens](https://github.com/truera/trulens) | 3616 | Python | 2026-10-28 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 5 | [fangyunok/code-review-eval-harness](https://github.com/fangyunok/code-review-eval-harness) | 0 | Python | 2026-10-28 | 代码评审 Agent 双层评测框架：评测集管线 + Harness/Model 双层对齐打分 + 异步并发 + 可复现 run + 质量门禁，20 个测试通过 \| Industrial-grade eval harness for AI c |
 | 6 | [mutsunn1/qwen3.8-omni-pinyin-eval](https://github.com/mutsunn1/qwen3.8-omni-pinyin-eval) | 0 | Python | 2026-10-28 | Zero-shot Mandarin initial/final/tone recognition & text-audio consistency benchmark for Qwen3.8-Omni (prosodic-abx mand |
 | 7 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7554 | Python | 2026-10-28 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
