@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-28 17:45 UTC
+> ⏰ Last updated: 2026-10-28 18:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26558 | TypeScript | 2026-10-28 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 12046 | Python | 2026-10-28 | AI Observability & Evaluation |
-| 3 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 370 | TypeScript | 2026-10-28 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26559 | TypeScript | 2026-10-28 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 2 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 370 | TypeScript | 2026-10-28 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 12046 | Python | 2026-10-28 | AI Observability & Evaluation |
 | 4 | [dylanma8232-art/daming-skillgain](https://github.com/dylanma8232-art/daming-skillgain) | 0 | Python | 2026-10-28 | 你的 Skill 到底有没有用？跑一次就知道——用真实任务做对照测试，看它在每个模型上是帮忙还是拖后腿。 \| Measure whether a skill actually helps, per model, via paired wit |
 | 5 | [SFX-TECH/sfx-lead-intelligence](https://github.com/SFX-TECH/sfx-lead-intelligence) | 1 | — | 2026-10-28 | SFX Lead Intelligence Command Center: local-LLM hub plus lead dashboard, quality lifted 61 to 99 percent via a ground-tr |
 | 6 | [truera/trulens](https://github.com/truera/trulens) | 3618 | Python | 2026-10-28 | Evaluation and Tracking for LLM Experiments and AI Agents |
