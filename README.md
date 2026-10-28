@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-28 02:30 UTC
+> ⏰ Last updated: 2026-10-28 02:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -44,7 +44,7 @@ expired items removed — so you can rely on what you see being current.
 |---|------|---|------|---------|-------------|
 | 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 12035 | Python | 2026-10-28 | AI Observability & Evaluation |
 | 2 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-10-28 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
-| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26518 | TypeScript | 2026-10-27 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26520 | TypeScript | 2026-10-27 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 4 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 369 | TypeScript | 2026-10-27 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 5 | [truera/trulens](https://github.com/truera/trulens) | 3615 | Python | 2026-10-27 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 6 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5931 | Python | 2026-10-28 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
@@ -67,7 +67,7 @@ expired items removed — so you can rely on what you see being current.
 | 23 | [yukincom/llm-SugarScape](https://github.com/yukincom/llm-SugarScape) | 7 | Python | 2026-10-23 | Multi-agent simulation using LLMs. Agents autonomously decide actions for survival, reproduction, and social behavior in |
 | 24 | [Sushant-Dagar/agent-eval-harness](https://github.com/Sushant-Dagar/agent-eval-harness) | 0 | Python | 2026-10-23 | CI-integrated eval harness for LLM agents — intent accuracy, retrieval precision/recall/MRR, and hallucination detection |
 | 25 | [ramenprotokol/hallucination-hunter](https://github.com/ramenprotokol/hallucination-hunter) | 0 | Python | 2026-10-23 | Detect & score LLM hallucinations by groundedness — labeled data, precision/recall/F1, runs offline with no API key. Plu |
-| 26 | [QuesmaOrg/BinaryAudit](https://github.com/QuesmaOrg/BinaryAudit) | 106 | Shell | 2026-10-22 | An open-source benchmark for evaluating AI agents' ability to find backdoors hidden in compiled binaries. |
+| 26 | [QuesmaOrg/BinaryAudit](https://github.com/QuesmaOrg/BinaryAudit) | 107 | Shell | 2026-10-22 | An open-source benchmark for evaluating AI agents' ability to find backdoors hidden in compiled binaries. |
 | 27 | [amareshhebbar/gitgrounded](https://github.com/amareshhebbar/gitgrounded) | 0 | Python | 2026-10-22 | Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old  |
 | 28 | [Striveworks/valor](https://github.com/Striveworks/valor) | 40 | Python | 2026-10-21 | Valor is a lightweight, numpy-based library designed for fast and seamless evaluation of machine learning models. |
 | 29 | [Lilim-ing/agent-evalkit](https://github.com/Lilim-ing/agent-evalkit) | 0 | Python | 2026-10-21 | Agent 评测与回归工具包：trace-first 断言、bootstrap CI、flaky 检测、judge 校准 |

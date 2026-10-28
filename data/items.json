@@ -22,7 +22,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26518,
+    "stars": 26520,
     "updated_at": "2026-10-27T22:51:03Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -50,7 +50,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5931,
-    "updated_at": "2026-10-28T02:24:36Z",
+    "updated_at": "2026-10-28T02:42:16Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -229,7 +229,7 @@
     "id": "QuesmaOrg/BinaryAudit",
     "language": "Shell",
     "name": "QuesmaOrg/BinaryAudit",
-    "stars": 106,
+    "stars": 107,
     "updated_at": "2026-10-22T14:27:49Z",
     "url": "https://github.com/QuesmaOrg/BinaryAudit"
   },
