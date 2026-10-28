@@ -1,5 +1,23 @@
 [
   {
+    "description": "SFX Lead Intelligence Command Center: local-LLM hub plus lead dashboard, quality lifted 61 to 99 percent via a ground-tr",
+    "id": "SFX-TECH/sfx-lead-intelligence",
+    "language": "\u2014",
+    "name": "SFX-TECH/sfx-lead-intelligence",
+    "stars": 1,
+    "updated_at": "2026-10-28T13:28:02Z",
+    "url": "https://github.com/SFX-TECH/sfx-lead-intelligence"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3616,
+    "updated_at": "2026-10-28T13:27:13Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -31,7 +49,7 @@
     "id": "open-compass/opencompass",
     "language": "Python",
     "name": "open-compass/opencompass",
-    "stars": 7553,
+    "stars": 7554,
     "updated_at": "2026-10-28T12:12:20Z",
     "url": "https://github.com/open-compass/opencompass"
   },
@@ -49,7 +67,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26549,
+    "stars": 26551,
     "updated_at": "2026-10-28T08:26:35Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -97,15 +115,6 @@
     "stars": 12043,
     "updated_at": "2026-10-28T13:13:00Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3616,
-    "updated_at": "2026-10-27T15:36:06Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "\u516c\u544a\u6458\u8981\u7684\u65ad\u8a00\u7ea7\u4e8b\u5b9e\u6838\u67e5\u88c1\u5224\uff1a\u5e7b\u89c9\u68c0\u51fa / \u8bef\u62a5 / \u5173\u952e\u4fe1\u606f\u8986\u76d6\u4e09\u8f74\u5ea6\u91cf",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-15T05:38:34Z",
     "url": "https://github.com/Shinibali/CuriosLM"
-  },
-  {
-    "description": "Handwritten Text Recognition llm eval tool",
-    "id": "lehigh-university-libraries/htr",
-    "language": "Go",
-    "name": "lehigh-university-libraries/htr",
-    "stars": 2,
-    "updated_at": "2026-10-14T15:27:51Z",
-    "url": "https://github.com/lehigh-university-libraries/htr"
   }
 ]
