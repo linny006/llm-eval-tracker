@@ -1,5 +1,14 @@
 [
   {
+    "description": "Zero-shot Mandarin initial/final/tone recognition & text-audio consistency benchmark for Qwen3.8-Omni (prosodic-abx mand",
+    "id": "mutsunn1/qwen3.8-omni-pinyin-eval",
+    "language": "Python",
+    "name": "mutsunn1/qwen3.8-omni-pinyin-eval",
+    "stars": 0,
+    "updated_at": "2026-10-28T10:09:25Z",
+    "url": "https://github.com/mutsunn1/qwen3.8-omni-pinyin-eval"
+  },
+  {
     "description": "\u4f60\u7684 Skill \u5230\u5e95\u6709\u6ca1\u6709\u7528\uff1f\u8dd1\u4e00\u6b21\u5c31\u77e5\u9053\u2014\u2014\u7528\u771f\u5b9e\u4efb\u52a1\u505a\u5bf9\u7167\u6d4b\u8bd5\uff0c\u770b\u5b83\u5728\u6bcf\u4e2a\u6a21\u578b\u4e0a\u662f\u5e2e\u5fd9\u8fd8\u662f\u62d6\u540e\u817f\u3002 | Measure whether a skill actually helps, per model, via paired wit",
     "id": "dylanma8232-art/daming-skillgain",
     "language": "Python",
@@ -22,7 +31,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26537,
+    "stars": 26538,
     "updated_at": "2026-10-28T08:26:35Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T07:03:30Z",
     "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
-    "id": "bhavya7995/AI_governance",
-    "language": "PowerShell",
-    "name": "bhavya7995/AI_governance",
-    "stars": 1,
-    "updated_at": "2026-10-14T07:02:55Z",
-    "url": "https://github.com/bhavya7995/AI_governance"
   }
 ]
