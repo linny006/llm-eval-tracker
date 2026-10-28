@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "open-compass/opencompass",
     "stars": 7553,
-    "updated_at": "2026-10-28T08:47:03Z",
+    "updated_at": "2026-10-28T09:04:27Z",
     "url": "https://github.com/open-compass/opencompass"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26533,
+    "updated_at": "2026-10-28T08:26:35Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -52,15 +61,6 @@
     "stars": 12040,
     "updated_at": "2026-10-28T05:19:10Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26533,
-    "updated_at": "2026-10-28T08:26:35Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
@@ -266,7 +266,7 @@
     "language": "Python",
     "name": "dylanma8232-art/daming-skillgain",
     "stars": 0,
-    "updated_at": "2026-10-21T15:30:11Z",
+    "updated_at": "2026-10-28T09:15:09Z",
     "url": "https://github.com/dylanma8232-art/daming-skillgain"
   },
   {
