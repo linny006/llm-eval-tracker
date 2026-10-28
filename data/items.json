@@ -1,10 +1,19 @@
 [
   {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-28T06:34:45Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 12038,
+    "stars": 12039,
     "updated_at": "2026-10-28T05:19:10Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -13,7 +22,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26524,
+    "stars": 26527,
     "updated_at": "2026-10-28T05:10:01Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -25,15 +34,6 @@
     "stars": 5931,
     "updated_at": "2026-10-28T04:41:09Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-28T03:51:37Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
@@ -68,7 +68,7 @@
     "language": "JavaScript",
     "name": "AndyZhang666666/AndyZhang666666.github.io",
     "stars": 0,
-    "updated_at": "2026-10-27T10:25:39Z",
+    "updated_at": "2026-10-28T06:44:58Z",
     "url": "https://github.com/AndyZhang666666/AndyZhang666666.github.io"
   },
   {
