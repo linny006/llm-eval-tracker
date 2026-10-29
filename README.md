@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-29 11:00 UTC
+> ⏰ Last updated: 2026-10-29 11:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26581 | TypeScript | 2026-10-29 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 2 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5934 | Python | 2026-10-29 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 12055 | Python | 2026-10-29 | AI Observability & Evaluation |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 12055 | Python | 2026-10-29 | AI Observability & Evaluation |
+| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26581 | TypeScript | 2026-10-29 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 3 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5934 | Python | 2026-10-29 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 4 | [AndyZhang666666/AndyZhang666666.github.io](https://github.com/AndyZhang666666/AndyZhang666666.github.io) | 0 | JavaScript | 2026-10-29 | Personal site with two interactive LLM eval harness demos |
 | 5 | [mutsunn1/qwen3.8-omni-pinyin-eval](https://github.com/mutsunn1/qwen3.8-omni-pinyin-eval) | 0 | Python | 2026-10-29 | Zero-shot Mandarin initial/final/tone recognition & text-audio consistency benchmark for Qwen3.8-Omni (prosodic-abx mand |
 | 6 | [fangyunok/code-review-eval-harness](https://github.com/fangyunok/code-review-eval-harness) | 0 | Python | 2026-10-29 | 代码评审 Agent 双层评测框架：评测集管线 + Harness/Model 双层对齐打分 + 异步并发 + 可复现 run + 质量门禁，20 个测试通过 \| Industrial-grade eval harness for AI c |
@@ -60,7 +60,7 @@ expired items removed — so you can rely on what you see being current.
 | 16 | [AndyZhang666666/filing-eval](https://github.com/AndyZhang666666/filing-eval) | 0 | JavaScript | 2026-10-27 | 公告摘要的断言级事实核查裁判：幻觉检出 / 误报 / 关键信息覆盖三轴度量 |
 | 17 | [AndyZhang666666/llm-output-eval](https://github.com/AndyZhang666666/llm-output-eval) | 0 | TypeScript | 2026-10-27 | 长文本 LLM 输出评测工具（第二版）：两版 prompt 连跑对比 + Bad Case 导出 + 逐字证据抽取，附 30 条金标集裁判校验 |
 | 18 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 3 | TypeScript | 2026-10-27 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
-| 19 | [IcodeNet/eval-dashboards](https://github.com/IcodeNet/eval-dashboards) | 1 | TypeScript | 2026-10-28 | Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style — bring y |
+| 19 | [IcodeNet/eval-dashboards](https://github.com/IcodeNet/eval-dashboards) | 1 | TypeScript | 2026-10-29 | Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style — bring y |
 | 20 | [jin2004-cmd/codex-practical-skills](https://github.com/jin2004-cmd/codex-practical-skills) | 1 | Python | 2026-10-26 | AI 实用 Skill 库 · 16 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, p |
 | 21 | [izam-mohammed/ragrank](https://github.com/izam-mohammed/ragrank) | 47 | Python | 2026-10-26 | 🎯 Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an |
 | 22 | [TQSY114514/Aether](https://github.com/TQSY114514/Aether) | 5 | JavaScript | 2026-10-26 | Evidence-driven AI development workbench for model evaluation, project context, and controlled agent execution. |
