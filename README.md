@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-29 00:15 UTC
+> ⏰ Last updated: 2026-10-29 00:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26562 | TypeScript | 2026-10-29 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 2 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 371 | TypeScript | 2026-10-28 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 12048 | Python | 2026-10-28 | AI Observability & Evaluation |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26563 | TypeScript | 2026-10-29 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 2 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 371 | TypeScript | 2026-10-29 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 12048 | Python | 2026-10-29 | AI Observability & Evaluation |
 | 4 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-10-28 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
 | 5 | [IonDen/mlx-quant-fidelity](https://github.com/IonDen/mlx-quant-fidelity) | 4 | Python | 2026-10-28 | Measure quantization quality loss on Apple Silicon MLX — KL divergence, top-token flip rate and perplexity delta for KV- |
 | 6 | [lehigh-university-libraries/htr](https://github.com/lehigh-university-libraries/htr) | 2 | Go | 2026-10-28 | Handwritten Text Recognition llm eval tool |
