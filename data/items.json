@@ -1,5 +1,23 @@
 [
   {
+    "description": "Zero-shot Mandarin initial/final/tone recognition & text-audio consistency benchmark for Qwen3.8-Omni (prosodic-abx mand",
+    "id": "mutsunn1/qwen3.8-omni-pinyin-eval",
+    "language": "Python",
+    "name": "mutsunn1/qwen3.8-omni-pinyin-eval",
+    "stars": 0,
+    "updated_at": "2026-10-29T14:57:15Z",
+    "url": "https://github.com/mutsunn1/qwen3.8-omni-pinyin-eval"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 12057,
+    "updated_at": "2026-10-29T14:58:39Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "AI product portfolio: Agent execution, trustworthy RAG, Eval Lab, TasteRoom and growth tools. Live demos, product decisi",
     "id": "AndyZhang666666/AndyZhang666666.github.io",
     "language": "JavaScript",
@@ -36,15 +54,6 @@
     "url": "https://github.com/AndyZhang666666/creative-eval"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 12057,
-    "updated_at": "2026-10-29T14:12:18Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "\u4ee3\u7801\u8bc4\u5ba1 Agent \u53cc\u5c42\u8bc4\u6d4b\u6846\u67b6\uff1a\u8bc4\u6d4b\u96c6\u7ba1\u7ebf + Harness/Model \u53cc\u5c42\u5bf9\u9f50\u6253\u5206 + \u5f02\u6b65\u5e76\u53d1 + \u53ef\u590d\u73b0 run + \u8d28\u91cf\u95e8\u7981 + \u5f52\u56e0\u770b\u677f\uff0c51 \u4e2a\u6d4b\u8bd5\u901a\u8fc7\u3001ruff/mypy \u6e05\u96f6\u3001CI \u4e09\u7248\u672c\u77e9\u9635\u5168\u7eff | Industr",
     "id": "fangyunok/code-review-eval-harness",
     "language": "Python",
@@ -67,7 +76,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26589,
+    "stars": 26590,
     "updated_at": "2026-10-29T12:50:16Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -79,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-10-29T12:18:59Z",
     "url": "https://github.com/lehigh-university-libraries/htr"
-  },
-  {
-    "description": "Zero-shot Mandarin initial/final/tone recognition & text-audio consistency benchmark for Qwen3.8-Omni (prosodic-abx mand",
-    "id": "mutsunn1/qwen3.8-omni-pinyin-eval",
-    "language": "Python",
-    "name": "mutsunn1/qwen3.8-omni-pinyin-eval",
-    "stars": 0,
-    "updated_at": "2026-10-29T11:54:40Z",
-    "url": "https://github.com/mutsunn1/qwen3.8-omni-pinyin-eval"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
