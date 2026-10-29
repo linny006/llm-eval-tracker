@@ -1,11 +1,20 @@
 [
   {
+    "description": "Zero-shot Mandarin initial/final/tone recognition & text-audio consistency benchmark for Qwen3.8-Omni (prosodic-abx mand",
+    "id": "mutsunn1/qwen3.8-omni-pinyin-eval",
+    "language": "Python",
+    "name": "mutsunn1/qwen3.8-omni-pinyin-eval",
+    "stars": 0,
+    "updated_at": "2026-10-29T04:40:22Z",
+    "url": "https://github.com/mutsunn1/qwen3.8-omni-pinyin-eval"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 12049,
-    "updated_at": "2026-10-29T04:11:43Z",
+    "updated_at": "2026-10-29T04:44:08Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -106,15 +115,6 @@
     "stars": 3618,
     "updated_at": "2026-10-28T13:27:13Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Zero-shot Mandarin initial/final/tone recognition & text-audio consistency benchmark for Qwen3.8-Omni (prosodic-abx mand",
-    "id": "mutsunn1/qwen3.8-omni-pinyin-eval",
-    "language": "Python",
-    "name": "mutsunn1/qwen3.8-omni-pinyin-eval",
-    "stars": 0,
-    "updated_at": "2026-10-28T12:17:27Z",
-    "url": "https://github.com/mutsunn1/qwen3.8-omni-pinyin-eval"
   },
   {
     "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
