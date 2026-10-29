@@ -1,5 +1,14 @@
 [
   {
+    "description": "",
+    "id": "themsquared/agent-verify-gate",
+    "language": "\u2014",
+    "name": "themsquared/agent-verify-gate",
+    "stars": 0,
+    "updated_at": "2026-10-29T13:28:19Z",
+    "url": "https://github.com/themsquared/agent-verify-gate"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-16T17:12:50Z",
     "url": "https://github.com/AkashB98/agent-eval-dashboard"
-  },
-  {
-    "description": "A deterministic evaluation harness stress-testing RAG pipelines against controlled distractors, contradictions, and posi",
-    "id": "ManavPratapSingh/RAG-Stress",
-    "language": "Python",
-    "name": "ManavPratapSingh/RAG-Stress",
-    "stars": 0,
-    "updated_at": "2026-10-15T18:11:21Z",
-    "url": "https://github.com/ManavPratapSingh/RAG-Stress"
   }
 ]
