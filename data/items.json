@@ -1,11 +1,20 @@
 [
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5934,
+    "updated_at": "2026-10-29T06:16:44Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
     "description": "Personal site with two interactive LLM eval harness demos",
     "id": "AndyZhang666666/AndyZhang666666.github.io",
     "language": "JavaScript",
     "name": "AndyZhang666666/AndyZhang666666.github.io",
     "stars": 0,
-    "updated_at": "2026-10-29T06:12:14Z",
+    "updated_at": "2026-10-29T06:20:46Z",
     "url": "https://github.com/AndyZhang666666/AndyZhang666666.github.io"
   },
   {
@@ -22,7 +31,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 12052,
+    "stars": 12051,
     "updated_at": "2026-10-29T05:29:20Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -52,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T05:39:54Z",
     "url": "https://github.com/dylanma8232-art/daming-skillgain"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5934,
-    "updated_at": "2026-10-29T06:13:53Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
