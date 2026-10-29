@@ -1,5 +1,23 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 371,
+    "updated_at": "2026-10-29T00:41:05Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
+    "description": "Personal site with two interactive LLM eval harness demos",
+    "id": "AndyZhang666666/AndyZhang666666.github.io",
+    "language": "JavaScript",
+    "name": "AndyZhang666666/AndyZhang666666.github.io",
+    "stars": 0,
+    "updated_at": "2026-10-29T00:37:27Z",
+    "url": "https://github.com/AndyZhang666666/AndyZhang666666.github.io"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -7,15 +25,6 @@
     "stars": 26563,
     "updated_at": "2026-10-29T00:17:15Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 371,
-    "updated_at": "2026-10-29T00:22:06Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -124,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-10-28T08:12:00Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "Personal site with two interactive LLM eval harness demos",
-    "id": "AndyZhang666666/AndyZhang666666.github.io",
-    "language": "JavaScript",
-    "name": "AndyZhang666666/AndyZhang666666.github.io",
-    "stars": 0,
-    "updated_at": "2026-10-28T07:38:29Z",
-    "url": "https://github.com/AndyZhang666666/AndyZhang666666.github.io"
   },
   {
     "description": "\u516c\u544a\u6458\u8981\u7684\u65ad\u8a00\u7ea7\u4e8b\u5b9e\u6838\u67e5\u88c1\u5224\uff1a\u5e7b\u89c9\u68c0\u51fa / \u8bef\u62a5 / \u5173\u952e\u4fe1\u606f\u8986\u76d6\u4e09\u8f74\u5ea6\u91cf",
