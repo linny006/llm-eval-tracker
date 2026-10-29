@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-29 19:30 UTC
+> ⏰ Last updated: 2026-10-29 19:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,7 +42,7 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 12061 | Python | 2026-10-29 | AI Observability & Evaluation |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 12062 | Python | 2026-10-29 | AI Observability & Evaluation |
 | 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26598 | TypeScript | 2026-10-29 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 3 | [truera/trulens](https://github.com/truera/trulens) | 3619 | Python | 2026-10-29 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 4 | [mutsunn1/qwen3.8-omni-pinyin-eval](https://github.com/mutsunn1/qwen3.8-omni-pinyin-eval) | 0 | Python | 2026-10-29 | Zero-shot Mandarin initial/final/tone recognition & text-audio consistency benchmark for Qwen3.8-Omni (prosodic-abx mand |
