@@ -1,15 +1,15 @@
 [
   {
-    "description": "Personal site with two interactive LLM eval harness demos",
+    "description": "AI product portfolio: Agent execution, trustworthy RAG, Eval Lab, TasteRoom and growth tools. Live demos, product decisi",
     "id": "AndyZhang666666/AndyZhang666666.github.io",
     "language": "JavaScript",
     "name": "AndyZhang666666/AndyZhang666666.github.io",
     "stars": 0,
-    "updated_at": "2026-10-29T14:16:26Z",
+    "updated_at": "2026-10-29T14:44:02Z",
     "url": "https://github.com/AndyZhang666666/AndyZhang666666.github.io"
   },
   {
-    "description": "\u957f\u6587\u672c LLM \u8f93\u51fa\u8bc4\u6d4b\u5de5\u5177\uff08\u7b2c\u4e8c\u7248\uff09\uff1a\u4e24\u7248 prompt \u8fde\u8dd1\u5bf9\u6bd4 + Bad Case \u5bfc\u51fa + \u9010\u5b57\u8bc1\u636e\u62bd\u53d6\uff0c\u9644 30 \u6761\u91d1\u6807\u96c6\u88c1\u5224\u6821\u9a8c",
+    "description": "Eval Lab: evidence-linked LLM output review, prompt comparison and human assessment. No-key historical replay; optional ",
     "id": "AndyZhang666666/llm-output-eval",
     "language": "TypeScript",
     "name": "AndyZhang666666/llm-output-eval",
@@ -18,7 +18,7 @@
     "url": "https://github.com/AndyZhang666666/llm-output-eval"
   },
   {
-    "description": "\u516c\u544a\u6458\u8981\u7684\u65ad\u8a00\u7ea7\u4e8b\u5b9e\u6838\u67e5\u88c1\u5224\uff1a\u5e7b\u89c9\u68c0\u51fa / \u8bef\u62a5 / \u5173\u952e\u4fe1\u606f\u8986\u76d6\u4e09\u8f74\u5ea6\u91cf",
+    "description": "Filing Eval: inspect factual claims and important omissions against the source. Historical synthetic cases, independent ",
     "id": "AndyZhang666666/filing-eval",
     "language": "JavaScript",
     "name": "AndyZhang666666/filing-eval",
@@ -27,7 +27,7 @@
     "url": "https://github.com/AndyZhang666666/filing-eval"
   },
   {
-    "description": "\u77ed\u5267\u5267\u672c\u521d\u7a3f\u7684 LLM \u8bc4\u5206\u88c1\u5224\uff1a5 \u7ef4\u5ea6 rubric + 40 \u6761\u91d1\u6807\u96c6 + \u88c1\u5224\u53ef\u9760\u6027\u6821\u9a8c",
+    "description": "Eval V1: rubric calibration, repeatability and author-label comparisons. Historical first iteration; current review tool",
     "id": "AndyZhang666666/creative-eval",
     "language": "JavaScript",
     "name": "AndyZhang666666/creative-eval",
@@ -67,7 +67,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26587,
+    "stars": 26589,
     "updated_at": "2026-10-29T12:50:16Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
