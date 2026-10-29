@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 12050,
+    "updated_at": "2026-10-29T04:59:30Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Zero-shot Mandarin initial/final/tone recognition & text-audio consistency benchmark for Qwen3.8-Omni (prosodic-abx mand",
     "id": "mutsunn1/qwen3.8-omni-pinyin-eval",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T04:40:22Z",
     "url": "https://github.com/mutsunn1/qwen3.8-omni-pinyin-eval"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 12049,
-    "updated_at": "2026-10-29T04:44:08Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\u4ee3\u7801\u8bc4\u5ba1 Agent \u53cc\u5c42\u8bc4\u6d4b\u6846\u67b6\uff1a\u8bc4\u6d4b\u96c6\u7ba1\u7ebf + Harness/Model \u53cc\u5c42\u5bf9\u9f50\u6253\u5206 + \u5f02\u6b65\u5e76\u53d1 + \u53ef\u590d\u73b0 run + \u8d28\u91cf\u95e8\u7981\uff0c20 \u4e2a\u6d4b\u8bd5\u901a\u8fc7 | Industrial-grade eval harness for AI c",
