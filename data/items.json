@@ -4,9 +4,18 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26583,
-    "updated_at": "2026-10-29T12:43:43Z",
+    "stars": 26584,
+    "updated_at": "2026-10-29T12:50:16Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 12056,
+    "updated_at": "2026-10-29T12:58:36Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Handwritten Text Recognition llm eval tool",
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T11:54:40Z",
     "url": "https://github.com/mutsunn1/qwen3.8-omni-pinyin-eval"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 12055,
-    "updated_at": "2026-10-29T12:37:05Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
