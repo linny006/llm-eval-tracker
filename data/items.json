@@ -1,5 +1,14 @@
 [
   {
+    "description": "Personal site with two interactive LLM eval harness demos",
+    "id": "AndyZhang666666/AndyZhang666666.github.io",
+    "language": "JavaScript",
+    "name": "AndyZhang666666/AndyZhang666666.github.io",
+    "stars": 0,
+    "updated_at": "2026-10-29T14:16:26Z",
+    "url": "https://github.com/AndyZhang666666/AndyZhang666666.github.io"
+  },
+  {
     "description": "\u957f\u6587\u672c LLM \u8f93\u51fa\u8bc4\u6d4b\u5de5\u5177\uff08\u7b2c\u4e8c\u7248\uff09\uff1a\u4e24\u7248 prompt \u8fde\u8dd1\u5bf9\u6bd4 + Bad Case \u5bfc\u51fa + \u9010\u5b57\u8bc1\u636e\u62bd\u53d6\uff0c\u9644 30 \u6761\u91d1\u6807\u96c6\u88c1\u5224\u6821\u9a8c",
     "id": "AndyZhang666666/llm-output-eval",
     "language": "TypeScript",
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T14:13:55Z",
     "url": "https://github.com/AndyZhang666666/creative-eval"
-  },
-  {
-    "description": "Personal site with two interactive LLM eval harness demos",
-    "id": "AndyZhang666666/AndyZhang666666.github.io",
-    "language": "JavaScript",
-    "name": "AndyZhang666666/AndyZhang666666.github.io",
-    "stars": 0,
-    "updated_at": "2026-10-29T14:13:45Z",
-    "url": "https://github.com/AndyZhang666666/AndyZhang666666.github.io"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -67,7 +67,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26586,
+    "stars": 26587,
     "updated_at": "2026-10-29T12:50:16Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
