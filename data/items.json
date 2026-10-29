@@ -4,9 +4,18 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 12059,
-    "updated_at": "2026-10-29T17:58:43Z",
+    "stars": 12060,
+    "updated_at": "2026-10-29T18:12:25Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3619,
+    "updated_at": "2026-10-29T17:00:47Z",
+    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Zero-shot Mandarin initial/final/tone recognition & text-audio consistency benchmark for Qwen3.8-Omni (prosodic-abx mand",
@@ -142,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-10-28T13:28:02Z",
     "url": "https://github.com/SFX-TECH/sfx-lead-intelligence"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3618,
-    "updated_at": "2026-10-29T17:00:47Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
