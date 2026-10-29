@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26583,
+    "updated_at": "2026-10-29T12:43:43Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Handwritten Text Recognition llm eval tool",
     "id": "lehigh-university-libraries/htr",
     "language": "Go",
@@ -7,15 +16,6 @@
     "stars": 2,
     "updated_at": "2026-10-29T12:18:59Z",
     "url": "https://github.com/lehigh-university-libraries/htr"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26583,
-    "updated_at": "2026-10-29T12:06:54Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Zero-shot Mandarin initial/final/tone recognition & text-audio consistency benchmark for Qwen3.8-Omni (prosodic-abx mand",
@@ -32,7 +32,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 12055,
-    "updated_at": "2026-10-29T11:59:57Z",
+    "updated_at": "2026-10-29T12:37:05Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
